@@ -1,0 +1,1154 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b63eb527-6bed-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Computing Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c57e4e3d-7c2c-e811-8101-000d3af41938",
+		"OrganizationName": "Admiral Makarov National University of Shipbuilding (Mykolaiv, Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3fb0ee10-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Akademiya advokaturi Ukraini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "cc8fff02-7448-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "American University of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5943a800-c338-e811-8103-000d3af41938",
+		"OrganizationName": "Borys Grinchenko Kyiv University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "0c948059-26d2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Brovarskaya Gymnasia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5b178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Cherkasy State Technological University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3cd757c4-4dbb-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Chernihiv State Technological",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5f178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chernivtsi State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "62178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chernovitsky National Universi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "bb006b98-f8c8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "College of Network and Informatizat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d410d0a3-8cde-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Computer Academy STEP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "65178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Computing Academy ''STEP''",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "68178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Crimean Engineering Pedagogical Universi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "6b178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dnepropetrovsk National Univer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5cd5ff97-6cbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dnepropetrovsk National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "6e178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dnepropetrovsk State Finance Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "71178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dnipropetrovs'k Lyceum of Info",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "4b796892-ff9e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Donbas National Academy of Civil Engineering and Architecture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "97e07448-a2cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Donetsk National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3d4dbedb-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Donetsk National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "77178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Drohobych State Ivan Franko Pedagogical",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7a178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "East Ukrainian National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7d178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "East-Ukrainian National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d82573aa-9a29-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Fabrika",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "476b455d-9fcf-e711-80f9-000d3af41938",
+		"OrganizationName": "Faculty of Radio Systems for Aircraft, National Aerospace University \"KhAI\" - Department of Computer Systems and Networks",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "9bc6e5ca-e54d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "G.V. Kurdyumov Institute for Metal Physics, N.A.S. of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "80178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gorlovskiy Regional Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "83178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hmelnyckyy Nacionalnyy Universytet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "cf80e232-e855-e711-80f0-000d3af41938",
+		"OrganizationName": "International Humanitarian University (Odesa, Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "86178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "International Solomon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "256b5095-a3a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Interregional Academy of Personnel Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "230fcf62-7cee-df11-9c87-0030487d8897",
+		"OrganizationName": "Ivan Franko National University of L'viv (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c6f42ddb-39c9-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Ivano-Frankivsk National Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "89178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kamyanets-Podilski National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "8f178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkiv Aviation Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3d86e94f-4916-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Kharkiv Computer and Technology College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "92178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkiv National Automobile Highway University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "95178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkiv National University of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "9b178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkiv University of Civil Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "9e178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkov National University of Radioelectricity",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a1178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kharkov National University of Radioelectronics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "1f56c099-5ac1-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Kharkov Polytechnic Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "fd400f41-2978-e011-969d-0030487d8897",
+		"OrganizationName": "Kharkov State Academy of Culture - Faculty of Documentation and Information - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b1178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kherson National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a8178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kherson Polytechnical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "df387fa7-b906-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Khmelniskiy National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "bf178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Khmelnitsky National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c82346e6-8a55-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Khmelnytskyi National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "cd178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kiev National University of Technology Design",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d9178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kirovohrad Volodymyr Vynnychenko State Pedagogical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "e5178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kozhedub Air Force University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "fd178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Krasny Luch Technical School of Instrument Making",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "09188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kriviy Rih State Pedagogical U",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "10188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kryvoy Rog Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "13188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kyiv Mohilanska Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "501ed306-d8c3-e711-80f9-000d3af41938",
+		"OrganizationName": "Kyiv National Economic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "e9d2f1db-465e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Kyiv National Economics University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "35fea66f-25b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Kyiv National University of Construction and Architecture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "682c4099-f732-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Kyiv School of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "1c188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Luhansk Taras Shevchenko National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "45b0ee10-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lutsk Institution of Human Development VMURoL \"Ukraine\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "1f188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lutsk National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "22188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lviv National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c256ed1a-c179-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lviv Polytechnic National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "26188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lviv State Academy of Finance",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "74569bfd-0123-e811-8101-000d3af41938",
+		"OrganizationName": "Lviv State University of Physical Culture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "4cb0ee10-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mala gumanitarna akademiya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5bcf166d-449e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Melitopol State Pedagogical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "29188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Moscow State University (Sevastopol)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "572808f5-319b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mukachevo State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "2fae2b9c-e084-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "National Agricultural University of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3b42b9f6-1f26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "National Aviation University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "4d448075-282d-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "National Dnepropetrovsk Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "31188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Metallurgical Academy of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "34188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Mining University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "39188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Mining University of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "f1e963ce-a5df-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "National Pedagogical University Of MP Dragomanova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "83860116-b392-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "National Pirogov Memorial Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3c188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Polytechnical University of Kiev",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "3f188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Taras Shevchenko University of Kyiv",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "54677141-b711-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "National Technical University of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "19188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "f1178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Technical University of Ukraine Kiev Polytechnic Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "42188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Technical University of Ukraine Kiev Polytechnic Institute (KPI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "548d0ba8-9da4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "National Technical University, Kharkiv Polytechnic Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7877e043-2f0a-ea11-8124-000d3af41938",
+		"OrganizationName": "National University Odessa Maritime Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b330acaf-842f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "National University of Food Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a6d20ba0-268a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "National University of Life and Environmental Sciences of Ukraine (Національний університет біоресурсів і природокористування України)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "45188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National university of shipbuilding to t",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "2288657e-2d6c-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "O.M Beketov National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "5f474508-86c9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Odessa College of Computer Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "48188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Odessa Corporative Computer College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "91481ebb-138f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Odessa I.I. Mechnikov National",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "708e2df4-1150-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Odessa National Academy of Food Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "38b0ee10-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Odessa national academy of law",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "4d188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Odessa Polytechnic National State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "51188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Odessa State Academy of Refrigeration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "74178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Oles Honchar Dnipropetrovsk National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "40b287e1-9286-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Petro Mohyla Black Sea State University (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "54188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Priazovskiy State Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "92188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Rocket Space Machine Building College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "95188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sevastopol National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d0e7524d-f364-e211-a88c-f04da23e67f4",
+		"OrganizationName": "SoftServe University - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "98188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Southukrainian pedagog univers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "9b188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Specialized School 304",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "9e188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "State University of Information-Communication Technologies Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "18d6ecff-3d3b-e711-80ef-000d3af41938",
+		"OrganizationName": "State University of Telecommunications",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7b334640-ef1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sumy State University (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "16188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Taras Shevchenko Kyiv National University (Київський національний університет ім. Тараса Шевченка)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a1188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Taras Shevchenko National University of Kyiv",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7a14416f-05b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Taurida National V.I. Vernadsky University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "fbf96c03-6650-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Taurida National V.I.Vernadsky University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a4188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tavricheskiy National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "1ff9109f-ccd9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Technical College of Vinnytsia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "63b9620a-1b78-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Technical Lyceum NTUU Kiev State Polytechnic (NTUU KPI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7fa88f8d-8259-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Ternopil Ivan Pul’uj National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "6962e05f-51ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Ternopil National Economic University (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "a7188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The National Academy of Sciences of Ukraine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "aa188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The National Taras Shevchenko University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "ad188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Transcarpathian State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "f8fa430f-4cb7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Ukrainian Academy of Banking of the National Bank of Ukraine (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b0188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ukrainian Academy of Printing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d0202dd5-8d60-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Ukrainian Catholic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b3188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ukrainian Engineering Pedagogi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b6188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Kharkiv",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "0c223da7-e78f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Uzhhorod National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "57d60dd1-84fd-e811-810d-000d3af41938",
+		"OrganizationName": "Vasyl Stefanyk Precarpathian National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "b9188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Vinnitsa State Pedagogical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "bc188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Vinnitsia National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "7d08e0be-e6a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Vinnytsia National Agrarian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "50d8e7e2-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Vinnytsia National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "bbed8d37-d170-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vinnytsya State Pedagogical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "cf7c9dd5-ff24-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Volyn National University (Ukraine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "947b3069-5a6b-e911-8115-000d3af41938",
+		"OrganizationName": "Zaporizhia Grammar School 28 (Запорізька гімназія 28)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "bf188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zaporizhzhya Hydro-power Techn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "8dc0c56c-72be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zaporizhzhya Institute of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "8c3606a7-e384-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Zaporizhzhya National Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c3188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zaporizhzhya State Engineering Academy (Запорізька державна інженерна академія)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c6188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zhitomir State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "c9188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zhukovsky National Aerospace University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "23248e63-bba3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zhytomyr State Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "cc188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Компьютерная академия «ШАГ»",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UKR",
+		"InstitutionID": "d99c8726-267c-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Спеціолізована Школа №112",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

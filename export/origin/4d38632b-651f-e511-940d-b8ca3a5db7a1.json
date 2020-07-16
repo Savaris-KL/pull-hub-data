@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "4d38632b-651f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Calhoun Community College - CIS",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5a38632b-651f-e511-940d-b8ca3a5db7a1",
+		"WebStoreName": "Calhoun Community College - CIS",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5a38632b-651f-e511-940d-b8ca3a5db7a1"
+	}
+]

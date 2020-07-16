@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "615e6292-6b40-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Guildford Grammar School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "43447ebc-6b40-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Guildford Grammar School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=43447ebc-6b40-e511-940f-b8ca3a5db7a1"
+	}
+]

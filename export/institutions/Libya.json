@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LBY",
+		"InstitutionID": "88a7aeaf-aea0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Libyan International Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LBY",
+		"InstitutionID": "9b4413b2-a126-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Misurata University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LBY",
+		"InstitutionID": "cc17c999-c587-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Sirte University (Lybya)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LBY",
+		"InstitutionID": "b59c0b65-63d6-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "University of Tripoli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

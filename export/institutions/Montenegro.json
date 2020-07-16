@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNE",
+		"InstitutionID": "38903fca-d0f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University Mediterranean in Montenegro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNE",
+		"InstitutionID": "f5ca5231-0534-e711-80ef-000d3af41938",
+		"OrganizationName": "University of Montenegro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

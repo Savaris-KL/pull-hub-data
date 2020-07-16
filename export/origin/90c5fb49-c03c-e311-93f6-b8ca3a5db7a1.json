@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "7e298b2e-309e-de11-886d-0030487d8897",
+		"OrganizationName": "Box Hill Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8a298b2e-309e-de11-886d-0030487d8897",
+		"WebStoreName": "Box Hill Institute - Faculty of Business, IT & Applied Arts - VMware Academic Program",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8a298b2e-309e-de11-886d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "dd11c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Box Hill Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "1a534304-ab8b-e011-969d-0030487d8897",
+		"WebStoreName": "Box Hill Institute - Faculty of Business, IT & Applied Arts.",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=1a534304-ab8b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "90c5fb49-c03c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Box Hill Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "91ad355c-c03c-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "Box Hill Institute of TAFE",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=91ad355c-c03c-e311-93f6-b8ca3a5db7a1"
+	}
+]

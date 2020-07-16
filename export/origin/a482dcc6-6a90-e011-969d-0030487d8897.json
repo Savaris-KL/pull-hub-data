@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "a482dcc6-6a90-e011-969d-0030487d8897",
+		"OrganizationName": "Government of South Australia",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://decs.sa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "e91c1b32-6b90-e011-969d-0030487d8897",
+		"WebStoreName": "Government of South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e91c1b32-6b90-e011-969d-0030487d8897"
+	}
+]

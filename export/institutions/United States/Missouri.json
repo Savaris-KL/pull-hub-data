@@ -1,0 +1,2266 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "620c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "A Gathering Place Wellness Education Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23bd6314-4dba-4ed3-b5a5-c00f63ab9cbd",
+		"OrganizationName": "Affton School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ee1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Allied College - Maryland Heights",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fadb8bd3-c384-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "American Business & Technology University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American College of Technology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa7fc046-0852-e811-8105-000d3af41938",
+		"OrganizationName": "American Trade School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aquinas Institute of Theology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Assemblies of God Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "AT Still University of Health Sciences",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Avila College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baptist Bible College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Barat Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e138b387-3541-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Barnes Jewish College - Goldfarb School of Nursing",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f15207b-11bc-445b-a699-ad702939879d",
+		"OrganizationName": "Belton School District #124",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Blue Springs School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e78fe91-89e1-e111-9231-f04da23fc522",
+		"OrganizationName": "Boonville R1 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Calvary Bible College and Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Cape Girardeau Career Technology Center (Missouri)",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80d50ead-74b6-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Center School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Bible College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Christian College of the Bible",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Methodist College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3692739-2d19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Central Methodist University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Missouri State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central R-III School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6988286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Chaminade College Preparatory School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4947345c-eecb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Children's Mercy Hospitals & Clinics - Graduate Medical Education",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "989902c0-0e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Christian Brothers College High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c11dacda-34c1-47ce-a0b8-d0003419a9a3",
+		"OrganizationName": "City of St. Charles School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "556e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "COLE R-1 Russelleville School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of the Ozarks",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "062abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Columbia Area Career Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1fd4a22-07e9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Columbia Area Career Center - Columbia - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbia College of Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a9f1922-729d-e711-80f6-000d3af41938",
+		"OrganizationName": "Columbia Independent School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ComputerTraining.com St. Louis MO",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "422abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Conception Seminary College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "653c4750-5c4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Concordia Seminary St. Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a84e354-efcb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Confluence Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb4720eb-3018-e011-b71d-0030487d8897",
+		"OrganizationName": "Cooperating School Districts of Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cor Jesu Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cottey College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "842abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Covenant Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "902abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cox College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ee8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Crawford County R-1 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48a89cd4-efcb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Crossroads School Inc",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Culver-Stockton College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "157ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "De Smet Jesuit",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DO NOT USE MSU",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Drury University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "East Central College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81b0774e-b96f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "East Central College - Union - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba9efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eden Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d49efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eldon Career Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Evangel University - Computer Science - Departmental Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ab83e2c-e8b9-491a-8857-41cbab41012f",
+		"OrganizationName": "Everest College - MO",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Everest College Springfield",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d53ca89-4482-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Everton R-3 Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d28050a5-7b4d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Faith Christian Academy - Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95960b37-1c30-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Farmington R7 School District - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fontbonne College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Forest Institute of Professional Pshychology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4068b5bd-83ba-de11-886d-0030487d8897",
+		"OrganizationName": "Fort Osage R-1 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a531edb-9a3f-4303-bfb8-cbd918c0e875",
+		"OrganizationName": "Fort Zumwalt School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ae88606-7053-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fort Zumwalt School District - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Four Rivers Career Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "941ebfb0-e153-e011-bd14-0030487d8897",
+		"OrganizationName": "Global University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Goldfarb School of Nursing at Barnes-Jewish College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Grand River Technical School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc4beffb-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Grand River Technical School - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Great Oaks ITCD",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Greenleaf University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hannibal-Lagrange College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58b61ec4-3d9e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hannibal-LaGrange University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cfe1e33-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Hannibal-LaGrange University - Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Harris-Stowe State College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Harris-Stowe State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b083ab5-5b8d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Harris-Stowe State University- Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca2c8905-3518-e011-b71d-0030487d8897",
+		"OrganizationName": "Hart Career Center (Mexico, MO) - High School AA",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dcb5cc9-3e01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hazelwood School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Healing Arts Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3aba8edd-33e9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Helias Catholic High School (Jefferson City, MO) - High School AA",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hickey College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba2ad04f-f3d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Hickman Mills C-1 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abc6b766-2f54-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hightower Highschool",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a67828c-2582-e011-969d-0030487d8897",
+		"OrganizationName": "Immanuel Lutheran School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ebdb667-3901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Independence Public Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c5bfd59-60b0-4b5d-bcd3-1a2390d668e3",
+		"OrganizationName": "Independence School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb5aba47-8cae-4d41-bed7-7536164765e0",
+		"OrganizationName": "Independent Schools of St. Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f445641-1608-de11-9c12-0030485a8df0",
+		"OrganizationName": "Jefferson City Public Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb0fae11-d194-df11-ad8b-0030487d8897",
+		"OrganizationName": "Jefferson College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jennings School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kansas City Missouri School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c4548be-bd55-e711-80f0-000d3af41938",
+		"OrganizationName": "Kansas School for the Deaf",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1af87774-ba23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Kennedy Home School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "355438c2-b2cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kennett School District #39",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kenrick-Glennon Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Knob Noster Public Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f54c0b04-d31e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lee’s Summit R-7 School Distric",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lewis  Clark Career Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lex La Ray Technical Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20557a3b-c158-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Lexington RV School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Liberty Public Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f47d1dda-804e-e011-bd14-0030487d8897",
+		"OrganizationName": "Lincoln University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "159727e1-f287-e011-969d-0030487d8897",
+		"OrganizationName": "Lincoln University of Pennsylvania - Computer Science - Departmental Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97979366-5745-de11-b696-0030485a8df0",
+		"OrganizationName": "Lindenwood University - Information Technology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lindenwood University - Saint Charles Campus",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e535f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Logan University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "359722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Longview Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "293f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Macomb Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0be9e16-c340-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Marion C. Early RV School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f54b855-eb07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Marshfield School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85fb2b95-8262-df11-b841-0030487d8897",
+		"OrganizationName": "Mary Institute Country Day",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "483b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maryville University of Saint Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maryville University of St. Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28240461-ad1a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Mehlville High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fdddab4-9270-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Mehlville School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b63b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Messenger College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Metro Business College of Cape Girardeau",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51b0bb80-4925-df11-856f-0030487d8897",
+		"OrganizationName": "Metropolitan Community College - Kansas City",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70b0184d-84d0-de11-baeb-0030487d8896",
+		"OrganizationName": "Metropolitan Community College - MO",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "141ed8e1-ffde-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Metropolitan Community College, MO",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "023378a9-a51f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mexico Public Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Midwestern Baptist Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b3c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mineral Area College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Missouri Baptist College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "354dadfa-1be2-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Missouri College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "050e8435-7389-e111-981b-f04da23e67f6",
+		"OrganizationName": "Missouri Military Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Missouri Southern State College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81aed9e5-f554-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Missouri Southern State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "833a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Missouri State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2df40512-fd22-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Missouri State University - Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Missouri State University-West Plains",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ff197a8-e2b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Missouri Tech",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "daeece23-e682-df11-bc53-0030487d8897",
+		"OrganizationName": "Missouri Tech Institutional",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Missouri University of Science and Technology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Missouri Valley College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Missouri Western State College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3773f246-a5a4-df11-ad57-0030487d8897",
+		"OrganizationName": "Missouri Western State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "MO Homeschoolers",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Moberly Area Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d81d3302-5267-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Nazarene Theological Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a1fe1f9-11c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Neosho R-5 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5209180-5555-49bf-ab76-bb86bd6a2c8f",
+		"OrganizationName": "No Name",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Normandy School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efc4bf62-b504-ea11-8124-000d3af41938",
+		"OrganizationName": "Normandy Schools Collaborative",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25d6fdeb-033b-e711-80ef-000d3af41938",
+		"OrganizationName": "North Central Missouri College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c68c3c9-5c89-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "North Technical High School - Florissant - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a009dcf-f406-e011-bed1-0030487d8897",
+		"OrganizationName": "North West Missouri State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49263249-d3d1-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Northland Career Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwest Missouri State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77eb4542-f54f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame de Sion School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "218b286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Notre Dame High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "966f3efb-19f5-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Oregon Howell R-III School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Orrick R-XI School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d238a5c-3bd8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Osage County R-II District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Our Lady of the Presentation Catholic Church",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ozark Christian College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ozarks Technical Community Colege",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b945cd97-c4cf-de11-baeb-0030487d8896",
+		"OrganizationName": "Ozarks Technical Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ozarks Technical Community College (Branson Center)",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "636e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pacific Southwest Lutheran",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Park College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0af0cf2-2b35-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Park Hill School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8deea435-7b5d-43b4-aa60-706c439afbcc",
+		"OrganizationName": "Park University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cda5d2ac-9f15-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Park University - Departmental Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed38e415-257e-401b-9d4e-7e63591ef859",
+		"OrganizationName": "Parkway School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b25dc5-d469-e011-971f-0030487d8897",
+		"OrganizationName": "Pierce City R-6",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d884e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pierce City R-VI",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9547f52f-6756-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pinnacle Career Institute - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Platt College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f47e6639-5809-e111-a703-f04da23e67f6",
+		"OrganizationName": "Portageville School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93f8d850-d0fc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ralls County R-II School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4882125a-3ed2-df11-bd73-0030487d8897",
+		"OrganizationName": "Ranken Technical College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Raymore Peculiar School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfc5e38c-151d-410c-ac97-8242a6219fcb",
+		"OrganizationName": "Raymore-Peculiar School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9129d81f-2bea-4e84-ad6e-4b6143621876",
+		"OrganizationName": "Raytown Quality Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Reeds Spring School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f141064-7a26-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Reeds Springs School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f2f24fb-7d6b-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Rockbridge Seminary",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rockhurst University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rosati-Kain High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9eaf381-b8d3-4366-b3b8-65bd8f7661c6",
+		"OrganizationName": "Rossman School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8d77494-f8aa-e811-8109-000d3af41938",
+		"OrganizationName": "Saint Ann Catholic School - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc228e87-afe3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Saint Charles Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "653c2452-28b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Saint Francis Borgia Regional High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37bcc1da-33a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Saint Louis Priory School - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d462382e-11c0-456e-8a90-6fa70f133975",
+		"OrganizationName": "Saint Louis Public Schools-SLPS",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Louis University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c60495b-0022-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Saint Luke's College of Health Sciences",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7b3013c-2cc6-e711-80f9-000d3af41938",
+		"OrganizationName": "Saint Paul - School of Theology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sanford-Brown College - Hazelwood",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab95ab49-2d5c-e211-b607-f04da23e67f6",
+		"OrganizationName": "School District of Clayton",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eed9d14c-5a09-401f-844b-5dc230c1d2cc",
+		"OrganizationName": "School District of University City",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d6e5078-163b-e711-80ef-000d3af41938",
+		"OrganizationName": "Scott Regional Technology Center",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeast Missouri State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "823a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwest Baptist University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f170c9ac-47b4-de11-886d-0030487d8897",
+		"OrganizationName": "Special School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0085e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Springfield Catholic Schools",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Charles Borrome Catholic School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Charles County Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Joseph School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Joseph's Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Louis College of Pharmacy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d93c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Louis Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "St. Louis Community College Forest Park",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0df379e-2725-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Louis University High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5df7e164-7f3c-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "St. Pius X High School (MO)",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f261ba09-b79d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "St. Teresa’s Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11c904cc-5446-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Staley High School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84a668e8-96de-de11-baeb-0030487d8896",
+		"OrganizationName": "State Fair Community College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "068283f5-415e-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "State Fair Community College, Sedalia",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e93e2c17-7e6f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "State Technical College of Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a63a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Stephens College - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd6c8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Strasburg C3 School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba5c641a-9c11-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Summit Technology Academy - Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Texas County Technical Institute",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d8d06e7-cee7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "The Barstow School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25c564fb-a7a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Three Rivers Community College (MO)",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a57f2d96-09fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Tina-Avalon R-II School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Truman State University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "786e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Union R-XI School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd97150e-0bfa-dd11-bf04-0030485a8df0",
+		"OrganizationName": "University of Central Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd96f802-dd50-e111-8056-f04da23e67f6",
+		"OrganizationName": "University of Missouri - Columbia Campus - KVC",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "913c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Missouri System",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "deadeca3-0c29-de11-a497-0030485a8df0",
+		"OrganizationName": "University of Missouri, College of Engineering",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Missouri, Columbia",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Missouri, Kansas City",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "503b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Missouri, Rolla",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "513b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Missouri-St. Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efb341b2-96d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Urshan Graduate School of Theology",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Vatterott Educational Centers Inc.",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Villa Duchesne/Oak Hill School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1bad4011-a165-e711-80f1-000d3af41938",
+		"OrganizationName": "Visitation Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13ecfa84-2fbd-e911-811e-000d3af41938",
+		"OrganizationName": "W.E.B. DuBois Learning Center - VMware IT Academy",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50eb08eb-223c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Warrensburg R-VI School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington University in St. Louis",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e8dd397-bd4e-48bf-bf57-ea09d42ec278",
+		"OrganizationName": "Washington University in St. Louis - Engineering",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ffc69d1-ba6c-df11-b841-0030487d8897",
+		"OrganizationName": "Washington University in St. Louis - Medical School",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87f34470-0e94-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Washington University in St. Louis - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cfe58ac-c23a-4e41-94ee-49baeb9cbab2",
+		"OrganizationName": "Washington University in St. Louis - School of Business",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Washington University School of Medicine",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Webster University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "014e49f7-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Webster University - Saint Louis - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb1a3540-5e86-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Wentworth Military Academy and College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecd64434-a95a-e711-80f0-000d3af41938",
+		"OrganizationName": "Wentzville School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de853723-0335-e211-aed3-f04da23e67f6",
+		"OrganizationName": "West Platte High School - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79c535de-5aaa-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Westminster Christian Academy - Town and Country - Campus Store",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ba33139-9f9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Westminster College - Fulton Missouri",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "063c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "William Jewell College",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "William Woods University",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72a511f4-4f48-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "William Woods University - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b032922c-7da5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Windsor C-1 School District - Imperial - Microsoft Imagine Standard",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Wright City R-II School District",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_k_12"
+	}
+]

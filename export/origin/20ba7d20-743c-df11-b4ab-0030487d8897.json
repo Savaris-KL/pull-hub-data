@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "524e49f7-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Berkeley City College",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9bce0a74-879b-e011-969d-0030487d8897",
+		"WebStoreName": "Berkeley City College - Computer Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9bce0a74-879b-e011-969d-0030487d8897"
+	}
+]

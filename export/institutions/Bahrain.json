@@ -1,0 +1,122 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "c60de41c-0f65-e911-8115-000d3af41938",
+		"OrganizationName": "Ahlia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "a61af66f-d5bd-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "AMA International School - Salmabad - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "4812848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AMA International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "366409d5-1289-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Applied Science University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "e89fc419-474d-df11-b56b-0030487d8897",
+		"OrganizationName": "Arab Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "2d5181dc-1259-df11-b841-0030487d8897",
+		"OrganizationName": "Arabian Gulf University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "91960ffb-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bahrain Center for Strategic International and Enegy Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "aec80ca6-47ab-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Bahrain Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "936ff8f4-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Indian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "ead64bb4-c81e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kingdom University of Bahrain",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "208e001d-5de2-e111-9231-f04da23fc522",
+		"OrganizationName": "National Institute of Technology - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "2c091b38-2dd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Royal University for Women",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "7a9566fc-cbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St Christopher's School, Bahrain",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "3ea4e5f1-3001-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Teaching Faculty Center at Salmaniya Medical Complex",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHR",
+		"InstitutionID": "0dd758e0-de76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University of Bahrain",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

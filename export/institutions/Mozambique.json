@@ -1,0 +1,42 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MOZ",
+		"InstitutionID": "418e9925-f8f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "American International School of Moçambique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MOZ",
+		"InstitutionID": "6b06eaff-e9f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "ISPT - Instituto Superior Politecnico de Tete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MOZ",
+		"InstitutionID": "ab7baadd-91c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidade Católica de Moçambique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MOZ",
+		"InstitutionID": "66c639bb-9c86-e711-80f3-000d3af41938",
+		"OrganizationName": "Universidade do Zambeze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MOZ",
+		"InstitutionID": "15dffc8b-cfa3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidade Eduardo Mondlane",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

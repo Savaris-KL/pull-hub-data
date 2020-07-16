@@ -1,0 +1,1434 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5e19eab4-6768-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Airdrie Koinonia Christian School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ffd5e475-5fb6-e211-be21-f04da23e67f4",
+		"OrganizationName": "Alberta Business and Educational Services",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "13cd517c-611f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Alberta College of Art and Design",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "85337b97-a287-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Alberta Conference of 7th Day Adventist Church",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5a434176-005e-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Alberta Education - Faculty",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1d94390b-3a92-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Alberta Education - Students",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8d368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alberta Vocational College - Calgary",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ab036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Ambrose University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "80a60ba5-2492-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Asasa Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "73c12fea-9e87-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Aspen View Regional Division 19",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "90368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Athabasca University",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "91368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Augustana University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "24e652c9-2492-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Bigstone Cree Nation",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0ba14798-66d4-e711-80f9-000d3af41938",
+		"OrganizationName": "Bishop Carroll",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "566f0b50-047b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Bishop Grandin High School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ec346145-a487-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Black Gold Regional Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b6252eb7-18b9-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Blue Quills First Nations College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1bcc95f0-d527-e011-b71d-0030487d8897",
+		"OrganizationName": "Booth University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "39672494-ff5d-df11-b841-0030487d8897",
+		"OrganizationName": "Bow Valley College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e13665d6-a587-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Boyle Street Education Centre",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "36db6810-b054-4ac3-bf62-572e13d7631f",
+		"OrganizationName": "Buffalo Trail Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "47b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Calgary Arts Academy Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a067a411-fb53-e011-bd14-0030487d8897",
+		"OrganizationName": "Calgary Board of Education",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fed5a03c-2349-402b-972f-d76b7085c0af",
+		"OrganizationName": "Calgary Catholic School Board",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7f18545d-eeab-ea11-812c-000d3af41938",
+		"OrganizationName": "Calgary Christian Secondary School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6241b0ef-2492-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Calgary French International School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c37df819-432f-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Calgary Girls' School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "58c9636f-a2fc-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Calvin Christian School, Alberta",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ce036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Canadian University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bc7f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI College (Calgary)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c27f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI College Edmonton South",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c57f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI College South Edmonton",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e1868b32-2592-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Central Alberta Christian High School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3e311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Centre High Campus",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d624741d-55a3-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Christ the Redeemer Catholic Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "adc9f6f4-a587-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Christ The Redeemer Catholic Separate Regional Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "efb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Clearview School Division No. 71",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b654f959-966d-e811-8106-000d3af41938",
+		"OrganizationName": "Columbia College Calgary",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d5fa5672-e9f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Concordia Lutheran Seminary",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9f368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia University College of Alberta",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b348654a-2692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Connect Charter School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65a3087b-2692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Cornerstone Christian School, AB",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "06c7c5b1-2692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Creater St. Albert Catholic Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d9dda2a8-7ebd-de11-886d-0030487d8897",
+		"OrganizationName": "Cypress College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7ca37d99-2692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Destiny Christian School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bb3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry Institute of Technology - Calgary",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0d39e075-36a9-de11-886d-0030487d8897",
+		"OrganizationName": "Dr. EP Scarlett High School (Canada)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e1233013-a687-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "East Central Francophone Education Region No. 3",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "40053f46-8357-e811-8105-000d3af41938",
+		"OrganizationName": "Edison School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7cdf7010-447c-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Edmonton Catholic School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c86062a4-f092-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Edmonton Catholic Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2827febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Edmonton Catholic Separate School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b4c05eeb-e23f-e711-80ef-000d3af41938",
+		"OrganizationName": "Edmonton Islamic Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "090c1f38-787a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Edmonton Public School Board",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1b2533a1-7e73-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Edmonton Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f5b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Elk Island Catholic Separate Regional Division No. 41",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "08b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Elk Island Public Schools Regional Division No. 14",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9004d5c0-a7d9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "ERP Technicals School of Business",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "75211f49-9bd9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "ERP Technicals School of Business - Calgary - Campus Store",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "26b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Evangelical Free Church of Champion, Alberta (Hope Christian School)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3727febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Evergreen Catholic Separate Regional Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2cb7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Foothills Academy Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "aa73dd1a-4ea3-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Foothills School Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3d27febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Foothills School Division 38 - Foothills Composite High Schol",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4327febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Fort Mcmurray Roman Catholic Separate School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0eb7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Fort McMurray School District No. 2833",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "53b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Foundations for the Future Charter Academy Charter School Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4927febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Golden Hills School Division 75",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "449f9128-4da0-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Grande Prairie Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4f596ce1-6129-e011-b71d-0030487d8897",
+		"OrganizationName": "Grande Prairie Regional College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bc549dd5-6029-e011-b71d-0030487d8897",
+		"OrganizationName": "Grande Prairie Regional College - WAH",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4f27febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Grande Prairie Roman Catholic Separate School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5827febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Grande Prairie School District No. 2357",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6627febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Grande Yellowhead Regional Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3962e404-9633-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Grant MacEwan University Bookstore",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6d27febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Grasslands Regional Division No. 6",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7927febc-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Greater North Central Francophone Education Region",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "70b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Greater Southern Public Francophone Education Region No.4",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fb7729f2-4e88-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Greater Southern Separate Catholic Francophone Education Region  No. 4",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ada3e4e5-ddb3-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Greater St. Albert Catholic Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "76b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Holy Spirit Catholic Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4288838e-dd37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Holy Trinity Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6cf9e3a7-1f03-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Horizon Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7cb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Horizon School Division 67",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "03f1c5cf-2692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Inner City Youth",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "223c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Keyano College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65e71f27-72bb-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "King's University",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8c8af93c-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Koinonia Christian School Red Deer",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "330bb0a8-b768-e711-80f1-000d3af41938",
+		"OrganizationName": "Lakeland Catholic School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "209be944-23c2-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Lakeland College (CAN)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "82b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Lakeland Roman Catholic Separate School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "94b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Learning Resources Centre",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8f046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Lethbridge College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "603d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lethbridge Community College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "04625b2e-9670-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Lethbridge School District No. 51",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "88b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Living Waters Catholic Regional Division No. 42",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0ac0f95b-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Living Waters Christian Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8eb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Lloydminster Public School Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "42d1fbd3-1f24-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Lycée Louis Pasteur - International French School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d3fc849b-a1b6-df11-ad57-0030487d8897",
+		"OrganizationName": "MacEwan University (Texidium)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8635237a-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Medicine Hat Catholic Board of Education",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "911c4e49-2ec2-de11-886d-0030487d8897",
+		"OrganizationName": "Medicine Hat College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8016e6f9-4ba0-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Medicine Hat Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9ab6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Medicine Hat School District No 76",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4db7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Mother Earth's Children's Charter School Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b6368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Royal College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d8e7578f-b85e-e011-971f-0030487d8897",
+		"OrganizationName": "Mount Royal University",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a8f21c98-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "New Heights  School & Learning services",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "25168aaf-a287-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "New Horizons Charter School Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e6046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "NorQuest College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "213c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northern Alberta Institute of Technology",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a0b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Northern Gateway Regional Division 10",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "eb046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Northern Lakes College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a6b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Northern Lights School Division 69",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "acb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Northland School Division 61",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6f46ccab-8d26-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Northstar Academy, AB",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b2b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Northwest Francophone Education Region",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7ab19eb6-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "O'Chiese Education",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ff046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Olds College - Olds Campus",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f591628e-371f-e011-b71d-0030487d8897",
+		"OrganizationName": "Olds High School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b8b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Palliser Regional Division 26",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1e521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Parkland Regional Library",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1d062a0e-2592-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Parkview Adventist Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "04286116-3c1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Peace Library System",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1aa75d19-251d-e111-a703-f04da23e67f6",
+		"OrganizationName": "Peace Wapiti School Division 76",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "09e1cbce-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Peigan Board of Education",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9c0c28ac-15b1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Pembina Hills",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0e056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Portage College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bfb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Prairie Rose Regional Division 8",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fa35eced-2792-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Progressive Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ccb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Red Deer Catholic Regional Division No. 39",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "653914d4-96a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Red Deer Catholic Regional Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "87408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Red Deer College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5e6f9ce3-506c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Red Deer Public Schools",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "22056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Robertson College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "14b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Rocky View School Division No. 41",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "32c127aa-228b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Saint Francis High School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b49b817d-5b49-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Saint Joseph Seminary",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e8717e8d-df37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Saint Stanislaus School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ca780106-2892-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Slave Lake Koinonia Christian School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c7368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Alberta Institute of Technology",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cccb0263-c873-e711-80f1-000d3af41938",
+		"OrganizationName": "Southern Alberta Institute of Technology - Departmental Store",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ffd0ec5c-5e96-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Southern Alberta Institute of Technology - SAIT",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ce8f1e92-ba8d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "St Stephen’s College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d6b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "St. Albert Protestant Separate School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6f1a71c7-9e2f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Albert Public School District",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9adea563-4a46-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Francis High School (Alberta)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "04b25ae8-4f38-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "43bc48fc-9dc2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "St. Paul Education Regional Division No. 1",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5518aa8b-8d5f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "St. Stephen School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1ab7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "St. Thomas Aquinas Roman Catholic Separate Regional Division No. 38",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f8648b76-7908-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Strathcona-Tweesmuir School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "903e4f7a-9134-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Sturgeon School Division",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b08ec924-2892-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Tempo School",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e3ab9f91-4464-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "The Banff Centre - Microsoft Imagine",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "32b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "The Calgary Society for Effective Education of Learning Disabled (Calgary Academy)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "be24e289-4da7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "The Canadian Energy Research Institute (CERI)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "38b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "The Edge School For Athletes Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cd368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The King's University College",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6564d73f-cd78-e111-a407-f04da23e67f6",
+		"OrganizationName": "The Northern Alberta Institute of Technology - Microsoft Imagine Standard",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7c7bd87e-a287-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Treaty 8",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3982d03c-2892-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Trinity Christian School, AB",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "747d9155-2892-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Tsuu T'Ina Nation Education Department",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "78684c6b-ee9d-e011-969d-0030487d8897",
+		"OrganizationName": "University of Alberta - Departmental Store",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "203c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Alberta - Edmonton Campus - KVC",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "baa7fea6-ebe5-df11-bd73-0030487d8897",
+		"OrganizationName": "University of Alberta - Information Services and Technology (old DS)",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "293c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Calgary - KVC",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e747c3db-adbb-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "University of Calgary - VMAP Campus",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1c0d7f6d-0f02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "University of Calgary, Bookstore",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d03c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Lethbridge",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3d2a5701-403b-e711-80ef-000d3af41938",
+		"OrganizationName": "University of Lethbridge - Lethbridge - Campus Store",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "dcb6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Valhalla School Foundation",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "36a9b14a-b592-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Webber Academy",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3eb7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "West Island College Society of Alberta",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9f607a20-9f87-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Westmount Charter School Society",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e7b6f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Wetaskiwin Regional Division 11",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "20b7f3c8-4788-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Wolf Creek School Division No. 72",
+		"ProvinceCode": "AB",
+		"SubsectorCode": "education_k_12"
+	}
+]

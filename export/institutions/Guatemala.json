@@ -1,0 +1,346 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "71728465-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia de Computacion PREDINSA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "66cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Cultural San Miguel Arcangel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "e1dcaa65-e683-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Asociacion del Colegio Maya de Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "920d6974-a32a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Asociacion del Colegio Maya de Guatemala - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "b2077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Educativa Elim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "a2077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Bilingue Vista Hermosa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "3dc32613-d9ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Centroamericano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "5fcd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Cristiano Roca de Ayuda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "ff077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Cristiano Verbo No. 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "84cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Decroly Americano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "c0077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Evelyn Rogers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "04e1ef36-c3c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Colegio Interamericano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "7ecd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Mixto Euroamericano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "ee077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Monte Maria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "f7077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Sagrado Corazon de Jesus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "2e58fab2-b8ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Suizo Americano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "df3b326e-9fc4-e211-be21-f04da23e67f4",
+		"OrganizationName": "Colegio Suizo Americano - Guatemala - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "78cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Tecnologico Americano/Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "12f538bc-1a17-df11-856f-0030487d8897",
+		"OrganizationName": "Escuela Politécnica del Ejército (Guatemala)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "8bcd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Guillermo Toriello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "0d8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Kinal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "72cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Iglesia de Cristo Elim Central",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "99b17596-a426-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "IMEBSECO - Instituto Basico Olintepeque",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "59cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Belga Guatemalteco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "e6077f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Técnico de Capacitación y Productividad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "91cd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnologico de Computacion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "07087f6b-92f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Liceo Javier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "134b61c8-7911-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Seminario Teológico Centroamericano (Guatemala)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "6ccd24c2-041a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Servicios Educativos Integrales, S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "5341c2de-511f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de San Carlos de Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "45e2afa3-ee29-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad del Istmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "00e3bc92-bc43-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Istmo - Fraijanes Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "c2f320fe-a7e8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Universidad del Valle de Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "9491e177-b546-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Valle de Guatemala  - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "32644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Francisco Marroquin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "4ec1b8e9-d990-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universidad Francisco Marroquín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "ec510849-8a68-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Universidad Galileo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "7b3cee25-eb10-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Mariano Gálvez - Ciudad de Guatemala - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "255aea4f-abfa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Mariano Gálvez de Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "108b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Mesoamericana - Quetzaltenango - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "a9d90078-eae4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Panamericana (Guatemala)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "37644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Rafael Lanvídar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GTM",
+		"InstitutionID": "1b0acb31-6cc9-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad San Pablo de Guatemala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

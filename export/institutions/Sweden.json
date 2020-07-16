@@ -1,0 +1,3466 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "70b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "AB Nybro Brunn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "78b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "AB Salboheds Gymnasiesärskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bb023b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "AB Videdals Privatskolor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "97695bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ABF Vasternorrland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "daaaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "AcadeMedia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a707fa8c-ab0b-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Academic Work Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f6aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Acrobat Replacement Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "db1e2bc4-7c58-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Ädelfors Folkhögskola - Holsbybrunn - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "dfaaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Advania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f38328e1-e9a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Ålands Yrkesgymnaisum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4f864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Alfred-Wegener-Institut für Polar- und Meeresforschung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6b4a3d8b-e38b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Allebergsgymnasiet (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "10a8be9f-4f37-e711-80ef-000d3af41938",
+		"OrganizationName": "Ållebergsgymnasiet, Falköping",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "50ae2bce-747e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Alströmergymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "29e8d810-e28e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Älvdalens Utbildningscentrum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "83ba0e9c-e08e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Älvdalens Utbildningscentrum - ÄLVDALEN - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c6695bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Antistilla AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "80b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Arjeplogs Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a2b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Arvidsjaurs Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "89b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Åsa Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e4aaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Åva Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bdb04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Avesta kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0374b170-a1a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bäckadalsgymnasiet Datorteknik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4d2a07c4-ea2c-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Baltic and East European Graduate School (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "17033b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "BARSEBÄCKS MONTESSORIA EKONOMISK FÖRENING",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "154849a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Berga Naturbruksgymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1ff647cd-e005-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Berghs School of Communication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "034749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bergtorpsskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "378cabf7-ef9a-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Berzeliusskolan (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "14abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Birger Sjöberggymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f1aaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Blekinge Business Incubator",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bdabb179-1978-e011-969d-0030487d8897",
+		"OrganizationName": "Blekinge Tekniska Hogskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c57751e9-7ea6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Blekinge Tekniska Högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c87b5531-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "BMSL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b94749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bodens Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6aeeb3ed-2f0f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Borås Stad Utbildningsförvaltningen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "00abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Borlänge Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f09edfd9-d3d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Brinellgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e1e92acd-68f6-e911-8122-000d3af41938",
+		"OrganizationName": "British International School of Stockholm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9ab04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bromma Montessoriskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "974749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Burlövs kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "84dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "C3L Centrum för LivsLångt Lärande",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cded08dc-34cb-e911-811e-000d3af41938",
+		"OrganizationName": "Campus Mölndal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "05abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Carlsunds Utbildningscenter",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cfabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Celsiusgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "69624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chalmers University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ff9df229-6ff8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Cybergymnasiet Malmö AB - Elprogrammet - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "42624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Dalarna University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6ab14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Dalslands Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2fc9425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dans O Musikal I Lund AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9e65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Dans och Cirkushögskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f6aaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Datatjej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b428c326-9648-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Datorteknik, Bäckadal - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9667a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "De la Gardiegymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fd1cd159-1791-e811-8108-000d3af41938",
+		"OrganizationName": "Designgymnasiet (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "59864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "DHBW Lörrach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f0a33a65-661f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Donnergymnasiet AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "68a61650-8d79-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "EC Utbildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fbaaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "EC Utbildning - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "18178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "EC-Datorteknik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "761370ac-7455-e911-8113-000d3af41938",
+		"OrganizationName": "Edugrade AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "66dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Ekbackeskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "72b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Eksjö Fordonsutbildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4fcf73c6-9663-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Eksjö Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bef2ed19-ba48-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "El-Data",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "27c8425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Elector Utbildning AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c037117d-529b-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Ellagårdsskolan Täby (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "82b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Enköpings Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "754649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Enskilda Gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "79abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Erik Dahlbergsgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a365ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ersta Sköndal högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8bb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Eskilstuna Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "93b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Eslövs Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9bb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "fagersta kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ccb04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Flens Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "80f84781-beff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Flexvux Norra Station",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "29abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "FOI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a3b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Folke Bernadotteakademin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "35e8bbfa-bfc0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Folkuniversitetet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2eabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Forshagaakademin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "33abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Forsmarks skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "23abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Försvarshögskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ff7919c7-7c0e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Franska Skolan - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d70c1c4d-1aac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Fridaskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "abb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Friskis och Svettis i Uppsala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b4b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fristads Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d9a33a65-661f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Futuraskolan AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5f5aefff-c37c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "FutureGames",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "006a5bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Galären Utbildningar i Karlskrona AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d4b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gällivare Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "88904321-c3a8-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Gävle Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bcb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "GNESTA KOMMUN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0c449e54-e891-e011-969d-0030487d8897",
+		"OrganizationName": "Gnosjö Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "38abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Gnosjöandans Kunskapscentrum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "GöLiSka IT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9646b3cc-60cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Göteborgs Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3dabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Göteborgs Stad Utbildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1e1cc933-34f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Göteborgs Tekniska College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ebfd5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Göteborgs Universitet - Göteborg - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "59644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Göteborgs universitet (University of Gothenburg)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e6c8425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gothenburg Association AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "644749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gotland Municipality Children and Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c4b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gotlands Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d5419e54-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Gotlands Kommun Barn- och Utbildningsförvaltningen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ccb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gotlands kommun Gymnasie- och vuxenutbildningsförvaltningen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "de0817e1-8499-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Grillska Gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6bdfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Gudlav Bilderskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a865ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gymnastik- och idrottshögskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1c45b750-2d92-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Haganässkolan (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "dcb04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hammarö Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0b4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Handelsakademin i Göteborg AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ae65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Handelshögskolan i Stockholm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e7023b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Handikappförbunden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d4b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Haninge Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "dcb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Härnösands kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e4b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hässleholms kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ecb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hässleholms Tekniska Skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "42abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Helix Gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "16cb626b-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Helixutbildningar AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f4b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Helsingborgs Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fcb14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hjo Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "801c71e0-a008-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Högskolan Dalarna, IT Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "dd644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Högskolan i Borås",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cf634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Högskolan i Gävle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b365ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Högskolan i Halmstad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0710a3ae-0363-e111-8056-f04da23e67f6",
+		"OrganizationName": "Högskolan i Halmstad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5c65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Högskolan i Jönköping",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "de644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Högskolan i Skövde",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3251610d-0fe1-df11-bd73-0030487d8897",
+		"OrganizationName": "Hogskolan Kristiansstad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a86c68cd-bcbf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Högskolan Kristianstad - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6165ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Högskolan Kristianstads",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "208d2608-6569-e111-a407-f04da23e67f6",
+		"OrganizationName": "Högskolan på Gotland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6665ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Högskolan Väst",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8b7b5531-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hola Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "04b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hola Folks High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hörby Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "15b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Huddinge Kommun Buf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "47abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Hudiksvalls Kommun - Hudiksvall",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hylte kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1b178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hyper Island",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9ccfd997-bf6a-e911-8115-000d3af41938",
+		"OrganizationName": "IHM Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "51abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Information  Kompetens i Sverige",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "56abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Informator Utbildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4cabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Institutionen För Datavetenskap",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d5567e56-63b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Institutionen for ekologi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c5d83bc7-1ab5-df11-ad57-0030487d8897",
+		"OrganizationName": "institutionen for ekonomi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7fdfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Interactive Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "International English school in Sweden AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5babaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "International IT College of Sweden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "06cb626b-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "International Swedish School AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "864649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "International Swedish School AB Raoul Wallenbergskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7b033b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IT & Montessori Skolor Stockholm AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "60abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "IT Gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8edcfd5d-ba7a-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "IT-Högskolan Göteborg - Göteborg - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "65abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "IT-Universitetet i Göteborg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jämtlands Läns Landsting",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1cd59c2d-b9d9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "JB Gymnasiet (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "601a9371-f7ac-e211-88b7-f04da23e67f4",
+		"OrganizationName": "JB Gymnasiet i Eskilstuna (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6fabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Jensen Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jensen Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "744749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "John Bauer Organisation AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d435adda-f172-e211-bf66-f04da23e67f4",
+		"OrganizationName": "John Bauergymnasiet College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "39ff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "John Bauergymnasiet Västerås - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0bab6ac0-2e95-e111-981b-f04da23e67f6",
+		"OrganizationName": "John Bauergymnasiet, Hassleholm - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "74abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Jönköping International Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0dc3c475-a1cf-e711-80f9-000d3af41938",
+		"OrganizationName": "Jönköping University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "35b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jönköpings Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9fc8425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kalix Naturbruksgymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "59654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Kalmar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "80d55dc3-3348-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Karhuset Origo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e9aaaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Karlfeldtgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8e3463d3-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Karl-Oskar Utbildning AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3c9b3a80-6a7a-e011-969d-0030487d8897",
+		"OrganizationName": "Karlstad University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7eabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Karlstads Teknikcenter",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6b65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Karlstads University - Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d8053537-2e01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Karolinska Institutet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5b654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Karolinska Institutet - Stockholm - Sweden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a567a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Kärrtorps Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5699e8e5-0fb5-e811-810a-000d3af41938",
+		"OrganizationName": "Kart-och teknikutbildarna i Haninge AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Katrineholms Kommun / IT-Kontoret",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e4b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Katrineholms kommun BoU förvaltningen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "efb04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kiruna Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "88abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Kista Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "45b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kjesäters folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Knivsta kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7065ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Konstfack",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0c4849a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kopparlundsgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "55b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kramfors Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a94749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kriminalvården",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4d624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "KTH Royal Institute of Technology (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5fb8418f-a572-e111-a407-f04da23e67f6",
+		"OrganizationName": "KTH School of Industrial Engineering and Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3d022a0f-241d-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kulturama (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7565ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kungl. Konsthögskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7a65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kungl. Musikhögskolan i Stockholm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8b66201f-51c7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Kungliga Tekniska Högskolan - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kungsbacka Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "66e6388b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KUNGSHOLMENS FRISKOLA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "393e1c0f-289e-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Kungsmadskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "46681478-046b-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Kunskapsförbundet Väst - Vänersborg - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "65b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kunskapsskolan i Sverige AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7ab14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kurfursten Utbildning Limited",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "92abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Kvalificerad Yrkesutbildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bcb6222d-f0e3-e711-80fa-000d3af41938",
+		"OrganizationName": "KYH-Schweden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "98dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Lagmansgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c94749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Laholms Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cc9ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lapplandskommunalförbund, Välkommaskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "97abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Larande I Norrkoping Ab",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "89293bfd-7a42-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Lärande i Sverige AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lärcentrum Vansbro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9cabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "LBS Kreativa Gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a1abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Leksands Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "966f55db-984a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Lernia utbildning YH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ababaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Lichron AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "75b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lidingö Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8893e4bd-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lillerudsgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e23e2373-1101-df11-85a5-0030487d8897",
+		"OrganizationName": "Linaeus University (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "83abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Lindengymnasiet Katrineholms Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lindesbergs kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bbabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Lindeskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "22ff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Lindeskolan - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ee644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Linköpings universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7018216f-9c67-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Linnaeus University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7f65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Linnéuniversitetet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "07033b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Litorina Fhsk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1eabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Lugnetgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "30624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Luleå tekniska universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "eb72dab8-a23a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Luleå Tekniska Universitet - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "244dab44-2b1c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Lulea University of Technology (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Lund Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8db24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lunds Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "69644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Lunds universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f7b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lycksele Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ffb04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lysekils Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ec9ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Mala Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8465ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Mälardalens högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "95b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Malmen Montessori School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9619d802-a65c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Malmo Folkhogskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8965ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Malmö högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4aa3e231-846d-df11-b841-0030487d8897",
+		"OrganizationName": "Malmo University (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b79a3fe4-8524-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Malmö Yrkeshögskola (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "84023b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Marieborgs Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9fb24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Maries folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fe4549a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Marks Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e1abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "MCT Europe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0e82a2df-2cb7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Medborgarskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "064649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Medieinstitutet i Sverige AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6f634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Mid Sweden University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3fff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Mid Sweden University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9be6388b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mimers gymnasium AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b0744f3d-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mo Gård Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9e7ca3dd-ccd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Möckelngymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0e4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Mogard Folks högstadium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "164649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Montessori Bjerred",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1f4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Montessori House School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "76023b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Montessoriskolan Casa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9c744f3d-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Montessoriskolan Malmen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a14749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Mora Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "284649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Mullsjö Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f3abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Myndigheten för samhällsskydd och beredskap",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "454649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Myndigheten för yrkeshögskolan (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "344649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nacka Kommun, FFS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "670f12b5-ed3c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Nackademin (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3d4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nackademin AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e2ff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Nackademin AB - Solna - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0eacaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Nackademins Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3ac6df0d-2b1c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Naprapat Hogskolan (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f44749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Naturbruksgymnasiet i Svenljunga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ad1e3191-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Neurologiskt Handikappades Riksförbund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "72f773da-2556-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Newton Kompetensutveckling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ff11021f-456f-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Nordenbergsskolan Olofström - Olofström - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "23acaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Nordiska högskolan för folkhälsovetenskap",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5e864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "NORDUnet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9c67a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Norra Real",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8093e4bd-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Norrbottens läns landsting",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d890393d-1dba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Norrlands Yrkeshögskola - Norrlands University Of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6c93e4bd-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Norrlidens Kunskapscentrum AB (NKCAB)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4d4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Norrtälje Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d39ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Norsjo Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f99941af-cf5e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "NTI Gymnasiet Lund - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "37acaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "NTI Gymnasiet Sollentuna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "139aad1b-cd6e-e111-a407-f04da23e67f6",
+		"OrganizationName": "NTI Gymnasiet Sollentuna - Sollentuna - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "58226b53-7c4a-e011-bd14-0030487d8897",
+		"OrganizationName": "NTI Skolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c9c8425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nya Centralskolan i Virserum AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "554649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nyköpings Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0aabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Nyköpings Tekniska Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c14749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nynäshamns kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f29ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ockelbo Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cf1e3191-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Önums friskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "20adaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Örebro universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "841b56ba-18fd-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Örebro Universitet - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "30634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Örebro University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e59ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Örnsköldsviks kommun Komvux",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "07b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Orust Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f89ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Osby Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "844749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Östhammars Kommun Barn & utbildningsförvaltningen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Östra Göinge kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ee1ca643-9a6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Pauliskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "25adaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Pellesoft IT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "544749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Pilträdsskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "654649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Piteå Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ec4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Plushogskolan AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2aadaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Plushögskolan AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2fadaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Portalens Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6d4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "PPS AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7d4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Procivitas i Helsingborg AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "ae695bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Projektcentrum Idékraft AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e44749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Prolympia AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5ae9338d-a1a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Realgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "62b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Region Varmland Folkhogskolorna i Varmland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6d8d5c85-8fb3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Rodengymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bf5d1203-7628-e811-8101-000d3af41938",
+		"OrganizationName": "Romosseskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8f4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ronnowska Skolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "34adaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Rörentreprenörernas Friskola i Stockholm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d0023b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ROSLAGEN EDUCATION AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fc6bd1c7-5c1b-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Rudbeck - Sollentuna - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "19505835-448a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Rudbeck Sollentuna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fd4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ryssbygymnasiet AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9f67a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "S:t Eriks Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b898c164-fa25-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Sahlgrenska University Hospital (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "10b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sala Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6493e4bd-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "SAMSKOLAN GOTEBORG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "18b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sigtuna Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "176a5bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SIS Ungdomshem Klaralvsgarden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "974649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Skelleftea Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9f4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "SKF Tekniska Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "84eea1e7-7e13-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Skvaderns Gymnasieskola - Sundsvall - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "21b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Söderhamns Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fba33a65-661f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sodermalmskyrkans Kristna Skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d09e9107-89cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Södertörn University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8e65ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Södertörns högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "af4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sollentuna Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9365ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sophiahemmet Högskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b74649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Specialpedagogiska skolmyndigheten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a74649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Statens Skolinspektion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e3695bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stenungsund Montessori Ekonomiska Forening",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7e330384-2de5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Stiernhööksgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "55033b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stift for Kristen Skolverksamhet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5d4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stift Lundsbergs Skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1b7b5531-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stift Montessoriskolan Centrum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "93dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Stiftelsen Utbildning Nordkalotten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b6ff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Stiftelsen Utbildning Nordkalotten - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "acdfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "STIFTELSEN VIKTOR RYDBERGS SKOLOR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e8a33a65-661f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stockholm International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6db43381-fc1a-df11-856f-0030487d8897",
+		"OrganizationName": "Stockholm School of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4ba4ca48-e67b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Stockholms Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7a660f8c-8499-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Stockholms Stadsmission",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a6abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Stockholms Tekniska Gymnasium Lernia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "70dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Stockholms Universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "29b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Storumans kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "31b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sundbybergs Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a2dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Sundsgymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "95768a4e-ab35-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Sundsgymnasiet - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9967a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "SUNET - Swedish University Computer Network",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8b0437c3-08e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Sunne Gymnasieskola Broby",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "39b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Svedala Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "35ee9768-c6c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Sven Eriksonsgymnasiet (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c84649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Svenska Alliansmissionen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d34649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Svenska Handikappförbundens samarbetsorgan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e24649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Svenska Röda Korset",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c04649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sverigefinska Folkhogskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9965ad61-8464-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sveriges lantbruksuniversitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "61dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Swedish Institute of Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f97ed92f-7384-df11-bc53-0030487d8897",
+		"OrganizationName": "Swedish University of Agricultural Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "6aabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Swerea IVF",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3d925c84-345a-e011-bd14-0030487d8897",
+		"OrganizationName": "Swiss Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "761b4c5f-6c10-ea11-8124-000d3af41938",
+		"OrganizationName": "Taby Enskilda Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "41b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Täby Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "75dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Tärna folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "08ff5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Tärna folkhögskola - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8dabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Tegelbruksskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "19abaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Teknikcollege Rinmangymnasiet Eskilstuna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "053e659f-a640-df11-b56b-0030487d8897",
+		"OrganizationName": "The Swedish School of Sport and Health Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "7adfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Thoren Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "eb4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Thorengruppen AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a267a43b-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Thorildsplans Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "25b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tibble Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f34649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Timrå Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3af5ad2a-a1bb-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Tingsryds Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "fb4649a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tjörns Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "49b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tomelilla Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "51b14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Töreboda kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "85b24e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Trosa Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "84e6388b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tryde Friskola Ekonomisk Förening",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4aacaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Tullängsskolan Örebro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "e982a33e-dee1-e811-810c-000d3af41938",
+		"OrganizationName": "Tullinge Gymnasium (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "91b04e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tvåspråkiga Montessori School of Lund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b3ee1f03-bf5b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Tyresö Gymnasium - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "89dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Uddevalla gymnasieskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "edfe5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Uddevalla Gymnasieskola - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "f9ca626b-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ulno AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "134749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Umeå Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b8644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Umeå universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5e61c8cb-1b17-df11-856f-0030487d8897",
+		"OrganizationName": "UMEA University (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1b4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Umeå Waldorfskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b14749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Upplands Bro Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d34749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Upplands Väsby Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3181b478-7adb-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Uppsala Kommun Vard och Bildning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "18634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Uppsala Universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c6898a97-d5d0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Utbildning Nord Programmering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8edfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Utbildningsborgen AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1e178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Utbildningsförvaltningen - Borås - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b79934d9-dc25-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Utbildningsförvaltningen, Stockholm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "da9ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Vadstena Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "d1e66fab-2e6c-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Välkommen till StorsjöGymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "234749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vallentuna Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5ab14e9a-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vänersborgs Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "dc4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vansbro Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "2b4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Varbergs Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "a7dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Varmdo Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9efd746d-fbc3-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Vasagymnasiet Arboga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9d033b61-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vasaskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "0fabaa59-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Väsby Nya Gymnasium - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "336a5bd9-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Västanfors-Västervåla Församling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "334749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Västerås Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4138af69-ddfc-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Västerås Stads Skolor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "4c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Västra Mälardalens Kommunalförbund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5a0f7f0d-8f36-de11-9d57-0030485a8df0",
+		"OrganizationName": "Vaxholms Stad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "18e4bef1-f594-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Växjö Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "1a634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Växjö University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "9ddfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Växjö Yrkeshögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "5ff9bdb6-1bc9-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Växjö Yrkeshögskola - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "3c4749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vellinge Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "54864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Verein zur Förderung eines Deutschen Forschungsnetzes e. V.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "68864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Verket för Högskoleservice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "c59ef217-5733-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Vilhelmina Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "cba33a65-661f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vindora Utbildning AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "444749a0-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Wendel folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "10c9425b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Wendelsbergs Folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "b1dfa25f-8e7d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Westerlundska gymnasiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "bf85a089-f773-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "World Maritime University (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "8ad24c6b-c439-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Xenter Botkyrka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "56696c14-94bb-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Yrkeshögskolan (Sweden)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWE",
+		"InstitutionID": "aae6388b-ac17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zacu AB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

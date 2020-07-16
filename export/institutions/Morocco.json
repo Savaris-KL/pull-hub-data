@@ -1,0 +1,482 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "88606f0c-8a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Abdelmalek Essaadi University (Morocco, جامعة عبد المالك السعدي)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "7d77b797-96e4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Académie internationale Mohammed VI de l'aviation civile AIAC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "67ac1aed-d89d-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Al Akhawayan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "cdc79788-987e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Al Akhawayn University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "4cfbcf81-15e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "CCPRO Maroc - Casablanca - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "b4340e08-8c14-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Centre des Etudes Supérieures d'Ingénierie et de Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "5cd3a333-1a04-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "École Centrale Casablanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "fffd6ad9-0ddd-e211-9000-f04da23fc520",
+		"OrganizationName": "Ecole des Sciences de l'Information (Morocco)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "9558ce02-5495-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Mohammadia d'ingenieurs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "0fa7e015-8d30-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale de l’Industrie Minérale (ENIM)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "618d0d35-aa1f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "École nationale des sciences appliquées de Fès",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e3577182-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale des Sciences Appliquées de Marrakech",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "3dbb3b79-faef-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale des Sciences Appliquées de Tanger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "9803f0f0-5495-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale des Sciences Appliquees Khouribga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "04a51d02-9a18-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Ecole nationale Superieure d'Arts et Metiers Casablanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "a0827ca1-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale Superieure d'Electricite et de Mecanique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "d9777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "3c3c176f-cc8b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes (ENSIAS)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "548ed7ae-12ef-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Ecole Polytechnique d'Agadir (Morocco)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "d6777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ecole Polytechnique de Télécommunication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "ec8418b4-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Superieure de Technologie Casablanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "9cf32755-5cd7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Ecole Supérieure des Industries du Textile et  d'Habillement",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "dcf1eac8-898c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "École Supérieure des Multimédia, Informatique et Réseaux",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "59aed653-1976-e711-80f1-000d3af41938",
+		"OrganizationName": "EMSI - Ecole Marocaine des Sciences de l'Ingénieur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "d25adaef-5595-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "ENSA Tetouan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e2573c7d-1a76-e711-80f1-000d3af41938",
+		"OrganizationName": "ENSET - Ecole Normale Supérieure de l'Enseignement Technique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "fa628ab8-d346-e711-80ef-000d3af41938",
+		"OrganizationName": "Faculté des Sciences Ben M'Sik Casablanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "333966b6-9e5e-e811-8105-000d3af41938",
+		"OrganizationName": "Faculté des Sciences et Techniques de Tanger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "9162f6d2-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "FACULTÉ DES SCIENCES Rabat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "eb517b50-5795-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "IGA Marrakech",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e66042f7-42d0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Institut Agronomique et Vétérinaire Hassan II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "7028cc47-898c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut national des postes et télécommunications",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "dc777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institut Polytechnique Privé de Casablanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "41d747f9-34a1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Institut Spécialisé De Technologie Appliqué Hay Hassani I Casablanca - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "2b132b57-1a9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Institut Spécialisé de Technologie Appliquée Agadir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "df777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institut Spécialisé De Technologie Appliquee De Gestion Bab Tizmi Meknès",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e2777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institut Spécialisé de Technologie Appliquée Tiznit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "b0353f16-898c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut supérieur du génie appliqué",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "6e97d5ba-9095-df11-ad8b-0030487d8897",
+		"OrganizationName": "International Institute for Higher Education in Morocco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "12911b92-b0b0-ea11-812c-000d3af41938",
+		"OrganizationName": "ISGA - Institut supérieur d'ingénierie et des affaires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e5777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ISTA Hay Nahda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "ada59d6c-898c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "L’Institut National de Statistique et d’Economie Appliquée (INSEA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "3fd4c957-5161-e111-8056-f04da23e67f6",
+		"OrganizationName": "LSI Maroc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "f7fad730-8a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "L'Université Internationale de Rabat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "c46666aa-f428-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Mohammed VI Politechnic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "2c5911a9-ba59-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Mundiapolis University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "e8777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Office de la Formation professionnelle et de la Promotion du Travail",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "eb2b80be-8057-e711-80f0-000d3af41938",
+		"OrganizationName": "The American School of Tangier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "556fca56-25f3-e811-810c-000d3af41938",
+		"OrganizationName": "UMP - Université Mohammed Premier Oujda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "ecd8bba8-aacf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Université Cadi Ayyad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "88bdd03c-4892-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Université Chouaib Doukkali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "51651ed9-230e-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Universite Chouib Doukkali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "eb777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "UNIVERSITE HASSAN 1er",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "f1777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "université Ibn Tofail",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "8b6ad15b-79d7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Université Ibn Zohr",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "f4777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universite Mohammed Premier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "49d10856-8a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Université Mohammed V de Rabat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "7730785c-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite Sidi Mohamed",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "53908b43-888c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University College Dublin (Morocco)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAR",
+		"InstitutionID": "ed88fb67-8a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University Hassan II Casablanca (جامعة الحسن الثانی دارالبیضاء )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

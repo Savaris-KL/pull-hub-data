@@ -1,0 +1,66 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "3cb200d4-6ec5-e711-80f9-000d3af41938",
+		"OrganizationName": "Cavendish University Uganda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "00920369-78f8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Adult and Continuing Education, Makerere University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "4ce252f1-952e-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Makerere University (Uganda)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "29183e13-d35b-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Mbarara University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "32d52256-2a0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "School of Agricultural Sciences Makerere University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "2b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Uganda Christian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "d5b249e6-3ed6-e911-8120-000d3af41938",
+		"OrganizationName": "Uganda Management Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UGA",
+		"InstitutionID": "f0f5c41f-6a7a-e011-969d-0030487d8897",
+		"OrganizationName": "Uganda Martyrs University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

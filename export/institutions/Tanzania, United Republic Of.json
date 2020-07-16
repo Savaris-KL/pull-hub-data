@@ -1,0 +1,122 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "8a385d4a-4f49-e811-8103-000d3af41938",
+		"OrganizationName": "Institute of Social Work",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "c6af96e8-e141-ea11-8126-000d3af41938",
+		"OrganizationName": "Karume institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "1339f7f0-a983-e811-8108-000d3af41938",
+		"OrganizationName": "Moshi Co-operative University (Tanzania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "77c6ddbe-1bb8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "MS Training Centre for Development Cooperation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "4f1cd4f2-3019-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Muhimbili University of Health and Allied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "b2691f07-8f48-e811-8103-000d3af41938",
+		"OrganizationName": "Mzumbe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "27259120-43ae-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Sokoine University of Agriculture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "4040ef5d-ad61-e711-80f1-000d3af41938",
+		"OrganizationName": "St.John's University of Tanzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "6ff345f3-c416-ea11-8125-000d3af41938",
+		"OrganizationName": "Sumait University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "7f4e721f-8c48-e811-8103-000d3af41938",
+		"OrganizationName": "The Institute of Finance Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "0235d6e2-8e48-e811-8103-000d3af41938",
+		"OrganizationName": "The Open University of Tanzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "9ba81d06-1bbf-e711-80f7-000d3af41938",
+		"OrganizationName": "The State University of Zanzibar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "5a68c1b9-460a-ea11-8124-000d3af41938",
+		"OrganizationName": "The Vocational Training Authority of Zanzibar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "277357ae-050b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "University of Dar es Salaam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TZA",
+		"InstitutionID": "21178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "VETA Mikumi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

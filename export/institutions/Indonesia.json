@@ -1,0 +1,2114 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "508402e0-a47e-e711-80f3-000d3af41938",
+		"OrganizationName": "Academy of Statistics of Muhammadiyah Semarang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9729653e-5b66-e711-80f1-000d3af41938",
+		"OrganizationName": "ACS Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b36d9ed7-e5fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Akademi Metrologi dan Instrumentasi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6ffe95da-4968-e911-8115-000d3af41938",
+		"OrganizationName": "AQL Islamic School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9a408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Atmajaya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1013848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Bandung Alliance International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "20c48bfc-6582-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Bina Nusantara University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "df408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bina Nusantara University (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "798bf48e-1322-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Binus University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "733e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bogor Agricultural University (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ecc6bcd9-568f-e811-8108-000d3af41938",
+		"OrganizationName": "British School Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a25dca0e-eae0-e711-80fa-000d3af41938",
+		"OrganizationName": "Calvin Institute Of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e3a7b570-0b4f-e911-8113-000d3af41938",
+		"OrganizationName": "Deutsche Schule Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1313848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Esa Unggul University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c4438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fakultas Ekonomi Universitas Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ffff95d5-2f48-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Fakultas Pertanian Universitas Pattimura (Faperta UNPATTI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "f64b941d-6ed4-e711-80f9-000d3af41938",
+		"OrganizationName": "Fakultas Teknologi Informasi Instit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8b3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gadjah Mada University (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b761e3d9-18bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Gajayana University of Malang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "df970d95-d5c3-e711-80f9-000d3af41938",
+		"OrganizationName": "IKADO - Institut Informatika Indonesia - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8d18c9f3-c295-e811-8108-000d3af41938",
+		"OrganizationName": "Indonesian European University Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "101d34bb-332d-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Institut Bisnis dan Informatika Kwik Kian Gie - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6913848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institut Bisnis dan Informatika Stikom Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ca455638-cca2-e711-80f6-000d3af41938",
+		"OrganizationName": "Institut Keuangan Perbankan dan Informatika Asia Perbanas (IKPIA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8ecb828c-8cdb-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Institut Sains & Teknologi AKPRIND Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4a418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Institut Teknologi Bandung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d4d2935b-825a-e711-80f0-000d3af41938",
+		"OrganizationName": "Institut Teknologi Del",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "085006d4-29f9-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Institut Teknologi Harapan Bangsa - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "bc226fa7-6abe-e211-be21-f04da23e67f4",
+		"OrganizationName": "Institut Teknologi Harapan Bangsa (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5004cbda-087b-e811-8106-000d3af41938",
+		"OrganizationName": "Institut Teknologi Nasional (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d9147496-2196-e111-981b-f04da23e67f6",
+		"OrganizationName": "Institut Teknologi Sepuluh Nopember",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0e83492c-b621-ea11-8125-000d3af41938",
+		"OrganizationName": "International University Liaison Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4013848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "IT Telkom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d88af8a7-ec89-e811-8108-000d3af41938",
+		"OrganizationName": "JAC School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "f1815eb7-bf4a-e711-80f0-000d3af41938",
+		"OrganizationName": "Jagran Lakecity University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "919a2d50-7ae9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Jember University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e11287bc-2f3e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kalbis Institute - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7ca31b67-7b91-e711-80f6-000d3af41938",
+		"OrganizationName": "Kalyani Government Engineering College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c496a830-15c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "KENDRAPARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8b740ac2-421a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Krida Wacana Christian University - Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5f39ef20-eed1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Ma Chung University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4813848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Maranatha Christian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "841b1e0b-34a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Microsoft Innovation Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "3c9f6485-cd6c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Microsoft Innovation Center - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ad3fbbc5-12bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Modern College Of Arts Science & Commerce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8d023ba8-b7b2-e711-80f7-000d3af41938",
+		"OrganizationName": "Narotama University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0676ed11-dac3-e711-80f9-000d3af41938",
+		"OrganizationName": "North Jakarta Intercultural School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ca186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "North Jakarta International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "3dfbe676-4a5b-e711-80f0-000d3af41938",
+		"OrganizationName": "Pakuan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "86bfbb4b-cdc0-e711-80f7-000d3af41938",
+		"OrganizationName": "Perbanas Institute - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "743e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Petra Christian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9a69a560-62be-e711-80f7-000d3af41938",
+		"OrganizationName": "POLINDRA Politeknik Negeri Indramayu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7416cb7b-c040-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Politeknik ATMI Surakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4ebfe732-92a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Politeknik Elektronika Negeri Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c5f16f32-fd36-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Harapan Bersama Tegal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5a13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Politeknik Informatika Del",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "61dd9487-8b38-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Manufaktur Astra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ec0671cf-e0b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Negeri Bandung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "64dbb0ad-6e9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Negeri Bandung - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d7187847-c8dd-e211-9000-f04da23fc520",
+		"OrganizationName": "Politeknik Negeri Batam (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0974f3e2-6b03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "POLITEKNIK NEGERI JAKARTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "de5a98fe-9714-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Negeri Malang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "05640cd7-ecf0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Politeknik Negeri Medan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1eeed288-aad6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Negeri Samarinda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a68980d4-d21e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Negeri Ujung Pandang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "841d84d8-ad66-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Pos Indonesia - West Jave - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9f4906ba-69ff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "POLITEKNIK PUSMANU PEKALONGAN (POLBAT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ab35d8a5-7912-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Politeknik Sawunggalih Aji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7285c658-c381-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Politeknik Telkom (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d2fec6d9-89a3-e711-80f6-000d3af41938",
+		"OrganizationName": "President University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "58c135a0-4c79-e711-80f1-000d3af41938",
+		"OrganizationName": "Prima Edu Pendamping Belajar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "691700c4-6675-e811-8106-000d3af41938",
+		"OrganizationName": "Satya Wacana Christian University (Universitas Kristen Satya Wacana)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5bbd5d2e-affe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "School of Electrical Engineering and Informatics - Engineering - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "815ecb8b-d6cb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Seema Quadri Institute of Engineering & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "bf2ba089-92a1-e911-811c-000d3af41938",
+		"OrganizationName": "Sekolah Global Indo Asia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9a186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sekolah Harapan Bangsa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c6289028-b454-ea11-8127-000d3af41938",
+		"OrganizationName": "Sekolah Kristen Immanuel Pontianak",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4734fd1b-a426-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Elektronika Dan Komputer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e61ce014-b1fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Ilmu Ekonomi Indonesia (STIESIA) Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5f60a73b-d9d1-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Ilmu Ekonomi Tridharma Bandung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "336ef301-0e61-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Ilmu Statistik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2f633675-50f7-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Managemen Informatika-DCI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ca38c329-bec3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Manajemen Informatika dan Komputer LIKMI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6013848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sekolah Tinggi Manajemen Informatika dan Komputer Multi Data Palembang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "07c38453-d91d-ea11-8125-000d3af41938",
+		"OrganizationName": "Sekolah Tinggi Manajenen Informatika dan Komputer Bani Saleh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "11c3f78a-6ca1-e811-8109-000d3af41938",
+		"OrganizationName": "Sekolah Tinggi Teknik - PLN - Engineering - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8483d4cf-661f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Teknik - PLN - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2debdc6d-5361-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Teknik Malang - Malang  - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6313848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sekolah Tinggi Teknik Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1fd41dd6-36ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Teknologi Adisutjipto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5a7972ef-1f6b-e711-80f1-000d3af41938",
+		"OrganizationName": "Sekolah Tinggi Teknologi Telematika Telkom Purwokerto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6613848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sekolah Tinggi Teknologi Telkom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5417a508-fd36-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Sekolah Tinggi Teknologi Terpadu Nurul Fikri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "be186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sekolah Tunas Muda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2426c4f3-f3b7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Semarang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "94186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Singapore School Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "dcba9ed8-2312-ea11-8124-000d3af41938",
+		"OrganizationName": "SMA Negeri 7 Kota Bekasi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ac186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SMA Pangudi Luhur II Servasius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c4186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SMA St. Theresia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a2e465c7-1df8-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "SMAK St. Hendrikus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "755de19f-ebc2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "SMAN 5 BALIKPAPAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7eec36ec-428a-ea11-812a-000d3af41938",
+		"OrganizationName": "SMK Informatika Al-Irsyad Al-Islamiyyah",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a4aa1aa6-8b67-e911-8115-000d3af41938",
+		"OrganizationName": "SMK IT Ihsanul Fikri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e5137a32-aae4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "SMK Kehutanan Negeri Makassar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5d077b53-4df5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "SMK MUHAMMADIYAH 04 BOYOLALI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0efe607c-b7f3-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "SMK Negeri 1 Bangil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "cbdb1e20-7755-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "SMK Negeri 2 Cimahi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ddb3e475-db08-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "SMK Negeri 2 Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5bd8b990-fee3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "SMK Negeri 2 Kediri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "910931a8-19e7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "SMK NEGERI 2 MAJENE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "777bac1f-8add-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "SMK Negeri 4 Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "f47ac822-7b5a-e711-80f0-000d3af41938",
+		"OrganizationName": "SMK NEGERI 5 SURAKARTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c8129759-f28a-ea11-812a-000d3af41938",
+		"OrganizationName": "SMK Persada Makassar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ecd6a59d-66a8-e711-80f7-000d3af41938",
+		"OrganizationName": "SMK Taman Sejahtera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0a1682d8-e104-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "SMK Teknologi Informatika Bulukumba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d6ff25d0-9dce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "SMK Telkom Malang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "28e7ec4b-8ce2-df11-bd73-0030487d8897",
+		"OrganizationName": "SMK TI Bali Global Jimbaran",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0d72abff-c657-e911-8113-000d3af41938",
+		"OrganizationName": "SMK Yappenda (Yappenda Vocational School)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "58911035-8102-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "SMKN 1 Adiwerna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e1350c48-74f8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "SMKN 5 Surakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c9c49fc7-3382-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Sriwijaya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e9ae70df-7f6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Stamford International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "dfd2c55e-d912-ea11-8124-000d3af41938",
+		"OrganizationName": "STF Seminari Pineleng",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "133410c5-2136-e111-8d82-f04da23e67f6",
+		"OrganizationName": "STIE Kesuma Negara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a7b42dd5-ffd8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "STIKOM Bali - Denpasar - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9990d359-7cf6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "STIKS Tarakanita (Sekolah Tinggi Ilmu Komunikasi Tarakanita)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e7b59685-f4ce-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "STIMIK AMIKOM Yogyakarta - Sleman - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5a5e58e5-edff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "STKIP PGRI Tulungagung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6c13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "STMIK AKAKOM Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ce508c30-118b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "STMIK AMIK Bandung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "49a11ce1-f1c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "STMIK Dipanegara Makassar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "40e29541-445b-e711-80f0-000d3af41938",
+		"OrganizationName": "STMIK Duta Bangsa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e1e71bde-041b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "STMIK Jakarta STI&K",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9b1824bf-a6ec-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "STMIK Jenderal A. Yani Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "701d7745-555f-e811-8105-000d3af41938",
+		"OrganizationName": "STMIK Mikroskil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "961485ef-bada-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "STMIK Raharja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "93cd604e-69d9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "STMIK SPB Airlangga - Samarinda - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "acfa77a9-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "STMIK Sumedang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "45243e43-28d6-e811-810b-000d3af41938",
+		"OrganizationName": "STMIK Swadharma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "878c2192-4ac1-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "STMIK WIDYA PRATAMA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "dc600782-2613-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "STMIK-AMIK Parna Raya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "85909476-4734-e711-80ef-000d3af41938",
+		"OrganizationName": "Sultan Ageng Tirtayasa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "3da96581-3cdd-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Swiss German University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "db16dbf0-2d94-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Tazkia University College of Islamic Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "eebef92a-d573-e711-80f1-000d3af41938",
+		"OrganizationName": "Telcom University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "00a5e0b1-079f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Telkom University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d4d4dd50-83e6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "The National Institute of Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "43215146-3194-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "TRISAKTI UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b1a92d09-85bd-e711-80f7-000d3af41938",
+		"OrganizationName": "UIN Syarif Hidayatullah Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "edfceccd-6ed4-e711-80f9-000d3af41938",
+		"OrganizationName": "Unika Atma Jaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "462aae07-4834-e711-80ef-000d3af41938",
+		"OrganizationName": "Universitas Ahmad Dahlan Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0fc62339-9603-e011-bed1-0030487d8897",
+		"OrganizationName": "Universitas Airlangga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4b1d88a2-3e8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universitas Atma Jaya Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9535de71-b51f-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Bakrie (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8733790b-1504-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Bengkulu (UNIB)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "779083c4-9b05-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Bina Darma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "bc428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Brawijaya - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "cac81354-3b0b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Ciputra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "06bc66f5-60ff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Dian Nuswantoro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "03b62366-1ce1-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Dian Nuswantoro - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "35428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Diponegoro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "71adca2a-ecd2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universitas Gadjah Mada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d5df7608-ee30-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Gadjah Mada - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5be6ca6f-bbda-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Gunadarma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "73d0beb2-df04-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Halu Olea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1ce83586-c771-e011-971f-0030487d8897",
+		"OrganizationName": "Universitas Hasanuddin (Indonesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "08ffc868-a4b8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Ibn Khaldun Bogor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "08a17a7e-5275-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universitas Indonesia (SIAKNG)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7313848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Indonesia- Fakultas Ilmu Komputer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "62816fa7-7dd0-e711-80f9-000d3af41938",
+		"OrganizationName": "Universitas Indraprasta PGRI (Indraprasta PGRI University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e0aaa086-b2d2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Internasional Semen Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a19ac6e7-2de5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam - Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "60d9333c-a7e4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Bandung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "761f458b-3b75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Bandung - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a078d5b2-d4c9-e811-810a-000d3af41938",
+		"OrganizationName": "Universitas Islam Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ca36a393-b8ea-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Indonesia - Sleman - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "69379b0c-fbe1-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Negeri (UIN) Sunan Kalijaga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "cac06a90-a6b8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Negeri Maulana Malik Ibrahim Malang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2d8b1fcf-694d-e811-8103-000d3af41938",
+		"OrganizationName": "Universitas Islam Negeri Sunan Gunung Djati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2dcf2164-96ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "81bb4dc0-9e32-e811-8101-000d3af41938",
+		"OrganizationName": "Universitas Islam Riau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1bc4405d-2400-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Islam Sultan Agung - UNISSULA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6d639a56-6497-e911-811a-000d3af41938",
+		"OrganizationName": "Universitas Jenderal Soedirman (General Soedirman University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4f5ca19d-18bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Universitas Kanjuruhan Malang (UNIKAMA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e5029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universitas Katolik De La Salle Manado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1a418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Katolik Parahyangan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "3f240027-4aa3-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universitas Katolik Parahyangan - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "56584cd4-86d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Komputer Indonesia - Indonesian Computer University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7613848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Komputer Indonesia (UNIKOM) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "539cb36e-de8c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universitas Kristen Duta Wacana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d5e4f682-5566-e711-80f1-000d3af41938",
+		"OrganizationName": "Universitas Kristen Krida Wacana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "988c44f4-eaf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Kristen Maranatha",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7913848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Kristen Petra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ba2e4f02-9fa0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Lambung Mangkurat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a918e3a1-7ef4-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Lampung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d3b46a29-fe8a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Ma Chung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6dae1181-99e8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Majalengka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a8a451d5-e7b7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Mercu Buana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0a2f13b0-d59c-e911-811a-000d3af41938",
+		"OrganizationName": "Universitas Mitra Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7013848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Muhammadiyah Jember",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b1c869b8-fe7d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Muhammadiyah Sidoarjo - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "890f6855-7f0f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Muhammadiyah Sumatera Utara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6f3dfa49-5442-e811-8103-000d3af41938",
+		"OrganizationName": "Universitas Muhammadiyah Surakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "48a15933-5bf0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Muhammadiyah Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "485c99dd-70ea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Muhammadiyah Yogyakarta - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "2906968d-9ebf-ea11-812d-000d3af41938",
+		"OrganizationName": "Universitas Mulawarman (Mulawarman University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7e6bc718-9bc7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Multimedia Nusantara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7b6a6430-18bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Universitas Nahdlatul Ulama Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a76f416d-9b96-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Neeri Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "4135e358-a64f-e811-8103-000d3af41938",
+		"OrganizationName": "Universitas Negeri Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c45e7e15-5642-e811-8103-000d3af41938",
+		"OrganizationName": "Universitas Negeri Makassar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "84d9b011-25e7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Negeri Malang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c506c98a-23fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Negeri Manado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9576efe2-a09f-e711-80f6-000d3af41938",
+		"OrganizationName": "Universitas Negeri Semarang (UNNES) - Jawa Tengah Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e996ec47-128c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universitas Padjadjaran",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "86413887-b923-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pamulang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c3e21cdc-748b-e811-8108-000d3af41938",
+		"OrganizationName": "Universitas Pancasakti Tegal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d4db8ab3-f2e7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Papua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7dedc5b8-0c61-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Paramadina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "facf52ea-6245-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universitas Pasundan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "46ca7ead-f3fe-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pelita Harapan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "bb703509-c769-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pembangunan Nasional \"Veteran\" Jawa Timur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "65c8e92e-e45e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pembangunan Nasional Veteran Jakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0d62e266-e35e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pembangunan Nasional Veteran Jakarta - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "56c31086-ab26-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7a75b8b0-5593-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universitas Pendidikan Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "cdacd207-11e4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pertamina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6f0e6a0c-2bf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pesantren Tinggi Darul Ulum Jombang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ea01e8db-f90f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Pgri Semarang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d73a9e60-f5b7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Potensi Utama",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "53920321-3f95-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Prasetiya Mulya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "5c38ae1a-4340-e911-8113-000d3af41938",
+		"OrganizationName": "Universitas Riau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "38523963-4f03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "UNIVERSITAS SAM RATULANGI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a656febc-4734-e711-80ef-000d3af41938",
+		"OrganizationName": "Universitas Sanata Dharma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "77408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Sebelas Maret - Sebelas Maret University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ee140ad8-cedc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Stikubank",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "35acbfe7-bfdd-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Subang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c93f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Sumatera Utara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "753e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universitas Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "141341d9-6c9e-e011-969d-0030487d8897",
+		"OrganizationName": "Universitas Suryadarma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "3f64690d-523a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universitas Syiah Kuala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "962fa8b3-2d29-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Tanjungpura (Tanjungpura University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d206f634-868e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Tarumanagara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "455cc414-0139-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Teknologi Yogyakarta - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "6a3f1d10-5459-e011-bd14-0030487d8897",
+		"OrganizationName": "Universitas Terbuka Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "0a702cb7-0846-e711-80ef-000d3af41938",
+		"OrganizationName": "Universitas Trilogi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "9f5bbb5b-4592-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universitas Trunojoyo Madura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "d1db54c0-6ac6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitas Wijaya Kusuma Surabaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1fcf1de4-0d65-e011-971f-0030487d8897",
+		"OrganizationName": "Universiti Pendidikan Sultan Idris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b6bfcdd9-3a96-e211-87e9-f04da23e67f4",
+		"OrganizationName": "University of Bunda Mulia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "763e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Indonesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "ddec9ac5-10fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University of Palangka Raya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "215a5315-6b68-e911-8115-000d3af41938",
+		"OrganizationName": "University of Udayana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "e19a54ac-9cc7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Widyatama University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "c2aa7bd8-0031-e711-80ee-000d3af41938",
+		"OrganizationName": "Yayasan Bina Pertiwi Medan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a0186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Yayasan Iman Pengharapan dan Kasih (IPEKA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "a6186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Yayasan Panca Dharma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "7c13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Yayasan Pendidikan Institute Prima Bangsa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "1cc9bdce-ed61-e911-8115-000d3af41938",
+		"OrganizationName": "Yayasan Pendidikan Kristen Gloria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "00ff070f-1206-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Yayasan Pendidikan Pelita Harapan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "24628bfe-0e06-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Yayasan Pendidikan Pelita Harapan - Tangerang - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "242de703-30cb-e911-811e-000d3af41938",
+		"OrganizationName": "Yayasan Pendidikan Telkom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "b8186fe1-321a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Yayasan Santo Yakobus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "IDN",
+		"InstitutionID": "8188990a-65c8-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Yogyakarta State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

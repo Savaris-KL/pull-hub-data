@@ -1,0 +1,210 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "63ed30c8-db0f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Centre de Développement des Technologies Avancées",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "9857b6c4-28f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Centre de Recherche sur l'Information Scientifique et Technique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "3a254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "École Nationale Polytechnique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "3a00c003-be1b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale Polytechnique (Alger)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "b77b3572-f3d5-e711-80f9-000d3af41938",
+		"OrganizationName": "École Nationale Supérieure de Technologie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "cd26a611-831c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Nationale Supérieure D'informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "79a54b04-df0f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Supérieure du Commerce d'Alger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "7270b2eb-de0f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Institut National des Télécommunication et des TIC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "4df7bc84-209b-e811-8109-000d3af41938",
+		"OrganizationName": "Université 20 Août 1955 - Skikda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "ec1fe20a-4265-e911-8115-000d3af41938",
+		"OrganizationName": "Université Abdelhamid Ibn Badis Mostaganem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "15fc99d0-2fef-e811-810c-000d3af41938",
+		"OrganizationName": "Université Abdelhamid Mehri Constantine 2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "5cddff6c-6bd8-e811-810b-000d3af41938",
+		"OrganizationName": "Université Abderrahmane Mira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "9ee897e3-4ec9-e711-80f9-000d3af41938",
+		"OrganizationName": "Université Ahmed Draia d’Adrar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "363f53ae-8293-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Université d'Alger2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "48581d30-19af-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Université de Batna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "067f3f9c-73e9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Université de Mascara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "513999a0-010f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Université de M'Sila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "e1b8a9a2-04a4-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Université de Sidi-Bel-Abbes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "3f254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Université des Sciences et de la Technologie Houari Boumediene",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "0964911c-df0f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Université des Sciences et des Technologies d'Oran Mohamed Boudiaf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "c96d0711-01a7-e811-8109-000d3af41938",
+		"OrganizationName": "Université Djilali Bounaama Khemis Miliana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "e8066c90-219b-e811-8109-000d3af41938",
+		"OrganizationName": "Université Kasdi Merbah Ouargla",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "90c2d042-0a2b-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Université M'hamed Bougara Boumerdes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "057de822-5b22-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Université Mohamed Khider de Biskra (Algeria )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "38188fb3-0c10-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "University of Abou Bekr Belkaid Tlemcen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "DZA",
+		"InstitutionID": "ff2f98a1-ebc3-e711-80f9-000d3af41938",
+		"OrganizationName": "University yahia fares Medea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

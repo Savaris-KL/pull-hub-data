@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "833a3e98-47fd-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Belmont High School (Australia)",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5d438dbd-47fd-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "The State of Victoria through the Department of Education and Training",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5d438dbd-47fd-e311-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "5df74794-dcee-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Belmont High School (Australia)",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "956b7cee-ccfa-e611-9426-b8ca3a5db7a1",
+		"WebStoreName": "Belmont High School (Australia)",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=956b7cee-ccfa-e611-9426-b8ca3a5db7a1"
+	}
+]

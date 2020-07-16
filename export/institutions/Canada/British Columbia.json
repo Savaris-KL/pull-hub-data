@@ -1,0 +1,1994 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b183e1fd-e139-e911-8111-000d3af41938",
+		"OrganizationName": "Abbotsford School District (BC, Canada)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8d918fad-0d03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Acsenda School of Management",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "578c7893-4311-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Acsenda School of Management / Sprott-Shaw Community College - Vancouver - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "42d20b75-2d48-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Adler University – Vancouver Campus",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e4509641-cf80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Alberni",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a6036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Alexander College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "be4dc254-2d40-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Appaisal Institute of Canada",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9cd43bc7-e4ef-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Aqamnik  School - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b0036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Arbutus College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "458df92a-477f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Arrow Lakes",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b5036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Ashton College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e6f10ffd-d280-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Aspengrove School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8e368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Associated Canadian Theological Schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b32b7880-61cc-e211-9d05-f04da23e67f4",
+		"OrganizationName": "B.C Educational Resource Acquisition Consortium",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3c210474-ea26-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Bodwell High School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "482a3f65-cd80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Boundary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bd2bddc8-2f64-e811-8105-000d3af41938",
+		"OrganizationName": "Boyd Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c4036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Brighton College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "25b94b5a-c63a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "British Columbia Cancer Agency",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e83dc860-aa5b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "British Columbia Institute of Technology - Burnaby",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "072786bd-90c4-de11-886d-0030487d8897",
+		"OrganizationName": "British Columbia Institute of Technology, Burnaby Campus - VMware",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8c3a3134-d380-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Brockton School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "37945bd3-cd80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Bulkley Valley",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "68cffad7-9381-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Bulkley Valley Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3dedffd8-3e2f-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Burnaby North Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "42521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Burnaby Public Library",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "58358722-e7f6-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Burnaby School District 41",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f3d12ee1-2f64-e811-8105-000d3af41938",
+		"OrganizationName": "Burnett Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d83c2bee-2f64-e811-8105-000d3af41938",
+		"OrganizationName": "Cambie Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "96368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Camosun College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f6c869dc-6469-e111-a407-f04da23e67f6",
+		"OrganizationName": "Canadian College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8a26bce3-d3a8-e911-811c-000d3af41938",
+		"OrganizationName": "Canadian School of Osteopathy (Vancouver campus)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "75e65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Canadian Tourism College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "51587210-0463-e111-8056-f04da23e67f6",
+		"OrganizationName": "Canscribe Career College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d3036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Capilano College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b66e9eb3-ebc4-46f8-937e-f34f94adc9cb",
+		"OrganizationName": "Capilano University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1cfc080e-f296-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Capilano University - North Vancouver Campus - Campus Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "90624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Capillano College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "01ce4034-c771-e011-971f-0030487d8897",
+		"OrganizationName": "Carey Theological College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "855c6a56-477f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Cariboo-Chilcotin",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f35cff50-9481-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Carver Christian High School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cb9893e0-ae43-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "CCI Learning",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "337e3f68-f85d-e811-8105-000d3af41938",
+		"OrganizationName": "CDI College - Anjou - Information Technology - Departmental Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bb1750c6-b709-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "CDI College - Burnaby - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c8993de7-e7a4-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "CDI College - Surrey",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bf7f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI College Abbotsford Campus",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c87f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI College Burnaby",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8c909b81-9481-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Cedars Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c4f02565-6277-4b17-8f68-1e501ef9dbf0",
+		"OrganizationName": "Central Okanagan - School District No. 23",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "903eca65-bff5-e911-8122-000d3af41938",
+		"OrganizationName": "central okanagan public schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d17f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Centre for Arts and Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a573689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Centre for Digital Media",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1fb71134-88e3-e911-8120-000d3af41938",
+		"OrganizationName": "Centre for Entertainment Arts",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "38be13df-b870-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Certified General Accountants Association of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ffdd3f42-dfd6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Child & Family Research Institute",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c041d52f-487f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Chilliwack",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f80fe68f-d380-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Christ Church Cathedral School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0c97ab9b-d080-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Coast Mountain",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "25ce6d54-661f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Coast Tsimshian Academy (Lax Kw alaams, BC) - High School AA",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5cef471b-611f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "College of New Caledonia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ac3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of the Rockies - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6f0609e6-d380-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Collingwood School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5c08ce05-f5d5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Columbia College (BC)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6d5a994c-4811-ea11-8124-000d3af41938",
+		"OrganizationName": "Comox Valley Schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8a367d01-d280-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "ConseilScolaire Francophone",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bb5000e2-487f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Coquitlam",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8dc060d5-8e79-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Coquitlam College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cf291520-839d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Correlieu Secondary School - Quesnel Campus - Campus Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8a929070-d080-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Cowichan Valley",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b5880739-8781-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Credo Christian High School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f64efef5-8781-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Crofton House School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cfea2ae6-9c07-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Delta School District",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "33513788-f5a2-e711-80f6-000d3af41938",
+		"OrganizationName": "Discovery Community College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3a046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Dorset College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a0368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Douglas College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "24e4a847-e3ef-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Douglas College - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bbfd6ce8-9481-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Duncan Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2dbdf57d-0363-e111-8056-f04da23e67f6",
+		"OrganizationName": "Edward Milne Community School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "052c56fa-601f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Emily Carr University of Art and Design",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3330deb2-861c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Evergreen Public Schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "68bae04d-413c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Fleetwood Park Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f2d7be14-a906-e811-80fc-000d3af41938",
+		"OrganizationName": "Focus College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4123f31a-d080-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Fraser Cascade",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e2372947-478f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Glenlyon Norfolk School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4fa85380-cf80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Gold Trail",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8e7696e9-02ec-de11-a13b-0030487d8897",
+		"OrganizationName": "Greater Victoria School District SD#61",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ab87bd83-a384-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Gulf Island (School District 64)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f17f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Hampton College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "64ac46e5-51c6-df11-859b-0030487d8897",
+		"OrganizationName": "Heritage Christian Online School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "57378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Highroad Academy",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "51f4afa7-8881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Holy Cross Regional High School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "50e15881-c6fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Irwin Park Elementary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a2f80033-08d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Island Catholic Schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c7b1afb2-8f07-e811-80fc-000d3af41938",
+		"OrganizationName": "John Knox Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "75046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Justice Institute of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3b521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kelowna Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f9532f49-ad06-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "King George Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c62e5800-477f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Kootenay Lake",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ea01135e-1dc2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Kootenay-Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c08ab93b-b6b7-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Kwantlen Polytechnic University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "175384b1-9648-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Kwantlen Polytechnic University - Campus Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ad368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kwantlen University College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f13e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Langara College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "77ee0468-9581-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Langley Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "459fdb0a-acdd-e211-9000-f04da23fc520",
+		"OrganizationName": "Langley School District #35",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7010ac00-3064-e811-8105-000d3af41938",
+		"OrganizationName": "MacNeill Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b1368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Malaspina University-College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bc025a5a-487f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Maple Ridge",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ef48660f-8981-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Maranatha Christian School, BC",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9dca6913-3064-e811-8105-000d3af41938",
+		"OrganizationName": "McMath Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2fa8fe2c-3064-e811-8105-000d3af41938",
+		"OrganizationName": "McNair Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cf58cb3f-3064-e811-8105-000d3af41938",
+		"OrganizationName": "McRoberts Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b11f1eb9-f048-e011-bd14-0030487d8897",
+		"OrganizationName": "Meadowridge School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "75d66a9f-1fc2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Mennonite Education Institute",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a9046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Methodica Acting Studio for Film and Theatre",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5b71e4cf-a57d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Mount Boucherie Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2249ada9-21c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Mt. Cheam",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ba046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "MTI Community College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7a521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mulgrave School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3a9f1a05-22c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Nanaimo Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b5ac3d1c-02d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Nanaimo Ladysmith Public Schools",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d2046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Native Education Centre",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7e51558d-d180-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Nechako Lakes",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "dc046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "New Image College of Fine Arts",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e1046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Nicola Valley Institute of Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b564433f-eb5f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "North Cariboo Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6116ab39-611f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "North Island College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65b3b728-0209-44a2-aa75-27812f108bfe",
+		"OrganizationName": "North Okanagan-Shuswap School District No. 83",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3c9866c1-5750-e211-ad71-f04da23e67f6",
+		"OrganizationName": "North Vancouver School District",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f0046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Northern Lights College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65f6a050-08c2-e111-9902-f04da23fc522",
+		"OrganizationName": "Northern Lights School Division",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bb2cbf94-eead-e711-80f7-000d3af41938",
+		"OrganizationName": "Northwest Baptist Seminary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6a2df85d-611f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Northwest Community College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b1e65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Northwest Community College - University Credit Chemistry  Computer Science",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "510fa359-9281-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame Regional Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9b78028e-7c1f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Okanagan College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "54c404ee-26b7-e111-9902-f04da23fc522",
+		"OrganizationName": "Okanagan College - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e40d009f-4254-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Okanagan College, Kelowna - VMAP Campus",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7146bada-688e-4dcd-bff5-069d60d20d05",
+		"OrganizationName": "Okanagan Regional Library",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5a6343a2-cd80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Okanagan Similkameen",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "73f4504d-ce80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Okanagan Skaha",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b8368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Okanagan University College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6ccc7931-c513-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Open Door Adult Learning Centre",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ba368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Open Learning Agency",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "36bd1a99-9581-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Pacific Christian Sec School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "21de832a-be6e-ea11-8129-000d3af41938",
+		"OrganizationName": "Pacific Life Bible College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0395bed3-9281-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Pacific School of Innov & Inquiry",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9c73eb66-3064-e811-8105-000d3af41938",
+		"OrganizationName": "Palmer Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "09056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pera College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1e22a630-497f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Powell River",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2ab18f98-13f0-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Q College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "125870de-ce80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Qualicum",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6068ef59-2ddc-dd11-9772-0030485a8df0",
+		"OrganizationName": "Queen Margaret's School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "90d75c0a-487f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Quesnel",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "13056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Quest University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a3b37838-3d3f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Regent College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e15674e7-9581-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Richmond Christian School, BC",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "12543003-cfe8-418d-94c4-4e9a5c2d9d30",
+		"OrganizationName": "Richmond School District 38",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "491cf1b4-2e64-e811-8105-000d3af41938",
+		"OrganizationName": "Richmond School District No. 38",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b60e0853-3064-e811-8105-000d3af41938",
+		"OrganizationName": "Richmond Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "826b16dd-818e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Riverside College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d6dec2e7-7ed0-df11-bd73-0030487d8897",
+		"OrganizationName": "Robert Alexander McMath Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "55ae8530-437f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Rocky Mountain",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9de65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Royal Canadian Institute of Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bbc40810-7dd0-df11-bd73-0030487d8897",
+		"OrganizationName": "Royal Rhodes University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bd368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Royal Roads University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5e521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Patrick Regional Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9c9d6ca6-b590-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Samuel Robertson Technical Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a1154aee-d1b8-de11-886d-0030487d8897",
+		"OrganizationName": "Sauder School of Business - The University of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f22da7fa-530b-e111-a703-f04da23e67f6",
+		"OrganizationName": "Sauder School of Business at University of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a9d1ee54-3673-df11-bc53-0030487d8897",
+		"OrganizationName": "School District  No. 36 (Surrey)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a989f5bc-0473-4f95-a262-852e6539e8f6",
+		"OrganizationName": "School District #22 - Vernon",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "692783b0-f521-e211-a76f-f04da23e67f6",
+		"OrganizationName": "School District #23",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d26c0ee0-6c95-e211-87e9-f04da23e67f4",
+		"OrganizationName": "School District 34 Abbotsford",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "50d0c5b2-f91d-4f85-88e0-81f61279471f",
+		"OrganizationName": "School District 43",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d7b078b5-6416-448a-bb65-fa74352630e9",
+		"OrganizationName": "School District 58 (Nicola-Similkameen)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f76dcf1b-0e7f-df11-bc53-0030487d8897",
+		"OrganizationName": "School District 72 (Canada)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "89c38ea4-0add-4991-abfd-75c8981e73cb",
+		"OrganizationName": "School District 79",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0ee61931-fc8e-4b3c-8c9e-0022455286e2",
+		"OrganizationName": "School District 85",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bd5d540b-cc80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Sea to Sky",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c1368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Selkirk College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0cfdefca-fdbd-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Semiahmoo Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "82ef6104-9381-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Shawnigan Lake School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c4368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Simon Fraser University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d9a03756-d44c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Simon Fraser University (Texidium)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e5b16004-ce80-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Sooke",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bc9725fa-427f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Southeast Kootenay",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d5063154-8785-ea11-812a-000d3af41938",
+		"OrganizationName": "Southpointe Academy",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c410fb98-9681-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Southridge School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "27056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Sprott-Shaw Community College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bf51f991-9781-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St John's School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f2bb3036-9881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St Michaels University Sr School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a69d24a4-9881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St Thomas Aquinas High School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "26097830-9981-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St Thomas More Collegiate",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b6d6e843-9107-e811-80fc-000d3af41938",
+		"OrganizationName": "St. Andrew's Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "31089611-9881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St. Margaret's School, BC",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "25dfcab9-733f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Michaels University School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "99f9d177-822c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Michaels University School - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "42dff533-4cc4-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Stelly's Secondary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "00823f7a-3064-e811-8105-000d3af41938",
+		"OrganizationName": "Steveston-London Secondary",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "da742262-d180-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Stikine",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "56f88c62-9981-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Stratford Hall",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4e50d717-9681-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Surrey Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "59cc63c1-dddd-e211-9000-f04da23fc520",
+		"OrganizationName": "Surrey School District",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2f2d0dc1-a18f-ea11-812b-000d3af41938",
+		"OrganizationName": "Surrey Schools (BC, Canada)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ca368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Technical University of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "af36a383-1cba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "The Art Institute of Vancouver",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "862ff4ca-22c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "The King's School, BC",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "44697cd9-0ee4-de11-a13b-0030487d8897",
+		"OrganizationName": "The University of British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c6006cdf-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "The University of British Columbia - Microsoft Imagine Standard",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "88687ec3-90c4-de11-886d-0030487d8897",
+		"OrganizationName": "The University of British Columbia - Okanagan Campus",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "273c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of British Columbia Information Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b261d080-5f25-e011-b71d-0030487d8897",
+		"OrganizationName": "Thompson Career College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Thompson Rivers University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8e4eb29e-17ff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Thompson Rivers University - Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "10519b3c-c885-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Traditional Learning Academy",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cf368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trinity Western University",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "dd42a142-9681-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Unity Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4267931d-8c74-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University Canada West",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "263d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University College of the Cariboo",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ab3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University College of the Fraser Valley",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c422c02c-67dc-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "University of British Columbia - Vancouver Campus - Campus Store",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f83f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Northern British Columbia",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ca402036-3973-df11-bc53-0030487d8897",
+		"OrganizationName": "University of the Fraser Valley (Canada)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "283c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Victoria",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "abb4d6a9-c5b6-e811-810a-000d3af41938",
+		"OrganizationName": "University of Victoria, VMware Campus",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "26521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Vancouver Aquarium",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1f29c749-1797-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Vancouver Career College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "17703cbc-6f23-de11-a497-0030485a8df0",
+		"OrganizationName": "Vancouver Career College -",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e403965a-64e7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Vancouver Career College, Eminata Group - Burnaby - Microsoft Imagine",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "527dfc4d-9007-e811-80fc-000d3af41938",
+		"OrganizationName": "Vancouver Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7060649f-4b76-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vancouver College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b0408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vancouver Community College",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3ab64af5-a23a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Vancouver Community College, Downtown Campus - VMAP",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4ead39aa-5949-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Vancouver Film School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0cd989eb-d080-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Vancouver Is West",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5ef900b6-ebd9-de11-baeb-0030487d8896",
+		"OrganizationName": "Vancouver Island University (Canada)",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "41d602c1-5cda-e111-9c76-f04da23fc522",
+		"OrganizationName": "Vancouver School Board of Education School District # 39",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b8ce3378-0a9a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "VANCOUVER SCHOOL OF THEOLOGY",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6f8419c8-8145-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Vancouver Talmud Torah Elementary School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a9bace9f-9e46-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Vancouver Waldorf School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "970e52d7-7b75-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vernon Christian School",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c5a76b46-45e7-df11-bd73-0030487d8897",
+		"OrganizationName": "West Point Grey Academy",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "57521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "White Rock Christian Academy",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ff7dac52-c249-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "XXXCampus Support",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ddf4ec7a-9981-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "York House",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "be3ead32-d280-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Yukon",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_k_12"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "1dc8e3e0-a054-e011-bd14-0030487d8897",
+		"OrganizationName": "Corporation of the Trustees of the Roman Catholic Archdiocese of Brisbane",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://bne.catholic.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "7401fcf4-6495-e211-87e9-f04da23e67f4",
+		"WebStoreName": "Brisbane Catholic Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7401fcf4-6495-e211-87e9-f04da23e67f4"
+	}
+]

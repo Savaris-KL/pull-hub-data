@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "174b1b3f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Samford University (SS)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ee43ff3f-d39b-e011-969d-0030487d8897",
+		"WebStoreName": "Samford University - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ee43ff3f-d39b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "a20b76b3-e232-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Samford University (SS)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b00b76b3-e232-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Samford University - Accounting and Management Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b00b76b3-e232-e411-9403-b8ca3a5db7a1"
+	}
+]

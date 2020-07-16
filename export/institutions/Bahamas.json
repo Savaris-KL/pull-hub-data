@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHS",
+		"InstitutionID": "2c41ed5a-155a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Bahamas Technical & Vocational Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHS",
+		"InstitutionID": "b3965a20-ffdd-de11-baeb-0030487d8896",
+		"OrganizationName": "The College of the Bahamas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BHS",
+		"InstitutionID": "7820be50-f3e9-e911-8122-000d3af41938",
+		"OrganizationName": "University of the Bahamas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

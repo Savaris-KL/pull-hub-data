@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "7d6af1f8-d423-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Federation Training",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "46b619ff-d423-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Federation Training",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=46b619ff-d423-e411-9403-b8ca3a5db7a1"
+	}
+]

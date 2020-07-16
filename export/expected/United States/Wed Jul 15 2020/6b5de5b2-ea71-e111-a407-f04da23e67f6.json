@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "025d90f2-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Alaska Vocational Technical Center",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2e025167-ca9b-e011-969d-0030487d8897",
+		"WebStoreName": "AVTEC, Alaska's Institute of Technology - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2e025167-ca9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "4bdb59d2-b825-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Alaska Vocational Technical Center",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "59db59d2-b825-e511-940e-b8ca3a5db7a1",
+		"WebStoreName": "Alaska Vocational Technical Center - Information Technology Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=59db59d2-b825-e511-940e-b8ca3a5db7a1"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "67265246-a9c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Americana (Managua)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "858b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Católica \"Redemptoris Mater\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "21c3ea3c-3e2f-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Central de Nicaragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "580918cb-4387-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Iberoamericana de Ciencia y Tecnología",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "d4d6216d-ae1e-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional Agraria - Nicaragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "95634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Nacional Autónoma de Nicaragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "050cb259-c381-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Ingenieria - Nicaragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "771adff5-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Nacional de Ingeniería (Nicaragua)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NIC",
+		"InstitutionID": "b9093911-49f2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Politécnica de Nicaragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

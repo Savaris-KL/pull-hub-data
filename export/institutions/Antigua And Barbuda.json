@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ATG",
+		"InstitutionID": "cb67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The Antigua and Barbuda International Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ATG",
+		"InstitutionID": "a99a04be-a034-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "University of Antigua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "5452eec7-0dd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Campion Colle (Jamaica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "f6cd3be6-de34-e711-80ef-000d3af41938",
+		"OrganizationName": "Excelsior Community College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "046ce5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Heart College of Innovation and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "f30ab3aa-9a6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Jamaica TV White Spaces",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "80c16ce8-1273-df11-bc53-0030487d8897",
+		"OrganizationName": "Northern Caribbean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "2878aa00-2a96-e111-981b-f04da23e67f6",
+		"OrganizationName": "Portmore Community College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "dd48586e-d798-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "The University of the West Indies - Jamaica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "54dd3237-dad4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "University of Technology (Jamaica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "33a6d682-f81a-de11-9c12-0030485a8df0",
+		"OrganizationName": "University of the West Indies, Mona Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "JAM",
+		"InstitutionID": "47982211-0bbb-ea11-812c-000d3af41938",
+		"OrganizationName": "Vector Technology Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

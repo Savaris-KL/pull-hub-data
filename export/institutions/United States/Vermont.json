@@ -1,0 +1,650 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "695b65c3-627a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Addison Central Supervisory Union",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e13b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Advance Welding Institute",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bennington College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "050a7f61-b003-e011-bed1-0030487d8897",
+		"OrganizationName": "Brattleboro Union High School",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Burlington College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47864eec-dd6f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Burlington School District",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Burlington Technical Center",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1be3e545-15f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Burlington Township School District",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72bfc22d-cc7f-df11-bc53-0030487d8897",
+		"OrganizationName": "Castleton State College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Castleton State University",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68131fbd-478f-e711-80f4-000d3af41938",
+		"OrganizationName": "Castleton University",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8973a63a-d9aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Center for Technology, Essex - Microsoft Imagine Standard",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Champlain College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "477cf231-c840-de11-b696-0030485a8df0",
+		"OrganizationName": "Champlain College - Information Security",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e229bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "College of St Joseph",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Community College of Vermont",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a307c295-539d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Enosburgh Town School District",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Goddard College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Green Mountain College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Johnson State College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Landmark College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3165f94c-5deb-df11-9c87-0030487d8897",
+		"OrganizationName": "Long Trail School",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lyndon Institute",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lyndon State College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98b8227d-9bfc-de11-85a5-0030487d8897",
+		"OrganizationName": "Mansfield Winter Academy",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marlboro College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62ab86da-ed38-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Media and Communications Arts",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Middlebury College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "452d8a79-edd8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Milton Town School District",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Norwich University",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983c24d8-4eae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Norwich University - Northfield Campus",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00fc5f5e-63ff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Rowan College at Burlington County",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98f1aef2-d1fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Rutland City Public Schools",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "463a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Michael's College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "SIT Graduate Institute (World Learning)",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f4ea7d3-62ac-e811-8109-000d3af41938",
+		"OrganizationName": "South Burlington School District - Campus Store",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ffe910a-5600-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "South Royalton School",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Vermont College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84d7cf29-6756-e111-8056-f04da23e67f6",
+		"OrganizationName": "Southwest Vermont Career Development Center - Microsoft Imagine Standard",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fdc05db-e1a2-e711-80f6-000d3af41938",
+		"OrganizationName": "St. Johnsbury Academy",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5aefa2e-ed82-df11-bc53-0030487d8897",
+		"OrganizationName": "Sterling College (Vermont)",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2402194d-e5a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "The Hartford School District",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd32df6b-0d7f-df11-bc53-0030487d8897",
+		"OrganizationName": "The School for International Training",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a6438b5-8607-df11-85a5-0030487d8897",
+		"OrganizationName": "The Sharon Academy",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The Vermont Army National Guard Regional Training Institute",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Vermont",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "375de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Vermont College of Medicine",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad1af4d8-fb64-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vermont Academy",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce716abe-455b-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Vermont College of Fine Arts",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vermont Law School",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7eb8994-6f7d-df11-bc53-0030487d8897",
+		"OrganizationName": "Vermont State Colleges",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vermont Technical College",
+		"ProvinceCode": "VT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "535a1bea-f017-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Medtech College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=535a1bea-f017-e411-9401-b8ca3a5db7a1"
+	}
+]

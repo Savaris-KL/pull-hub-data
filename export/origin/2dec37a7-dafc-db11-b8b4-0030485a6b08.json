@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "74c5690a-0fd3-48fb-a50b-7a5270b0e9ad",
+		"OrganizationName": "Peoria Unified School District #11",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://tcpn.texas.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "633e8553-aefc-db11-b8b4-0030485a6b08",
+		"WebStoreName": "The Cooperative Purchasing Network - Texas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=633e8553-aefc-db11-b8b4-0030485a6b08"
+	}
+]

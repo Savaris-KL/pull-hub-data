@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "790ab95c-a432-de11-9d57-0030485a8df0",
+		"OrganizationName": "University of Alabama System - Huntsville",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8e0ab95c-a432-de11-9d57-0030485a8df0",
+		"WebStoreName": "University of Alabama in Huntsville - Electrical and Computer Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8e0ab95c-a432-de11-9d57-0030485a8df0"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "fe8d07d8-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of Alabama System - Huntsville",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8e17bc7a-bf9b-e011-969d-0030487d8897",
+		"WebStoreName": "University of Alabama in Huntsville - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8e17bc7a-bf9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "66551e39-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of Alabama System - Huntsville",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "51c39d5d-d09b-e011-969d-0030487d8897",
+		"WebStoreName": "University of Alabama - Huntsville - Information Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=51c39d5d-d09b-e011-969d-0030487d8897"
+	}
+]

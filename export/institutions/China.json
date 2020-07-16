@@ -1,0 +1,3714 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "10fffe6a-d255-e711-80f0-000d3af41938",
+		"OrganizationName": "Academy of Mathematics and Systems Science, CAS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fdc9e4dd-4de5-e911-8120-000d3af41938",
+		"OrganizationName": "Anhui Medical University (安徽医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "378772d8-264d-e711-80f0-000d3af41938",
+		"OrganizationName": "Anhui Normal University (安徽师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "31c93376-4876-e711-80f1-000d3af41938",
+		"OrganizationName": "Anhui University (安徽大学) - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c165265a-1b1d-ea11-8125-000d3af41938",
+		"OrganizationName": "Anhui University of Finance and Economics (安徽财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "188e4b1e-6f67-e911-8115-000d3af41938",
+		"OrganizationName": "Anhui University of Technology (安徽工业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fd3ae11c-266a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Anhui Xinhua University (安徽新华学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b846923e-2b4b-e911-8113-000d3af41938",
+		"OrganizationName": "Baoding University (保定大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8613185c-66d2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "BeiHang University (北京航空航天大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a708f2b2-a5f9-e911-8122-000d3af41938",
+		"OrganizationName": "Beijing Film Academy (北京电影学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "700ebd0f-2dbe-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Beijing Forestry University (北京林业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e004dd6b-68f8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Beijing Institute of Technology (北京理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d2e8cebe-5925-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Beijing International MBA at Peking University(北京大学) - 国家发展研究院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "37b3ff88-35a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Beijing Jiaotong University (北京交通大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "38f6948f-b38e-e911-811a-000d3af41938",
+		"OrganizationName": "Beijing Materials University (北京物资学院, Beijing Wuzi University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "84624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Beijing Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f68928d3-73fa-e911-8122-000d3af41938",
+		"OrganizationName": "Beijing Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ccd600de-f568-e811-8106-000d3af41938",
+		"OrganizationName": "Beijing Sport University (北京体育大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0fa940fe-2c34-e711-80ef-000d3af41938",
+		"OrganizationName": "Beijing Union University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "21e5d030-2d34-e711-80ef-000d3af41938",
+		"OrganizationName": "Beijing University of Chemical Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4907a9d4-e7f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Beijing University of Chinese Medicine (北京中医药大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5d13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Beijing University of Civil Engineering and Architecture (北京建筑大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b68bf050-9718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Beijing University of Posts and Telecommunications",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4f0da3d9-7ea0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Beijing University Of Technology (北京工业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5be06556-2852-e811-8105-000d3af41938",
+		"OrganizationName": "BGI College (深圳华大基因学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7a387fc7-7171-e711-80f1-000d3af41938",
+		"OrganizationName": "Boren Sino-Canadian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f3d47543-5fa9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Business College of Shanxi University (山西大学商务学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c8026fd0-c0c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Capital Medical University (首都医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1ce5980d-e1ce-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Capital Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3bbae915-a007-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Central China Normal University (华中师范大)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5b3f01a4-2176-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Central South University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "29a7a2d2-3d86-e911-811a-000d3af41938",
+		"OrganizationName": "Central South University of Forestry and Technology (中南林业科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a52b65d8-9d22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Central University of Finance and Economics (中央财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "419138f4-f78e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "CERNET - EES Student Option Fulfillment",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c7da05fc-3346-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Chang'an University (长安大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5d777806-9425-e911-8110-000d3af41938",
+		"OrganizationName": "Changchun Institute of Technology (长春工程学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "664c151e-0e33-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Changchun Normal University (长春师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "681083b7-77aa-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Changsha University of Science & Technology (长沙理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f28e4cd1-427a-e811-8106-000d3af41938",
+		"OrganizationName": "Changzhou Institute of Technology (常州工学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2bb352c2-91a4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Chengdu University (成都大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d658ee45-ecf7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Chengdu University of Information Technology (成都信息工程学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5ba6ae7a-e4cf-e911-8120-000d3af41938",
+		"OrganizationName": "Chengdu University of Technology (成都理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9ac34ef4-f995-e111-981b-f04da23e67f6",
+		"OrganizationName": "China Agricultural University ( 中国农业大学 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "95624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "China Europe International Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "713cea15-01ac-e011-98e6-f04da23e67f6",
+		"OrganizationName": "China Graduate School of Theology (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "39520991-33ac-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "China Medical University(中国医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d8d52e1c-273d-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "China Pharmaceutical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "dec9df0e-d913-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "China Three Gorges University (三峡大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bdf0fa0a-fe3e-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "China University of Geosciences (中国地質大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c26ca0c7-aaa0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "China University of Mining and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c9020b85-619a-e711-80f6-000d3af41938",
+		"OrganizationName": "China University of Mining and Technology (Beijing) 中国矿业大学（北京)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e64e7af5-e004-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "China University of Petroleum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c40cf245-8a7c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "China University of Political Science and Law",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "66778458-c480-e911-8119-000d3af41938",
+		"OrganizationName": "China West Normal University (西华师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8296c1c9-2c26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "China Women's University (中华女子学院) - 朝阳区 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "eb43c4d1-2484-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "China Youth University of Political Studies (中国青年政治学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "70a33173-abb3-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Chinese Academy of Medical Sciences & Peking Union Medical College（北京協和醫學院）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5f35556e-f8e3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Chongqing Medical University (重庆医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "84fcb7a1-dd25-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Chongqing Technology and Business University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5c95299c-6d64-e011-971f-0030487d8897",
+		"OrganizationName": "Chongqing University (重庆大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d6f0d6da-b20f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Christian Ministry Institute (牧職神學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e0dc8d82-25bb-e711-80f7-000d3af41938",
+		"OrganizationName": "City University of Macau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2d640285-c234-e711-80ef-000d3af41938",
+		"OrganizationName": "Civil Aviation Flight University of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4f203b5b-a36d-e811-8106-000d3af41938",
+		"OrganizationName": "Civil Aviation University of China (中国民航大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0bcecf41-de55-e711-80f0-000d3af41938",
+		"OrganizationName": "Colegio Diocesano de Sao Jose, Macau (St. Joseph Diocesan College of Macau)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e123ad99-4001-e811-80fc-000d3af41938",
+		"OrganizationName": "Communication University of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1e3bdc3e-e4ec-e811-810c-000d3af41938",
+		"OrganizationName": "Communication University of Shanxi (山西传媒学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "03f37cf6-c3a1-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Concordia International School Shanghai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bb8fdbdc-ebf7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Dalian Maritime University (大连海事大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "eb3e8620-cc34-e711-80ef-000d3af41938",
+		"OrganizationName": "Dalian Neusoft University of Information",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "33fe903c-3b89-e911-811a-000d3af41938",
+		"OrganizationName": "Dalian University of Foreign Languages (大连外国语大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7049e117-7bba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Dalian University of Technology  大连理工大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fa4060bc-ef1f-e911-8110-000d3af41938",
+		"OrganizationName": "Datian County Taihua Junior High School (大田县太华初级中学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1dd25191-c332-df11-b4ab-0030487d8897",
+		"OrganizationName": "Diocesan Boys' School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ea84156f-72c1-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Dongbei University of Finance and Economics (东北财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a6c4ce2d-981f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Donghua University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "838c4273-b105-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Dulwich College Beijing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "73fbbd5b-2e1d-e111-a703-f04da23e67f6",
+		"OrganizationName": "East China Normal University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6c224416-cb16-ea11-8125-000d3af41938",
+		"OrganizationName": "East China University of Political Science and Law (华东政法大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fe63247c-f55a-e011-bd14-0030487d8897",
+		"OrganizationName": "East China University Of Science And Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "718b503f-d362-ea11-8129-000d3af41938",
+		"OrganizationName": "East China University of Technology (东华理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0d426fba-eacf-de11-baeb-0030487d8896",
+		"OrganizationName": "Fudan University - VMware Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4f644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Fudan University (复旦大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5efdffe1-1b9b-e811-8109-000d3af41938",
+		"OrganizationName": "Fujian Agriculture and Forestry University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3f471896-accc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fujian Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a4720d70-2176-e711-80f1-000d3af41938",
+		"OrganizationName": "Fujian Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2317cf79-fbd5-e711-80f9-000d3af41938",
+		"OrganizationName": "Fujian University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "708fdf5a-e134-e711-80ef-000d3af41938",
+		"OrganizationName": "Fuzhou University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c443b9c2-9575-e911-8119-000d3af41938",
+		"OrganizationName": "Gannan Normal University (赣南师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b03532e5-4a18-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Gansu Agricultural University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "df56a998-e134-e711-80ef-000d3af41938",
+		"OrganizationName": "Gansu Institute of Political Science and Law",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3570a467-6f42-e811-8103-000d3af41938",
+		"OrganizationName": "Graduate School Chinese Academy of Social Sciences (中国社会科学院研究生院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4aa481c5-e634-e711-80ef-000d3af41938",
+		"OrganizationName": "Guangdong Institute of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2fb2c1e9-e634-e711-80ef-000d3af41938",
+		"OrganizationName": "Guangdong Ocean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7f6cd211-ac8e-e811-8108-000d3af41938",
+		"OrganizationName": "Guangdong Pharmaceutical University (广东药科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "29187348-9efe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Guangdong Polytechnic Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "29d2ba60-871e-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Guangdong University of Finance and Economics (广东财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "64eb4bbe-627d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Guangdong University of Foreign Studies (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e3296221-e734-e711-80ef-000d3af41938",
+		"OrganizationName": "Guangdong University of Technology (广东工业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0381cfec-7984-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Guangxi Normal University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "534bd660-e734-e711-80ef-000d3af41938",
+		"OrganizationName": "Guangxi University (广西大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8d6822d3-671f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Guangxi University of Chinese Medicine (広西中医薬大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fad2eb1b-eba0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Guangzhou Sport University (广州体育学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "87adfbbb-45dc-e711-80fa-000d3af41938",
+		"OrganizationName": "Guangzhou University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88142b62-4701-e811-80fc-000d3af41938",
+		"OrganizationName": "GuangZhou University (广州大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c44b950d-51d3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "GUILIN UNIVERSITY OF TECHNOLOGY (桂林理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "149fe3da-e734-e711-80ef-000d3af41938",
+		"OrganizationName": "Hainan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3970fd61-e834-e711-80ef-000d3af41938",
+		"OrganizationName": "Hangzhou Dianzi University (杭州电子科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "944635a0-e834-e711-80ef-000d3af41938",
+		"OrganizationName": "Harbin Engineering University (哈尔滨工程大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9148e77b-3551-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Harbin Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5cd5408b-359e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Harbin Medical University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "112fe5ac-4131-e911-8111-000d3af41938",
+		"OrganizationName": "Harbin University of Commerce (哈尔滨商业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7b3c6ef0-23c6-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Harbin University of Science and Technology (哈爾浜理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bab0b7e1-fe64-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Hebei Normal University (河北师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "21eaecbb-a9f5-e911-8122-000d3af41938",
+		"OrganizationName": "Hebei Normal University of Science and Technology (河北科技师范学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "37f119ea-e54a-e711-80f0-000d3af41938",
+		"OrganizationName": "Hebei University (河北大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a68447d1-85f5-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Hefei University of Technology (合肥工业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b2667ae7-eb34-e711-80ef-000d3af41938",
+		"OrganizationName": "Heilongjiang Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "902cb987-96e8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Henan Agricultural University (河南农业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "94b701c1-2f7e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Henan University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2f0be03a-6557-e711-80f0-000d3af41938",
+		"OrganizationName": "Henan University of Chinese Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "77789516-fa94-e811-8108-000d3af41938",
+		"OrganizationName": "Henan University of Science and Technology (河南科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9b084046-cd28-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Henan University of Urban Construction",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f7beb5a6-8ca6-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Hohai University (河海大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cc4b3205-13d5-e711-80f9-000d3af41938",
+		"OrganizationName": "Huaiyin Normal University (淮阴师范学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "26902bba-4f58-e711-80f0-000d3af41938",
+		"OrganizationName": "Huaqiao University (华侨大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c739d48a-a74e-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Huazhong Agricultural University (华中农业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "37ff9426-383e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Huazhong University of Science and Technology (华中科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "12950d6f-46a6-e811-8109-000d3af41938",
+		"OrganizationName": "Hubei Engineering University (湖北工程学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4613be0b-0a1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hubei Polytechnic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f045b852-2b5f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Hubei University (湖北大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "77010fe1-16ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Hubei University of Chinese Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "247f3ac1-ebd2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Hubei University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3846a218-bf78-e911-8119-000d3af41938",
+		"OrganizationName": "Hunan Normal University (湖南师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f43c724f-6ea4-e711-80f6-000d3af41938",
+		"OrganizationName": "Hunan University (湖南大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ecb40723-60d8-e811-810b-000d3af41938",
+		"OrganizationName": "Hunan University of Finance and Economics (湖南财政经济学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6a31ffd3-9231-e711-80ee-000d3af41938",
+		"OrganizationName": "Hunan University of Humanities, Science and Technology(湖南人文科技学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "dd5b39a8-5432-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Hunan University of Science and Technology (湖南科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "84aedb36-9d7d-e911-8119-000d3af41938",
+		"OrganizationName": "Hunan Vocational Institute of Safety Technology (湖南安全技术职业学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2f25abff-3c4b-e911-8113-000d3af41938",
+		"OrganizationName": "Inner Mongolia University (内蒙古大学 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "76576018-a810-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Inner Mongolia University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e21e02dd-2004-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Automation Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ddd43ab2-f223-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Computing Technology, Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "94f94be7-0d32-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Geographic Sciences and Natural Resources Research - Chinese Academy of Sciences （中国科学院地理科学与資源研究所）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5be9fd83-f776-e711-80f1-000d3af41938",
+		"OrganizationName": "Institute of Geology, China Earthquake Administration (中国地震局地质研究所)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bef63701-53ec-e911-8122-000d3af41938",
+		"OrganizationName": "Institute of Neuroscience, Shanghai Institutes for Biological Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "78357c0d-da8d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Software Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1baa79e4-016a-ea11-8129-000d3af41938",
+		"OrganizationName": "Jiamusi University (佳木斯大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8f03b00d-d2da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Jianghan University (江汉大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "28a3915c-ff07-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Jiangnan University (江南大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c5fe31aa-6087-e711-80f3-000d3af41938",
+		"OrganizationName": "Jiangsu Second Normal University (江苏第二师范学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fb6281da-b8cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Jiangxi Normal University (江西师范大学软件学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cc7ae678-f8b5-e811-810a-000d3af41938",
+		"OrganizationName": "Jiangxi University of Finance and Economics (江西财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4b3fbced-c31b-e811-80fe-000d3af41938",
+		"OrganizationName": "Jiaxing University (嘉兴学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4fa704d3-6cc6-e811-810a-000d3af41938",
+		"OrganizationName": "Jilin Huaqiao University of Foreign Languages (吉林华桥外国语学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88bf17d8-ecd2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Jilin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d5965e25-0397-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Jimei University (集美大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0ae1e354-7b4e-e011-bd14-0030487d8897",
+		"OrganizationName": "Jinan University (暨南大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f6c6ac98-13b0-ea11-812c-000d3af41938",
+		"OrganizationName": "Jinhua Polytechnic (金华职业技术学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "15bd06fc-027c-e911-8119-000d3af41938",
+		"OrganizationName": "Jinling College, Nanjing University (南京大学金陵学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "402df37b-8d56-e711-80f0-000d3af41938",
+		"OrganizationName": "Kunming Institute of Zoology - Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "71400476-81b2-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Kunming Medical University (昆明医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c5d20706-7de5-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Kunming University of Science and Technology (昆明理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "adc46782-9081-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Lanzhou Jiaotong University (Lanzhou Railway University, 兰州交通大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "256783ec-765e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Lanzhou University (兰州大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "da6fe98f-4766-e711-80f1-000d3af41938",
+		"OrganizationName": "Lanzhou University of Technology (兰州理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a2dd879d-2404-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Liaocheng University (LCU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fdcdb9c0-0234-e711-80ef-000d3af41938",
+		"OrganizationName": "Liaoning Normal University of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e64cc52b-556d-e711-80f1-000d3af41938",
+		"OrganizationName": "Liaoning Technical University (辽宁工程技术大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3e3aa4ca-406c-e011-971f-0030487d8897",
+		"OrganizationName": "Macau University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "408b1d08-5a45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Malvern College Qingdao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "31c935c5-0f4d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Medical College of Nanchang University ( 南昌大学医学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "384710dd-f386-e911-811a-000d3af41938",
+		"OrganizationName": "Mianyang Normal University (绵阳师范学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e8c9f2d7-b76e-e111-a407-f04da23e67f6",
+		"OrganizationName": "Microsoft China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "246aa571-d273-e711-80f1-000d3af41938",
+		"OrganizationName": "Minjiang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "853c7660-4872-e711-80f1-000d3af41938",
+		"OrganizationName": "Minzu University of China (中央民族大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b88cfa2d-e0f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Nanchang University - 南昌大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "27f7ac07-668c-e911-811a-000d3af41938",
+		"OrganizationName": "Nanfang College of Sun Yat-Sen University (中山大学南方学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8d624ca2-16f0-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Nanjin University of Chinese Medicine (南京中医药大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8c8310ab-3119-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Nanjing Agricultural University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d37d5def-0ac0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Nanjing Audit University (南京审计学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2d8a5338-d4d6-e811-810b-000d3af41938",
+		"OrganizationName": "Nanjing Institute of Technology (南京工程学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1debb2fd-d2ac-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Nanjing Medical University (南京医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5266a8c7-bb54-e011-bd14-0030487d8897",
+		"OrganizationName": "Nanjing Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b1624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Nanjing University (南京大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ab9fa3e3-335a-e011-bd14-0030487d8897",
+		"OrganizationName": "Nanjing University of Aeronautics and Astronautics (南京航空航天大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "528a6a30-638f-e811-8108-000d3af41938",
+		"OrganizationName": "Nanjing University of Finance and Economics (南京财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bdd124c6-67ff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Nanjing University of Information Science & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "03c8992e-8abd-e711-80f7-000d3af41938",
+		"OrganizationName": "Nanjing University of Posts and Telecommunications (南京邮电大学通达学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1aaeb9d6-3119-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Nanjing University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "28dc9ca0-43c2-e211-be21-f04da23e67f4",
+		"OrganizationName": "Nankai university (webstore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f9592203-0695-e711-80f6-000d3af41938",
+		"OrganizationName": "Nankai University (南开大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f8735bba-2b93-e711-80f6-000d3af41938",
+		"OrganizationName": "Nankai University-Tianjin - Balitai Campus - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "16b6a3df-fdfd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "NanTong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "eacec444-2c26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Nanyang Institute of Technology (南阳理工学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8e6cf394-f956-e911-8113-000d3af41938",
+		"OrganizationName": "National University of Defense Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "aeb839d6-b2ab-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "National University of Defense Technology (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6a981f33-4f58-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Ningbo University (宁波大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3b78ed55-1154-ea11-8127-000d3af41938",
+		"OrganizationName": "Ningxia University (宁夏大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ee3614d2-6603-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "North China Electric Power University (华北电力大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "20337f16-176d-ea11-8129-000d3af41938",
+		"OrganizationName": "North China Institute of Science and technology (华北科技学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2d6286ce-680f-e911-810e-000d3af41938",
+		"OrganizationName": "North China University of Science and Technology (华北理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "23d1ca7f-15bf-e711-80f7-000d3af41938",
+		"OrganizationName": "North China University of Water Resources and Electric Power (华北水利水电大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7be01009-9001-ea11-8124-000d3af41938",
+		"OrganizationName": "North Minzu University - 北方民族大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "883b0bc0-42f9-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "North University of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "380a05bd-89c0-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Northeast Electric Power University (东北电力大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3719ec9b-b497-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Northeastern University (東北大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "49d2bc3a-7b84-df11-bc53-0030487d8897",
+		"OrganizationName": "Northwest A&F University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "03b09c36-6e7a-e011-969d-0030487d8897",
+		"OrganizationName": "Northwest AF University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0fc7f4be-27b0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Northwest University (西北大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0795a542-66c0-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Northwest University of Political Science and Law (西北政法大学 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0975cff3-d31b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "NYU Shanghai - 上海纽约大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "65267d48-5e68-e911-8115-000d3af41938",
+		"OrganizationName": "Peking University (北京大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8fa9af30-bb11-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Peking University(北京大学) - 软件与微电子学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8ca3cd31-8dd7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Qingdao Technical - Qingdao - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f2bf45b3-2b26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Qingdao University (青岛大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "61218b42-a4ea-e911-8122-000d3af41938",
+		"OrganizationName": "Qingdao University of Technology (青岛理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "78624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Renmin University of China (Embargoed)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3180bc8e-407a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Sanjiang University (三江学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "21aca9a1-153b-e711-80ef-000d3af41938",
+		"OrganizationName": "Sanya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a77152dd-2226-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "School of Computer Science and Engineering (河北工业大学计算机科学与软件学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fa546c46-3ddc-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "School of Mobile Information Engineering (中山大学移动信息工程学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "91bca401-a849-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Shan Dong Jiaotong University (山东交通学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e770a63f-72ea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Shandong Institute Of Commerce And Technology (山东商业职业技术学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "47e4902e-1ee0-e711-80fa-000d3af41938",
+		"OrganizationName": "Shandong Normal University (山东师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "78f026e9-02cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Shandong University (山东大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "df029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Shandong University of Finance and Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1101d0b7-e4f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Shandong University of Technology (山东理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a49e4572-c273-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Shandong University School of Medicine (山东大学医学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fb5f507f-2cbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Shandong University, Weihai (山东大学, 威海）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a8cbd967-03cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Shangdong University School of Management (山东大学管理学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7449d629-5003-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai American School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c21d7efd-09f4-e811-810c-000d3af41938",
+		"OrganizationName": "Shanghai Institute of Materia Medica, Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "afc8efe5-3656-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai Institutes for Biological Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bcd33db2-ca76-e711-80f1-000d3af41938",
+		"OrganizationName": "Shanghai International Studies University (SISU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "82465660-cd05-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai Jian Qiao University (上海建橋学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e6f8c518-0b7f-df11-bc53-0030487d8897",
+		"OrganizationName": "Shanghai Jiao Tong University (上海交通大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "215ee520-151d-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shanghai Jiao Tong University- Shanghai Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "149cbfcf-4443-e011-b1e1-0030487d8897",
+		"OrganizationName": "Shanghai Maritime University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f017573a-5639-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "SHANGHAI NORMAL UNIVERSITY (上海师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "27d8b9bc-bf6e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai Pinghe School (上海市平和双语学校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "20623093-2025-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shanghai University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a468c2f4-163b-e711-80ef-000d3af41938",
+		"OrganizationName": "Shanghai University of Electric Power",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88763a3a-9af0-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai University of Finance and Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "21312696-f034-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Shanghai University of International Business and Economics (上海对外经贸大学 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e5634d83-ae64-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Shanghai University of Sport (上海体育学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "daaf7999-273b-e711-80ef-000d3af41938",
+		"OrganizationName": "ShanghaiTech University (上海科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4348b77e-90ea-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Shantou University (汕头大学）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0d98fb63-567f-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Shanxi Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9de62bac-db13-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shanxi Medical University (山西医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0ed7397e-f104-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shanxi University (山西大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2b57bd2b-2043-e811-8103-000d3af41938",
+		"OrganizationName": "Shenyang Aerospace University (沈阳航空航天大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0ae44fdc-273b-e711-80ef-000d3af41938",
+		"OrganizationName": "Shenyang Institute of Chemical Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fe1748ef-51cf-e811-810b-000d3af41938",
+		"OrganizationName": "Shenyang Normal University (沈阳师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "83abea33-f19f-e811-8109-000d3af41938",
+		"OrganizationName": "Shenyang Pharmaceutical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a97287fb-273b-e711-80ef-000d3af41938",
+		"OrganizationName": "Shenyang University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "277ada27-61f8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "ShenZhen College of International Education (深圳国际交流学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "07f1a19e-5103-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shenzhen Institutes of Advanced Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cbf95aa0-f512-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shenzhen University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bd1d47d6-2470-e911-8119-000d3af41938",
+		"OrganizationName": "Shijiazhuang Tiedao University (石家庄铁道大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c6624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Sichuan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fc3fba9e-dd4a-de11-b696-0030485a8df0",
+		"OrganizationName": "South China Agricultural University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cb856478-a54e-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "South China Normal University (华南师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c667ca98-0b51-e211-ad71-f04da23e67f6",
+		"OrganizationName": "South China University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1a7d9a4f-28e0-e211-9000-f04da23fc520",
+		"OrganizationName": "South University of Science and Technology of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "47016cb1-a82b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "South-Central University for Nationalities (中南民族大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8f2aecb3-a11f-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Southeast University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "dfd02f6f-40ab-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Southern Medical University (南方医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "646f4217-11c0-e811-810a-000d3af41938",
+		"OrganizationName": "Southern University of Science and Technology (南方科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cc624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "SOUTHERN YANGTZE UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bf254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Southwest Jiaotong University (西南交通大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1d3ba5d3-ded6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Southwest Petroleum University (西南石油大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "01b85588-99fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Southwest University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4642f692-a138-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Southwestern University of Finance and Economics (西南财经大学 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "21acc2f5-964c-df11-b56b-0030487d8897",
+		"OrganizationName": "Sun Yat-Sen University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88cf19c0-cc10-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Sun Yat-Sen University(中山大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d13ee2d5-03be-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Suzhou Institute of science and technology (苏州科技学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c255fc63-a652-e711-80f0-000d3af41938",
+		"OrganizationName": "Taiyuan University of Technology (太原理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f246bbf9-4b91-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Tam Lee Lai Fun Memorial Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "83c13f7f-cb73-e711-80f1-000d3af41938",
+		"OrganizationName": "Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ef1737a5-4ee0-e711-80fa-000d3af41938",
+		"OrganizationName": "The German Embassy School Beijing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f46e0f89-4291-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The HK Council of the Church of Christ in China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b77289ee-711d-e811-80fe-000d3af41938",
+		"OrganizationName": "The Institute of Physics, Chinese Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "14b2eb30-05c9-e911-811e-000d3af41938",
+		"OrganizationName": "The Open University of Guangdong (广东开放大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ea3d910c-4d76-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "The University of Nottingham Ningbo China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "11bc9fd2-2996-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Third Military Medical University (第三军医大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "87bd48f3-425b-e711-80f0-000d3af41938",
+		"OrganizationName": "Tianfu College of Swufe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4684567f-bbc3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Tianjin Medical University (天津医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3d57cc47-7f5a-e711-80f0-000d3af41938",
+		"OrganizationName": "Tianjin Polytechnic University (天津工业大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "52ddfe21-fe6b-de11-b7f9-0030487d8896",
+		"OrganizationName": "Tianjin University of China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "039ada9c-35c6-e711-80f9-000d3af41938",
+		"OrganizationName": "Tianjin University of Commerce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6d2e22d3-7d57-e811-8105-000d3af41938",
+		"OrganizationName": "Tianjin University of Science (天津科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a14e410a-dd29-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tongji University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "700985d3-f868-df11-b841-0030487d8897",
+		"OrganizationName": "Tongji University - Network Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a5913719-3f6c-e011-971f-0030487d8897",
+		"OrganizationName": "Tsinghua University (清华大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a0552359-051e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "University of Chinese Academy of Sciences (中国科学院大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b1254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Electronic Science and Technology of China (电子科技大学) China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f044bce0-e929-e211-aed3-f04da23e67f6",
+		"OrganizationName": "University of International Business and Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e50dea2c-bc8f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Jiangsu (江苏大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "29db9c10-d7f5-e911-8122-000d3af41938",
+		"OrganizationName": "University of Kang Ning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "813bd59e-5d45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Saint Joseph, Macau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1916f8a1-3419-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "University of Science and Technology Beijing (北京科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9c25483b-9c32-e211-aed3-f04da23e67f6",
+		"OrganizationName": "University of Science and Technology of China (中国科学技术大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "26d7ec01-dbb9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University of Shanghai for Science and Technology (上海理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "048bc3d2-f012-ea11-8124-000d3af41938",
+		"OrganizationName": "University Of Wollongong College Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ff714972-f6e9-e911-8122-000d3af41938",
+		"OrganizationName": "Vocational College for Electronic Science & Technology (北京电子科技职业学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0ed95670-e677-e911-8119-000d3af41938",
+		"OrganizationName": "Wenzhou University (温州大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3dce32bb-8e56-e711-80f0-000d3af41938",
+		"OrganizationName": "West Anhui University (皖西学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e5076e16-7684-e811-8108-000d3af41938",
+		"OrganizationName": "Wuhan Textile University (武汉纺织大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "dd13aa72-342d-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Wuhan University of Science and Technology (武汉科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "50a31f66-6a91-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Wuhan University of Technology (武汉理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c6b68238-cf2d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Wuhan University(武汉大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bd962245-05cd-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Wuyi University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3b21b6e6-6642-e811-8103-000d3af41938",
+		"OrganizationName": "XI ' an University of Posts and telecommunications",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "852c7110-2a34-e711-80ef-000d3af41938",
+		"OrganizationName": "Xi Hua University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "de95682f-c6fe-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Xiamen University (厦门大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6d54c41d-1cd9-e711-80fa-000d3af41938",
+		"OrganizationName": "Xiamen University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8828a5c1-fc28-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Xi'an Jiaotong University (西安交通大学) (Embargoed)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "41d657ba-3873-df11-bc53-0030487d8897",
+		"OrganizationName": "Xi'an Jiaotong-Liverpool University (西交利物浦大学) (Embargoed)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "384f7a2d-3c72-e711-80f1-000d3af41938",
+		"OrganizationName": "Xi'an University of Architecture and Technology (XAUAT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3e9cd4d3-2934-e711-80ef-000d3af41938",
+		"OrganizationName": "Xian University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "04bf3e7d-4f5b-e711-80f0-000d3af41938",
+		"OrganizationName": "Xi'an University of Technology (西安理工大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1a361e28-b2c7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Xi'an Unversity of Arts and Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "124e333e-6fdc-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Xiangtan University (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "696ac1a7-c062-e911-8115-000d3af41938",
+		"OrganizationName": "Xianyang Normal University (咸阳师范学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9a5ad0ce-3828-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Xidian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ed051b31-0c80-ea11-812a-000d3af41938",
+		"OrganizationName": "Xinhua College of Sun Yat-Sen University (中山大学新华学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d27f9651-4171-e711-80f1-000d3af41938",
+		"OrganizationName": "Xinjiang University (新疆大学, Шинҗаң Университети)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "882d5db5-2934-e711-80ef-000d3af41938",
+		"OrganizationName": "Xinxiang Medical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "cb22e16a-5ca6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Xinyang College of Agriculture and Forestry (信阳农林学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "787f2b7e-e3cf-e911-8120-000d3af41938",
+		"OrganizationName": "Xuzhou Medical University (徐州医科大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0d86069c-2719-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Yan Fook Bible Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e8c64584-2934-e711-80ef-000d3af41938",
+		"OrganizationName": "Yangjiang Vocational and Technical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bd11e634-d8d6-e811-810b-000d3af41938",
+		"OrganizationName": "Yangtze University (长江大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "34582a6b-835a-e711-80f0-000d3af41938",
+		"OrganizationName": "Yanshan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0211851d-2934-e711-80ef-000d3af41938",
+		"OrganizationName": "Yantai Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e85c3404-09c3-e711-80f9-000d3af41938",
+		"OrganizationName": "Yixing Experimental Middle School (宜兴市实验中学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6673fb9a-c330-ea11-8126-000d3af41938",
+		"OrganizationName": "Yunnan Normal University (云南师范大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "48fe1403-e7d2-df11-bd73-0030487d8897",
+		"OrganizationName": "Yunnan Normal University Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1942a013-b1e5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Yunnan University (云南大学) China",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7d3e0178-336a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Yunnan University of Finance and Economics (云南财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3de6349a-758b-e811-8108-000d3af41938",
+		"OrganizationName": "Zaozhuang College (枣庄学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "559743fa-ae70-e811-8106-000d3af41938",
+		"OrganizationName": "Zhejiang Gongshang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2ea52514-2c6a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Zhejiang Institute of Mechanical & Electrical Engineering (浙江机电职业技术学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "17ff603e-505b-e711-80f0-000d3af41938",
+		"OrganizationName": "Zhejiang Ocean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d56dc0c7-b19b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Zhejiang Tongji Vocational College Of Science and Technology (浙江同济科技职业学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "29634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Zhejiang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c1029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zhejiang University (浙江大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8c8a8500-f0eb-e711-80fa-000d3af41938",
+		"OrganizationName": "Zhejiang University Ningbo Institute of Technology ( 浙江大学宁波理工学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "899aac7e-00a8-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Zhejiang University of Finance and Economics (浙江财经大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a0ef8ebd-16bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Zhejiang University of Media & Communications (浙江传媒学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8d25bbb2-88d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Zhejiang University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "23dfe8ca-3bb0-e711-80f7-000d3af41938",
+		"OrganizationName": "Zhengzhou University (郑州大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "389a68f3-a15d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Zhengzhou University of Light Industry (郑州轻工业学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "12c31699-87f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Zhongnan University of Economics and law (中南财经政法大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b263f415-2e26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "上海中医药大学 (Shanghai University of Traditional Chinese Medicine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e448c90d-410f-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "东北大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ea0c9286-1277-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "东北师范大学 (Northeast Normal University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c3d069df-2b1b-e811-80fe-000d3af41938",
+		"OrganizationName": "中国刑事警察学院 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "60254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "中国地质大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "118da59f-c931-e811-8101-000d3af41938",
+		"OrganizationName": "中国地质大学（北京）- 北京 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1841f1fa-c3aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "中国地质大学（武汉）计算机学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ab213155-e6b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "中国民航大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3c91e50a-05a4-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "中国海洋大学 (Ocean University of China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2fa93e1e-0031-e711-80ee-000d3af41938",
+		"OrganizationName": "中国石油大学（华东）- 东营市 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "67254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "中国科学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0202ce5b-02b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "中国科学院 (Chinese Academy of Sciences)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "64254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "中國民航大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "0e5ef8e0-a997-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "中央大學工系",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1394927c-f4f9-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "僑光科技大學 (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d2e2824e-45dc-e711-80fa-000d3af41938",
+		"OrganizationName": "兰州交通大学 - 化学与生物工程学院 - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6ec55dd9-2b1b-e811-80fe-000d3af41938",
+		"OrganizationName": "内蒙古师范大学 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6bc25dd9-2b1b-e811-80fe-000d3af41938",
+		"OrganizationName": "内蒙古财经大学 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "13c85dd9-2b1b-e811-80fe-000d3af41938",
+		"OrganizationName": "包头师范学院 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "dc751f90-76e4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "北京交通大学 - 北京市 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6a254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北京交通大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6d254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北京信息科技大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e5692298-6871-e711-80f1-000d3af41938",
+		"OrganizationName": "北京农学院(Beijing University of Agriculture)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "598ca792-8ca7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "北京化工大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "541d0020-8ba7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "北京化工大学 - 北京市- Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "74e32f89-058e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "北京外国语大学 ( Beijing Foreign Studies University )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a4644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "北京大学 - 北京市海淀区",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4e254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北京工业大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "aae8c8e4-844f-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "北京工商大学 - 阜成路校区 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3785fbf2-2139-e011-b1e1-0030487d8897",
+		"OrganizationName": "北京师范大学 - 北京市 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "70fbd8b1-48d5-e711-80f9-000d3af41938",
+		"OrganizationName": "北京服装学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9fe0e86b-f995-e111-981b-f04da23e67f6",
+		"OrganizationName": "北��理工大学 - 北京海淀区 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "73254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北京科技大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bf953a77-1d0c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "北京科技大学计算机与通信学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "76254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北京邮电大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5abfdb9f-9a57-e811-8105-000d3af41938",
+		"OrganizationName": "北京邮电大学 - 北京 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3ca77c2d-a4b6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "北京邮电大学基础实验教学中心",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "150b190f-fef5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "北京顺义国际学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "70254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "北大方正軟件技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4a688107-bd64-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "北方工业大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "2c6a39dc-9c4c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "华南理工大学 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fa64c17e-7dba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "华南理工大学软件学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7c254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "南京信息工程大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7e2b2889-0268-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "南京信息职业技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d39c08a3-7dba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "南京化工职业技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "7f254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "南京化工職業技術學院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "82254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "南京师范大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b80d3a71-8eba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "南京师范大学计算机学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "85254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "南京理工大学 (Nanjing University of Science and Technology, China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4239bad5-e3b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "南京理工大学紫金学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "南通大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "67f4ec3a-7a27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "四川交通职业技术学院 ( Sichuan Vocational and Technical College of Communications )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b9843f07-7c0e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "复旦大学 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "39907626-e6b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "大華科技大學 (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8b3c52eb-ecb8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "大连东软信息学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b2d3636d-f0b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "天津农学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ac144839-3168-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "天津北洋当代信息工程培训中心 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5d254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "天津国际学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8f254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "天津师范大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "56263bed-7aba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "天津师范大学软件学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "752ca4e1-d913-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "太仓市中兴协力职业培训学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "92254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "宁波工程学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a4e2ee98-98cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "安博二分校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a61072a4-79ba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "广东第二师范学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "96254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "廣东第二師範學院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9b254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "廣东轻工職業技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "9f254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "成都东软学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4bdc5dcb-8ba7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "曲阜师范大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "88820f14-8ba7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "曲阜师范大学 - 曲阜市- Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "99612574-2ca9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "江苏科技大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a2254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "江蘇科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "696252a3-e3b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "河北经贸大学 (China)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "15644abf-4559-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "河南财经政法大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ab8ee07e-bd5b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "济南大学(University of Jinan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "95600c43-f0b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "浙江大学软件学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a5254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "浙江大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a8254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "浙江廣播電視大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "57632039-fef5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "深圳QSI国际学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "1b94ecf5-3b52-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "深圳大学 - 深圳 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "397b6496-92b6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "深圳职业技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ab254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "深圳職業技術學院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ae254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "温州肯恩大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "4a33545f-8dba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "电子科技大学信息与软件工程学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b48acfde-01b9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "电子科技大学计算机科学与工程学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b4254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "盐城師範学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "3ee54999-e3b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "石家庄学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "b8254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "福州大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "fc3dd82e-7b27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "苏州大学 ( Soochow University )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "79254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "華南理工大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "61ea8b6e-e3b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "西北工业大学软件与微电子学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "bc254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "西北工業大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8047b335-c28a-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "西南大学 (Southwest University) - 重庆 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "5a254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "西南大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "6ad85ab4-edf7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "西南民族大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c2254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "西南科技大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "d5c0de2c-00b9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "西南科技大学大学计算机科学与技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c5254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "贵州財经大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "99ef3f80-fbb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "贵州财经大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "51254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "重庆师范大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "ec62ba8f-2e10-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "重庆文理学院 - 重庆 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "067f5b14-a82b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "重庆海天软件教育培训学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c90edb9b-2e10-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "重庆电子工程职业学院 - 重庆 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "e67292a4-02b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "重庆邮电大学",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "57254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "重慶理工大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "54254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "重慶郵電大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "c8254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "金華職業技術學院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "f4c19407-bc56-e711-80f0-000d3af41938",
+		"OrganizationName": "青岛科技大学 - 青岛市 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "8be3a121-3e92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "首都经济贸易大学 - 校本部(丰台区花乡) - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHN",
+		"InstitutionID": "a23e12f4-79ba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "马鞍山职业技术学院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

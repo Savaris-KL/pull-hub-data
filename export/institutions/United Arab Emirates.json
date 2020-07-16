@@ -1,0 +1,706 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "8851e791-2e01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Abu Dhabi Education Council",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "bef3c554-a1a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Abu Dhabi International (Pvt.) School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "01dfad2a-fc75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Abu Dhabi Men's Colleg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "687e1ac3-129e-de11-886d-0030487d8897",
+		"OrganizationName": "Abu Dhabi University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e452e791-2e01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Abu Dhabi Vocational Education and Training Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "bd5052a9-5359-e011-bd14-0030487d8897",
+		"OrganizationName": "Ajman University of Science and Technology (United Arab Emirates)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "320eb74b-10c7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Al Maktoum School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "9b3d52ef-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "AL Raheb School for Basic Education and Secondary - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "cbd54b0b-c380-e911-8119-000d3af41938",
+		"OrganizationName": "Al Saad Indian School (Abu Dhabi, UAE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "d0188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ALHOSN University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "dad96c01-8e27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Alraheeb school - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "1b654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "American University in Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "25f95f91-e518-e911-8110-000d3af41938",
+		"OrganizationName": "American University of Ras Al Khaimah",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "eedb037b-6b3c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "American University of Sharjah",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "9231eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Babylon Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "8c31eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Baghdad Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "74c33d4f-d725-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Birla Institute of Technology - Offshore Campus - RAK, UAE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "7e874687-72d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Birla Institute of Technology and Science, Pilani (Dubai Campus)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "c6667a63-615c-e911-8115-000d3af41938",
+		"OrganizationName": "Cambridge International School, Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "de793bc3-09a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Canadian University of Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "525652c7-7e24-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dibba Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "7431eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Directorate of Human Resources Development",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "806b8124-598e-e711-80f4-000d3af41938",
+		"OrganizationName": "Dubai American Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "f73a56c2-52ae-e111-b575-f04da23e67f6",
+		"OrganizationName": "Dubai College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "d0b4a3d6-ecab-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Dubai College of Dental Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "2b622b8d-3269-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Dubai International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "d4188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dubai Women's College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "d6648b92-1c04-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Emirates Aviation University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "948c7d47-dac1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Emirates College for Advanced Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "b9b790b4-e225-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Emirates College of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "5350e791-2e01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Emirates National School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "f19df04b-fd4e-e811-8103-000d3af41938",
+		"OrganizationName": "Emirates Skills",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "8bbd750f-5707-e211-bd05-f04da23e67f6",
+		"OrganizationName": "General Headquarters (GHQ) of the UAE Armed Forces",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "991860dd-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hamad Bin Abdullah Al- Sharqi Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "20564d0a-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hamad Bin Abdullah El Sharqy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "9f31dcea-1ba7-df11-ad57-0030487d8897",
+		"OrganizationName": "Hamdan Bin Mohammed Smart University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "11a825bc-5c0c-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "HCT Ras Al Khaimah Women's College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "a5bcff28-f081-de11-8cd1-0030487d8897",
+		"OrganizationName": "Higher Colleges of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "9b89cc6c-f451-e711-80f0-000d3af41938",
+		"OrganizationName": "Higher Colleges of Technology - CIS Division (VMAP)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "62c6384b-027e-e711-80f3-000d3af41938",
+		"OrganizationName": "Higher Colleges of Technology - Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "a978956a-d769-df11-b841-0030487d8897",
+		"OrganizationName": "Higher Colleges of Technology - Office Only",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "33e95b61-fdef-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Higher Colleges of Technology - UAE - Adobe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "3ed459ae-97ac-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Higher Colleges of Technology - Western Region Colleges",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "2aacb797-807c-de11-b7f9-0030487d8896",
+		"OrganizationName": "Higher Colleges of Technology (United Arab Emirates)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "586dd229-c640-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Management Technology (Dubai)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "3e58d757-cc76-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "International Namaa Association Research and Development",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e8f65c42-4555-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Jumeirah College (UAE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "3fca9ad4-3c2f-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Khalifa University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "8031eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lootah IT Solutions",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "d39bdf7b-8327-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lubaba Bent Al Hareth School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "6e31eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lycee Georges Pompidou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "5b3fd3cf-f822-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Madhab Secondary School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "0765a3fc-6a32-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Masafi School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "a6027dc0-2096-e111-981b-f04da23e67f6",
+		"OrganizationName": "Masdar Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "9af062a4-8027-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Merbeh Secondary School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "f104560a-3f37-e711-80ef-000d3af41938",
+		"OrganizationName": "Middlesex University Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "3e681a24-6724-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ministry of Education - United Arab Emirates",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "56d9d391-adcb-e711-80f9-000d3af41938",
+		"OrganizationName": "MODUL University Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "855fa8c1-6b24-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mohammed Bin Hamad Al-Sharqi School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "6f4c7728-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Mohammed Bin Hamad Al-Sharqi secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "b7056431-4a28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Owhala School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "da188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Preston University Ajman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "cced7007-e98d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "RAK Medical and Health Sciences University (UAE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "7a31eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ras Al Khaimah English Speaking School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "dd188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "RIT Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "930c1897-680b-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Rochester Institute of Technology - Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e0188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ruwais Women's College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "c5ac3c71-d69b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "S P Jain School of Global Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "7bdc47cb-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Saif Ibn Hamad Al-Sharqi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "2d31171c-6489-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST) - Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e3188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sharjah Higher Colleges of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "6b9c78c4-b9aa-e811-8109-000d3af41938",
+		"OrganizationName": "Sorbonne Univeristy Abu Dhabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "b8065cac-c6ec-e711-80fa-000d3af41938",
+		"OrganizationName": "Syscoms College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "8631eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "TDIC HQ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "1d8ad882-3a56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "The British International School, Abu Dhabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "dd19c271-7845-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "The British University in Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e3624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The Petroleum Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "6831eb7d-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Sheikh Zayed Private Academy for Girls",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "99e8a8bc-be2d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Um Almumneen School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "2c77ae3f-e473-df11-bc53-0030487d8897",
+		"OrganizationName": "United Arab Emirates University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e0b5c9b0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "United Arab Emirates University - Al Ain - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "ea7c47bf-6e91-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Dubai",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "05d8c6bb-7987-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "University of Modern Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "12e5d316-db55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Sharjah (جامعة الشارقة)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "140d2eec-2907-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Wollongong Dubai - Dubai Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "e6188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zayed University  Abu Dhabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "3032cdf7-95f4-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Zayed University - Abu Dhabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARE",
+		"InstitutionID": "854d68e5-4a28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Zeid Ibn Al-Khattab preliminary boy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

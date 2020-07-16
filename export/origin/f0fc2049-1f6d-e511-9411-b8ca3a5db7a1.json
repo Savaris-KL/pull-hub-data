@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f42d831d-890b-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Good Shepherd Lutheran College Noosa",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "dabdf429-890b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Lutheran Education Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=dabdf429-890b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f0fc2049-1f6d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Good Shepherd Lutheran College Noosa",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d3c9265b-1f6d-e511-9411-b8ca3a5db7a1",
+		"WebStoreName": "Good Shepherd Lutheran College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d3c9265b-1f6d-e511-9411-b8ca3a5db7a1"
+	}
+]

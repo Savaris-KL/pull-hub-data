@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "e8ea86a4-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Central Texas College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f6ea86a4-72f5-e711-80fc-000d3af41938",
+		"WebStoreName": "Central Texas College , LA - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f6ea86a4-72f5-e711-80fc-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "f3be40ec-3c40-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Central Texas College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "01bf40ec-3c40-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Central Texas College - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=01bf40ec-3c40-e411-9403-b8ca3a5db7a1"
+	}
+]

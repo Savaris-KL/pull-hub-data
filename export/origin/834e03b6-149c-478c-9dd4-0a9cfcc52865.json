@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "834e03b6-149c-478c-9dd4-0a9cfcc52865",
+		"OrganizationName": "Spring Hill College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8d40a14a-6766-e211-a88c-f04da23e67f4",
+		"WebStoreName": "Spring Hill College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8d40a14a-6766-e211-a88c-f04da23e67f4"
+	}
+]

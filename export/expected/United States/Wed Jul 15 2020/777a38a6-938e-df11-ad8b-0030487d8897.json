@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "777a38a6-938e-df11-ad8b-0030487d8897",
+		"OrganizationName": "Judson College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://judson.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "8391c8b2-a30e-e311-93f3-b8ca3a5db7a1",
+		"WebStoreName": "Judson College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8391c8b2-a30e-e311-93f3-b8ca3a5db7a1"
+	}
+]

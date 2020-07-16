@@ -1,0 +1,82 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "0e6dab6c-40b9-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Come-2-IT Basislehrjahr für InformatikerInnen (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "c6b57e88-14e4-e711-80fa-000d3af41938",
+		"OrganizationName": "Gymnase de Nyon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "91a5c405-f594-e811-8108-000d3af41938",
+		"OrganizationName": "Hermods Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "c8085b93-efa5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Kalaidos University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "dabf405c-c4a0-e811-8109-000d3af41938",
+		"OrganizationName": "Kantonsschule am Brühl - Amt für Mittelschulen St.Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "bc8d9eb6-e542-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "MBSZ - Marketing & Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "2d2f640f-3f92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Schule für Gestaltung Bern und Biel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "2ed40a6c-d198-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Sekundarschule Allschwil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "933b7c54-1bd4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Sonderpädagogisches Zentrum BACHTELEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SWZ",
+		"InstitutionID": "606d45b2-189a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Swaziland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

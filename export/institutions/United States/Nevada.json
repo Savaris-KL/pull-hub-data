@@ -1,0 +1,642 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68baf0b3-420b-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "421st Regional Training Insitute - Microsoft Imagine",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "864a77e1-119b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "421st Regional Training Institute",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f63b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Institute of Medical Sonography",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6909f822-a42a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Asher College - Las Vegas Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b363aa6-a9a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Aveda Institute Las Vegas",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96c10291-f874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Career College of Northern Nevada",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da9cd289-42b1-df11-ad57-0030487d8897",
+		"OrganizationName": "Clark County School District",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b91d33b1-1541-e011-b1e1-0030487d8897",
+		"OrganizationName": "Clark County School District (Las Vegas, NV) - High School AA",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcfd0ba0-76ee-de11-a13b-0030487d8897",
+		"OrganizationName": "College of Southern Nevada",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37291e64-10b0-ea11-812c-000d3af41938",
+		"OrganizationName": "Coral Academy of Science",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Desert Research Institute",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "600d01fa-0fef-de11-a13b-0030487d8897",
+		"OrganizationName": "Desert Research Institute - CDW-G",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ab2aee7-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Douglas County School District - Douglas High School - VMware Store",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4544e91-3a7b-e011-969d-0030487d8897",
+		"OrganizationName": "East Career & Technical Academy",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bf7e1eb-fd05-e811-80fc-000d3af41938",
+		"OrganizationName": "Equipo Academy",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20c824ca-ea5a-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "FAITH LUTHERAN MIDDLE AND HIGH SCHOOL",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06b63ec4-8672-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Faith Lutheran Middle School & High School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37f1ca51-0cef-de11-a13b-0030487d8897",
+		"OrganizationName": "Great Basin College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a6f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Henderson District Public Libraries",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d137923-eec3-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "High Desert Montessori School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1a94b25-516e-4548-825f-3c33dd0cafb1",
+		"OrganizationName": "Humboldt County School District",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08f301f9-22ef-de11-a13b-0030487d8897",
+		"OrganizationName": "inactive - University of Nevada Las Vegas",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "986121d7-8400-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Incline High School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50c3f3eb-11d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Journey Education",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01ec10aa-5321-4927-8782-fc8ec2e4c8b9",
+		"OrganizationName": "Las Vegas College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1be1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts - Las Vegas",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41fe7887-1491-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Liberty Baptist Church & Academy",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "916f1bbe-1c51-499a-a614-b83159a19051",
+		"OrganizationName": "Lyon County School District",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Meadows Community College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ab1140a-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Mineral County High School (Hawthorne, NV) - High School AA",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nevada Christian Home School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d178d25-11ef-de11-a13b-0030487d8897",
+		"OrganizationName": "Nevada State College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7767097d-220c-df11-85a5-0030487d8897",
+		"OrganizationName": "Nevada System of Higher Education",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe52be09-5993-e011-969d-0030487d8897",
+		"OrganizationName": "Northwest Career & Technical Academy",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14cd1f11-6c25-e911-8110-000d3af41938",
+		"OrganizationName": "Reno Technology Academy, Multnomah University",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f7fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Sage Ridge School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff2dde06-e207-49f8-8bea-87e8b3d8b2ff",
+		"OrganizationName": "School of Law at the UNLV",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "633a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sierra Nevada College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Southern Valley Schools",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e93154f-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Southwest Career and Technical Academy (Las Vegas, NV) - High School AA",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa4b7f11-e1c6-e211-be21-f04da23e67f4",
+		"OrganizationName": "Sparks High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7e7154f-1eb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "The Alexander Dawson School",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bebd4911-c646-e711-80ef-000d3af41938",
+		"OrganizationName": "The Art Institute of Las Vegas",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "794388bb-21ef-de11-a13b-0030487d8897",
+		"OrganizationName": "Truckee Meadows Community College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "413c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University and Community College System of Nevada",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "995ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University fo Nevada School of Medicine",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nevada, Las Vegas",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "737890cd-c12d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "University of Nevada, Las Vegas - Campus Store",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nevada, Reno",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cc88be6-c62d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Washoe County School District",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4801ab68-26ef-de11-a13b-0030487d8897",
+		"OrganizationName": "Western Nevada College",
+		"ProvinceCode": "NV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

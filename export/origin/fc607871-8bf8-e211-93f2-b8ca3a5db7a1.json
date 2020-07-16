@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "2a0a143b-7071-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universidad del Centro Educativo Latinoamericano (Argentina)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "360a143b-7071-e211-bf66-f04da23e67f4",
+		"WebStoreName": "Universidad del Centro Educativo Latinoamericano - Sistemas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=360a143b-7071-e211-bf66-f04da23e67f4"
+	}
+]

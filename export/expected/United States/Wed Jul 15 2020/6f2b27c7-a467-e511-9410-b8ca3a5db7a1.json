@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f3adc131-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Melbourne Institute of Technology (MIT Sydney)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "375be20c-af8b-e011-969d-0030487d8897",
+		"WebStoreName": "Melbourne Institute of Technology (MIT) - Sydney Campus",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=375be20c-af8b-e011-969d-0030487d8897"
+	}
+]

@@ -1,0 +1,3546 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b1165210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "1 ОУ  Свети Паисий Хилендарски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "21df084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "1 ОУ Христо Ботев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "97165210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "104 основно училище \"Захари Стоянов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a04059a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "105 СУ \"Атанас Далчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "51fa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "109 ОУ \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cc463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "112 ОУ \"Стоян Заимов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5f4059a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "117 СУ \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c84059a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "119 СУ   \"Академик Михаил Арнаудов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2e9b1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "120 Основно училище \"Георги Сава Раковски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "90903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "123 СУ „Стефан Стамболов”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9050e2cc-1a08-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "13 OU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "54fdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "132 СУ \"Ваня Войнова\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "729d1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "133 СУ \"Александър Сергеевич Пушкин\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cb8e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "134 СУ \"Димчо Дебелянов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3c37b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "137 средно общообразователно   училище   \"Ангел Кънчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "569c1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "138  СУ  \"ПРОФ. ВАСИЛ  ЗЛАТАРСКИ\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "de03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "142 ОУ \"Веселин Ханчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d2453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "145 ОУ \"Симеон Радев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2c9d1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "157 Гимназия с изучаване   на чужд език \"Сесар Вайехо\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7f01c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "162 ОУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "98f98a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "2 ОУ \"Свети Паисий Хилендарски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "09175210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "2 ОУ П. Р. Славейков",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8c8e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "2 СУ \"Академик Емилиян Станев \"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cf433847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "2 СУ Проф. Никола Маринов - Търговище",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e5fdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "200 ОУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a9ae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "23 СУ \"Фредерик Жолио-Кюри\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c5858e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "30. Средно училище \"Братя Миладинови\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c69b1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "33 Езикова гимназия \"Света София\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d7af6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "33 ОУ \"Санкт Петербург\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "dc9a1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "35 СУ \"Добри Войников\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ee9d1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "40 СУ „Луи Пастьор”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "deae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "6 ОУ \"Свети Никола\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "62858e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "60 ОУ \"Св.св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a78e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "64 ОУ \"Цар Симеон Велики\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "60f15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "68 СУ \"Акад. Никола Обрешков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "22903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "7 СУ \"Найден Геров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "824059a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "76. Основно училище \"Уилям Сароян\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fb7b045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "77 OУ Св. Св. Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9b02c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "78 СУ \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ec453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "79 СУ „Индира Ганди“",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7fca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "7СУ \"Кузман Шапкарев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "04443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "9 ОУ Веселин Ханчев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7d165210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "9 Френска езикова гимназия  \"Алфонс дьо Ламартин\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8736b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "93 СУ \"Александър Теодоров Балан\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7b9b1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "96 СУ с  изучаване на чужди езици \"Лев Николаевич Толстой\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "038f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "97 СУ \"Братя Миладинови\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ff67b82c-5b8d-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "9th French Language School - Sofia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6a12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "American University of Bulgaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5612b501-bbd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Bulgarian Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3a099fd0-bad6-e711-80f9-000d3af41938",
+		"OrganizationName": "BulMar College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0fb6e6ec-343b-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Burgas Free University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "66aaa2ec-68d9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "CTRC Progress - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1913848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dimitar A. Tsenov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e4975452-3e79-e711-80f1-000d3af41938",
+		"OrganizationName": "European Higher School of Economics and Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8fe96fc7-9d06-e811-80fc-000d3af41938",
+		"OrganizationName": "European School of Economics and Management- Bulgaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e536b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Eзикова гимназия \"Пловдив\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "47ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "II ОУ \"Константин Фотинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3f0f2e25-90f0-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1a77b6d7-a302-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Medical University Varna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3ae489c7-7363-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "MG Dr. Petar Beron Varna - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bc20aba1-b329-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Miguel de Cervante Secondary School (164 GPIE \"Miguel de Cervantes\")",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "343fc1bc-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Ministry of Education and Science - Bulgaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1e13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "N.Y. Vaptsarov Naval Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ba67b6c8-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "N.Y. Vaptsarov Naval Academy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d6c095ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "New Bulgarian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "06473847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Oсновно училище \"Проф. Иван Батаклиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "88c85a99-98a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Plovdiv university \"Paisii Hilendarski\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a505891a-83be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "POLE FORMATION CCI Colmar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c851f99f-ad1c-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Sofia University - Sofia- Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3cd6ddf3-4dbb-df11-859b-0030487d8897",
+		"OrganizationName": "Sofia University St. Kliment Ohridski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b641740b-43e6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Sofia University St. Kliment Ohridski - Sofia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d552cb9c-5b4b-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Software University (SoftUni) - Sofia - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2113848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "St. Cyril St. Methodius University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2413848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Technical University Of Gabrovo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "da624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Technical University of Sofia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "501302f3-1993-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Technical University of Sofia - Sofia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2813848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Technical University of Varna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "dd16edfa-51ed-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Telerik Academy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b8c095ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of  Sofia - Sofia - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "953a2a2c-55d3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "University of Architecture, Civil Engineering and Geodesy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e6cfbac0-5451-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "University of Economics Varna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bfcacc13-bec7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "UNIVERSITY OF FORESTRY (ЛЕСОТЕХНИЧЕСКИ УНИВЕРСИТЕТ)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1874c411-5658-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "University of National and World Economy (Bulgaria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2b13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Rousse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1613848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University Of Telecommunications and Post",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6cde97a7-1790-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University Prof. Asen Zlatarov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0bffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "V СУ П.Р.Славейков",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3013848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Varna Free University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "870094be-0476-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Yugo-zapaden universitet Neofit Rilski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "41532965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Американски Колеж Аркус - Велико Търново",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "eeb631de-aab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Благоевград Брезница Средно училище \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c04302b4-acb5-e711-80f7-000d3af41938",
+		"OrganizationName": "Благоевград Крупник Средно училище \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1062fd96-9db5-e711-80f7-000d3af41938",
+		"OrganizationName": "Бургас Айтос СУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2422a771-c8b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Варна Варна Основно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "848199a6-a4b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Варна Ветрино СУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "de7b045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Варненска морска гимназия \"Св. Николай Чудотворец\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9b272219-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Велико Търново\tс. Батак\tОУ Св. Св. Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "eed8a797-a8b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Враца Козлодуй СУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "38443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Второ основно училище \"Димитър Благоев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "42175210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Гимназия  \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d5a24596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Гимназия за романски езици \"Георги Стойков Раковски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4d1e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Гимназия за чужди езици \"Екзарх Йосиф I\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1f7c38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Гимназия с преподаване   на чужди езици",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b6fd6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Гимназия с преподаване на английски език   \"Гео Милев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f0b66bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Гимназия с преподаване на чужди езици \"Йордан Радичков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bbde084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Гимназия с преподаване на чужди езици “Васил Ка��агьозов”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5b03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ГПЧЕ \"Ромен Ролан\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "557c73d5-cbb5-e711-80f7-000d3af41938",
+		"OrganizationName": "Добрич Добрич Основно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8f3e8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Езикова гимназия \" Д-р Петър Берон\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4ff68143-bbb5-e711-80f7-000d3af41938",
+		"OrganizationName": "Кърджали\tРани лист\tОУ \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f5172437-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Кюстендил\tКюстендил\tОсновно училище \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "954b2965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Математическа гимназия  \"Баба Тонка\" - Русе",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ec845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Математическа гимназия \"Гео Милев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fb7a38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Математическа гимназия \"Константин Величков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8d443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Математическа гимназия „Акад. Кирил Попов”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3028ffc3-1701-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Министерство на образованието и науката",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1cc95e22-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Министерството на образованието, младежта и науката",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "86ef8d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Национална професионална гимназия по полиграфия и фотография",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cbf05c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Национална търговско-банкова гимназия",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "06ac827a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Национално училище за фолклорни изкуства „Филип Кутев”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3036b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Начално училище \"Архимандрит Зиновий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6efdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Начално училище \"Васил Петлешков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3c4e2965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Начално училище \"Неделя Петкова\" - Сопот",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ac1e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "НАЧАЛНО УЧИЛИЩЕ \"СВ. СВ. КИРИЛ И МЕТОДИЙ\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "baca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Начално училище „Васил Левски”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e6fe6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "НБУ М. Лъкатник",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e21e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "НГПИ Проф. Венко Колев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "02febff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "НГХНИ \"Константин Преславски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "48522965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "НПГ по ветеринарна медицина - Ловеч",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4b01c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "НУ \"Единство\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "90fdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "НУ \"Михаил Куманов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c936b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "НУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9efa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "НУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f9462750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "НУ Васил Левски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "50b86bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "НУ Иванчо Младенов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "32a34596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно  училище  \"Д-р  Петър Берон\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d47b38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училищe \"Свети Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "26175210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище  \"Любен Каравелов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "787b045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище  \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "015173f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище  Епископ Софроний Врачански",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7a7f4190-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \" Васил Априлов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c403c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9fca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Антон Страшимиров\" - гр.Бургас",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "81ff6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Бачо Киро\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "597d38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Васил  Петлешков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7f7d38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Васил Априлов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "911e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно Училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b0de3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Георги Бенковски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6d443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Гоце Делчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7800c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Димитър Благоев\" - ou-blagoev",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7504c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Димитър Благоев\" - Осиково",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ce845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Д-р Петър Берон\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c0408374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Драган Манчов \"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b5f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Евлоги Георгиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d2b66bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b8453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Лазар Станев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9f462750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Любен Каравелов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "28878e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Мати Болгария\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "59a34596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Отец Паисий\" - Кнежа",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b0961046-46b0-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Отец Паисий\" - Попинци",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d8ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Отец Паисий\" - Стряма",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "72502965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Основно училище \"Отец Паисий\" - Ягодина",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0a03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Основно училище \"Петко Рачов Славейков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6a1e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Професор Димитър Димов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8b8f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Св. св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ff858e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Свети Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f11d64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Свети свети Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6dae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище \"Стою Шишков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2db76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Основно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "824f2965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Основно училище \"Христо Ботев\" - Късак",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3bcb433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Христо Ботев\" - Мездра",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "eb8d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Христо Ботев\" - Раковски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "20463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Христо Смирненски\" - OSC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "058e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Основно училище \"Христо Смирненски\" - Раковски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6fde3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Основно училище\"Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c4ae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8b03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Антон Страшимиров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cabd3f3e-a2d6-e711-80f9-000d3af41938",
+		"OrganizationName": "ОУ \"Васил Априлов\" Варна",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9bde084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Васил Априлов\" Риш",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "76463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "eafa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Васил Левски\" - ouchirpan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "280afd19-c8aa-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Васил Левски\" - Звъничево",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c900c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Виктория и Крикор Тютюнджян\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d1f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Гео Милев\" - oubelozem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7e868e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Гео Милев\" - Садово",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6501c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Граф Н. Игнатиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "faf05c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Д-р Петър Берон\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a3ef8d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Дядо Иван Арабаджията\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9389572f-e6ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Любен Каравелов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "75f98a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Найден Геров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "54f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Неофит Рилски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2f913f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "93febff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Никола Прокопиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0f913f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c1f15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Проф. д-р Асен Златаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "75fa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Климент Охридски\" - Дебрен",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "33868e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Асеново",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7cffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Ботевград",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e2858e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Ведраре",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cafdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Кавракирово",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "dffebff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Караджалово",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "42408374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Мездра",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9200c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Овча могила",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "25ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Първомай",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7cdf084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св. Св. Кирил и Методий\" - Сеслав",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0604c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Св. св. Кирил и Методий\" - Старо Оряхово",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "023f8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Св.Св.Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7e453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ \"Свети Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "27f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ \"Свети Паисий Хилендарски\" - Хаджидимитрово",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0137b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Хаджи Димитър\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2300c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Христо Максимов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2403c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Христо Смирненски\" - ouhristosmirnenski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "aafdbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Христо Смирненски\" - Тополи",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fd00c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ \"Цар Симеон І\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ebde084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ Братя Миладинови",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "45482750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ Двайсти април",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "694e570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Д-р Иван Селимински",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "19482750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ Д-р Петър Берон",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bf7b045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Любен Каравелов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0d1e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Неофит Рилски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "feae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ Отец Паисий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "07903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ Св. Св. Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5a37b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ Св.Св.Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3e463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ Хаджи Димитър и Стефан Караджа",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1caf6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ОУ Хан Аспарух",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d1b76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Христо Ботев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "32c6be85-3a25-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Христо Ботев - kamburovo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6cc81ac8-c047-e711-80ef-000d3af41938",
+		"OrganizationName": "ОУ Христо Ботев - Врабево",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "754d570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Христо Г. Данов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2d4e570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ОУ Христо Смирненски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ad0ee56c-cc4a-e711-80f0-000d3af41938",
+		"OrganizationName": "ОУ Христо Смирненски - Ореховица",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b3ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ОУ\"Христаки Павлович\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "afc6242b-bbb5-e711-80f7-000d3af41938",
+		"OrganizationName": "Пазарджик\tАбланица\tОУ Христо Ботев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7263f729-f5b7-e711-80f7-000d3af41938",
+		"OrganizationName": "Пазарджик\tДорково\tОсновно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b9fa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПГ по туризъм \"Иван П. Павлов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0db76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГ Проф. д-р Асен Златаров",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e0165210-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГ Св. Иван Рилски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "707c045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГ Цар Иван Асен II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "99ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ПГЕМП \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "96f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПГЕТ \"Г.С. Раковски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5e472750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПГЕХТ Проф. Асен Златаров - Плевен",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "06463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ПГИИ \"Професор Николай Райнов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8c512965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "ПГКПИ - Бургас",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3af98a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПГЛПИ \"Атанас Буров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "db903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ПГОТ \"Свети Иван Рилски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b2463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ПГОХ \"Райна Княгиня\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "85845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГСС Проф. Ив. Иванов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3b855c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГТ Ал. Константинов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "40ae6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПГТЛП \"��оце Делчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8f04c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ПГТМД",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4a845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПГХЗ Д. И. Менделеев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3e03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ПЗГ \"Добруджа\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "dcaaa33e-c3b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Плевен Плевен СУ \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3534fc91-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Плевен\tБелене\tОсновно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1c745918-bbb5-e711-80f7-000d3af41938",
+		"OrganizationName": "Плевен\tКнежа\tОсновно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d3937f5a-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Пловдив\tБрестовица\tОсновно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d0f98a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "ПМГ \"Академик Боян Петканчин\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "97463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Помощно училище-интернат \"Академик Тодор Самодумов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5cfebff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "ППМГ \"Акад. проф.д-р Асен Златаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e9433847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ППМГ Акад. Никола Обрешков",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "04cb433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Природо математическа гимназия \"Академик Иван Ценов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a35073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Природоматематическа гимназия   \"Екзарх Антим I\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b6903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Природо-математическа гимназия \"Никола Обрешков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f2de3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална  гимназия  по   икономика и туризъм \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d6dd3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална  гимназия по туризъм \"П. К. Яворов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "37febff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална агротехническа гимназия \"Н. Й. Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "df3f59a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия    \"Васил Димитров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c34d570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия   \"Генерал  Владимир Заимов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3d4a2965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Професионална гимназия   \"Петър Парчевич\" - Раковски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a1fe6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия   по строителство,   архитектура и геодезия   \"Кольо Фичето\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "11a34596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия   по туризъм \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "723f8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по   електротехника и електроника \"Константин Фотинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "939a1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по аудио-, видео- и телекомуникация \"А. С. Попов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "09de084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по ветеринарна медицина \"Иван П. Павлов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5d8f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по дървообработване и строителство \"Цар Иван Асен II\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "438f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по електропромишленост и текстил \"Захари Стоянов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "22ff6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия по електротехника",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "069c1044-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по електротехника и автоматика",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "00878e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по електротехника и електроника \"Капитан Петко войвода\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e7ca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по електротехника и електроника \"Михайло Василиевич Ломоносов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d602c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по Електротехника и строителство",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a0482750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по железопътен транспорт \"Н.Й.Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ecf08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по железопътен транспорт \"Никола Корчев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "45f15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по икономика",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "308d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по икономика \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6a408374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по икономика \"Рачо Стоянов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4a8d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по икономика и мениджмънт \"Йордан Захариев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "228f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по икономическа информатика  \"Джон Атанасов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b5868e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по мениджмънт и хранителни технологии",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "76febff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по механоелектротехника",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3c472750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по механотехника",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b83f59a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по облекло   \"Недка Иван Лазарова\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7d482750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по облекло и текстил \"Христо Бояджиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e65073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия по облекло и хранене \"Михалаки Георгиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9c7b045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия по промишлени технологии   \"Атанас Цонев Буров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e300c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по селско стопанство",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7ba24596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "ПРОФЕСИОНАЛНА ГИМНАЗИЯ ПО СЕЛСКО СТОПАНСТВО \"ЗЛАТНА НИВА\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "044d2965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Професионална гимназия по строителство и геодезия \"Кольо Фичето\" - Ямбол",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2004c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по Телекомуникации",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "648d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по транспорт - Виноградец",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "208e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по транспорт - Русе",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "49fe6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална гимназия по туризъм  \"Проф.д-р Асен Златаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "74f08d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по туризъм \"Александър Паскалев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "393f8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по туризъм \"Н.Й.Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f002c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по туризъм и хранително-вкусови технологии \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "aa443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Професионална гимназия по търговия и ресторантьорство",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4add3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална гимназия по химични технологии \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a736b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална гимназия по хранително-вкусови и химични технологии",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fc01149f-9718-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Професионална лесотехническа гимназия  \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4ba24596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална техническа гимназия",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6c36b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Професионална техническа гимназия \"Иван Райнов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0dfa8a6e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Професионална техническа гимназия \"Никола Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "52443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Профилирана гимназия с преподаване на западни езици \"Захарий Стоянов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "317c045c-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Профилирана гимназия Симеон Велчев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1f37b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Профилирана природоматематическа гимназия \"Нанчо Попович\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5fca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "ПТГ Шандор Петьофи",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "09855c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ПУ П.Р. Славейков",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ec463847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Първа английска езикова гимназия",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "98858e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Първо основно  училище   \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "89408374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Първо основно училище   \"Св.св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e08f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Първо основно училище \"Св. Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3fdf084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Първо ОУ \"Св. Св. Кирил и Методий\" - Гоце Делчев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ecab827a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Първо частно СУ    \"Леонардо да Винчи\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1701c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Регионално управление на образованието - София-град",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0a1c8eeb-a6b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Русе Русе СУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c0789cd5-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Русе\tРусе\tОУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "994d570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Селскостопанска гимназия",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c0ef49ea-c5b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Силистра Дулово СУ Васил Левски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "24b4f3f9-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Сливен\tСливен\tОУ Св. Св. Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2d7cface-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Сливен\tСтара река\tОсновно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bb6697ed-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Смолян\tЗлатоград\tОсновно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "44a5bb7f-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Смолян\tСелча\tОУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "90377161-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Смолян\tСмолян\tОсновно училище \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "311e64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СОУ \"СВ. КЛИМЕНТ ОХРИДСКИ\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5eff6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СОУ Любен Каравелов",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ba02c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Софийска професионална гимназия по електроника \"Джон Атанасов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "81f15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Спортно училище",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a029fe76-5cb3-e711-80f7-000d3af41938",
+		"OrganizationName": "Спортно училище - Пазарджик",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4f36b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Спортно училище \"Св.Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "02408374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Средно  общообразователно  училище   \"Свети Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1975e81b-9b18-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СРЕДНО ОБЩООБРАЗОВАТЕЛНО УЧИЛИЩЕ   \"ДИМЧО ДЕБЕЛЯНОВ\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "14b86bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно ��бщообразователно училище   \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "024e570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище   \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2e7f4190-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Средно общообразователно училище  \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "991d64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Максим Райкович\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b61d64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Петко Рачев Славейков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "454d570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Петко Рачов Славейков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "745073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5d5173f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Свети Свети Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "405173f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище  \"Цар Симеон Велики\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "66845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Васил Априлов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "751d64fe-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9ab76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Васил Левски\" -soukula",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c85073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Любен Каравелов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6cb76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "885173f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Петко Рачов Славейков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b6b76bf8-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4c5073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Христо  Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "05ff6eec-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "305073f2-a118-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Средно общообразователно училище \"Христо Ботев\" - souarchar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9b453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Средно училище \"Бачо Киро\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "64453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Средно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4a453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Средно училище \"Георги Брегов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "6536ba29-e14a-e711-80f0-000d3af41938",
+		"OrganizationName": "Средно училище \"Георги Брегов\" - Стара Загора",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5d00c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Средно училище \"Димитър Гачев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "30453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Средно училище \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0300c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Средно училище \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5704c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Средно училище \"Проф. д-р Асен Златаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c4443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Средно училище \"Св. Св. Кирил и Методий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ae00c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Средно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "62ffbff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Средно училище \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fb360f64-6c4a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Средно училище „Иван Н. Момчилов“",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ac3f8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Средно училище с преподаване на чужди езици \"А. С. Пушкин\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7301a515-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Стара Загора\tОпан\tОсновно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fcf15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Старопрестолна професионална гимназия по икономика",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b56b8fd6-3a3a-e711-80ef-000d3af41938",
+		"OrganizationName": "Стопански факултет на Софийски университет \"Св. Климент Охридски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "aaeeb404-d08c-e711-80f3-000d3af41938",
+		"OrganizationName": "Стопански факултет на Софийски университет \"Св. Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5f7c38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ    \"Евлоги Георгиев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "31472965-a7ab-e811-8109-000d3af41938",
+		"OrganizationName": "СУ   \"Васил Левски\" - Бяла Слатина",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "67ef8d68-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ   \"Проф. д-р Асен Златаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "92a14596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ   \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b8dd084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ  \"Максим Горки\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "887b38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ  \"Нешо Бончев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "45a14596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ  \"Св. Паисий Хилендарски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "56cb433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ  \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e0443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \" Неофит Бозвели\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "22f25c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Ангел Каралийчев\" - Стражица",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "16453847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3a04c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ \"Д-р Петър Берон\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1cfebff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ \"Елин Пелин\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "7637b8fa-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ \"Епископ Константин Преславски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b1df084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Желязко Терпешев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a98f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "76903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Йордан Йовков\" - Окорш",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "30ca433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Йордан Йовков\" - Рибново",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c2dc3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Козма Тричков\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "10de3d9c-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Любен Каравелов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4ede084a-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Неофит Рилски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "b88d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c38f3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Отец Паисий\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3101c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ \"Отец Паисий\" с природоматематическа насоченост",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "88f05c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Пейо Крачолов Яворов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f5903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Сава Доброплодни\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "107d38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Св. Паисий Хилендарски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4a02c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ \"Св. Паисий Хилендарски\" - Златица",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "20473847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Св. Св. Кирил и Методий\" - UV",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1fcb433b-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Св. св. Кирил и Методий\" - Козлодуй",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "57868e62-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Св. Св. Кирил и Методий\" - Симитли",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "25a24596-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Св.Паисий Хилендарски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "8a8d3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Стоян Заимов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "718e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Хаджи Мина Пашов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9ff15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Хр. Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3b8e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a57c38a2-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Христо Проданов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "ca3e8374-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ \"Христо Смирненски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "4f903f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ “Георги Бенковски”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "568e3f41-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ “Йордан Йовков”",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "29f15c5c-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ „Христо Ботев“",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "84b3ea55-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ Makсим Райкович",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "d0462750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ Асен Златаров",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "2f845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ Васил Левски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "bcfebff4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "СУ Екзарх Антим I",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a74e570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ за ученици с увреден слух Проф. д-р Д. Денев",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "1e443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "СУ Йордан Йовков",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e44d570a-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ Св. Св. Кирил и Методий",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "62855c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ Св. Св. Кирил и Методий - soupordim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "c8472750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "СУ Стефан Караджа",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a1845c04-a218-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "СУ Христо Смирненски",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "fa443847-4c45-e711-80ef-000d3af41938",
+		"OrganizationName": "Техническа професионална гимназия \"Никола Йонков Вапцаров\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "9caf6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Трето основно училище \"Братя Миладинови\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "96ff153e-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Трето средно общообразователно  училище   \"Марин Дринов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "0f4159a8-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Трето средно общообразователно  училище \"Марин Дринов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f9d6083c-b9b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Търговище\tЗелена морава\tОсновно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "84472750-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Търговска гимназия \"Княз Симеон Търновски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "e161c1e0-323a-e711-80ef-000d3af41938",
+		"OrganizationName": "Университет за национално и световно стопанство",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "5cf16b6d-3e3a-e711-80ef-000d3af41938",
+		"OrganizationName": "Филосовски факултет на Софийски университет \"Св. Климент Охридски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "a9b3ea55-6424-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Финансово-стопанска гимназия   \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "aa03c3ee-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Х ОУ \"Алеко Константинов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "f7fa34b0-bab5-e711-80f7-000d3af41938",
+		"OrganizationName": "Хасково\tЯбълково\tОсновно училище \"Васил Левски\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "79af6456-499a-e711-80f6-000d3af41938",
+		"OrganizationName": "Частна професионална гимназия по Икономика, туризъм и информатика Булпрогрес",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "3e00c0f4-c2ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Частно средно училище с немски език \"Веда\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "cd7e4190-bc94-e711-80f6-000d3af41938",
+		"OrganizationName": "Четвърто основно училище   \"Иван Вазов\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BGR",
+		"InstitutionID": "93d64795-b6b5-e711-80f7-000d3af41938",
+		"OrganizationName": "Шумен\tКаспичан\tОсновно училище \"Христо Ботев\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

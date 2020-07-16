@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "431cbbc1-876e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Noosa Christian College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8c2dd0d9-876e-e411-9406-b8ca3a5db7a1",
+		"WebStoreName": "Noosa Christian College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8c2dd0d9-876e-e411-9406-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "bd9c14eb-b197-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Noosa Christian College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "12eb18f1-b197-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "Seventh Day Adventist Schools, South Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=12eb18f1-b197-e611-9422-b8ca3a5db7a1"
+	}
+]

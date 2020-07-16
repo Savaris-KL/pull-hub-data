@@ -1,0 +1,66 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "9d9ca673-30e5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Adventist University of Central Africa - Kigali - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "6e500568-8c8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Carnegie Mellon University (Rwanda)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "0100e94e-8c8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Independent Univeristy of Kigali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "b1847f36-8c8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "INES-Ruhengeri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "2bdd5e7f-e2cb-e811-810b-000d3af41938",
+		"OrganizationName": "KIM University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "d84eaccc-62d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "SRI SAI Information Technology College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "eb22634f-4f48-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "SRI SAI Information Technology College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "RWA",
+		"InstitutionID": "85d0f810-8c8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Rwanda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

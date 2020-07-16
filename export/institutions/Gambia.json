@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GMB",
+		"InstitutionID": "6c7620e7-c416-ea11-8125-000d3af41938",
+		"OrganizationName": "American International University, West Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GMB",
+		"InstitutionID": "c78ef79a-16b7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "EUCLID",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GMB",
+		"InstitutionID": "9f6ac7c4-009d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Islamic Online University (Gambia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

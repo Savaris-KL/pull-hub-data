@@ -1,0 +1,66 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "07b37e3d-ea55-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Africa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "69433a01-0d56-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Africa University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "596d5d26-9772-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Bindura University - Bindura - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "764f5555-5760-e911-8115-000d3af41938",
+		"OrganizationName": "Chisipite Senior School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "3986a3af-8fb9-e211-be21-f04da23e67f4",
+		"OrganizationName": "Midlands State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "4234e827-d820-e911-8110-000d3af41938",
+		"OrganizationName": "National University of Science and Technology (Zimbabwe)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "cd1113e6-5b72-e911-8119-000d3af41938",
+		"OrganizationName": "Solusi University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZWE",
+		"InstitutionID": "16d73a9b-505b-e711-80f0-000d3af41938",
+		"OrganizationName": "Zimbabwe Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

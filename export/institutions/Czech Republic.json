@@ -1,0 +1,3538 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b304f45e-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "600005623  Gymnázium, Praha 5, Nad Kavalírkou 1,CZE,8612415",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e6d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "AHOL - Vyšší odborná škola o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0ec6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aiesec Czech Republic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "09c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Akademicke Centrum Studentskych Aktivit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "edd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Akademie - Vyšší odborná škola -  Gymnázium a Strední odborná škola umeleckoprumyslová Svetlá nad Sázavou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f6d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Akademie telesné výchovy a sportu PALESTRA - Vyšší odborná škola -  spol. s r .o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fdd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Anglické gymnázium -  Strední odborná škola a Vyšší odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "06d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Bankovní akademie - Gymnázium -  Strední odborná škola a Vyšší odborná škola -  a.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d17988ec-8cde-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Bankovni Institut Vysoka Skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0dd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Bankovní institut vysoká škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "790595d8-0ee1-df11-bd73-0030487d8897",
+		"OrganizationName": "Biology Centre of the Academy of Sciences of the Czech Republic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0125552f-1273-df11-bc53-0030487d8897",
+		"OrganizationName": "Brno University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "14d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "CARITAS - Vyšší odborná škola sociální Olomouc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1dd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "CEDUK - Soukromá Vyšší Odborná Skola spol. s r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a0b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centrum odborné přípravy technické Kroměříž",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "26d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ceská lesnická akademie Trutnov - strední škola a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "78b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Česká školní inspekce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6dc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ceska Zemedelska Univerzita - Praha 6 - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1dc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ceské Vysoké Ucení Technické - Prague Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "54e1bd0e-7cbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ceske Vysoke Uceni Technicke v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2bd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ceské Vysoke Uceni Technicke v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "30d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Cesko-anglické gymnázium -  Vyšší odborná škola a strední odborná škola podnikatelská -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fc7c52dd-bd3f-e711-80ef-000d3af41938",
+		"OrganizationName": "Ceskoslovanska Akademie Obchodni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2f5f722c-cfba-ea11-812c-000d3af41938",
+		"OrganizationName": "Ceskoslovenska akademie obchodni, stredni odborna skola, Praha 2, Resslova 5",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "eed8e661-c513-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Charles University in Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "403d952e-b398-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Computer Help - prepaid WAH Site",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "32654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Czech Technical University in Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "22c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Czech University of Life Sciences Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "599549a6-299a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Delta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "aec09b61-2fe9-e911-8122-000d3af41938",
+		"OrganizationName": "Dětský domov, Základní škola speciální a Praktická škola, Jaroměř",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fae03689-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dum deti a mladeze Modrany,CZE,8131245",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "80efb082-15d8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Dum deti a mladeze Vratimov, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "27c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Educanet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2cc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Euroskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "35d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Evangelická akademie -  Vyšší odborná škola sociálne právní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3ad486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Evangelická akademie - Vyšší odborná škola sociální práce a strední odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3fd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Evangelikální teologický seminár - Vyšší odborná škola teologická a sociální",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7a4ba662-751f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Faculty of Economics and Management (Czech Republic)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "31c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fakulta informatiky Masarykovy Univerzity",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "714f1265-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fakultní základní skola profesora Otokara Chlupa Pedagogické fakulty UK,CZE,4935963",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8c88892d-5b61-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "FAMU (Film and TV school of Academy of Performing Arts in Prague)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "44d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Farmeko - Vyšší odborná škola zdravotnická a Strední odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a93d606e-d93c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Frydek Mistek - SPSOAFM - Střední průmyslová škola - Obchodní akademie a Jazyková škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "80b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "FZŠ prof. Otokara Chlupa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "49d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Goodwill - Vyšší odborná škola -  s. r. o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "90b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnasium Prague 5 over a Kavalírkou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4ed486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gymnázium -  Strední odborná škola a Vyšší odborná škola Ledec nad Sázavou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9b09b654-ab57-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium - Praha 5 - Na Zatlance 11 - Computer Help - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ab6ff4da-1301-e811-80fc-000d3af41938",
+		"OrganizationName": "Gymnázium a Hudební škola hlavního města Prahy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3bc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gymnázium a Jazyková škola s právem státní jazykové zkoušky Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ad085590-0bbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium a SOS Jilemnice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "36c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gymnázium a SOŠ Rokycany",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "be152f8f-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gymnazium a Stredni odborna skola pedagogicka, Liberec, Jeronymova 425/27, prispevkova organizace.,CZE,8101212",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4e4eb42a-34e9-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnázium a Střední odborná škola pedagogická, Nová Paka, Kumburská 740",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f8f3e874-76b6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium a Střední odborná škola, Jaroměř",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a4ac7316-8480-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Gymnazium a Stredni Pedagogicka Skola, Obchodni akademie a Jazykova Skola s Pravem Statni Jazykove Zkousky Znojmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "01ded54c-af3c-e811-8103-000d3af41938",
+		"OrganizationName": "Gymnazium a ZS Praha Ostrava (PORG)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e260e20e-dd73-e711-80f1-000d3af41938",
+		"OrganizationName": "Gymnázium Bohumila Hrabala v Nymburce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3a9cc675-34e9-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnázium Boženy Němcové, Hradec Králové, Pospíšilova tř. 324",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ea029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Gymnazium Ceske Budejovice Ceska 64",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "87e5f8f2-2e40-e911-8113-000d3af41938",
+		"OrganizationName": "Gymnázium Cheb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "25316764-5b02-ea11-8124-000d3af41938",
+		"OrganizationName": "Gymnázium Dr. Emila Holuba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "54182f8f-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gymnazium Elisky Krasnohorske, Praha 4 - Michle, Ohradni 55,CZE,5075992",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "54c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gymnazium Frantiska Krizika s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fc1079d5-34e9-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnázium Františka Martina Pelcla, Rychnov nad Kněžnou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "691fab29-35e9-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnázium J. K. Tyla, Hradec Králové, Tylovo nábř. 682",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a5e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnázium Jakuba Škody",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "10575a79-9f7b-e811-8106-000d3af41938",
+		"OrganizationName": "Gymnazium Jana Keplera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "88b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnázium Jana Nerudy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9495d28c-253d-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium Josefa Jungmanna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6cb4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnázium Kolín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "86616d02-abee-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnazium Nad Kavalirkou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ede306f3-2d40-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Gymnazium Nad Stolou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "95e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnazium Praha 8 Ustavni 400",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4e9d1b26-0b9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Gymnazium Střední pedagogická škola, Obchodní akademie a Jazyková škola s právem státní jazykové zkoušky Znojmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "652c108f-1c7f-ea11-812a-000d3af41938",
+		"OrganizationName": "Gymnazium T. G. Masaryka Litvinov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "27ecfefd-f15c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium Trutnov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "98b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gymnázium v Roznove pod Radhostem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9d12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gymnazium Vincence Makovskeho",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8a0e405f-63ec-e911-8122-000d3af41938",
+		"OrganizationName": "Gymnázium, Broumov, Hradební 218",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "01c6e858-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gymnázium, Kolín III, Zizkova 162,CZE,4703444",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0aa78b6b-ef36-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Gymnázium, Nový Bydžov, Komenského 77",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "43c4e858-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gymnazium, Praha 8, Ustavni 400,CZE,8712783",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "53d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hotelová škola -  Vyšší odborná škola hotelnictví a turismu a Jazyková škola s právem státní jazykové zkoušky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "58d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Institut informatiky-Vyšší odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "45c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Integrovaná strední škola – Centrum odborné prípravy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9de0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Integrovaná strední skola Frantiska Melichara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "18641371-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Integrovaná strední skola Frantiska Melichara, Brandýs nad Labem - Stará Boleslav, Prazská 370,CZE,8863478",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4ac6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Integrovaná strední škola Slavkov u Brna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4fc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Integrovaná strední škola Sokolnice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ce7109b4-72a0-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Integrovaná strední skola technická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "77eae92d-ea4d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "International School of Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3e671ba9-63a2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "ISIC Czech Republic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5dd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "JABOK - Vyšší odborná škola sociálne pedagogická a teologická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9337a0b5-7dfc-de11-85a5-0030487d8897",
+		"OrganizationName": "Jan Amos Komensky University (Czech Republic)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "62d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Jan Evangelista Purkyne University in Ústí nad Labem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "67d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Jihoceská univerzita v Ceských Budejovicích",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "81d2ff51-09cf-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Jiráskovo gymnasium (Jiráskovo gymnázium)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bde0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Karlinske Gymnazium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6cd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Konzervator a Vyšší odborná škola Jaroslava Ježka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b3df3689-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Konzervator Pardubice,CZE,5490588",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f1572d35-f766-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Královéhradecký kraj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "00d1ac16-d0d4-e911-8120-000d3af41938",
+		"OrganizationName": "Lenešice elementary school, district Louny",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "62651371-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Liberalni institut,CZE,5284836",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dee0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Malostranska zakladni skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cde0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Malostranské gymnázium, Praha 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "71d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Masarykova strední škola zemedelská a Vyšší odborná škola -  Opava -  príspevková organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "76d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Masarykova Univerzita",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e6e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Masarykovo gymnázium Vsetín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b54c1ad6-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Materska skola, Most, Antonina Sochora 2937, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "de4c1ad6-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Materska skola, Most, Lidicka 44, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "40bf96e4-b202-de11-bf04-0030485a8df0",
+		"OrganizationName": "Mendel University of Agriculture and Forestry in Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "aeea46bc-118b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Mendelova univerzita v Brně",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "59c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mendelova Zemedelska A Lesnicka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "83657755-8c79-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Metropolitan University Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7bd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "MICHAEL - Vyšší odborná škola umelecké a reklamní tvorby a strední škola umelecké a reklamní tvorby -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6c945f31-09e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Monty School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5ec6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Moravská vysoká škola Olomouc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "162ba7dd-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Narodni Ustav Odborneho Vzdelavani,CZE,4814764",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0ee1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "80d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie -  Strední odborná škola knihovnická a Vyšší odborná škola knihovnických -  informacních a sociálních služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "85d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie -  Vyšší odborná škola a Jazyková škola s právem státní jazykové zkoušky Uherské Hradište",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8ad486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie -  Vyšší odborná škola cestovního ruchu a Jazyková škola s právem státní jazykové zkoušky -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8fd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie -  Vyšší odborná škola cestovního ruchu a jazyková škola s právem státní jazykové zkoušky Karlovy Vary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "94d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie -  Vyšší odborná škola ekonomická a Jazyková škola s právem státní jazykové zkoušky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "63c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Jazyková škola s právem státní jazykové zkoušky Jihlava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "99d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9ed486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Vyšší odborná škola ekonomická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a5d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Vyšší odborná škola obchodní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "aad486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Vyšší odborná škola sociální",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "afd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie a Vyšší odborná škola Valašské Mezirící",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d3e7e861-e30c-e811-80fe-000d3af41938",
+		"OrganizationName": "Obchodni akademie Dusni - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "68c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Obchodni Akademie Mohelnice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "98049f88-db8e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Obchodni Akademie Praha",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "06e1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie Přerov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2ee1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie Tomáše Bati a Vyšší odborná škola ekonomická Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b4d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Obchodní akademie Tomáše Bati a Vyšší odborná škola ekonomická Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e8f36437-44e5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Obchodní Akademie, Střední Zdravotnická škola a SOŠS Jihlava (OA, SZŠ a SOŠS Jihlava)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "64b4ff17-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Obchodni akademie,Stredni pedagogicka skola a Jazykova skola Beroun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b9d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ostravská univerzita v Ostrave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "52eba6ea-90c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ostravská univerzita v Ostravě",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bed486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "PB-Vyšší odborná škola a Strední škola managementu -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "879d50b9-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pedagogicko-psychologicka poradna pro Prahu 1,2 a 4,CZE,5882021",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "72c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pm Consulting S.R.O.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "819cef7d-f8bd-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Police Academy of the Czech Republic in Prague - Policejní akademie České republiky v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "77c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Prague College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f6e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Prazska konzervator,  Praha 1, Na Rejdisti 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8858f398-7b92-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Prepaid - Computer Help - Gymnázium a Střední pedagogická škola, Obchodní akademie a Jazyková škola s právem státní jazykové zkoušky Znojmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "091e56c3-118b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Private College of Economic Studies in Znojmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e6309953-2705-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Skoda Auto Vysoka skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c710de09-fcc3-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slezska Univerzita v Opave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c3d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Slezská univerzita v Opave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a8c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Slezske gymnazium Opava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a5c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Smíchovská strední prumyslová škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5da7df66-4c42-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Smichovska Stredni Prumyslova Skola - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1f8e14e0-f766-e211-a88c-f04da23e67f4",
+		"OrganizationName": "SOS a SOU obchodu a sluzeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b5e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "SOŠ Josefa Sousedíka Vsetín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "671b2622-e478-e111-a407-f04da23e67f6",
+		"OrganizationName": "SOS strojni a elektrotechnicka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "adc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "SOŠE COP Hluboká nad Vltavou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a012848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Soukromá Střední Škola pro Marketing a Ekonomiku Podnikání s.r.o",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "aac5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Soukromá strední škola výpocetní techniky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a7d286ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola danového poradenství STING -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "eed286ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší Odborná Škola Filmová s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f3d286ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola grafická a Strední umelecká škola grafická -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f8d286ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola podnikatelská -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fdd286ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola sociální -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "45d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola umení a reklamy s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4ad386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola zdravotnická MEDEA -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4fd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Soukromá Vyšší odborná škola zdravotnická pro dentální hygienistky -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fc85b6e9-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Soukrome gymnazium Olomouc Na Vlcinci 154 s.r.o.,CZE,5099765",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f020b6e6-8662-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Správa informacních technologií mesta Plzne - T Systems - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b77efc47-1e73-e911-8119-000d3af41938",
+		"OrganizationName": "SPS Karvina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "efc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "SPŠ SOŠ a SOU Nové Mesto nad Metují",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7b38a9e3-082a-e911-8111-000d3af41938",
+		"OrganizationName": "SPS usti nad Labem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dcc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Spše Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e3c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "SPSE Jecna  Praha 2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d8dfc085-eacd-e711-80f9-000d3af41938",
+		"OrganizationName": "SPŠE V Úžlabině",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c6c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "SŠ spoju a informatiky Tábor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b4c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stanice techniku Vyšehrad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c3c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredná priemyselná škola elektrotechnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a695098e-e298-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Střední odborná škola a Střední odborné učiliště, Trutnov, Volanovská 243",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "13c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední odborná škola Blatná",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b7c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední odborná škola informatiky a spoju a Strední odborné ucilište",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2548be2c-e098-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Střední odborná škola informatiky a spojů a Střední odborné učiliště - Computer Help - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4c498e58-a263-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Stredni odborna skola InterDACT s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bcc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Odborna Skola Josefa Sousedíka Vsetín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d5e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední odborná škola Luhačovice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "eee0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední odborná škola Otrokovice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "54d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední odborná škola pedagogická -  gymnázium a Vyšší odborná škola Karlovy Vary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5ad386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední odborná škola specializacní a Vyšší odborná škola ARITA -  spol. s r. o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "292387d1-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stredni odborna skola stavebni a zahradnicka, Praha 9, Ucnovska 1,CZE,6529989",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3ee1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední Odborné Školy Technické",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5fd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední odborné ucilište tradicních remesel a Vyšší odborná škola -  spol. s r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c1c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední odborné ucilište Uherský Brod",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9321cfaa-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Střední průmyslová škola a Obchodní akademie, Bruntál - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f4c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Prumyslova Skola a VOŠ Písek",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "64d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dab5c9d5-3f6b-e911-8115-000d3af41938",
+		"OrganizationName": "Střední průmyslová škola a Vyšší odborná škola Písek",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6fd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola a Vyšší odborná škola technická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "18c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola chemická akademika Heyrovského a Gymnázium Ostrava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d5c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola dopravní a. s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "74d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola elektrotechnická a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8283c925-4c5d-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Střední průmyslová škola elektrotechnická a Vyšší odborná škola Pardubice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1ee1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Strední Prumyslová Skola Elektrotechnická, Brno, Kounicova 16",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a9e0ef23-a100-ea11-8124-000d3af41938",
+		"OrganizationName": "Střední průmyslová škola elektrotechniky a informačních technologií, Dobruška",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f9e39ce5-3d92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Stredni Prumyslova Skola Elektrotechniky a Informatiky (00602132) - Ostrava - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e8c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Prumyslova Skola Elektrotechniky Elektrotechniky Informatiky A Remesel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7de0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová skola Hranice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a312848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stredni prumyslova skola Mlada Boleslav",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a612848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Střední průmyslová škola na Proseku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b01a64c9-95be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Střední Průmyslová Škola Ostrov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "18e3f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední průmyslová škola polytechnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bec5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední Prumyslová Škola Praha 10",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "85e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stredni prumyslova skola sdelovaci techniky prumyslova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7ad386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola stavební",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a912848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stredni Prumyslova Skola Stavebni Josefa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4501e45d-f62e-e911-8111-000d3af41938",
+		"OrganizationName": "Střední průmyslová škola stavební Pardubice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "75e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední průmyslová škola stavební Valašské Meziříčí",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ad12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stredni prumyslova skola stredni odborna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7fd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola strojní a elektrotechnická a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7cc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola strojní a elektrotechnická a Vyšší odborná škola Liberec 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8bc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Prumyslova Skola Strojní a Stavební Tábor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6de0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední průmyslová škola Uherský Brod",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cbc6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Prumyslova Skola v Bruntál",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "84d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední rybárská škola a Vyšší odborná škola vodního hospodárství a ekologie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c3285c3e-6325-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Stredni skola – Podorlicke vzdelavaci ce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f3fa687e-4e4a-e811-8103-000d3af41938",
+		"OrganizationName": "Stredni Skola a Materska Skola - Liberec - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7cc278a9-c386-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Střední škola a Mateřská škola Litoměřice (Czech)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "eae0d2c5-4249-e811-8103-000d3af41938",
+		"OrganizationName": "Stredni skola a Materska skola, Liberec, Na Bojisti 15, prispevkova organizace (00671274)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5ae3351c-c4cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stredni skola a Materska skola, ops",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "89d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola a Vyšší odborná škola cestovního ruchu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d58d073e-ab9c-e711-80f6-000d3af41938",
+		"OrganizationName": "Střední škola AGC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "90c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední škola aplikované kybernetiky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "36dc900a-c766-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Střední škola Automobilní a Informatiky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a6dc2439-3fa8-e711-80f7-000d3af41938",
+		"OrganizationName": "Stredni skola Baltaci s. r. o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "65e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední škola gastronomie a obchodu Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8ed386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola hotelnictví a služeb a Vyšší odborná škola -  Opava -  príspevková organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c5e0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední škola hotelová a služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "40c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední Škola Hotelová A Služeb Kromeríž",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9bc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední škola informacních technologií a sociální péce Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "afc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední Škola Informatiky A Cestovního Ruchu Scmsd Humpolec S.R.O.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0b1c19ca-0ac7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Střední škola informatiky a finančních služeb, Plzeň - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c519cdb0-e9de-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Střední Škola Informatiky a Právních Studií",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f591c414-5cef-e911-8122-000d3af41938",
+		"OrganizationName": "Strední škola informatiky a služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b2c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední škola informatiky a spoju v Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b1bc88f2-4d04-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Stredni Skola Kostka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8de0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stredni skola MESIT o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "94d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola obchodu -  služeb a podnikání a Vyšší odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "99d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola podnikatelská a Vyšší odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7c4f0f17-f766-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Stredni skola potravinarska a sluzeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "84c0e683-d2a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Střední Škola Průmyslová a Umělecká, Hodonín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a0c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stredni Skola Prumyslova Hotelova a Zdravotnická Uherské Hradište",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3566335f-9068-e711-80f1-000d3af41938",
+		"OrganizationName": "Střední škola průmyslová, technická a automobilní Jihlava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "96720a27-f518-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Střední škola služeb obchodu a gastronomie - Hradec Králové, Velká 3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9ed386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola sociální PERSPEKTIVA a Vyšší odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "05cda879-1d94-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Střední škola stavební a technická - Ústí nad Labem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b012848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stredni skola technicka Most",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fee0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední škola technická Přerov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a3d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola umení a designu -  stylu a módy a Vyšší odborná škola Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "96a89fd8-0457-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Střední škola zemědělská a portravinářská",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a8d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední škola zemedelská a Vyšší odborná škola Chrudim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5ce0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední školou obchodní a oděvní Bystřice pod Hostýnem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "36e1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Střední školy průmyslové",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "add386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední umeleckoprumyslová škola a Vyšší odborná škola -  Jablonec nad Nisou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b2d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední umeleckoprumyslová škola a Vyšší odborná škola -  Turnov -  Skálova 373 -  príspevková organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "16e1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b7d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola Cheb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bcd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d5d386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Emanuela Pöttinga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dad386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Havlíckuv Brod",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dfd386ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Karlovy Vary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c8d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Vsetín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cdd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Ždár nad Sázavou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d2d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Strední zdravotnická škola a Vyšší odborná škola zdravotnická Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b111c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Střední zdravotnická škola Pardubice(SZŠ Pardubice)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d0c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strední prumyslová škola a Vyšší odborná škola v Chomutove",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b9c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Studentska Unie CVUT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d7d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Svatojánská kolej - Vyšší odborná škola pedagogická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dcd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Technická univerzita v Liberci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e1d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Teologický seminár Církve adventistu sedmého dne v Sázave - Institut teologických studií a Vyšší odborná škola teologická a pastoracne sociální",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6ad9bade-4155-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "The Secondary School of Electrical Engineering Pardubice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e1c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tomas Bata University in Zlin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "dcc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tomas Bata University in Zlín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e6d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "TRIVIS - Strední škola verejnoprávní a Vyšší odborná škola prevence kriminality a krizového rízení Praha -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d2c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Unicorn College S.R.O.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1d49c956-ff5d-df11-b841-0030487d8897",
+		"OrganizationName": "University of Economics, Prague",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d7c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of New York in Prague S.R.O.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0953be56-f481-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University of South Bohemia České Budějovice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ffc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of West Bohemia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ebd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita Hradec Králové",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c8c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Univerzita J.E.Purkyne v Ústí nad Labem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8d462cb7-712c-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Univerzita Jana Amose Komenského Praha",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f0d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita Karlova V Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1ff68bcd-6f58-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Univerzita Karlova v Praze - Fakulta humanitních studií - Charles University in Prague - Faculty of Humanities",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d7eb1fcf-353b-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Univerzita Karlova v Praze - Filozofická fakulta - Charles University in Prague - Faculty of Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "099cdaff-ae34-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Univerzita Karlova v Praze, Farmaceutická fakulta v Hradci Králové - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ac277fe0-925a-e211-b607-f04da23e67f6",
+		"OrganizationName": "Univerzita Karlova v Praze, Prirodovedecka fakulta - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f5d486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita obrany",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fad486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita Palackého v Olomouci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ffd486ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita Pardubice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "04d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Univerzita Tomáše Bati ve Zlíne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cadbe248-cbd4-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Ustav jaderne fyziky AV ČR, v.v.i.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "09d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Verejne správní akademie - Vyšší odborná škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0ed586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Veterinární A Farmaceutická Univerzita Brno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "13d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vojenská strední škola a Vyšší odborná škola Ministerstva obrany v Moravské Trebové",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cd6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "VOŠ ek. a zdrav. a SŠ Boskovice - Boskovice - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d9624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "VŠB-Technical University of Ostrava (CZ)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1dd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vysoká  škola chemicko-technologická v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c698a6dd-009d-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Vysoka skola banska - Technicka univerzita Ostrava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0b18efa5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Vysoká škola báňská - Technická univerzita Ostrava - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3db3a00b-65d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Vysoka Skola Chemicko",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e6c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vysoká Škola Chemicko-Technologická v Praze - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "18d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vysoká škola ekonomická v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ebc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vysoká škola ekonomie a managementu o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "be86ca69-1aba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Vysoká škola Karla Engliše",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f0c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vysoká škola manažerské informatiky a ekonomiky a.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ade0f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vysoká škola polytechnická Jihlava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f5c5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vysoká škola polytechnická Jihlava - Jihlava - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "22d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vysoké školy financní a správní -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1c38c4f5-7dbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Vysoke uceni technicke v Brne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "27d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vysoké Ucení Technické V Brne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "82c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vyssi odb.sk.Vyšší odborná škola informacních služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "93fcc3aa-778e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Vyšší odborná a Ptřední průmyslová škola Strojní, Stavební a dopravní v Děčíně, příspěvková organizace - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7fd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyssi odborna a Stredni prumyslova skola Jicin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2cd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Obchodní akademie -  Strední zdravotnická škola a Jazyková škola s právem státní jazykové zkoušky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "31d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Obchodní akademie a Strední odborná škola EKONOM -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "36d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Obchodní akademie a Strední zdravotnická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3bd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední odborná škola a Strední odborné ucilište",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "40d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  strední odborná škola a základní škola MILLS -  s.r.o",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "45d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední prumyslová škola a Jazyková škola s právem státní jazykové zkoušky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4bd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední prumyslová škola a Obchodní akademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "50d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední prumyslová škola a Strední odborná škola remesel a služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "55d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední prumyslová škola automobilní a technická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5ad586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola -  Strední škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5fd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola - Diplomovaný ocní technik -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "64d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola - Vyšší obchodní podnikatelská škola s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "69d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Obchodní akademie Chotebor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6ed586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední odborná škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "75d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední odborná škola -  Nový Bydžov -  Jana Maláta 1869",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7ad586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední odborná škola zemedelsko-technická Bystrice nad Pernštejnem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8ad586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola -  Rychnov nad Knežnou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8fd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola dopravní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "94d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola elektrotechnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9bd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola elektrotechnická Františka Križíka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a0d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola stavební",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fac5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední prumyslová škola Šumperk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b274cf92-89af-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Vyšší odborná škola a Střední průmyslová škola Žďár nad Sázavou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a5d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "aad586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola -  Varnsdorf -  príspevková organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "afd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola automobilní -  Zábreh -  U Dráhy 6",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b4d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola hotelová SCMSD Pelhrimov -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b9d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola slaboproudé elektrotechniky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5b347857-6416-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Vyssi odborna skola a Stredni skola technicka Ceska Trebova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bed586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola technická Ceská Trebová",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c3d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední škola veterinární -  zemedelská a zdravotnická Trebíc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c8d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední umelecká škola Václava Hollara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cdd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola a Strední zemedelská škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d4d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola cestovního ruchu a mezinárodního obchodního styku -  spol. s r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d9d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola CSTV s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ded586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola DAKOL a Strední škola DAKOL -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e3d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola ekonomická -  sociální a zdravotnická -  Obchodní akademie -  Strední pedagogická škola a Strední zdravotnická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e9d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola ekonomická a Obchodní akademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "eed586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola ekonomická a zdravotnická a Strední škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f3d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola ekonomických studií a Strední prumyslová škola potravinárských technologií",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f8d586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola filmová Zlín -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fdd586ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola grafická a Strední prumyslová škola grafická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "02d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola Havírov s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "07d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola herecká s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "0cd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola hotelnictví a turismu -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "11d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola Husuv institut teologických studií",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "16d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola informacních služeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "1bd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola Jana Ámose Komenského",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "20d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola lesnická a Strední lesnická škola Bedricha Schwarzenberga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "25d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola mezinárodního obchodu a Obchodní akademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2ad686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola misijní a teologická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "2fd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola obalové techniky a Strední škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "34d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola odevního návrhárství a Strední prumyslová škola odevní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "39d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola pedagogická a sociální -  Strední odborná škola pedagogická a Gymnázium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3ed686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola pedagogická a sociální a Strední pedagogická škola Kromeríž",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "43d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola pedagogická a Strední pedagogická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "48d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola potravinárská a Strední prumyslová škola mlékárenská Kromeríž",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4dd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola publicistiky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "52d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola sklárská a Strední škola -  Nový Bor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "57d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola sociálne právní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "5cd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola sociální a Strední pedagogická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "61d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola sociální a teologická - Dorkas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "66d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola SOKRATES -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6bd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola stavební a Strední prumyslová škola stavební arch. Jana Letzela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "70d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola stavební a Strední škola stavební Vysoké Mýto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "6836645a-1de7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Vyssi Odborna Skola Stredni Prumysl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "75d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola umeleckoprumyslová s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7ad686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola územne-správní -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7fd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola územne-správní a jazyková škola s právem státní jazykové zkoušky s.r.o",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "84d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zahradnická a Strední zahradnická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "89d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "8ed686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická a Strední škola zdravotnická",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "93d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická a Strední zdravotnická škola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9ed686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická Bílá vlocka s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a3d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická Dr. Ilony Mauritzové -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a8d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola zdravotnická Suverénního rádu maltézských rytíru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "add686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší odborná škola živnostenská Prerov -  s.r.o.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b3d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Vyšší policejní škola Ministerstva vnitra v Praze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4ae1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Zakladni skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "41f2bfe0-5ef0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Základní škola a Mateřská škola Kladno, Zd. Petříka 1756",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "649526e3-7a7a-ea11-812a-000d3af41938",
+		"OrganizationName": "Základní škola a mateřská škola Ostrava, Ostrčilova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "cdae71aa-05c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola a Materska skola Vsechovice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "ace55d87-91d1-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni Skola Chvaleticka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "63743f0b-77a5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola Hodonin, Vancurova 2, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f528a7dd-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zakladni skola Jaromer Josefov,CZE,5804277",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "26e1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Základní skola Jizní",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e8b1093a-96f5-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Zakladni skola Klasterec nad Ohri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b495f23b-8e28-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Základní škola Klíček, Obecně Prospěšná Společnost - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "08cfb91c-68be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zakladni skola Oblacna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "fd2a17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola Odry, Komenskeho 6, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9c217949-a88a-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Základní skola Plzen - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "04c6d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Zakladni Skola Praha 8",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c1aa3e83-001a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zakladni skola sv. Vorsily,CZE,8513388",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "d5c1383b-52df-e711-80fa-000d3af41938",
+		"OrganizationName": "Zakladni skola T. G. Masaryka Velim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c029bc7f-98e6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Základní škola Vorlina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "c6fb3d02-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zakladni skola Zelesice,CZE,6798313",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "62db8015-f2cb-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola Zizkov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "53e1f71d-00f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Zakladni skola Zlin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "602d17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, J. A. Komenskeho 474, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "e72c17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Jakuba Arbesa 2454, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "902f17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Obrancu miru 2944, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "f8491ad6-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Okruzni 1235, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "3302edc1-f766-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Zakladni skola, Most, prispevkova organizace, Obrancu miru 2944, 434 01 Most (00830984)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b72f17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Rozmarynova 1692, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "572c17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, U Stadionu 1028, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "782c17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Vaclava Talicha 1855, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "082d17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Vitezslava Nezvala 2614, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4b4e9e45-4b2e-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Zdenka Stepanka 2912, pripevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b32c17d0-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni skola, Most, Zlatnicka 186, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "4f4b1ad6-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni umelecka skola F. L. Gassmanna, Most, Obrancu miru 2364, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "7d4b1ad6-6531-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Zakladni umelecka skola, Most, Moskevska 13, prispevkova organizace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "a7b3a87d-aba0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Zapadoceska univerzita v Plzni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "b8d686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Západoceská univerzita v Plzni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "bdd686ac-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Zlínská soukromá Vyšší odborná škola umení -  o.p.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "34279fe7-0fd8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "ZŠ Dr. M. Tyrše (Zakladni skola Dr. Miroslava Tyrse, Ceska Lipa, Manesova 1526, prispevkova organizace)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "62b93785-c069-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "ZS Mladá Boleslav, Komenského námesti 76",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "014085b5-c069-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "ZS Mladá Boleslav, Komenského námestí 91",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CZE",
+		"InstitutionID": "9b740a7e-8a95-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "ZŠ T. G. Masaryka Opava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

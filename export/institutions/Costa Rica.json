@@ -1,0 +1,722 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e90e8965-acd5-e111-9c76-f04da23fc522",
+		"OrganizationName": "Asociacion Centro Cultural Costarricense Norteamericano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "6776c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Centro Educativo Nuestra Senora del Pilar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "7576c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Cultural de los Hermanos Maristas-CR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "f178c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Cultural Educativa Colegio de Sion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "4e76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Instituto Nacional de Biodiversidad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e67fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Nacional de Educadores - ANDE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "6d76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion San Miguel Arcangel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ee7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Sistema Educativo Saint Clare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "0579c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Teresiano Carmelitana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e2155119-c8c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Asociacion Universidad para la Cooperación Internacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b277c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Byte Centro de Estudios S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "467f0b80-6427-e211-aed3-f04da23e67f6",
+		"OrganizationName": "CATIE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ff78c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Capacitacion Permanente (CECAP)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "9276c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Educativo San Miguel Arcangel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "997ec036-c04a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Colegio Boston",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "47ffb98d-3d9e-e711-80f6-000d3af41938",
+		"OrganizationName": "Colegio de San Luis Gonzaga - Cartago Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "1179c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Europeo S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "c67fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Nuestra Señora del Pilar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "f978c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Benedicto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "be7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio San Miguel Arcangel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "4776c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Santa Maria de Guadalupe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "806e44e7-f7e9-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Técnico Don Bosco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "fc3b621c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Colegio Técnico Don Bosco - CEDES Don Bosco Colegio Técnico Don Bosco - San Jose - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "5a76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Tecnico Profesional de Guatuso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b199115a-c658-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Universitario de Cartago",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "f67fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Vocacional de Artes y Oficios",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "5476c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegios Superiores de Costa Rica Sanata Cecilia S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ce7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegios Superiores de Costa Rica Santa Cecilia S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "6076c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Coopeseli R.L.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ea78c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Corporacion Educativa Sagrado Corazon de Jesus S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ae76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Corporacion Educativa Saint Michael",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "8b9c33b2-b381-e211-bf66-f04da23e67f4",
+		"OrganizationName": "EARTH University (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b67fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escuela Angloamericana S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "cc76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela de Comercio Manuel Aragon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ac77c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela San Antonio S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "61c13f99-c166-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Facultad Latinoamericana de Ciencias Sociales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "695d2540-e105-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Tecnol��gica de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "a0644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "INCAE Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "de7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Institución Educativa Lincoln School Corporation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "2e7fdea8-c143-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Agropecuario Costarricense, S.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "425fa0cb-b8c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Centroamericano de Administración Pública (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "fe7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Nacional de Aprendizaje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "57bf9b08-29bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Tecnico Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ecd233c9-93b7-df11-859b-0030487d8897",
+		"OrganizationName": "Instituto Tecnológico de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "cb4703a2-bab6-df11-ad57-0030487d8897",
+		"OrganizationName": "Instituto Tecnologico de Sonora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "be77c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Junta Administrativa Colegio Katira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "553c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lakeside International School - IT - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "6d453d9b-80fd-df11-9c87-0030487d8897",
+		"OrganizationName": "Lakeside International School - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "76102caa-8396-e811-8108-000d3af41938",
+		"OrganizationName": "LEAD University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "d67fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Liceo Franco Costarricense",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "4176c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Marian Baker School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "3b76c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pan-American School Primaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "1779c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pan-American School Secundaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "226b42e6-86d0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Politecnico Internacional S.A - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e876c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Proyectos Educativos S.A. -Centro Educativo Las Americas S.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "a177c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Saint Anthony High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ae7fda5b-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Saint Michael School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "0b79c5a1-fd19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SOS Kinderdorf International",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "0144f1fe-9835-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tecnológico de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e1073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The British School of Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "faacfafe-69f8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "United World College Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "a2093ae3-889d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Adventista de Centro América",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "2f90d717-bc85-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universidad Adventista de Centro América - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "182e35eb-4ec3-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Americana - San José",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "2664a75b-f1d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Autónoma de Centro América",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "5bd631d8-b1fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Costa Rica - San José Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b5f293e9-dd5e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Cenfotec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b281ee46-8fe3-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Central - San Jose - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "8528acbf-e1ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Central, Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ba644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "d9534108-d78b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Costa Rica - Sede del Atlántico - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "0bb26a23-1e58-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidad Estatal a Distancia Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "79a5900b-fd91-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad Fidelitas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "24e773c8-9306-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Fidélitas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "40e58429-05cb-df11-b4c3-0030487d8897",
+		"OrganizationName": "Universidad Hispanoamericana (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e4073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Interamericana de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "3b5e1080-ae8a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universidad Internacional de las Americas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "fc1b04cf-426a-de11-b7f9-0030487d8897",
+		"OrganizationName": "Universidad Internacional de las Américas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "071f3393-d346-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Invenio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "9cb4105a-be64-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Isaac Newton",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "92634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Latina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "e7073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Latina de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "57f28e9b-b874-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Latinoamericana de Ciencia y Tecnología (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "2c1aa16a-6e2c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Metropolitana Castro Carazo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ea073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de Costa Rica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "997d84d1-4d03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Politécnica Internacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "34fd7878-ad5f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universidad San Marcos (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "ec8685f1-6b90-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Santa Paula (Costa Rica)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "b97b037e-6d9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Técnica Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CRI",
+		"InstitutionID": "0372495e-6042-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "University for Peace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "66c95a42-2f94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Anthem High Tech Institute",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://anthemhti.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "0b2a3f67-2f94-df11-ad8b-0030487d8897",
+		"WebStoreName": "Anthem High Tech Institute",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0b2a3f67-2f94-df11-ad8b-0030487d8897"
+	}
+]

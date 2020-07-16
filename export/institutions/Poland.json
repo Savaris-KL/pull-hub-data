@@ -1,0 +1,5594 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9eda1262-91c4-e211-be21-f04da23e67f4",
+		"OrganizationName": "Adam Mickiewicz University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9d2b91c1-d84b-df11-b56b-0030487d8897",
+		"OrganizationName": "Adam Mickiewicz University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7ce373a0-f349-de11-b696-0030485a8df0",
+		"OrganizationName": "AGH University of Science and Technology (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "703fa43f-b592-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Agricultural Schools in Cudzynowicach (Zespół Szkół Rolniczych w Cudzynowicach)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cad17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "AIESEC Poland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e13a11e0-34bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Akademia Gorniczo-Hutnicza im. Stanislaw",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d84d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Górniczo-Hutnicza im. Stanislawa Staszica w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9796923e-c040-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "37787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Akademia Górniczo-Hutnicza Wydział Zarządzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "70502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Humanistyczna im. Aleksandra Gieysztora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "374e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Ignatianum w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "176a93e4-c2ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Akademia im. Jakuba z Paradyza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "20811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Leona Kozminskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ec4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Marynarki Wojennej im. Bohaterów Westerplatte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "19654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Akademia Morska w Gdyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c4ed9be6-9e28-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Akademia Morska W Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "054c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1d4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. Grazyny i Kiejstuta Bacewiczów w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3e502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. Ignacego Jana Paderewskiego w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "17821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. Karola Lipinskiego we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "794d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. Karola Szymanowskiego w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d84c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna im. S. Moniuszki w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d34d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Muzyczna w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3e811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Obrony Narodowej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7f811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4c4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Polonijna w Czestochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d57f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Pomorska w Slupsku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "52811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Sztuk Pieknych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3ecfa5c7-c56e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "974c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Sztuk Pieknych w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3c4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Sztuk Pieknych w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "324e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Sztuk Pieknych w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f06d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Akademia Sztuk Pięknych w Warszawie - Wydzial Wzornictwa - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0d821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Szutuk Pieknych im. Eugeniusza Gepperta we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "57811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Teatralna im Aleksander Zelwerowicz w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6b135ce6-6dbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Akademia Techniczno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1ec5a24d-6d9b-e011-969d-0030487d8897",
+		"OrganizationName": "Akademia Techniczno - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c84b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Techniczno-Humanistyczna w Bielsku-Bialej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c44c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego i Sportu im. Jedrzeja Sniadeckiego w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5a4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego im. Bronislawa Czecha w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "744d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1b811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego Józefa Pilsudskiego w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "34502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego w Poznaniu im.Eugeniusza Piaseckiego w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "55821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Akademia Wychowania Fizycznego We Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "68537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Akademicka Miejska Siec Komputerowa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a4cb28f7-32ec-e811-810c-000d3af41938",
+		"OrganizationName": "Akademickie Liceum Politechniki Śląskiej - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b2801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Almamer Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f3557af6-476b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "AP Edukacja Policealna Szkola Zawodowa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3a787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "APN Promise Spolka z Ograniczona Odpowiedzialnoscia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9c4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Ateneum Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9b821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Beskidzka Wyzsza Szkola Umiejetnosci w Zywcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "814b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Bialystok University of Technology (Politechnika Białostocka)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c34b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Bielska Wyzsza Szkola im. J.Tyszkiewicza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "dc66d8a6-4598-e911-811a-000d3af41938",
+		"OrganizationName": "British International School Gdansk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "104c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Bydgoska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3d787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Centrum Astronomiczne M.Kopernika PAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e021835f-657e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Centrum Edukacji Nauczycieli w Białymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "40787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Centrum Kształcenia Praktycznego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3605ca28-7752-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Centrum Kształcenia Zawodowego i Ustawicznego Elektryk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bc801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Chrzescijanska Akademia Teologiczna w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c6801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Collegium Civitas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8c5f316b-7783-e711-80f3-000d3af41938",
+		"OrganizationName": "Collegium Da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bc7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Collegium Mazovia Innowacyjna Szkola Wyzsza w Siedlcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "12d17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Collegium Varsoviense w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "30654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cracow University of technnology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "77d8671c-456c-e011-971f-0030487d8897",
+		"OrganizationName": "Cracow University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "91d17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Czestochowa University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4b821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Dolnoslaska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d54f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Dolnoslaska Wyzsza Szkola Przedsiebiorczosci i Techniki w Polkowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "08821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Dolnoslaska Wyzsza Szkola Sluzb Publicznych Asesor we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6648a50c-fd5d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Dolnośląski Specjalny Ośrodek Szkolno Wy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2ad17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Educom Sp. Z o.o",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "884c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Elblaska Uczelnia Humanistyczno-Ekonomiczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7c03d34f-3808-e811-80fc-000d3af41938",
+		"OrganizationName": "Elektroniczne Zaklady Naukowe - Computer Science - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "61811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Europejska akademia sztuk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0b537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Europejska Wyzsza Szkola Informatyczno-Ekonomiczna w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cb801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Europejska Wyzsza Szkola Prawa i Administracji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f9811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Ewangelikalna Wyzsza Szkola Teologiczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7bd27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Filia w Piotrkowie Trybunalskim Uniwersytetu Humanistyczno-Przyrodniczego Jana Kochanowskiego w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ba4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gdańsk University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a14c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gdanska Wyzsza Szkola Administracji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a64c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gdanska Wyzsza Szkola Humanistyczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c94c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gdanski Uniwersytet Medyczny",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "10537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Gimnazjum nr 1 im. Roberta Schumana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8987721f-712f-e711-80ee-000d3af41938",
+		"OrganizationName": "Gimnazjum nr 1 Zielona Góra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d8164dd1-dc5c-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazjum nr 16 w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fb4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gliwicka Wyzsza Szkola Przedsiebiorczosci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0a4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gnieznienska Szkola Wyzsza Milenium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2a537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Górnoslaska Wyzsza Szkola Handlowa im. Wojciecha Korfantego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "504d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Górnoslaska Wyzsza Szkola Handlowa im. Wojciecha Korfantego w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3e4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Górnoslaska Wyzsza Szkola Pedagogiczna imienia Kardynala Augusta Hlonda w Myslowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "33537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Gornoslaska Wyzsza Szkola Przedsiebiorcz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2e4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Górnoslaska Wyzsza Szkola Przedsiebiorczosci im. Karola Goduli w Chorzowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "194d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Grudziadzkiej Szkoly Wyzszej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9605a2e9-4dae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "I Zespół Szkół im. Stanisława Staszica we Wschowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4610a3d5-a741-e811-8103-000d3af41938",
+		"OrganizationName": "III Liceum Ogolnoksztalcace im Krol - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4b713070-6bb1-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "III Liceum Ogólnokształcące im. Bohaterów Westerplatte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "26973afe-dc76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Inactive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3791854f-c2c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Biochemistry and Biophysics Polish Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c41b49c9-f55a-e011-bd14-0030487d8897",
+		"OrganizationName": "Institute of Nuclear Physics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bae5624d-8c07-e811-80fc-000d3af41938",
+		"OrganizationName": "Institute of Pharmacology - Polish Academy of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4c56f65a-1896-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instityut Filozofii i Socjologii - Polskiej Akademii Nauk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "42537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instytut Badan Systemowych Polskiej Akademii Nauk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "541aaeea-b4cc-e811-810b-000d3af41938",
+		"OrganizationName": "Instytut Niskich Temperatur i Badan Strukturalnych Polskiej Akademii Nauk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "43787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instytut Podstaw Informatyki PAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "261487d4-22dd-e811-810b-000d3af41938",
+		"OrganizationName": "Instytut Politechniczno Rolinczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0f849945-67cb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Instytut Psychiatrii i Neurologii",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6beb5356-b85e-e011-971f-0030487d8897",
+		"OrganizationName": "Jagiellonian University in Krakow (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "434c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Jan-Dlugosz Akademie w Czestochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2d4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Karkonoska Panstwowa Szkola Wyzsza w Jeleniej Górze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d5811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Kaszubsko-Pomorska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "62537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Katedra Automatyki Napedu i Urzadzen Przemyslowych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "082c2076-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Katedra Informatyki Ul - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ac4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Katolicki Uniwersytet Lubelski Jana Pawla II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4c537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Katolickie Centrum Edukacji Mlodziezy Gliwice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f64b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Kazimierz Wielki University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "94238b9e-2a86-e011-969d-0030487d8897",
+		"OrganizationName": "Koszalin University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ce4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Koszaliñska Wyzsza Szkola Nauk Humanistycznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "93c17530-f94b-e011-bd14-0030487d8897",
+		"OrganizationName": "Kozminski University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "dd4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e84d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Krakowska Wyzsza Szkola Promocji Zdrowia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fb4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Kujawsko-Pomorskiej Szkola Wyzsza w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5b6cb555-8ccd-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Liceum Plastyczne im. Piotra Potworowskiego w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f8801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Lingwistyczna Szkola Wyzsza w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f0a93b9e-176f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Lodz University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9d502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Lubelska Szkola Wyzsza w Rykach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a5a839c2-0bf8-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Lubelskie Centrum Kształcenia Zawodowego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "82821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Lubuska Wyzsza Szkola Zdrowia Publicznego w Zielonej Górze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "91821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Luzycka Wyzsza Szkola Humanistyczna w Zarach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "67801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Malopolska Wyzsza Szkola Ekonomiczna w Tarnowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "114e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Malopolska Wyzsza Szkola im. Józefa Dietla w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a2624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Maritime University of Szczecin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c54e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Mazowiecka Wyzsza Szkola Humanistyczno-Pedagogiczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a7624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Medical University of Warsaw",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2b7351e1-2ec3-e811-810a-000d3af41938",
+		"OrganizationName": "Meridian International Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "12821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Miedzynarodowa Wyzsza Szkola Logistyki i Transportu we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a7e099ad-6e08-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Nencki Institute of Experimental Biology (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9a4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Niepanstwowa Wyzsza Szkola Pedagogiczna w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b57c8802-235b-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Niepubliczne Technikum Zawodowe w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4f8c0243-2b9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Oddział TEB Edukacja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5ad17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Ogolnopolska Fundacja Edukacji Komputero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6c4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Olsztynska Szkola Wyzsza im. Józefa Rusieckiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "674f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Olsztynska Wyzsza Szkola Informatyki i Zarzadzania im. Prof. Tadeusza Kotarbinskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "42d17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Osrodek Edukacji Informatycznej i Zastosowania Komputerów",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "864f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Medyczna Wyzsza Szkola Zawodowa w Opolu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7c4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Szkola  Wyzsza im. Papieza Jana Pawla II w Bialej Podlaskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bf36d59e-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Panstwowa Szkola Wyzsza im. Papieza - Biala Podlaska Campus - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "274f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Filmowa Telewizyjna i Teatralna im. L.Schillera w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c04e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Informatyki i Przedsiebiorczosci w Lomzy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "414e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Teatralna im. Ludwika Solskiego w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "234d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Techniczno-Ekonomiczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5c502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Wschodnioeuropejska w Przemyslu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5d4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0ce51283-6e0e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im Walbrzych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "784e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im Witelona w Legnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b77f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im. Jana Grodka w Sanoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "374d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im. Prezydenta Stanislawa Wojciechowskiego w Kaliszu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9f4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im. rotmistrza Witolda Pileckiego w Oswiecimiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b64f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im. Stanislawa Staszica w Pile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "78821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa im. Szymona Szymonowica w Zamosciu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "99801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa projekt i wykonanie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2159313d-6d23-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Chełmie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3e4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Państwowa Wyższa Szkoła Zawodowa w Ciechanowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8d4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Elblagu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "054d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Glogowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0f4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Gnieznie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "144d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Gorzowie Wielkopolskim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "244c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Kalisz - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c44d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Koninie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "534f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Nowym Saczu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cb4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Plocku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "75502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Raciborzu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5500f64e-6eda-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Państwowa Wyższa Szkoła Zawodowa w Skierniewicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "07801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Sulechowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0c801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Suwalkach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6c801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Tarnowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a3801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Walczu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5f4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa w Krosnie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "da811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Panstwowa Wyzsza Szkola Zawodowa we Wloclawku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8779301b-3b03-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Państwowa Wyższa Szkoła Zawodowa we Włocławku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "707e855c-5e8d-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Państwowe Szkoły Budownictwa i Geodezji w Lublinie im. H. Łopacińskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "43811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pedagogium - Wyzsza Szkola Pedagogiki Resocjalizacyjnej w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5f821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Piastów Slaskich we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "584f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Podhalanska Panstwowa Wyzsza Szkola Zawodowa w Nowym Targu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "284d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Podkarpacka Szkola Wyzsza im. bl. ks. Wladyslawa Findysza w Jasle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d04f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Podkowianska Wyzsza Szkola Medyczna Im. Zofii i Jonasza Lyko",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fad07e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Policealna Sopocka Szkola Informatyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "09f159cf-ebf2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Policealna Szkola Zawodowa Edukator",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6a4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Częstochowska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "75d17e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Politechnika Czestochowska Wydzial Inzynierii Mechanicznej i Informatyki w Czestochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "271acbb3-d373-e711-80f1-000d3af41938",
+		"OrganizationName": "Politechnika Gdańska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c7631582-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Politechnika Gdanska - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "03c195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Politechnika Koszalinska - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f7937dd0-98a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Politechnika Krakowska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0d4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Lódzka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "51c195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Politechnika Lodzka - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9d4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Lubelska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8b4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Opolska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1b502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Poznanska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b06d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Politechnika Radomska - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "93502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Radomska im. Kazimierza Pulaskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a37f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Rzeszowska im. Ignacego Lukasiewicza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a5192668-bacf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Politechnika Slaska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "004d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Śląska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9c4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Politechnika Swietokrzyska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "76ff94ec-bf44-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Politechnika Świętokrzyska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c7e39ae0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Politechnika Warszawska - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "48e87de2-02e5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Politechnika Warszawska Filia w Płocku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1649c032-782b-e711-80ee-000d3af41938",
+		"OrganizationName": "Politechnika Wrocławska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8786ad98-1b93-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Politechnika Wroclawska - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5f6aeb64-ba6f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Politechnika Wroclawska - Wroclaw - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6caaab33-d5c3-e711-80f9-000d3af41938",
+		"OrganizationName": "Polska Akademia Nauk (Polish Academy of Sciences)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "444f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Polsko – Czeska Wyzsza Szkola Biznesu i Sportu Collegium Glacense w Nowej Rudzie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "48811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Polsko - Japonska Wyzsza Szkola Technik Komputerowych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d32cb8b1-546c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Polsko-Japonska Akademia Technik Komputerowyck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fd7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pomorska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f14c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pomorska Wyzsza Szkola Nauk Stosowanych w Gdyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "34801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pomorski Uniwersytet Medyczny w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "168a0e1d-8913-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Powiatowe Centrum Kształcenia Zawodowego i Ustawicznego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6bbe6aaa-7627-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Powiatowy Zespol Szkol nr 2 im Piot",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "460c304b-bcaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Powiatowy Zespół Szkół Technicznych i Zawodowych w Świebodzin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "014f7311-f6a5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Powiatowy Zespol Szkol w Bieruniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "694e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Powislanska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "294c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Powszechna Szkola Wyzsza Humanistyczna Pomerania w Chojnicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e57ca32b-b8cf-df11-bd73-0030487d8897",
+		"OrganizationName": "Poznan University of Medical Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "28e929e5-d866-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Poznan University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0c502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Poznanska Wyzsza Szkola Biznesu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f64c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Prywatna Wyzsza Szkola Zawodowa w Gizycku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b95f3288-95b1-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Prywatne Gimnazjum i Liceum im Królowej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "98502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Prywatnej Wyzszej Szkole Ochrony Srodowiska w Radomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6b502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Pulawska Szkola  Wyzsza w Pulawach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8e502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Radomska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "47787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Regionalne Centrum Rozwoju Edukacji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f44e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Salezjanska Wyzsza Szkola Ekonomii i Zarzadzania w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6f2fc282-b592-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "School No. 36 to them. Marcin Kasprzak (Zespół Szkół Nr 36 im. Marcina Kasprzaka)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4a787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "SLASKA WYZSZA SZKOLA INFORMATY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "604d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Slaska Wyzsza Szkola Medyczna w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6f4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Slaska Wyzsza Szkola Zarzadzania im. Generala Jerzego Zietka w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "654d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Slaski Uniwersytet Medyczny w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7be39ae0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Sopocka Szkola Wyzsza - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "df7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Sopockiej Szkoly Wyzszej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d04e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Spoleczna Akademia Nauk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "41e118a0-6c43-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Społeczna Akademia Nauk (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f87f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Stargardinum - Stargardzka Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d1197d73-ad1e-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Staropolska Szkoła Wyższa Old Polish University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bd527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Stowarzyszenie Misericordia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a64d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Swietokrzyska Szkola Wyzsza w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3fd27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Swietokrzyskie Centrum Doskonalenia Nauczycieli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1b801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szczecinska Szkola Wyzsza Collegium Balticum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e2d07e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Szkola Ekonomii I Biznesu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d0811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkola Glówna Gospodarstwa Wiejskiego w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "47d27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Szkola Glowna Handlowa w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6ee978cf-51bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Szkola Glowna Sluzby Pozarniczej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "75811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkoła Główna Służby Pożarniczej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "540f7d78-4c34-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Szkoła Oświęcim - Powiatowy Zespół Nr 2 Szkół",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b4b9a35b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Szkola Podstawowa nr 1 im. Marynarki Wojennej RP w Swinoujsciu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9abe9727-f8c2-e711-80f9-000d3af41938",
+		"OrganizationName": "Szkola Podstawowa Nr 80 im Marii Kownackiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "787a2e31-697e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Szkola Policealna dla Doroslych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5c811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkola Wyzsza im. Bogdana Janskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c64f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkola Wyzsza im. Pawla Wlodkowica w Plocku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "54d27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Szkola Wyzsza Prawa I Dyplomacji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cb811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkola Wyzsza Psychologii Spotecznej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a943b0f6-697e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Szkoły Policealne TEB Edukacja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "89811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Szkoly Wyzszej Przymierza Rodzin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "63d27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "TEB Edukacja - Plock - Dział Informatyki - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "682d1710-fbe9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Techniczne Zakłady Naukowe w Częstochowi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6bbd68dc-d3dc-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Technikum Informatyczne im. Macieja Płażyńskiego w Pucku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "16ea867b-b0ee-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Technikum nr 1 w Augustowskim Centrum Ed",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0e0536ec-204a-e811-8103-000d3af41938",
+		"OrganizationName": "The University of Humanities and Economics in Lodz (Akademia Humanistyczo-Ekonomiczna w Łodzi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7b801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Torunska Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "80801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Torunska Wyzsza Szkola Przedsiebiorczosci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d47f5aa0-47a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Toruńskie Technikum Informatyczne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d5801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uczelni Heleny Chodkowskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "25811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uczelnia Lazarskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fd6b1b5d-d802-e811-80fc-000d3af41938",
+		"OrganizationName": "Uczelnia Techniczno-Handlowa im Hel - Dzial Informatyki - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "874e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uczelnia Zawodowa Zaglebia Miedziowego w Lubinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2a811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uczelnie Warszawska im. Marii Sklodowskiej-Curie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d49b20e2-d2e1-df11-bd73-0030487d8897",
+		"OrganizationName": "University of Lodz (Uniwersytet Łódzki)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d0b56cad-f8b4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University of Technology and Economics (Wyższa Szkoła Techniczno-Ekonomiczna w Szczecinie) - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e3fe0692-e720-e111-8d82-f04da23e67f6",
+		"OrganizationName": "University of Warsaw (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2a502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Artystyczny w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4b4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Ekonomiczny w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f84d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Ekonomiczny w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "11502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Ekonomiczny w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5ac195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Ekonomiczny W Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "69821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Ekonomiczny we Wrocławiu - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "65641582-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Gdanski - Campus Wita Stwosza 55 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "25c195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Gdanski - Campus Wita Stwosza 59 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "654dbedb-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Gdanski - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "99dfd1cb-11bf-de11-886d-0030487d8897",
+		"OrganizationName": "Uniwersytet Gdanski (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "84d27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Gdanski Wydzial Nauk Spolecznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "da4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8a12e1f3-72d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Uniwersytet Jagielloński",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "77b9c3d5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Jagiellonski - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6ed27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Jagiellonski - Strona Glówna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ab4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Jana Kochanowskiego w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b7801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Kardynala Stefana Wyszynskiego w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a24e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Marii Curie-Sklodowskie - Lublin - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "954b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Medyczny w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "084f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Medyczny w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a74e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Medyczny w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "76801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Mikolaja Kopernika",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "004c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Mikolaja Kopernika im. Ludwika Rydygiera Collegium Medicum w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "66811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Muzyczny Fryderyka Chopina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "814f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Opolski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "464e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Papieski Jana Pawla II w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3c4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c17f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b14e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Przyrodniczy w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "16502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Przyrodniczy w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6e821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Przyrodniczy we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4a95da29-a92b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Uniwersytet Przyrodniczy we Wrocławiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "554e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ad7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Rzeszowski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7e4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Slaski w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ef9a461d-2f34-e711-80ef-000d3af41938",
+		"OrganizationName": "Uniwersytet Szczeciñski - University of Szczecin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0cb82193-6369-e111-a407-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Szczecinski Wneiz - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "154c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jedrzeja Sniadeckich w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cad07e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Technologiczno-Przyrodniczy w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b930c105-e3c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Technologiczno-Przyrodniczy w Bydgoszczy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ae4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "764f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8c4dbedb-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Uniwersytet Warmińsko-Mazurski w Olsztynie - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "50821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0ae57bd1-bf40-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Wroclawski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8c821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Uniwersytet Zielonogórski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8cd27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Uniwersytetu Przyrodniczo-Humanistycznego w Siedlcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "894483d9-c12d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "V Liceum Ogólnokształcące im. Augusta Witkowskiego w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a7502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Vysoká škola inžiniersko-ekonomická so sídlom v Rzeszove",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9e801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Walbrzyska Wyzsza Szkola Zarzadzania i Przedsiebiorczosci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bcdea7f7-6072-df11-bc53-0030487d8897",
+		"OrganizationName": "Warsaw School of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1e634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Warsaw University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c6811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Warszawska Szkola Zarzadzania- Szkola Wyzsza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b7811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Warszawska Wyzsza Szkola Humanistyczna im. Boleslawa Prusa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c1811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Warszawska Wyzsza Szkola Informatyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "01537969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "West Pomeranian University of Technology (Zachodniopomorski Uniwersytet Technologiczny w Szczecinie)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1e4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wielkopolska Wyzsza Szkola Humanistyczno-Ekonomiczna w Jarocinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "58801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wielkopolska Wyzsza Szkola Spoleczno-Ekonomiczna w Srodzie Wielkopolskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4d502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wielkopolska Wyzsza Szkola Turystyki i Zarzadzania w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wojskowa Akademia Techniczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3a634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Wrocław University of Technology (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e44e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wschód-Zachód Szkola Wyzsza im. Henryka Józwiaka w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "624f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wszechnica Mazurska w Olecku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "70811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wszechnica Polska Szkola Wyzsza TWP w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "974d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wszechnica Swietokrzyska w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "28292c94-817e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Wszelkie prawa zastrzeżone Sosnowiec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c8b2fe99-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "WSZiB w Krakowie - Krakow Campus - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "64372409-96a4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "www.zszwolsztyn.pl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6ced76f0-1f24-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "WYDZIAŁ ZARZĄDZANIA I LOGISTYKI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d07f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Hanzeatycka Szkola Zarzadzania w Slupsku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7a502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Inzynierska Szkola Bezpieczenstwa i Organizacji Pracy w Radomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e24c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji i Biznesu im. Eugeniusza Kwiatkowskiego w Gdyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "954f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji Publicznej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9f4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji Publicznej im. Stanislawa Staszica w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "924d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji Publicznej w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "20801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji Publicznej w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b84b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracji w Bielsku-Bialej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "07811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Administracyjno - Spoleczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "92d27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Agrobiznesu w Lomzy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ba3d67a7-67ed-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Wyzsza Szkola Agrobiznesu w Lomzy - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "da801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Artystyczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b54c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyższa Szkoła Bankowa w Gdańsku - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fd4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bankowa w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5e9a4873-5d87-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Wyzsza Szkola Bankowa W Poznaniu Wydzial Zamiejscowy w Chorzowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "85801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bankowa w Toruniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "64821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bankowa we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ae989544-1e22-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Wyzsza Szkola Bankowa we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "464d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bankowosci i Finansów",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f34f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bezpieczenstwa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e34d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Bezpieczenstwa Publicznego i Indywidualnego Apeiron w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "06b82193-6369-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4e4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu - National-Louis University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "344f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu i Administracji w Lukowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ef4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu i Nauk o Zdrowiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9a4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu i Przedsiebiorczosci w Ostrowcu Swietokrzyskim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "394c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu i Zarzadzania w Ciechanowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7f502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu im. bp. Jana Chrapka w Radomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "99ef8b99-e816-e111-a703-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu w Dabrowie Gorniczej (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b04f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Biznesu w Pile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "df4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola COSINUS w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2f811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Dziennikarska im. Melchiora Wankowicza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e94f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Edukacji i Terapii",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ee4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Edukacji Integracyjnej i Interkulturowej w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cb4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Edukacji Zdrowotnej i Nauk Spolecznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "94811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekologii i Zarzadzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4b18efa5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Wyższa Szkoła Ekonomi i Innowacji w Lublinie - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a44b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczna w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f37f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczna w Stalowej Woli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "904f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczno - Spoleczna w Ostrolece",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d64b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczno w Bochni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cd4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczno-Humanistyczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cb7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczno-Humanistyczna w Skierniewicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "99811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomiczno-Informatyczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1a4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomii I Administracji w Bytomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ff4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomii i Informatyki w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "914e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomii i Innowacji w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a14d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomii i Prawa im. prof. Edwarda Lipinskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8d4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Ekonomii Turystyki I Nauk Spolecznych w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "504e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyższa Szkoła Europejska im. ks.Józefa Tischnera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1c821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Filologiczna we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "71801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Filologii Hebrajskiej w Toruniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bf4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Finansów i Administracji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f94e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Finansów i Informatyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "be4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Finansów i Prawa w Bielsku-Bialej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1c800694-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Wyższa Szkoła Finansów i Prawa w Bielsku-Białej - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a94b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Finansów i Zarzadzania w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9e811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Finansów i Zarzadzania w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f4811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Fizjoterapii z siedziba we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "61502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Gospodarcza w Przemyslu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "324d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Gospodarki Euroregionalnej im. Alcide De Gasperi w Józefowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0b4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Gospodarki w Bydgoszczy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e9801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Gospodarowania Nieruchomosciami",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "884d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlowa im. Boleslawa Markowskiego w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c14f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlowa im. Króla Stefana Batorego w Piotrkowie Trybunalskim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f04d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlowa w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "89502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlowa W Radomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "21821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlowa we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6918efa5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Wyzsza Szkola Handlowa We Wroclawiu - Wroclaw - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4d811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlu i Finansów Miedzynarodowych im. Fryderyka Skarbka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "02502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlu i Rachunkowosci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "07502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Handlu i Uslug w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ee801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Hotelarstwa Gastronomii I Turystyki w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5b4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Hotelarstwa i Turystyki w Czestochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7d4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczna im. Króla Stanislawa Leszczynskiego w Lesznie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "43801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczna Towarzystwa Wiedzy Powszechnej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "29821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczna we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "73821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczna-Ekonomiczna im Jana Zamoyskiego z siedziba w Zamosciu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a94f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczno - Ekonomiczna w Pabianicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b27f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczno – Przyrodnicza Studium Generale Sandomiriense",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e24b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczno-Ekonomiczna w Brzegu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c67f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczno-Ekonomiczna w Sieradzu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e0811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanistyczno-Ekonomiczna we Wloclawku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e97f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Humanitas w Sosnowcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "134f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "714f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki i Ekonomii Towarzystwa Wiedzy Powszechnej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b34b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki i Zarzadzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "57502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki i Zarzadzania w Przemyslu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a87f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki i Zarzadzania z siedziba w Rzeszowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d22b2076-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "df801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki Stosowanej i Zarzadzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki Zarzadzania Copernicus we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a8811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Informatyki Zarzadzania i Administracji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f03f7d6e-984a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Wyższa Szkoła Informatyki Zarządzania i Administracji z siedzibą w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f3801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Infrastruktury i Zarzadzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "16801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Integracji Europejskiej w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e47f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Inzynierii Bezpieczenstwa i Ekologii w Sosnowcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "94801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Inzynierii Dentystycznej i Nauk Humanistycznych w Ustroniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3e801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Jezyków Obcyc w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2122a410-a8cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Wyzsza Szkola Jezykow Obcych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f84f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Jezyków Obcych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "62801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Jezyków Obcych w Swieciu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ba4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Kadr Menedzerskich w Koninie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "df4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Komunikacji i Zarzadzania w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e74c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Komunikacji Spolecznej w Gdyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d0801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Komunikowania i Mediów",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "52502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Kultury Fizycznej i Turystyki im. Haliny Konopackiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2d4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Kupiecka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "774c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Lingwistyczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "43502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Logistyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d94e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Marketingu i Biznesu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "824e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Marketingu i Zarzadzania w Lesznie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8b4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Matematyki i Informatyki Uzytkowej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a3811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Mazowiecka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "734e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Medyczna w Legnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ee7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Medyczna w Sosnowcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "864b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Menedzerska w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6e4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Menedzerska w Legnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bc811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Menedzerska w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "dd4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Miedzynarodowych Stosunków Gospodarczych i Politycznych w Gdyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f14b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Nauk o Zdrowiu w Bydgoszcz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "84502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Nauk Spolecznych i Technicznych w Radomiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "394f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Nauk Spolecznych im. ks. Józefa Majki w Minsku Mazowieckim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "984e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Nauk Spolecznych z siedziba w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "834c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Oficerska Sil Powietrznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "670a1427-c5f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Oficerska Sil Powietrznych - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fe811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Oficerska Wojsk Ladowych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ad801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Organizacji Turystyki i Hotelarstwa w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6b811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Pedagogiczna TWP w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "224f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Pedagogiczna w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "11811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Pedagogiczna Zwiazku Nauczycielstwa Polskiego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bf4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Pedagogiczno Techniczna w Koninie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e44f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Pedagogiki i Administracji im. Mieszka I w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7e4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Planowania Strategicznego w Dabrowie Górniczej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "53801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Policji w Szczytnie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "66502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Prawa i Administracji w Przemyslu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "494f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Przedsiebiorczosci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "344c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Przedsiebiorczosci i Marketingu w Chrzanowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a44f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Przedsiebiorczosci i Nauk Spolecznych w Otwocku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "924c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Przedsiebiorczosci i Rozwoju Regionalnego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8c4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Przedsiebiorczosci i Administracji w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fd801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Rehabilitacji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "96821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Rozwoju Lokalnego w Zyrardowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b64e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Spoleczno - Przyrodnicza im. Wincentego Pola w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ce4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Spoleczno-Ekonomiczna w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8f811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Spoleczno-Ekonomiczna w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ec4b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Srodowiska w Bydgoszcz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1f4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Stosunków Miedzynarodowych i Komunikacji Spolecznej w Chelmie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "034f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Studiów Miedzynarodowych w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "11801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Suwalsko-Mazurska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e94e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Sztuki i Projektowania w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Sztuki Uzytkowej w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "004b442f-47cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Wyzsza Szkola Techniczna w Katowica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5b4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Techniczna w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b3527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Techniczno - Ekonomicza Konsorcjum Futurus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "25801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Techniczno-Ekonomiczna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e5811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Technik I Przedsiebiorczosci we Wloclawku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b54d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Technik Komputerowych i Telekomunikacji w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "564d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Technologii Informatycznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5d801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Technologii Teleinformatycynych w Swidnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "02801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Turystyki I Ekologii",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d34c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Turystyki i Hotelarstwa w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "184f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Turystyki i Hotelarstwa w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0c811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Turystyki i Jezyków Obcych w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "34811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Turystyki i Rekreacji im. Mieczyslawa Orlowicza w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b04d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Umiejetnosci im. Stanislawa Staszica w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "48502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Umiejetnosci Spolecznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bb4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Umiejetnosci Zawodowych w Pinczowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ea811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Wspólpracy Miedzynarodowej i Regionalnej im. Zygmunta Glogera w Wolominie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "904b2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Wychowania Fizycznego i Turystyki w Bialymstoku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2a801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ef811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania Edukacja we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7b4f2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Administracji w Opolu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7d821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Administracji w Zamosciu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4b4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Bankowosci w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ee6362f3-72f1-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Wyższa Szkoła Zarządzania i Bankowości w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "25502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Bankowosci w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "03821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Coachingu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5a821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Finansów we Wroclawiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "da7f1c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Marketingu w Sochaczewie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8f801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania i Nauk Spolecznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bb4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "WYZSZA SZKOLA ZARZADZANIA I PRZEDSIEBIORCZOSCI IM. BOGDANA JANSKIEGO W LOMZY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6a4d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania Marketingowego i Jezyków Obcych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "834d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania Ochrona Pracy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c1801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania Personelem w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8a801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania Srodowiskiem w Tucholi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b04c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyższa Szkoła Zarządzania w Częstochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ab4c2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zarzadzania w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c94d2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zawodowa - Kostrzyn Nad Odra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zawodowa Kadry dla Europy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2f801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Zawodowa Oeconomicus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fe4e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "WYZSZA SZKOLA SPORTOWA im. Kazimierza Górskiego w Lodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a8801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkole Stosunków Miedzynarodowych i Amerykanistyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "84811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkole Technologii Informatycznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2f502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzsza Szkola Hotelarstwa i Gastronomii w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "02811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Bezpieczenstwa i Ochrony",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b2811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Cla i Logistyki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "644e2495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Gospodarki Krajowej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e4801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Komunikowania  Politologii i Stosunków Miedzynarodowych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ad811c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Promocji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a2502495-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Wyzszej Szkoly Zarzadzania w Rzeszowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "87821c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Zachodnia Wyzsza Szkola Handlu I Finansów Miedzynarodowych im Jana Pawla II w Zielonej Górze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "49801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Zachodniopomorska Szkola Biznesu w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4e801c9b-9268-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Zachodniopomorski Universytet Technologiczny w Szczecinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1750aa34-657e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespół Kolegiów Nauczycielskich w Ostrołęce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "49cc4240-75cd-e711-80f9-000d3af41938",
+		"OrganizationName": "Zespol Placowek Ksztalcenia Zawodow",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d102ecfd-b603-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół - Centrum Kształcenia Praktycznego - Sochaczew",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3980b6e1-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zespol Szkol 1 im. Henryka Sienkiewicza - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c7ae435f-095a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkól Agrobiznesu w Człuchów",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "37eb13b5-49a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Agrotechnicznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ed9f1bbd-639b-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Centrum Edukacji  im. Ignacego Łukasiewicza (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "23ae153b-379e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ekonomiczno-Hotelarskich im. Emilii Gierczak",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "05e49ae0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zespół Szkół Ekonomicznych - POZNAN - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3a03e538-0e61-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ekonomicznych im. A. i J. Vetterów w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cc527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespól Szkól Ekonomicznych im. Marii Dabrowskiej w Miedzyrzecu Podlaskim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e2527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespól Szkól Ekonomicznych w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3b6861c6-01b0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Elektronicznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "52787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespol Szkol Elektronicznych i Info",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "96dee2ca-e12c-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Zespół Szkół Elektronicznych i Informatycznych - Sosnowiec Campus - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d1527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespol Szkol Elektronicznych i Licealnych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fc96ab1f-8b9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Elektronicznych im.Stanisława Staszica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c90ce1db-a35f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Elektronicznych w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8eb3b077-8e60-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Elektronicznych w Przemyślu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d7527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespol Szkol Elektryczno-Mechaniczn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7052575c-caa7-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Elektrycznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "55787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespol Szkol Elektrycznych im.Tadeusza Kosciuszki w Opolu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3c338017-f8c8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Elektrycznych nr 1 w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e9d650b5-8380-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Elektrycznych w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2d739be6-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zespol Szkol Energetycznych - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ea524f48-3f48-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Energetycznych im. prof. Kazimierza Drewnowskiego w Lublinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "58787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół Szkół Energetycznych w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fc7fec52-1d77-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Górniczo-Energetycznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "51ead610-e27b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół i Placówek Kształcenia Zawodowego w Bielawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3271d618-8dd3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol im Andrzeja Sredniawsk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c2f9f844-4e4a-e811-8103-000d3af41938",
+		"OrganizationName": "Zespol Szkol im Mikolaja Kopernika - Dzial Informatyki - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7c0c46e5-fae9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół im. Bohaterów Narwiku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f9b43caf-976b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół im. gen. Jóżefa Kustronia w Lubaczowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8cd07e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespol Szkol im. Henryka Sienkiewicza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "df9fa420-74e4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół im. J. i W. Zamoyskich w Rokietnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "445954c7-6109-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół im. ks. Józefa Tischnera w Dobczycach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "821a8335-711d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół im. Ojca Świętego Jana Pawła II w Niepołomicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c8b456bf-6d0e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Informatycznych w Kielcach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "05c788f7-6ca2-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Katolickich w Tczewie (Uniwersyteckie Katolickie Liceum Ogólnokształcące)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "02eaf9d6-5fa8-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Zespół Szkół Komunikacji im. Hipolita Cegielskiego w Poznaniu - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9ecd2c74-9a6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Łączności",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e8527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespól Szkól Lacznosci w Gdansku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2872d79a-0d39-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Łączności w Gliwicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4cd27e63-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespól Szkól Lacznosci w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2cc195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zespol Szkol Lacznosci w Poznaniu - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "544eac46-c7de-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Licealno-Technicznych w Kluczborku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e7970659-bf0e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Licealno-Technicznych w Poznaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5b787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół szkół licealnych i Technicznych w Jarosławiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7fc64ab5-cf5e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Mechaniczno-Elektronicznych - Gliwice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "29a6961a-cb65-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Mechanicznych i Ogólnokształcących nr 5 w Łomży",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "516aad7e-a702-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Mechanicznych im. Stef",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e12f8f59-1f40-e911-8113-000d3af41938",
+		"OrganizationName": "Zespol Szkol Mechanicznych im. Stefana Czarnieckiego w Lapach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c88d9f5b-131c-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 1 im Stanisława Staszica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6668a8fd-c6de-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Nr 1 im. prof. W. Rotkiewicza w Dzierżoniowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bdafabbb-ca55-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 1 im. Wł. Grabskiego w Lublinie - Lublin - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ef725a57-5c8d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespół Szkół nr 1 im.Kazimierza Wielkiego w Mińsk Mazowiecki - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "556c12c6-017c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Nr 1 w Bochni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a2c4434a-0b5a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Nr 1 w Choszcznie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c4527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespol Szkol Nr 1 w Kcyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e2fa6d3c-c766-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol nr 1 w Lubinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "70886791-4fea-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol nr 1 w Piekarach Slask",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d22fed2f-8e72-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 10 im. S.Staszica w Warszawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6156e5c3-cbaa-e711-80f7-000d3af41938",
+		"OrganizationName": "Zespol Szkol nr 2 im. gen. J.Bema w",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2455172a-954d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol nr 2 w Rypinie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "eefd662c-83a5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 3 im. Mikołaja Kopernika w Wieluniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "35903c3c-cd55-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol nr 3 w Lukowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7a9adef6-4dc3-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 4 w Nowym Sączu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4fc11b05-ac17-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 4 w Tychach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "34158d56-a25f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Nr 42",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e84c178c-1978-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol nr 5 w Rudzie Slaskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "97c26acb-762c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół nr 6 im. Króla Jana III Sobieskiego (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "37ae349e-0fde-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Nr. 10 w Zabrzu im. prof. Janusza Groszkowskiego - Zabrze - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4be09a34-b703-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Panadgimnazjalnych w Nowogardzie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5e787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół Szkół Poligraficzno-Mechanicznych w Katowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ff7a58bb-043d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Polskiego PGNIG im. prof. Walerego Goetla",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b1b6b38f-02d7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych im Adama Mickiewicza w Lubaniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6232c652-9b57-e811-8105-000d3af41938",
+		"OrganizationName": "Zespol Szkol Ponadgimnazjalnych im Zagorow - Dzial Informatyki - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2b514445-9072-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych im. Batalionów Chłoskich w Zielonej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "fa7d7fba-09b1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych im. Kombatantów Ziemi Lubańskiej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "cf3056c9-9063-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych im. Stanisława Staszica w Wieruszowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6f77e0e2-4d7f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych im. Władysława Reymonta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "33f69577-d8aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1  im. Stanisława Staszica w Opocznie - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ed527969-667e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 im. Hipolita Cegielskiego w Pile - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e1451c9c-908c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 im. Jana Pawła II w Inowrocławiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5d3385c4-bb2c-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 w Bartoszycach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "54c0f39c-c56e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 w Brzesku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9898626d-0397-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 w Końskich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "65787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 1 w Sieradz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d97a5459-6109-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych Nr 10 w Łodzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f3b26ac4-4dae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 2 im. ppłk dr Stanisława Kulińskiego w Wągrowcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "245bb67d-a00f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 2 im. w Jędrzejowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5aaaf19e-8c96-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych Nr 2 w Oławie - Oławie - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "94d29079-1626-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "be827a39-a4df-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 3 im. Stanisława Staszica we Włoszczowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3b6f1f1d-d8aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych nr 6 im",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "54868c58-6e7c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych Nr3 w Końskich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bb693fb1-667c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych Nr3 w Końskich - Konskie - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "7adb5efa-0676-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Ponadgimnazjalnych Przodkowo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "b849e96b-b09d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych w Bytowi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "61787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół Szkół Ponadgimnazjalnych w Płotach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4caff7f8-fec3-e711-80f9-000d3af41938",
+		"OrganizationName": "Zespol Szkol Powiatowych w Przasnys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "80e3cdb8-d46d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkół Rolnicze Centrum Kształcenia Ustawicznego w Trzciance",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f83ef79b-08d9-e711-80fa-000d3af41938",
+		"OrganizationName": "Zespół Szkół Rolniczych Centrum Kształcenia Praktycznego w Grodkowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9a2a125d-3f7a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Rzemiosł Artystycznych im. Stanisława Wyspiańskiego w Jeleniej Górze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c3f89d20-c00e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Salezjańskich w Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c40c532d-125a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Samochodowych im. Tadeusza Kościuszki we Włocławku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "70785d09-fe86-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Szkoła Podstawowa i Gimnazjum w Barcicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6dc94e44-0e23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Szkoły Podstawowej i Gimnazjum im. Jana Pawła II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "68787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół Szkół Tansportowo-Komunikacyjnych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "0027f341-a7bc-e211-be21-f04da23e67f4",
+		"OrganizationName": "Zespół Szkół Techniczno-Elektronicznych w Kaliszu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8ede1df6-a649-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Techniczno-Usługowych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4e787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespół szkół Technicznych",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4cfe72ce-a7a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Technicznych i Ogolnok",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "8a6aec98-f84c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych i Ogólnokształcących im. Jana Pawła II w Limanowej",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "d4e0a3fa-f34d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych i Ogólnokształcących im. Stefana Żeromskiego w Częstochowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6db2bad1-ad06-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych im. Bohaterów Września w Jaśle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "90baa854-b19b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych im. Jana Pawła II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "71fe1e90-16ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych im. Marii Skłodowskiej-Curie w PUławach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3888f9b3-fd3c-e811-8103-000d3af41938",
+		"OrganizationName": "Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu - Radom - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "14fe94ce-7fa4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych w Ostrowie Wielkopolskim - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5c81f00e-48f2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Technicznych we Włocławku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6f78f46c-c1c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Terenów Zieleni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "9b848e7e-fece-e711-80f9-000d3af41938",
+		"OrganizationName": "Zespół Szkół w Chełmży",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f283b755-a5df-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół w Chojnicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "223c47a8-bd61-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół w Częstochowie Zakładu Doskonalenia Zawodowego w Katowicach - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "c36e3656-4c5d-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol w Dobrzeniu Wielkim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "1589aa84-74a2-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół w Gdowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5b3873b9-0c02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół w Opalenicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "bb5f2b6a-4379-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół w Wapnie (Poland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "39898347-ff49-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych i Licealnych im. Górników i Energetyków Turowa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a4540143-0be9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych im. Św Barbary w Bogatyni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "103940fb-996b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych nr 1 i II Liceum Ogólnokształcące",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "5e9237f4-63b8-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych Nr 1 im. mjr. Henryka Dobrzańskiego w Bychawie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "ede6c97f-a5df-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych nr 1 w Brzegu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "e0456831-efaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych Nr 2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "f8b676da-c08a-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych Nr 2 w Starachowicach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "2d33e00b-8b76-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Zespol Szkol Zawodowych w Brodnicy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "50418d40-fbe9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych w Brzegu Dolnym",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "4183afc5-0dcb-e711-80f9-000d3af41938",
+		"OrganizationName": "Zespol Szkol Zawodowych w Gostyniu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "81021d45-1674-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych w Mrągowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "6d20ab49-63b8-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Zespół Szkół Zawodowych w Rawiczu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "a0182181-fffe-e811-810d-000d3af41938",
+		"OrganizationName": "Zespol Szkol Zawodowych w Wegorzewie - Wegorzewo - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "3db196b8-7dbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zespołu Szkół Energetycznych Krakowie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "12a85cda-2c9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Zespołu Szkół nr 1 we Wrocławiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "POL",
+		"InstitutionID": "04191f82-f197-e711-80f6-000d3af41938",
+		"OrganizationName": "Zespołu Szkół Ponadgimnazjalnych nr 5 w Krośnie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "406dd633-1bc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4e6dd633-1bc3-e811-810a-000d3af41938",
+		"WebStoreName": "Cyber center of excellence - Remote Training Sites - Fort Bragg Digital Training Center - Training",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4e6dd633-1bc3-e811-810a-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "6d6dd633-1bc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "7f6dd633-1bc3-e811-810a-000d3af41938",
+		"WebStoreName": "Ivy Division Cyber center of excellence - Remote Training Site - Fort Carson Ivy Division Signal University - Training",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7f6dd633-1bc3-e811-810a-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "9f6dd633-1bc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b06dd633-1bc3-e811-810a-000d3af41938",
+		"WebStoreName": "Fort Hood Signal University, Cyber Center of Excellence - Remote Training Sites",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b06dd633-1bc3-e811-810a-000d3af41938"
+	}
+]

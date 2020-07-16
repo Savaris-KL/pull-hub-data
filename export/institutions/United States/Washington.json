@@ -1,0 +1,2730 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed3116fa-e25e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Interactive Entertainment - Seattle",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "ALPS Language School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Antioch University-Seattle",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Art Institute of Seattle",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b68e96c-4d8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Asotin-Anatone School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07bc0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Auburn Mountainview Senior High School (Auburn, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acbc0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Auburn Riverside Senior High School (Auburn, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dba9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Auburn School District # 408",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6607a433-f34b-e011-bd14-0030487d8897",
+		"OrganizationName": "Bainbridge Graduate Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f67ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bainbridge Island School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b80b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bakke Graduate University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bastyr University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92eccfea-5559-e011-bd14-0030487d8897",
+		"OrganizationName": "Bates Technical College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8884e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bellevue Christian School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dd48df6-f431-df11-b4ab-0030487d8897",
+		"OrganizationName": "Bellevue College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14405924-bb14-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bellevue College - Bellevue Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bellevue Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bellevue School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "735f500b-1dc6-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Bellingham Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9fc07f-bec2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Bellingham Technical College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60281b1d-1d93-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Bethel School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Big Bend Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5c4440a-347d-e711-80f3-000d3af41938",
+		"OrganizationName": "Bothell High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18a27336-e1df-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Bremerton School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37e9e602-7b38-ea11-8126-000d3af41938",
+		"OrganizationName": "Brewster School District (Washington state)",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bridgeport SD",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d37ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Burlington-Edison School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffc3ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cape Flattery School District #401",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa8f158d-698d-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Carnegie Science",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "debd1756-d166-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Cascade High School (Everett School District)",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cascadia College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c49663f9-69bf-e911-811e-000d3af41938",
+		"OrganizationName": "Cascadia Technical Academy",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f20c82a-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Cascadia Technical Academy - Information Technology Systems, Service and Support",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Castle Rock School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae5fb678-63d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "CBE Alternative Programs",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Central Kitsap School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Central Valley High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eea24263-1c29-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Central Valley School District - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Washington University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "255be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Centralia College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0e75473-e50c-e811-80fe-000d3af41938",
+		"OrganizationName": "Centralia College - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c57d337-0a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Chavez Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39c0debd-50a2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Cheney Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7eaaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cheney SD",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ffeb53a-b7a8-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Chief Joseph Middle School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Chief Leschi Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06c4e18b-217d-e711-80f3-000d3af41938",
+		"OrganizationName": "Chief Sealth International High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21e2c38e-3eb9-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Children's National Health System",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "City University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85510162-5109-e111-a703-f04da23e67f6",
+		"OrganizationName": "City University of Seattle - Seattle Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Clark College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b1aac16-3a01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Clover Park School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76736514-e982-df11-bc53-0030487d8897",
+		"OrganizationName": "Clover Park Technical College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Columbia Basin College - Pasco Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cff82e6c-99c0-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Columbia Evangelical Seminary",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eaf5be57-c3f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Colville School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6257df62-306c-e011-971f-0030487d8897",
+		"OrganizationName": "Cornish College of the Arts",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Coupeville School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d69b12fd-c475-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Denis Production WebStore - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93bb989a-0408-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Dieringer School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a59842f6-4a57-e111-8056-f04da23e67f6",
+		"OrganizationName": "Digipen Institute of Technology",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e4e49f7-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "DigiPen Institute of Technology - Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba52e435-97cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "East Valley High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "East Valley SD-Spokane",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern Washington University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c9184d2-d0a7-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Eastmont School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "206f4340-f538-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Eastside Catholic School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c55e466b-994a-e011-bd14-0030487d8897",
+		"OrganizationName": "Eastside Christian School (Bellevue, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68e212b6-d7a9-de11-886d-0030487d8897",
+		"OrganizationName": "Edmonds Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f736f64-1a67-de11-b2f7-0030487d8897",
+		"OrganizationName": "Edmonds School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4570241c-e10b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Educational Service District 113",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Educational Service District 123",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "896ecaf4-c25e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Elma School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2b12c24-3a61-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Emerald Ridge High School - Puyallup - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "739d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Enumclaw School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f05aad47-e007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ephrata School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1f6c8a2-7ac6-4423-93c5-0fa3dada824d",
+		"OrganizationName": "Everest College - WA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "449e7ea1-1486-e011-969d-0030487d8897",
+		"OrganizationName": "Everett Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Evergreen State College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "519ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Faith Evangelical College & Seminary",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb192642-7695-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Federal Way Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32162b99-d8b9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Ferndale School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a49d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fife Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Finley School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Forest Ridge School of the Sacred Heart - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e03e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fred Hutchinson Cancer research Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Freeman School District #358",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c804b145-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Frontier Middle School (Moses Lake, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fdcf5f38-ee78-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Gateway Christian Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "055cbb53-70e7-df11-bd73-0030487d8897",
+		"OrganizationName": "George Washington University Medical",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6798e8d6-2dff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Georgetown Universtiy Medical Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ea3c9af-36ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Glacier Peak High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91e1b62b-c0c2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Gonzaga College High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gonzaga University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gonzaga University School of Business",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bde0805-6bb3-de11-886d-0030487d8897",
+		"OrganizationName": "Graduate School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05ff7636-07c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Granger School District 204 - Granger - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Grays Harbor College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6879a0ff-c168-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Green River Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20895bfe-ce7f-df11-bc53-0030487d8897",
+		"OrganizationName": "Green River Community College - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Griffin School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Henry Cogswell College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Heritage University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc0723e6-8f6d-df11-b841-0030487d8897",
+		"OrganizationName": "Highline Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "369b8844-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Highline High School - Technology - Departmental Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Highline School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d1e5b26-b425-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Howard University School of Divinity",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad0b3b45-99fa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ingraham High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e4b4b66-be52-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "INSTITUTE OF WORLD POLITICS",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30f058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Interface Computer College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (College Place SD)",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbe1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "International Academy of Design and Technology",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee397860-533f-e011-b1e1-0030487d8897",
+		"OrganizationName": "Island View Elementary School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c895e39-e37d-de11-9b99-0030487d8897",
+		"OrganizationName": "Issaquah School District #411",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d9a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Jewish Day School of Metropolitan Seattle",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45112056-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Joel E Ferris High School (Spokane, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "feaf183e-e5e7-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Kalama Jr Sr High",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kennewick School District - Computer Science - Departmental Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cbc62cf-d070-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Kent Phoenix Academy",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1e5278e-28d5-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Kent School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6b5e21d-7c84-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kepler College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "King County Library System",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kiona-Benton City School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31bf0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Kirkland High School (Kirkland, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a553d21-c4fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "La Conner School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "287b972a-f7bc-de11-886d-0030487d8897",
+		"OrganizationName": "Lake Quinault Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "173ea0ab-ad1a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Lake Stevens High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "defd0b20-28c3-e211-be21-f04da23e67f4",
+		"OrganizationName": "Lake Stevens School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0a0e778-108c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Lake Washington Institute of Technology",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9d33043-003c-df11-b4ab-0030487d8897",
+		"OrganizationName": "Lake Washington School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa049d86-f0b8-de11-886d-0030487d8897",
+		"OrganizationName": "Lake Washington Technical College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78e1894b-0008-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lakeside School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfd7af50-49d1-df11-bd73-0030487d8897",
+		"OrganizationName": "Legacy Homeschool",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a912f4d9-d0c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Lighthouse Christian School (WA)",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "629722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lower Columbia College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "828ad91f-e0fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Marysville School District 25",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44a0649d-2fb5-df11-ad57-0030487d8897",
+		"OrganizationName": "McDonough School of Business",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Medical Lake School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "549a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mercer Island School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8567107d-e0df-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Milford Mill Academy",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b884e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Montesano School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6aa9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mossyrock School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddff039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Mount Adams School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mukilteo School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf868950-8a60-e011-971f-0030487d8897",
+		"OrganizationName": "Nathan Hale High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42f2eb55-edcb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Cathedral School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3df20571-73c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Education Association",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4647c808-75d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "National Intelligence University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f33b4af-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "Newport Cisco Academy - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Newport Public Schools-B",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b07d7c3-8cc9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "NewTech Skills Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Nooksack Valley School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "919a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "North Beach School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32947962-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "North Central High School (Spokane, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Kitsap School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ab7bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "North Mason School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d986ff7-1878-e011-969d-0030487d8897",
+		"OrganizationName": "North Seattle College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b2feaf1-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "North Thurston High School (Lacey, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Thurston Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "NorthEast Washington Educational Service District 101",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "793cd0bd-bcd2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Northshore School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11e2a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Northwest College of Art",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Northwest Educational Service District 189",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01b1732e-4673-df11-bc53-0030487d8897",
+		"OrganizationName": "Northwest Indian College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb967802-f55a-e011-bd14-0030487d8897",
+		"OrganizationName": "Northwest University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Oak Harbor School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ceee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Okanogan School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58fc2db0-c641-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Olympia School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Olympia SD #11",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Olympic College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0db7bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Olympic Educational Service District 114",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1fe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Orting School District #344",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Othello School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a67ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Othelo School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pacific Lutheran University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4e10ecb-a2c7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Pacific Northwest University of Health Sciences",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42649309-a811-df11-85a5-0030487d8897",
+		"OrganizationName": "Pasco School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57de8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Peninsula College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "970f1205-34c3-e211-be21-f04da23e67f4",
+		"OrganizationName": "Peninsula School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Perry Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pierce College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d75901e4-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Pierce College - Fort Lewis - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "491058e9-45b4-de11-886d-0030487d8897",
+		"OrganizationName": "Pierce College- Puyallup",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a496b15c-36fb-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "Pioneer School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9fb9688-287d-e711-80f3-000d3af41938",
+		"OrganizationName": "Port Angeles High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cdaef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Port Angeles SD",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13627320-cecf-de11-baeb-0030487d8896",
+		"OrganizationName": "Puget Sound Educational Service District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Puget Sound SKills Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pullman School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2df8555f-ad4b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Puyallup School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rainier School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5353b891-61c7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Redmond High School - Redmond - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Renton School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "879922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Renton Technical College, Renton Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21fa1776-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Richland High School (Richland, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb0d1122-8b28-e811-8101-000d3af41938",
+		"OrganizationName": "Richland School District #400, WA USA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3b0b550-886e-df11-b841-0030487d8897",
+		"OrganizationName": "Ridgefield School District #122",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bbcd20c-390d-49dd-b05d-7cab6a3b7905",
+		"OrganizationName": "Riverside Unified School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5601cb66-72bd-e211-be21-f04da23e67f4",
+		"OrganizationName": "Roosevelt High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9601bea0-e857-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Saint George's School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9e0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Saint Martin's University - Lacey Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb4ef09c-0ae4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Saint Martin's University - MSSA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5c3ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "San Juan Island School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4196db00-680f-e911-810e-000d3af41938",
+		"OrganizationName": "Seattle Academy",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "673c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Seattle Central Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Seattle Jewish Community School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "573a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Seattle Pacific University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Seattle Preparatory School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Seattle Public Schools District No.1",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95a18bf8-466f-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Seattle Public Schools Skills Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "583a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Seattle University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35b4b305-0073-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Sequim School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cefe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sequim School District No.323",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9db9911-089c-df11-ad8b-0030487d8897",
+		"OrganizationName": "Shelton School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Shoreline Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "SIF Association Brownsburg Office",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Skagit Valley College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b8a31c8-e829-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Skagit Valley College - Mount Vernon - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43946f9a-cc85-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Slavic Christian Academy",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "952abfa6-3e6c-e011-971f-0030487d8897",
+		"OrganizationName": "Smithsonian Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sno Isle Technical Skills Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0803bc67-7133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Sno Isle Technical Skills Center - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Snohomish SD",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e640c07-aec4-de11-886d-0030487d8897",
+		"OrganizationName": "Snoqualmie Valley School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12f0f249-0173-e211-bf66-f04da23e67f4",
+		"OrganizationName": "South Kitsap School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b14023d8-10bf-de11-886d-0030487d8897",
+		"OrganizationName": "South Puget Sound Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c27357b-820a-de11-9c12-0030485a8df0",
+		"OrganizationName": "South Seattle Community College - Seattle Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8a91e87-e271-e111-a407-f04da23e67f6",
+		"OrganizationName": "South Whidbey School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Spokane Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3ec9303-f1c0-e811-810a-000d3af41938",
+		"OrganizationName": "Spokane Community College - Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e2fcdc2-33bb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Spokane Community College District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Spokane Falls Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e634b9e-63d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Spokane Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "639a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Spokane Skills Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca3e9ee4-9603-e011-bed1-0030487d8897",
+		"OrganizationName": "Spokane Valley High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b3d2de7-63d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Spokane Valley Transition School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St John Vianney Catholic School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60321fbb-91e6-df11-bd73-0030487d8897",
+		"OrganizationName": "St. Anthony Village High School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6d90dbf-9652-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "St. Joseph's Catholic School (Washington, USA)",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Martin's College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c23180b1-2f34-e711-80ef-000d3af41938",
+		"OrganizationName": "Stafford County Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "667232f6-838e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Stanwood Camano School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Student Research Development",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3a528ca-be5e-e011-971f-0030487d8897",
+		"OrganizationName": "Sultan School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tacoma Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d8f6534-e181-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Tacoma Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tahoma SD",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "687314e2-7d30-e011-b71d-0030487d8897",
+		"OrganizationName": "The Bear Creek School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3598ca3-4067-e211-a88c-f04da23e67f4",
+		"OrganizationName": "The Bear Creek School - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73ee1e31-8ced-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "The Evergreen State College - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13838156-b1d8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "The George Washington University - Law School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee39d5d4-ee4b-e011-bd14-0030487d8897",
+		"OrganizationName": "The George Washington University Medical Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "096c1791-79b3-de11-886d-0030487d8897",
+		"OrganizationName": "The Graduate School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05724378-1b8a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "The Northwest School - Seattle - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca28ff2c-4c03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "The Overlake School",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68ad19e5-a51d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "The Seattle School of Theology & Psychology",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f74d51db-d7a9-de11-886d-0030487d8897",
+		"OrganizationName": "Thomas Jefferson High School for Science and Technology",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4414d3e3-33e9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Toledo High School (Toledo, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trinity Washington University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Tukwila School District #406",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "733b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Puget Sound",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a23b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Washington",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Washington - Bothell Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99fce2bc-ac2d-de11-a497-0030485a8df0",
+		"OrganizationName": "University of Washington - Seattle Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "415de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Washington Dept of Medical",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "465de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Washington Educational Outreach",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "909a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Washington Tacoma",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23602173-a6fe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "University Place School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24b52bb6-867d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "University Prep (University Preparatory Academy) - Seattle",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbc512d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "UofWashington",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edcd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "UW",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34efe62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Valley School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afb0209b-6b69-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Vashon Island School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6fc4702-ee6a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Virginia Mason Medical Center",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Walla Walla Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bd059f0-0a68-df11-b841-0030487d8897",
+		"OrganizationName": "Walla Walla University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18648588-3aad-de11-886d-0030487d8897",
+		"OrganizationName": "Washington College of Law, American University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "574c1834-22c3-e211-be21-f04da23e67f4",
+		"OrganizationName": "Washington Conference of Seventh-day Adventists",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aaefe62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Washington School for the Deaf",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c8c0a09-1e56-47f0-9592-26a80248a764",
+		"OrganizationName": "Washington State - School of Engineeing",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f734bd8-6884-df11-bc53-0030487d8897",
+		"OrganizationName": "Washington State Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbe0cc30-2212-4ce1-95d7-e14acca822c2",
+		"OrganizationName": "Washington State University - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4435700e-d5c1-402e-b5c2-1f6fd5aa0873",
+		"OrganizationName": "Washington State University - Pullman Campus",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d63b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington State University at Pullman",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d73b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington State University at Spokane",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d83b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington State University at Tri-Cities",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d93b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington State University at Vancouver",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb4b6806-3100-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Washington Virtual Academies",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab77cf4b-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Wenatchee High School (Wenatchee, WA) - High School AA",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3eb62c3b-1690-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Wenatchee School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wenatchee Valley College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7368f68b-1346-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Wesley Theological Seminary",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1fb0456-c07a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "West Sound Academy - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d87ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Valley School District #363",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f73b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Washington University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4c73cfa-0ed2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Western Washington University - Campus Store",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a9b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Whatcom Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "517ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Whatcom County Library System",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "White River School District #416",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "734a7d16-a883-e811-8108-000d3af41938",
+		"OrganizationName": "White Salmon Valley School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Whitman College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae1ef671-86d2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Whittle School & Studios",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Whitworth College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f9b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Whitworth University",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "889a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Winlock School District",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87d9869b-fa4b-e011-bd14-0030487d8897",
+		"OrganizationName": "Wisdom for Life Leadership school",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6d692da-ef91-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Woodland High School - Washington",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e96dbfd0-9a5d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Woodland Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceb0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Yakima Public Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Yakima Valley Community College",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17929e0c-9cfe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Yelm Community Schools",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "388d163d-82c9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zillah School District - Microsoft Imagine Standard",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_k_12"
+	}
+]

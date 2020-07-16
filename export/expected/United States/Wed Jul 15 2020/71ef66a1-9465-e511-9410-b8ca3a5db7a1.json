@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "71ef66a1-9465-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Encounter Lutheran College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "73ef66a1-9465-e511-9410-b8ca3a5db7a1",
+		"WebStoreName": "Encounter Lutheran College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=73ef66a1-9465-e511-9410-b8ca3a5db7a1"
+	}
+]

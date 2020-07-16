@@ -1,0 +1,138 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "16f395a2-fcf3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Al-Farabi Kazakh National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "1eda9e70-5bd1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Almaty University of Power Engineering and Telecommunications",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "aac2ebdb-9bdb-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "College Kumash Nurgaliyeva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "2d1cffc1-8383-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Computer Academy STEP - Astana - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "0a4bbac2-669d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "GKKP Polytechnic College in Astana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "d6767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "INTERNATIONAL IT UNIVERSITY JSC.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "d105fadc-4843-e811-8103-000d3af41938",
+		"OrganizationName": "International university of information technologies (Kazakhstan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "089222b5-063c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Karaganda State Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "53d6b313-3df8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Kazakh National Research Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "049ec8ab-ea76-e711-80f1-000d3af41938",
+		"OrganizationName": "Kazakh-British Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "d9767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kazakh-German University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "d16359eb-331a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KAZGUU University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "a7fdc646-ca1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KIMEP University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "92bbed2a-f932-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Nazarbayev University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "2964adee-0b7b-e811-8106-000d3af41938",
+		"OrganizationName": "Satbayev University (formerly KAZNITU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "3466b124-dd04-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "SDU - Suleyman Demirel Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KAZ",
+		"InstitutionID": "7ea7ffea-9878-e711-80f1-000d3af41938",
+		"OrganizationName": "Turan University (Kazakhstan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

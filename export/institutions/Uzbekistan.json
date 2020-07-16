@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UZB",
+		"InstitutionID": "acc936f8-1751-e711-80f0-000d3af41938",
+		"OrganizationName": "Inha University in Tashkent",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UZB",
+		"InstitutionID": "20be639c-5460-e811-8105-000d3af41938",
+		"OrganizationName": "Karakalpak State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "UZB",
+		"InstitutionID": "e9188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tashkent University of IT Samarkand Branch",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

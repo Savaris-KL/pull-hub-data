@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "bbe18530-86da-4e7e-a47d-54cca6094a26",
+		"OrganizationName": "Peoria Unified School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://tcpn.arizona.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "a398b76b-aefc-db11-b8b4-0030485a6b08",
+		"WebStoreName": "The Cooperative Purchasing Network - Arizona",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a398b76b-aefc-db11-b8b4-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "0b4ceffb-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Peoria Unified School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c1bb020e-fb9b-e011-969d-0030487d8897",
+		"WebStoreName": "Centennial High School - Peoria - Career & Technical Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c1bb020e-fb9b-e011-969d-0030487d8897"
+	}
+]

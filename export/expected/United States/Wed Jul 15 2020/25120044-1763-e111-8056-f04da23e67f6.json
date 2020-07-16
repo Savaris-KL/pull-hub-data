@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d7c071b9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gulf Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c2a0289c-8f0b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Independent Schools Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c2a0289c-8f0b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "25120044-1763-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gulf Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://gulfchristiancollege.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "184c4d45-0c67-e111-ad7f-f04da23e67f6",
+		"WebStoreName": "Gulf Christian College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=184c4d45-0c67-e111-ad7f-f04da23e67f6"
+	}
+]

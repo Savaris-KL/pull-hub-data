@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "803c3a8d-3b66-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "The University of Alabama - Tuscaloosa - Departmental Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c064b80a-3e66-e611-9420-b8ca3a5db7a1",
+		"WebStoreName": "University of Alabama College of Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c064b80a-3e66-e611-9420-b8ca3a5db7a1"
+	}
+]

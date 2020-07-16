@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d7c071b9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Brisbane Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c2a0289c-8f0b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Independent Schools Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c2a0289c-8f0b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "a073ff03-94ed-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Brisbane Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://brisbanechristiancollege.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "ed074972-94ed-e111-a77d-f04da23e67f6",
+		"WebStoreName": "Brisbane Christian College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ed074972-94ed-e111-a77d-f04da23e67f6"
+	}
+]

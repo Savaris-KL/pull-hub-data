@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "00aec131-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Griffith University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "152b7fe5-af8b-e011-969d-0030487d8897",
+		"WebStoreName": "Griffith University - School of Information and Communication Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=152b7fe5-af8b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "45624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Griffith University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://griffith.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "7f6ebc22-af2c-e111-8d82-f04da23e67f6",
+		"WebStoreName": "Griffith University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7f6ebc22-af2c-e111-8d82-f04da23e67f6"
+	}
+]

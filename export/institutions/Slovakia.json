@@ -1,0 +1,346 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "41b7228f-48b9-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Akademia ozbrojenych sil GMRS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "fe52de6f-f395-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Constantine The Philospher University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "3eefc4cc-1455-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Ekonomická Univerzita v Bratislave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "252d956d-45bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakulta matematiky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "f67b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakulta matematiky UK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "e49d055d-dae9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "ISIC Slovakia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "f97b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Katedra Informatiky A Vypoctovej Technik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "fa72d527-5996-e811-8108-000d3af41938",
+		"OrganizationName": "Katolícka Univerzita v Ružomberku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "fc7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Matej Bel University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "ff7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mathematical Institute of Slovak Academy of Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "e078dc4d-fc90-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Pavol Jozef Šafárik University in Košice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "c194bab1-7ca4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Pavol Jozef Safarik University in Kosice, Faculty of Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "66634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Slobak University of Technology In Bratislava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "027c7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slovak Academy Of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "057c7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slovak Technic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "cf56ac6a-d1a7-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Slovak University of Agriculture in Nitra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "42168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slovak University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "b33bd20a-11bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Slovak University of Technology in Bratislava Faculty of Civil Engineering (Slovenská Technická Univerzita v Bratislave Stavebna Fakulta)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "45168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slovenská Technická Univerzita v Bratislave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "48168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Slovenská Technická univerzita v Bratislave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "a115659b-4859-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Stredná Priemyselná škola Elektrotechnická Presov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "4b168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Technical university of Kosice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "17c9cdd8-2309-e011-bed1-0030487d8897",
+		"OrganizationName": "Technicka Univerzita v Kosiciach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "36bdbd17-5c96-e811-8108-000d3af41938",
+		"OrganizationName": "Technická Univerzita Vo Zvolene",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "b5d731b1-1943-e811-8103-000d3af41938",
+		"OrganizationName": "The Armed Forces Academy of General Milan Rastislav Štefánik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "4e168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The Technical University of Kosice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "b61aec2e-5d96-e811-8108-000d3af41938",
+		"OrganizationName": "Trenčianska Univerzita Alexandra Dubčeka v Trenčine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "d147a7d2-585c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Trnava University in Trnava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "07c4f5ed-45f1-e111-a77d-f04da23e67f6",
+		"OrganizationName": "University of Economics in Bratislava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "6b969a3e-ba79-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "University of Presov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "31a2eaf9-5d96-e811-8108-000d3af41938",
+		"OrganizationName": "Univerzita János Selyeho",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "84b63764-5e96-e811-8108-000d3af41938",
+		"OrganizationName": "Univerzita Komenského",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "cdc5d616-e678-e111-a407-f04da23e67f6",
+		"OrganizationName": "Univerzita Komenského v Bratislave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "e1f5710f-a20f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Univerzita Mateja Bela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "1e22a4d2-5e96-e811-8108-000d3af41938",
+		"OrganizationName": "Univerzita Sv. Cyrila A Metoda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "2d7b029a-2a34-e711-80ef-000d3af41938",
+		"OrganizationName": "Vojenska Akadémia Liptovsky Mikulas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "8c2d7397-6196-e811-8108-000d3af41938",
+		"OrganizationName": "Vysoká Škola Bezpečnostného Manažérstva V Košiciach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "fd161b67-6296-e811-8108-000d3af41938",
+		"OrganizationName": "Vysoká Škola Danubius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "1233512b-4f59-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Vysoká škola Ekonómie a Manažmentu Verejnej Správy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "cfcc7100-4f59-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Vysoká škola Ekonómie a Manažmentu Verejnej Správy - Bratislava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "a084b801-6296-e811-8108-000d3af41938",
+		"OrganizationName": "Vysoká Škola Manažmentu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "9f3a716f-1890-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Žilinská Univerzita (University of Zilina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVK",
+		"InstitutionID": "184989d2-a94f-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Рan-European University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

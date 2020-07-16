@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "8287e67a-42cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Mendoza",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9187e67a-42cc-e511-9414-b8ca3a5db7a1",
+		"WebStoreName": "Universidad de Mendoza - Facultad de Ingeniería",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9187e67a-42cc-e511-9414-b8ca3a5db7a1"
+	}
+]

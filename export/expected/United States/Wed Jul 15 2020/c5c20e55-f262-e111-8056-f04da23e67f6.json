@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c5c20e55-f262-e111-8056-f04da23e67f6",
+		"OrganizationName": "Arethusa College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://arethusa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "c39b666d-f262-e111-8056-f04da23e67f6",
+		"WebStoreName": "Arethusa College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c39b666d-f262-e111-8056-f04da23e67f6"
+	}
+]

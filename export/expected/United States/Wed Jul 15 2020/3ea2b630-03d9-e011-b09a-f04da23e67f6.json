@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "3ea2b630-03d9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnológico Argentino - CABA - Campus Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b6a6b630-03d9-e011-b09a-f04da23e67f6",
+		"WebStoreName": "Instituto Tecnológico Argentino - CABA",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b6a6b630-03d9-e011-b09a-f04da23e67f6"
+	}
+]

@@ -1,0 +1,2586 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9af9d3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Alamogordo  HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6061163-391f-e011-b71d-0030487d8897",
+		"OrganizationName": "Alamogordo High School (Alamogordo, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "970e4816-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Alamogordo High School (Roswell, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alamogordo School District 1",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "756f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Albuquerque Academy",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba251410-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Albuquerque High School (Albuquerque, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Albuquerque Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e50d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Alta Vista MS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "003c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Anamarc College - Santa Teresa",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7fbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Animas Independant School District 6",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11e7ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Anton Chico MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ebbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Artesia Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "123c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "ATI Career Training Center",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa251410-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Atrisco Heritage Academy (Albuquerque, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a5b0c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Atrisco Heritage Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb356b28-f0b8-de11-886d-0030487d8897",
+		"OrganizationName": "Ayurvedic Institute",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Aztec Municipal School District - New Mexico",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Belen Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21600c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Belen HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7a8049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Belen MS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "100e4816-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bernalillo High School (Albuquerque, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56aa049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Bernalillo HS North Central  MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c14fffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Bernalillo MS N Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bernalillo Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e057d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Berrendo MS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d35b401c-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bloomfield High School (Gallup, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c7fece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Bloomfield HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fceb00c7-4f58-e711-80f0-000d3af41938",
+		"OrganizationName": "Burrell College of Osteopathic Medicine",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b43bf4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Camino Real MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7abbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Capitan Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61f2f9a6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Carlos Vigil MS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f89e7b8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Carlsbad  HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Carlsbad Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2187e7b8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Carrizozo HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af4fd9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Carrizozo MS/HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Carrizozo Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d978845-57d8-de11-baeb-0030487d8896",
+		"OrganizationName": "CC Snell MS  MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5abbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Central Consolidated School District 22",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central New Mexico Community College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Centro de Investigacion y Docencia Economicas",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chama Valley Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9fed3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Chaparral HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0438f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Chaparral MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3b0d7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Chief Manuelito MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chihuahua Institute of Technology",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f75c0c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Cibola HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clayton School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cloudcroft Municipal Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d616d8c4-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Clovis  HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clovis Community College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clovis Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04fad3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Cobre  HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cobre Consolidated School District 2",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b5b401c-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Cobre High School (Las Cruces, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Santa Fe",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of the Southwest",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Corona Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61529efe-ac3d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Crownpoint HS West   MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f448ffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Cuba  HS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cuba Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b2d4d6a-1f58-e111-8056-f04da23e67f6",
+		"OrganizationName": "Del Norte High School",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52fcd3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Deming HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b35f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Deming Interm School Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c6f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Deming Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Deming Public Schools District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Des Moines Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ff5f9a6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Devargas MS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dexter Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6abbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dora Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dulce Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern New Mexico University",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "606f189a-69ee-e811-810c-000d3af41938",
+		"OrganizationName": "EC-Council University (New Mexico)",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Elida Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85660c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Ernie Pyle MS  Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Espanola School District 55",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "514affa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Española Valley HS North Central (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Estancia Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Eunice Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bea37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Eunice Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Farmington Mun School District 5",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Floyd Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8abbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ft Sumner Municipal Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1fcd3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Gadsden HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gadsden Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e38f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Gadsden MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5c0e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Gallup HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gallup Mckinley County School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6de4d9ca-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Goddard  HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Grace Baptist Academy",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Grady Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eec6e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Grants HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4abbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Grants-Cibola County School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hagerman School District 5",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef660c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Harrison MS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9400d4d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Hatch Valley HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d539f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Hatch Valley MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hatch Valley School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hobbs Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e733f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Holloman MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hondo Valley Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ebbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "House School District 50",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute of American Indian and Alaska Native Culture and Arts Development",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dae1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "International Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jemez Mountain School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jemez Valley Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ccb1d7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "JFK MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29650c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Jimmy Carter MS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20a2049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "John Adams MS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58bfe4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Kirtland Central HS Wets MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1add7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Kirtland MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "367dece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "La Academia de D Huerta Southwest (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8166dff4-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Laguna Acoma HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50f3cf00-41ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Laguna Acoma MS West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bff3cf00-41ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Laguna MS West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lake Arthur School District 20",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "033fccdc-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Las Cruces HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8dbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Las Cruces Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Las Vegas City School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Logan School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lordsburg Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3f1cf00-41ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Los Alamitos MS West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f620c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Los Lunas HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Los Lunas School District 1",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Loving Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lovington School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66eabbca-c553-e011-bd14-0030487d8897",
+		"OrganizationName": "Luna Community College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "603ef4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Lynn MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Magdalena Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Maxwell School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f201d4d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mayfield HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Melrose Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53dfecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Memorial MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3335d5f8-5b3e-e811-8103-000d3af41938",
+		"OrganizationName": "Menaul School",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1de71d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Albuquerque HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db2d6ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Albuquerque Inst. Math & Science (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d668dff4-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mesa Alta Jr HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f246ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Cleveland MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fde071d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Del Norte HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47e871d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA East Mountain HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77e671d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Estancia HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae246ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Garfield MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8e771d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Gilbert Sean Charter HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67e171d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Highland HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd266ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Jefferson MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8e371d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Manzano HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c276ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA McKinley MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d752d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mesa MS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65306ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Salam Academy (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c2f6ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA South Valley Academy (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27e471d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Valley HS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd296ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Van Buren MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mesa Vista Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad4bffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mesa Vista HS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00f5f9a6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mesa Vista MS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "222a6ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Washington MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "782c6ad6-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "MESA Wilson MS (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "949722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mesalands Community College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ebfa3e5-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "Mescalero Apache School (Mescalero, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24c1e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Miaymura HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b29cf4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mora  HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mora Independant School District 1",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69e1ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mora MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Moriarty School District 81",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57fb0438-06ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Moriarty-Edgewood School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mosquero Municipal School District 5",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f8def36-bacf-de11-baeb-0030487d8896",
+		"OrganizationName": "Mountain View Alamogordo MS Southwest (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9755d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Mountain View Roswell MS Southeast (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mountainair School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f999f4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "NaNeelshiin Ji Olta N Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f23b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "National College of Midwifery",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acb2d7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Navajo MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Navajo Pine High School",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fc3e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Navajo Pine HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "faf39875-4b28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Navajo Technical College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "New Mexico Highlands University",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c75745de-69be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "New Mexico Institute of Mining and Technology",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "New Mexico Institute of Mining and Technology - Microsoft Imagine Standard",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a2a5002-7ba5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "New Mexico Military Institute",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "New Mexico State University",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51d674f0-006c-e211-a88c-f04da23e67f4",
+		"OrganizationName": "New Mexico State University - Las Cruces - Campus Store",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "New Mexico State University Carlsbad",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "619822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "New Mexico Tech",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3482ece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Newcomb HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dafd7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Newcomb MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "539f79ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA  Central Outer Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d92071ed-3418-e011-b71d-0030487d8897",
+		"OrganizationName": "NM MESA Central Inner Region Center (Las Vegas, ) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e49e79ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA Central Inner Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1a179ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA North Central Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02a379ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA North Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b9c79ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA Program Office (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fa479ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA Southeast Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9a479ca-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA Southwest Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42de71d0-e8bc-de11-886d-0030487d8897",
+		"OrganizationName": "NM MESA West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a99a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "NMSBVI",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "759822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "NMSU Dona Ana Community College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0398bb63-3f7e-df11-bc53-0030487d8897",
+		"OrganizationName": "Northern New Mexico College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a63dccdc-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Oñate HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c9df4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Pecos HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ebbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pecos Independant School District 21",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06e2ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Pecos MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "489ff4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Penasco  HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Penasco Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55e4ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Penasco MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "094dffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Pojoaque HS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pojoaque Valley School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1a2049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Polk MS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85e3d9ca-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Portales HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6852d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Portales Junior HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Portales Municipal Sd 57",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd958845-57d8-de11-baeb-0030487d8896",
+		"OrganizationName": "PR Leyva MS MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Quemado Independant School District 2",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Questa Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c99b6249-aef9-e911-8122-000d3af41938",
+		"OrganizationName": "Ramah Navajo School Board, Inc.",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a736f4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Red Mountain MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c303027-e76f-40a5-9bd9-3706d44330b2",
+		"OrganizationName": "Regional Education Center 6",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Reserve Independant School District 1",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "929b7bcd-d10d-e011-bed1-0030487d8897",
+		"OrganizationName": "Rio Grand Enrichment Studies",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "555e0c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Rio Grande  HS  Central Outer  MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4dbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Rio Rancho Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "639af4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Robertson  HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "570e4816-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Robertson High School (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1be5d9ca-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Roswell HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Roswell Independant School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ebbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Roy School District 27",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3e7d9ca-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Ruidoso  HS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47f7d3d6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Ruidoso MS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ruidoso School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "San Jon Municipal Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "253d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "San Juan College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a75261d-8b1c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Santa Fe Community College, NM",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "784dffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Santa Fe HS North Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Santa Fe Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df319859-7a21-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Santa Fe Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15461732-254a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Santa Fe University of Art and Design",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Santa Rosa Consolidated School District 8",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d29ff4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Santa Rosa HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bae4ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Santa Rosa MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3050ffa0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Santo Domingo MS N Central MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "947eece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Sarracino MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca81ece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Shiprock HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca78ece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Sierra Las Cruces MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2755d9d0-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Sierra Roswell MS Southeast MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Silver Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Socorro Consolidated School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "723fccdc-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Socorro HS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61f29161-bfc2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Southwest Acupuncture College",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42d87853-4700-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Southwestern College, NM",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c55084e-7ca5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Southwestern Indian Polytechnic Institute",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27a2f4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Springer  HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80e7ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Springer MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "353a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. John's College, Santa Fe",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "836f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Pius X High School",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ebbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Taos Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tatum School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eba3049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Taylor MS  Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Texico Municipal School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34e7f2b4-1e86-4915-bee9-edc0d10441d1",
+		"OrganizationName": "The Cooperative Purchasing Network - New Mexico",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbc4e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Thoreau HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83b4d7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Thoreau MS West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16c6e4ee-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Tohatchi HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75a4049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Toney Hillerman MS Central Outer (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08a7049b-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Truman MS  Central Outer  MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79b0d7fa-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Tse Bit Ai MS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tucumcari Public Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6dbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tularosa School District 4",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "931060dc-7da5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "United World College - USA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Autónoma de la Laguna",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Bonaterra",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of New Mexico",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c551e39-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of New Mexico - Albuquerque - Campus Store",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "035de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of New Mexico Bureau of Business Economic Research",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "085de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of New Mexico School of Medicine",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "beed697e-d5b2-e811-810a-000d3af41938",
+		"OrganizationName": "University of New Mexico, Valencia Campus",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of New Mexico-Los Alamos",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "441d3622-305c-e211-9922-f04da23fc522",
+		"OrganizationName": "University of the Southwest",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de620c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Valencia HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Valley High School in Albuquerque-new mexico",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Vaughn Municipal Schools",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2f1f9a6-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Village Academy Charter N Central (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be3cf4e2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Vista MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d146f730-bacf-de11-baeb-0030487d8896",
+		"OrganizationName": "Volcano Vista HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76bbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wagon Mound School District 12",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83a3f4ac-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "West Las Vegas  HS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25ebecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "West Las Vegas MS North MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "West Las Vegas School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9e9ecb2-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "West Las Vegas Valley Jr HS North (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b25f0c95-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "West Mesa HS Central Outer MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f43b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western New Mexico University",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5779ece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "White Sands MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b67bece8-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Zia MS Southwest MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6668dff4-40ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Zuni HS West MESA (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ff6cf00-41ce-de11-baeb-0030487d8896",
+		"OrganizationName": "Zuni MS West Region Center (Las Vegas, NM) - High School AA",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4cbbe949-ddfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Zuni Public School District",
+		"ProvinceCode": "NM",
+		"SubsectorCode": "education_k_12"
+	}
+]

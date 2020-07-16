@@ -1,0 +1,202 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "f7225cae-cbac-e811-8109-000d3af41938",
+		"OrganizationName": "Apex College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "20731780-4553-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Asian College of Higher Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "a358ed63-213c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Asian School of Management (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "26aede12-48f5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "College of Applied Business",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "ad5c7e02-867c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Crimson Internation College (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "46e12b1c-044d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Gomendra Multiple College (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "f7777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Himalaya College of Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "1b493580-d373-df11-bc53-0030487d8897",
+		"OrganizationName": "Institute of Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "dd6abfcf-590b-e811-80fe-000d3af41938",
+		"OrganizationName": "Institute of Engineering Pashchimanchal Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "f845a1fa-cb40-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Medicine, Tribhuvan University (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "ab3c3196-2436-e811-8103-000d3af41938",
+		"OrganizationName": "International Center for Academics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "7a8eb3e5-92a1-e811-8109-000d3af41938",
+		"OrganizationName": "Kantipur Engineering College (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "ff6e7522-14ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kathford International College of Engineering and Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "3e6e6971-2d4f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Kathmandu University (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "d0001c36-5db3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Kathmandu University School of Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "fa777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National College of Engineering (NCE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "98e20ad6-a301-e911-810e-000d3af41938",
+		"OrganizationName": "Nepal College of Information Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "e7776691-2def-e811-810c-000d3af41938",
+		"OrganizationName": "Nepal Institute of Health Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "8dc86ebf-aef3-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "NIST National School of Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "621bf56a-008e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Samriddhi College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "b3c14170-0524-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Soch college of IT (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "96b25a9c-30c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Suprem College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "28768365-3cc2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Tilingatar Higher Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "1c260a88-cb40-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Tribhuvan University (Nepal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NPL",
+		"InstitutionID": "49c524cc-ad6d-df11-b841-0030487d8897",
+		"OrganizationName": "Ullens  School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

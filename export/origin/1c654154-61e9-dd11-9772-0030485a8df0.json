@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "1c654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Anaheim Union High School District",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "29a85de7-0ea7-e411-9408-b8ca3a5db7a1",
+		"WebStoreName": "Anaheim Union High School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=29a85de7-0ea7-e411-9408-b8ca3a5db7a1"
+	}
+]

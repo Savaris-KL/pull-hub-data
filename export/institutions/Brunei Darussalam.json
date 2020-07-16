@@ -1,0 +1,58 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "25539d22-4720-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Institut Teknologi Brunei (Brunei)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "b8824bc2-55d8-e811-810b-000d3af41938",
+		"OrganizationName": "Kolej International Graduate Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "8d03e1fa-91a0-e811-8109-000d3af41938",
+		"OrganizationName": "Micronet International College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "4349bc89-8e0c-ea11-8124-000d3af41938",
+		"OrganizationName": "Politeknik Brunei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "eaf67f28-cf37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universiti Brunei Darussalam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "50ebb011-e7c6-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universiti Teknologi Brunei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BRN",
+		"InstitutionID": "efcb2c24-a740-df11-b56b-0030487d8897",
+		"OrganizationName": "University Brunei Darussalam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

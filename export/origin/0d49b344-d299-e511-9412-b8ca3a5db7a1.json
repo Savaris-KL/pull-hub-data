@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AD",
+		"CountryIsoAlpha3Code": "AND",
+		"CountryName": "Andorra",
+		"InstitutionID": "0d49b344-d299-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Govern d'Andorra - Àrea de Desenvolupament Tecnològic Educatiu - Prepaid",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "68b9eb38-d899-e511-9412-b8ca3a5db7a1",
+		"WebStoreName": "Govern d'Andorra - Àrea de Desenvolupament Tecnològic Educatiu",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=68b9eb38-d899-e511-9412-b8ca3a5db7a1"
+	}
+]

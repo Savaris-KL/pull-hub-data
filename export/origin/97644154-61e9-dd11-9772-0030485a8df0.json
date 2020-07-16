@@ -1,0 +1,62 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "14149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Deakin University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e49bff36-a58b-e011-969d-0030487d8897",
+		"WebStoreName": "Deakin University - IISRI",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e49bff36-a58b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f4f7c625-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Deakin University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a8de52ee-a68b-e011-969d-0030487d8897",
+		"WebStoreName": "Deakin University - School of Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a8de52ee-a68b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "97644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Deakin University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a6b1c763-8003-e411-9400-b8ca3a5db7a1",
+		"WebStoreName": "Deakin University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a6b1c763-8003-e411-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "504aa37d-dfc1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Deakin University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5c4aa37d-dfc1-e011-ae14-f04da23e67f6",
+		"WebStoreName": "Deakin University - School of Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5c4aa37d-dfc1-e011-ae14-f04da23e67f6"
+	}
+]

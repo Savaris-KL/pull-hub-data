@@ -1,0 +1,42 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BMU",
+		"InstitutionID": "da29869e-4e05-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Bermuda College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BMU",
+		"InstitutionID": "9bae9f68-f919-e211-a76f-f04da23e67f6",
+		"OrganizationName": "First Baptist Church",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BMU",
+		"InstitutionID": "a4ae9f68-f919-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Higher Education Development Unit (ETTC-C)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BMU",
+		"InstitutionID": "e48a5bea-6479-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "The Berkeley Institute (Bermuda)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BMU",
+		"InstitutionID": "abae9f68-f919-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Warwick Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

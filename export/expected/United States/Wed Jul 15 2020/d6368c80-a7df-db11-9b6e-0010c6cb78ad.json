@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "76138b4c-897f-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": ".Air University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "85138b4c-897f-e311-93f9-b8ca3a5db7a1",
+		"WebStoreName": "Air University - Wargaming",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=85138b4c-897f-e311-93f9-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "ace12657-e2c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": ".Air University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b8e12657-e2c1-e011-ae14-f04da23e67f6",
+		"WebStoreName": "Air University - Islamabad",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b8e12657-e2c1-e011-ae14-f04da23e67f6"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "2bcca040-f284-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Coconino Community College - Flagstaff - Arizona",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e5159333-dbd2-e811-810b-000d3af41938",
+		"WebStoreName": "Coconino Community College - CIS",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e5159333-dbd2-e811-810b-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "8b418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coconino Community College - Flagstaff - Arizona",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://coconino.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "967019e9-27d9-de11-baeb-0030487d8896",
+		"WebStoreName": "Coconino Community College - Flagstaff - Arizona",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=967019e9-27d9-de11-baeb-0030487d8896"
+	}
+]

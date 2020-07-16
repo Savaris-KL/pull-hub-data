@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "d4534189-7d10-e111-a703-f04da23e67f6",
+		"OrganizationName": "Chandler Gilbert Community College - WAH",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://cgccwah.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "8ccaeba7-7d10-e111-a703-f04da23e67f6",
+		"WebStoreName": "Chandler Gilbert Community College - MS Work-At-Home Fulfillment Center",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8ccaeba7-7d10-e111-a703-f04da23e67f6"
+	}
+]

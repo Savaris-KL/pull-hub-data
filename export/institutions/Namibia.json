@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NAM",
+		"InstitutionID": "ebd2fc2f-1b8c-e811-8108-000d3af41938",
+		"OrganizationName": "Namibia University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NAM",
+		"InstitutionID": "2b89fe84-0dfd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University of Namibia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

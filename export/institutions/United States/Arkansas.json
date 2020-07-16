@@ -1,0 +1,2842 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Academics Plus School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alma School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alpena School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arch Ford Education Service Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arise Charter School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ark. School For The Blind",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ark. School For The Deaf",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "feb9057b-ef4b-e011-bd14-0030487d8897",
+		"OrganizationName": "Arkadelphia Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arkansas Baptist College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arkansas Northeastern College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arkansas River Education Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "062e4742-0576-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Arkansas School for Mathematics, Sciences, and the Arts",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dae6a542-e655-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Arkansas State University - KVC",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arkansas State University - Newport",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arkansas State University- Beebe",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arkansas State University- Mountain Home",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bce4ffa-9742-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Arkansas State University Mountain Home - Microsoft Imagine Standard",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arkansas State University, Jonesboro",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arkansas Tech University",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arkansas Tech University (formerly Arkansas Valley Technical Institute)",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "779c424a-f05a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Arkansas Virtual Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Armorel School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c3c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Askins Vo-Tech",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Asu Area Career Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Augusta School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bald Knob School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2f76acd-dab8-de11-886d-0030487d8897",
+		"OrganizationName": "Baptist Health",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c70b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Baptist Health Schools Little Rock",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Barton-Lexa School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bearden School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "607ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Beebe Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Benton County School Of Arts",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Benton School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fba9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bentonville Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bentonville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bergman School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Berryville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "737e3807-0a68-df11-b841-0030487d8897",
+		"OrganizationName": "Bettonville Publick Schools (School District #6)",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd9422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Black River Technical College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Black Rock School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blevins School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blytheville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4f535e0-4dea-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Board of Trustees of the University",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Booneville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bradley School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Brookland School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bryant School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buffalo Island Central School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cabot School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Caddo Hills School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Calico Rock School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Camden Fairview School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6ddd5b1-640b-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Career Management Field",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cave City School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cedar Ridge School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Centerpoint School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "145be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Central Baptist College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9234d258-bbc2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Charter College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clarendon School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "159a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Clarksville Public Schools District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clarksville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cleveland County School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Concord School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Conway Area Career Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Conway School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b22c4b10-c463-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Cornerstone Christian Academy Cornerstone Christian Academy - Tillar, Arkansas - Microsoft Imagine Standard",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Corning School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "752abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cossatot Community College of the University of Arkansas",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5fe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cossatot River School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cotter School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "County Line School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cowley County Community College - Kansas Campus",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Crossett School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Crowley`S Ridge Education Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Crowley's Ridge College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e22abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Crowleys Ridge Technical Institute",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cushman School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cutter-Morning Star School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dawson Education Service Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Deer Consolidated School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Department Of Correction",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dequeen School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dequeen/Mena Education Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dermott School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Des Arc School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Devalls Bluff School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dierks School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dollarway School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Drew Central School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dumas School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Earle School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "East Arkansas Career Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfc67fd8-3838-df11-b4ab-0030487d8897",
+		"OrganizationName": "East Arkansas Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "East Poinsett Consolidated School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastern College of Health Vocations",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b39efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecclesia College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "El Dorado School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "El Dorado School District #15",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Elaine School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Elkins School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Emerson-Taylor School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "England School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "601b8ad3-9600-e011-bed1-0030487d8897",
+		"OrganizationName": "Episcopal Collegiate School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Eudora School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Eureka Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Farmington School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fayetteville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fayetteville School District #1",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Flippin School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Foreman School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Forrest City School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fort Smith School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ed68914-51b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Fouke High School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fouke School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fountain Lake School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Genoa Central School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gentry School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Glen Rose School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gravette School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Great Rivers Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Green Forest School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce9d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Greenbrier Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Greene Co. Tech School Dist.",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Greene County Tech School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Greenland School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Haas Hall Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hamburg School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Harding University",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harmony Grove School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harrisburg School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harrison School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hartford School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hazen School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Heber Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Helena/ West Helena School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Henderson State University - Computer Science - Departmental Store",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hendrix College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hermitage School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Highland School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ade4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hillcrest School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0bde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hope School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0cde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Horatio School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dde4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hot Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ede4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hughes School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Huntsville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Imboden Charter School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Izard Cooperative Consolidated School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jackson Cooperative School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jasper School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jessieville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "John Brown University",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f77d312c-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "John Brown University - Information Technology - Departmental Store",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jonesboro School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Junction City",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kipp:Delta College Preperatory School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kirby School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lake Hamilton School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lakeside School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lamar School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lavaca School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lead Hill School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fadd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lee County School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lincoln School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lisa Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Little Rock School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lockesburg School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0eb37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lonoke School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lyon College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Magnet Cove School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Magnolia School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Malvern School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mammoth Spring School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Manila School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mansfield School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marked Tree School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marmaduke School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marshall School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marvell School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Maynard School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mccrory School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mcgehee School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Melbourne School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mena School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Midland School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eadd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mid-South Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mineral Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Monticello School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Ida School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mountain Home School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mountain View School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mt. Vernon/Enola School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dadd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mulberry School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Murfreesboro School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "N. Little Rock School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Nashville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f96efc9d-e93c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "National Guard Professional Education Center - Microsoft Imagine",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03e4d4c0-26f6-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "National Park Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "National Park Technology Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Nettleton School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Newport School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Norfork School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Norphlet School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "North Arkansas College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "North West Arkansas Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northark Technical Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northcentral Arkansas Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northeast Arkansas Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97ce0dd7-49bb-df11-859b-0030487d8897",
+		"OrganizationName": "Northwest Arkansas Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northwest Arkansas Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bc612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Northwest Technical Institute",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Omaha School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ouachita Baptist University",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a73dceb1-dad4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Ouachita Hills Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ouachita School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "029922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ouachita Technical College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ouachita Vocational Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "326f184d-a267-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Ozark Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ozark Mountain School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ozark Public School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ozarks Unlimited Resource Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Palestine-Wheatley School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cadd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pangburn School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Paris School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ccdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Parkers Chapel School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Parkin School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pea Ridge School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Philander Smith College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Phillips Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a57a7403-8507-df11-85a5-0030487d8897",
+		"OrganizationName": "Phillips Community College of the University of Arkansas",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Piggott School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pine Bluff School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pocahontas School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pottsville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Prairie Grove School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Prescott School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pulaski Co. Spec. School Dist.",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b9309c9-654e-e011-bd14-0030487d8897",
+		"OrganizationName": "Pulaski Technical College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3094ed0b-370b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Quitman Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Rector School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36866914-9c11-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Riverside High School - Microsoft Imagine Standard",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Riverside School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Riverview School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Rogers School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Russellville School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Salem School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saline County Career Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sam M. Walton College of Business",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "badd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Scranton School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Searcy School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sheridan School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Shirley School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Siloam Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "297ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Sloan Hendrix School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sloan-Hendrix School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "So. Conway Co. School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "So. Miss. County School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fc612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "South Arkansas Community College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aadd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "South Central Arkansas Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "South Side School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Southark Career Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0206f49-069a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Southeast Arkansas College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "addd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Southeast Service Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "733a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Arkansas University - Store",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southern Arkansas University Tech",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Southern Arkansas University Tech Career Academy",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aedd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Southwest Arkansas Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5faff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Springdale Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Springdale School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbda90d4-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "St. John Catholic School - Information Technology - Departmental Store",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Star City School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Stephens School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Strong-Huttig School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Stuttgart Public School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sulphur Rock School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Texarkana School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tha Altamont School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afdbeece-841f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "The Anthony School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a75e219-d768-4723-8509-31f7acd5127c",
+		"OrganizationName": "The Cooperative Purchasing Network - Arkansas",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "027a005e-08e4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "The Delta School",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9edd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Twin Rivers School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2cd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Arkansas",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas - Fort Smith",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "166c61b7-59cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University of Arkansas at Little Rock",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "959e8437-4a25-df11-856f-0030487d8897",
+		"OrganizationName": "University of Arkansas Clinton School of Public Service",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7edbe66f-8407-df11-85a5-0030487d8897",
+		"OrganizationName": "University of Arkansas Community College at Batesville",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dcb7664-8507-df11-85a5-0030487d8897",
+		"OrganizationName": "University of Arkansas Community College at Hope",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ea0c92d-3034-e711-80ef-000d3af41938",
+		"OrganizationName": "University of Arkansas Community College at Morrilton",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas Division of Agriculture Cooperative Extension S",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cd6781a-f541-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University of Arkansas Fort Smith",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Arkansas Global Campus",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce135664-5079-e711-80f1-000d3af41938",
+		"OrganizationName": "University of Arkansas System, EVers -  Store",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f43a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas System, Fayetteville",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f53a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas System, Little Rock",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f63a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas System, Medical Sciences",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f73a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas System, Monticello",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f83a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arkansas System, Pine Bluff",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e683eda3-8287-e711-80f3-000d3af41938",
+		"OrganizationName": "University of Arkansas, Fayetteville - VMAP",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "703b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of the Ozarks",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Valley Springs School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Valley View School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Van Cove School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Vilonia School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Viola School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Waldo School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Waldron School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9add4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Walnut Ridge School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Warren School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Watson Chapel School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Weiner School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "West Fork School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "613c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westark College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Western Ark Technical Center",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Western Arkansas Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Western Yell Co. School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Westside Cons. School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Westside School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "White Co. Central School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ddd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "White Hall School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8edd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wickes School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fdd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wilbur D. Mills Educational Cooperative",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Williams Baptist College",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96ed37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wonderview School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Woodlawn School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f17ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Wynne Public Schools",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89dd4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wynne School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8add4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yellville-Summit School District",
+		"ProvinceCode": "AR",
+		"SubsectorCode": "education_k_12"
+	}
+]

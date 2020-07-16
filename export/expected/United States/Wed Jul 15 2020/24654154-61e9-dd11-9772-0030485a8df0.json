@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "fa6e7c01-ce19-df11-856f-0030487d8897",
+		"OrganizationName": "Cochise College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "116f7c01-ce19-df11-856f-0030487d8897",
+		"WebStoreName": "Cochise College - CIS Department",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=116f7c01-ce19-df11-856f-0030487d8897"
+	}
+]

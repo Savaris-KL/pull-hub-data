@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c2d882d4-1472-e711-80f1-000d3af41938",
+		"OrganizationName": "Lourdes Hill College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "bd660c85-8df6-e911-8122-000d3af41938",
+		"WebStoreName": "Lourdes Hill College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=bd660c85-8df6-e911-8122-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "9794af20-cc33-e011-b1e1-0030487d8897",
+		"OrganizationName": "Lourdes Hill College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "87b937f3-af06-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "WebStore for Queensland Catholic Education Commission powered by Kivuto",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=87b937f3-af06-e411-9401-b8ca3a5db7a1"
+	}
+]

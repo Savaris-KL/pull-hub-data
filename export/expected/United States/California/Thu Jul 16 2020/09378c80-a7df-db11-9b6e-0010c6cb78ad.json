@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "a0a11a45-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Azusa Pacific University",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d2fe18cf-d49b-e011-969d-0030487d8897",
+		"WebStoreName": "Azusa Pacific University - Deptartment of Engineering & Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d2fe18cf-d49b-e011-969d-0030487d8897"
+	}
+]

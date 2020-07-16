@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "d73b621c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Argentina de la Empresa",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f532357a-709b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad Argentina de la Empresa",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f532357a-709b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "e5ae6609-7593-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universidad Argentina de la Empresa",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f2ae6609-7593-df11-ad8b-0030487d8897",
+		"WebStoreName": "Universidad Argentina de la Empresa - IT",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f2ae6609-7593-df11-ad8b-0030487d8897"
+	}
+]

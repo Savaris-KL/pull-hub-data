@@ -1,0 +1,674 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "9251a35e-e725-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Alliance Bible Seminary (建道神學院, Hong Kong)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "5008a695-81b9-e711-80f7-000d3af41938",
+		"OrganizationName": "Australian International School Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "63a7cf19-4c8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Baptist Wing Lung Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "7ee63cb2-8f22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Bible Seminary of Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "24d197bc-8578-e711-80f1-000d3af41938",
+		"OrganizationName": "Caritas Institute of Higher Education (明愛專上學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "0ed98495-35ee-e111-a77d-f04da23e67f6",
+		"OrganizationName": "CCC Kei Long College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "896f0af6-f674-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cheung Sha Wan Catholic Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "5dfdb8f9-17bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Chinese International School - Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "b253f861-c41e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Christ College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "6e6c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Chu Hai College of Higher Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "fb0f6358-d56e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "City University HK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f6634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "City University of Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "8676e7bf-1d7f-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "College of Professional and Continuing Education - Hong Kong - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "27fe5f73-427a-e811-8106-000d3af41938",
+		"OrganizationName": "Creative Secondary School (Hong Kong)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "7968f89f-3096-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Education University of Hong Kong (香港教育大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "dc04231e-0f6f-e811-8106-000d3af41938",
+		"OrganizationName": "ELCHK Hung Hom Lutheran Primary School - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "d1dd9099-dc63-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "English Schools Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "97ee2fed-5a30-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Hang Seng Management College (HK)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f6a1bdf6-9d26-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Heung To Middle School (Tin Shui Wai)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "d9e853f5-28c2-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Hkuga College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "e11f0048-2bbb-e711-80f7-000d3af41938",
+		"OrganizationName": "HKUGA Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "a171566b-7b07-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Hong Kong Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "17644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hong Kong Baptist University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "4882fc07-e690-df11-ad8b-0030487d8897",
+		"OrganizationName": "Hong Kong Institute of Vocational Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "db916e66-2fee-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Hong Kong Institute of Vocational Education - Morrison Hill Campus - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "5b5ffd12-2de8-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Hong Kong Shue Yan University (香港樹仁大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "e1d7463e-ae0f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Hong Kong Universal Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "c4634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hong Kong University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "9f644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hong Kong University of Science and Technology - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "6e011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hop Yat Church School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "418fb697-0c55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Hwa Chong Institution",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "a37d1d78-de63-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Island School 港島中學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "50f8ff77-b083-e811-8108-000d3af41938",
+		"OrganizationName": "Island Waldorf School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "7427090d-7178-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kellogg-HKUST (HK)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "1ce1b194-dd63-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "King George V School 英皇佐治五世學校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "4643c41c-9e0e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Lingnan University (岭南大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "43485dcb-46a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Lock Tao Secondary School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "921cdfc4-9ece-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Lutheran Theological Seminary (信義宗神学院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "34b23a2d-801f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Maryknoll Secondary School (Hong Kong)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "9478e8c1-371e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Munsang College (Hong Kong Island)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "d595ba8f-00fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Nord Anglia Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "ce1b77cf-05b8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Po Leung Kuk Choi Kai Yau School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "704f218d-9551-e911-8113-000d3af41938",
+		"OrganizationName": "Qingdao Amerasia International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "4a1ffaaa-4e3c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Queen's College Old Boys' Association School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "5755259d-44ab-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Raimondi College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "b74ed273-99c9-e911-811e-000d3af41938",
+		"OrganizationName": "Sam Shui Natives Association Huen King Wing School (三水同鄉會禤景榮學校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "0e3ae681-bbc7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "School of Continuing and Profession Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "ee0c988e-6f76-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Sing Yin Secondary School (聖言中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "62386f8b-efa8-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "SKH St. Mary's Church Mok Hing Yiu College - Hong Kong - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f4436446-11e8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "South Island School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "bafeef42-2124-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "St. Francis of Assisi's English Primary School (Hong Kong)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "3ca11c38-2008-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "St. Margaret's Co-educational English Secondary and Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "241e4afe-7103-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "St. Margaret's Co-educational English Secondary and Primary School - West Kowloon - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "519dfd2c-10a7-e711-80f7-000d3af41938",
+		"OrganizationName": "Technological Higher Education Institute of Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "e2634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The Chinese University of Hong Kong (香港中文大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "e66c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "The Community College at Lingnan University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "e1624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The Education University of Hong Kong - Hong Kong - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "6d78586d-118a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "The Hong Kong Chinese Christian Churches Union Logos Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "358f95ea-895c-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "The Hong Kong Polytechnic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "74644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The Hong Kong Polytechnic University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f4a24946-3b82-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "The Hong Kong Polytechnic University (香港理工大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "6d6379c0-5e9f-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "The Hong Kong Polytechnic University, CPCE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "cb615f72-e1a3-df11-ad57-0030487d8897",
+		"OrganizationName": "The Hong Kong University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "0e75651d-84bd-e711-80f7-000d3af41938",
+		"OrganizationName": "The Methodist Church HK Wesley College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "2a644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The Open University of Hong Kong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "c9644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "The University of Hong Kong - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "1603807f-bc3d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "The University of Hong Kong (香港大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "508d7740-7045-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Tsung Tsin Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "6239bb94-cb85-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Tung Wah College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "12dadcaf-56bb-e811-810a-000d3af41938",
+		"OrganizationName": "United International College (Beijing Normal University + Hong Kong Baptist University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "00344c77-2701-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Vocational Training Council",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "80835ecf-0435-e711-80ef-000d3af41938",
+		"OrganizationName": "Wah Yan College, Kowloon, Hong Kong (九龍華仁書院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "8e028221-94a5-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Wai Chow Public School (上水惠州學校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "dde80bf2-3659-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "West Island School 西島中學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f7e17670-b8ab-e811-8109-000d3af41938",
+		"OrganizationName": "Youth College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "4d894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "伯特利神學院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "92011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "奇力學校 - 筲箕灣校園",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "9f011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "弘立書院",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "f4334c77-2701-e211-bd05-f04da23e67f6",
+		"OrganizationName": "教育局",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "7a011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "日本國際學校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "fb011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "滬江維多利亞學校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "65011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "美國國際學校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "aa698873-5809-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "聖貞德中學 St. Joan of Arc Secondary School - North Point - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HKG",
+		"InstitutionID": "b1011a91-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "香港耀中国际学校",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

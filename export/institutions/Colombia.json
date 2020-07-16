@@ -1,0 +1,1690 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "89d8f300-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ASPAEN - Asociación para la Enseñanza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3ffd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Aspaen Atavanza,COL,6112409",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "7312181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Aspaen Gimnasio Cantillana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "80d8f300-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Aspaen Gimnasio La Fragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "7c12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Aspaen Gimnasio Yumana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "85cd7565-465e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "CECAR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "84fd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Educativo Nuestra Senora de la Paz,COL,8621659",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "13c90d35-73a0-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Centro Inca Limitada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "a512181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro Internacional de Agricultura Tropical",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b2073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "CESDE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "fba5bd60-c384-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Cetia Formacion y Consultoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "28d2f9be-be84-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Cetia Formacion y Consultoria - Medellin - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "1e0357a7-6805-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Colegio Aleman de Medellin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d912181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Anglo Colombiano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5039f0f0-b4cc-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Colegio Aspaen Gimnasio los Alcazares",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d68d4c75-153c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "COLEGIO BILINGUE (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8e12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Campestre La Colina S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "91fd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Cristiano Semilla de Vida,COL,6823104",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5212181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio de Estudios Superiores de Administracion - CESA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c912181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Gimnasio del Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "25135744-629e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Gran Bretaña (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "65418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colegio Karl C. Parrish",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8512181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Mayor Nuestra Señora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f8239e28-f832-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Montessori Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f046d600-e341-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Colegio Nueva Granada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c012181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Real Royal School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "bda0ea73-7a4f-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Rosario Santo Domingo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5422552b-b338-e211-aed3-f04da23e67f6",
+		"OrganizationName": "COLEGIO SAGRADO CORAZON DE JESUS HERMANAS BETHLEMITAS - PAMPLONA - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "92d67324-4002-ea11-8124-000d3af41938",
+		"OrganizationName": "Colegio San Jorge de Inglaterra - Saint George's School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "e0cbcafd-56bf-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Colegio Santa Francisca Romana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "1e501934-0bdd-df11-bd73-0030487d8897",
+		"OrganizationName": "Colegio Tilata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "12f19e1d-f629-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Tilatá - Bogotá",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c5211dd6-6d25-e011-b71d-0030487d8897",
+		"OrganizationName": "Comunidad de Hermanos Maristas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9165af77-cfea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Coporacion Universitaria Remington",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "23c5633c-5004-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Coporacion Universitaria Remington - Medellin - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6312181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corpade-Iragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5b12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporación Colegio Colombo Británico de",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "a29f2e7f-e710-e811-80fe-000d3af41938",
+		"OrganizationName": "Corporación Colegio San Bonifacio de las Lanzas - Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "bb70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Corporación de Educación Tecnológica Colsubsidio – Airbus Group",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "61fd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Corporacion Educativa Central - Gimnasio Los Cerros,COL,8755292",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "57367f22-83a4-e711-80f6-000d3af41938",
+		"OrganizationName": "Corporación Educativa ITAE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ae12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporacion Internacional Para El Desarrollo Educativo-Cide",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "fc8334bd-aca0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Corporacion Politécnico de la Costa Atlántica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6b658488-715e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Politécnico Marco Fidel Suárez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d112181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporacion San Mateo Apostol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ad0d1f85-f9ca-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Corporación Tecnológica Industrial Colombiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "17f0fbe5-38a9-df11-ad57-0030487d8897",
+		"OrganizationName": "Corporación Unificada Nacional de Educación Superior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f3e7da27-9106-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Universitaria Adventista",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b6073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Corporación Universitaria Americana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2dfbb760-bc89-e711-80f3-000d3af41938",
+		"OrganizationName": "CORPORACIÓN UNIVERSITARIA COMFACAUCA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "4225b1af-2f9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Universitaria del Huila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c63a7390-c2ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Universitaria Empresarial de Salamanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "7ba88470-16e0-e211-9000-f04da23fc520",
+		"OrganizationName": "Corporación Universitaria Empresarial de Salamanca - Barranquilla - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9ffec3fe-bab6-df11-ad57-0030487d8897",
+		"OrganizationName": "Corporacion Universitaria Iberoamericana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9c8be1be-446c-e011-971f-0030487d8897",
+		"OrganizationName": "Corporacion Universitaria Lasallista",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c12153ab-0950-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Universitaria Minuto de Dios ( Uniminuto) - Bogotá - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ddde4a06-5980-e811-8108-000d3af41938",
+		"OrganizationName": "Corporación Universitaria Republicana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b722243d-3827-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Corporación Universitaria UNITEC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6da376af-4472-df11-bc53-0030487d8897",
+		"OrganizationName": "Escola Superior de Administracion y Estudios Tecnologicos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d33e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Escuela Colombiana de Ingeniería",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cff10919-7e1c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela de Ingenieria de Antioquia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "e08de584-74f8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior de Guerra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "16ff574d-1701-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Tecnologica Instituto Tecnico Central",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f7ce18dc-b1fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Tecnologica Instituto Tecnico Central - Bogotá - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "99c60585-e7a2-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Foundation for Higher Education San Mateo (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0bdbe4ac-b69f-e711-80f6-000d3af41938",
+		"OrganizationName": "Funcacion Universitaria Sanitas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "4912181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Carla Cristina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d7a0c768-ee44-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Fundación CIDCA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "918cc29b-523f-e011-b1e1-0030487d8897",
+		"OrganizationName": "Fundacion Compartir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "26681d9a-8296-e011-969d-0030487d8897",
+		"OrganizationName": "Fundación de Educación Superior San José",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "56edf003-d406-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Fundación de Estudios Superiores Comfanorte - FESC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "abfd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Educadora Infantil Carla Cristina,COL,5995767",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b712181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Gimnasio Moderno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9d12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Hogar Integral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8afd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Instituto Alberto Merani,COL,7225700",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "61b46792-7a8c-e011-969d-0030487d8897",
+		"OrganizationName": "Fundacion San Antonio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f5741fdb-f1c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Universidad Católica Lumen Gentium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "68d7d420-068c-e711-80f3-000d3af41938",
+		"OrganizationName": "Fundación Universidad de America",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3c37fa44-b74c-e911-8113-000d3af41938",
+		"OrganizationName": "Fundacion Universidad del Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b9073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Universitaria Cafam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "bc073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Universitaria Católica del Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ec5be11c-36a9-df11-ad57-0030487d8897",
+		"OrganizationName": "Fundacion Universitaria de la Camara de Comercio de Bogota",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b1034bdc-f795-e111-981b-f04da23e67f6",
+		"OrganizationName": "Fundacion Universitaria del Area Andina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6d8b13bc-30cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Fundación Universitaria Inpahu - Bogotá -  Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d45f9b65-383c-e911-8111-000d3af41938",
+		"OrganizationName": "Fundación Universitaria Juan De Castellanos (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "914c4c5b-f732-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Fundacion Universitaria Konrad Lorenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6b8bfa62-5c94-e111-981b-f04da23e67f6",
+		"OrganizationName": "Fundación Universitaria Los Libertadores",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "13ef407d-09e8-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Universitaria Luis Amigó",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f503ceb1-dadc-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Universitaria Maria Cano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0d46bd10-5fd5-df11-bd73-0030487d8897",
+		"OrganizationName": "Fundacion Universitaria Monserrate",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d85b6eed-3b74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fundacion Universitaria Panamericana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "037b6268-11d9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Fundación Universitaria San Martín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "75176ae1-fcef-e711-80fa-000d3af41938",
+		"OrganizationName": "Fundación Universitaria Tecnológico Comfenalco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "98448488-a976-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Universitaria Tecnológico Comfenalco - VMware",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3c68f96f-3148-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Gimnasio Colombo Británico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6b12181f-fff5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gimnasio de Los Cerros",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "7dfd8ed9-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gimnasio del Norte,COL,9119027",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9b2ddf3b-eb33-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Gimnasio Los Robles - Bogotá - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "400cc8b7-2124-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Gimnasio San Angelo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "30d84ba6-28bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Hospital Militar Central",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "f064e58e-3219-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "I.E.D Robert F Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cde8c062-7f20-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Institución Universitaria de Envigado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "bf073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institución Universitaria Pascual Bravo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "51955d0b-79c3-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Institución Universitaria Politécnico Grancolombiano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c2073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institución Universitaria Salazar Y Herrera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c5073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institución Universitaria tecnológica de Comfacauca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "76e94b4b-beef-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Asys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5514a77c-bdef-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Asys - De Educación Para El Trabajo Y Desarrollo Humano - Rionegro - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "39a4132f-d2b5-df11-ad57-0030487d8897",
+		"OrganizationName": "Instituto de Derecho Tributario",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2e6dde97-e8ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto ICAM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "24d1ce6c-761e-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Instituto ICAM - Bogotá - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d010960d-ee6e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Técnico de Capacitación (INTECAP) - Cundinamarca - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9bae3f6b-4472-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Instituto Tecnologico Metropolitano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c4650221-eb29-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lasallian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "02a34304-9824-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Ministerio de Educación Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "4bb923b8-9c24-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Ministerio de Educacion Nacional (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2ee62685-e710-e811-80fe-000d3af41938",
+		"OrganizationName": "Politecnico Americano Ibague - Tecnología - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "59907dcc-256f-df11-b841-0030487d8897",
+		"OrganizationName": "Politecnico Grancolombiano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "b5b20c52-f2f9-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Pontificia Universidad Javeriana - Bogota",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3eb9d024-86e0-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Pontificia Universidad Javeriana - Cali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "a2aa4bed-089f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Pontificia Universidad Javeriana, Bogotá",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "affc626c-d071-e111-a407-f04da23e67f6",
+		"OrganizationName": "Secretaria de Educación de Bogotá",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "49bedd4a-db76-e711-80f1-000d3af41938",
+		"OrganizationName": "Seminario Bíblico de Colombia, Fundación Universitaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8a54f854-87a5-df11-ad57-0030487d8897",
+		"OrganizationName": "Servicio Nacional de Aprendizaje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c8073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sistemas Interactivos de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cef5d320-5983-e711-80f3-000d3af41938",
+		"OrganizationName": "Tecnológico de Antioquia, Institución Universitaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "7f418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of Cauca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0344ed42-7d65-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "UNAB Virtual",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "acf46c12-a146-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "UNICOC - Institution Universitaria Colegios de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cb073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Antonio Nariño",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "83bd92cf-dcd9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad Autónoma de Bucaramanga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6c55fb7e-5634-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Autónoma de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "eb182078-b04b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Autónoma de Manizales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "97b6cec9-1988-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universidad Autonoma de Occidente",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "1c9eaeea-3990-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad Autonoma del Caribe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3e515234-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Autónoma Latinoamericana - Tecnología - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cb02bd10-6a45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Católica de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ed444979-6945-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Católica de Manizales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "e9d682f9-1eb4-e711-80f7-000d3af41938",
+		"OrganizationName": "Universidad Catolica de Oriente",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "786622c4-eaa2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Oriente",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "4a8b088e-43e7-df11-bd73-0030487d8897",
+		"OrganizationName": "Universidad Central",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3076bf32-eb82-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Central (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "98da80ef-42cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad CES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "1c222a81-b133-e011-b1e1-0030487d8897",
+		"OrganizationName": "Universidad Colegio Mayor de Cundinamarca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ce073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Cooperativa de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "eb090277-3fdb-e111-9c76-f04da23fc522",
+		"OrganizationName": "Universidad de Antioquia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "68116547-8fa9-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Universidad de Bogota Jorge Tadeo Lozano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0e396d6e-e029-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad de Caldas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "399e571b-ee10-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Cartagena (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "25146874-f9cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad de Cundinamarca (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c1fb0f5d-afe3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Universidad de Ibagué",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "78ca3aef-8ba4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de la Amazonia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6eaca261-587c-e711-80f3-000d3af41938",
+		"OrganizationName": "Universidad de la Costa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "71e592ea-485b-e711-80f0-000d3af41938",
+		"OrganizationName": "Universidad de La Guajira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "4f1db5a1-8684-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad de La Sabana (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ec45deb2-12ad-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Universidad de La Salle Bogotá",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "813c9229-b7e2-df11-bd73-0030487d8897",
+		"OrganizationName": "Universidad de los Andes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "e98fa2a5-f67d-de11-9b99-0030487d8897",
+		"OrganizationName": "Universidad de Los Andes - Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0bd962e9-27f9-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad de Los Andes - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d1073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Manizales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d4073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Medellín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "bc2c2362-1ccd-e111-971c-f04da23e67f6",
+		"OrganizationName": "Universidad de Narino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d7073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Nariño",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "03e37d3e-bcbf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Universidad de Narino - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "a98bd7d0-7545-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de San Buenaventura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2279e775-23f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad de Santiago de Cali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2971f93d-4af2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Sucre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "85675441-3d20-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universidad de Tolima (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "418f654f-1232-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Atlántico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5a31a8c3-feed-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Universidad del Desarollo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "2cdeb801-60be-e211-be21-f04da23e67f4",
+		"OrganizationName": "Universidad del Magdalena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "d81a9722-1204-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Quindío",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "cf408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Del Rosario",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "23497b01-5fb8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universidad Del Valle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "229ce1cd-bda0-df11-ad57-0030487d8897",
+		"OrganizationName": "Universidad Distrital Francisco Jose del Caldas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "be3a2d52-8f6d-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad EAFIT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "89004a3a-beca-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad EAFIT, Campus Medellin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ad43c9ef-dfad-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Universidad EAN (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "be80d975-43cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad ECCI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "298d218d-95ff-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad El Bosque - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "be8aedf5-acbc-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Universidad El Bosque - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3e8f3ec8-513e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Externado de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8e634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Externado de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "c0c31ea4-d373-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad ICESI - Cali Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8f634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Industrial de Santander",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "e1a876e8-e09a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad Libre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "feb33db4-7f8d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Universidad Libre Cali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "da073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Manuela Beltrán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "0b8d2a5b-2854-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Mariana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "3e12480f-acb1-e111-b575-f04da23e67f6",
+		"OrganizationName": "Universidad Militar Nueva Granada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9bf5be8b-f2c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional Abierta y a Distancia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "48418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Nacional de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "6405c100-4e75-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universidad of San Buenaventura Cali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "96c715a6-6456-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Pedagógica Nacional (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "273f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Pedagógica y Tecnológica de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "da274eae-ad2a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Piloto de Colombia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "9717cc61-92a9-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Universidad Pontificia Bolivariana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "fe90dc65-ad2a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Popular del Cesar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "89f233bb-4c5b-e711-80f0-000d3af41938",
+		"OrganizationName": "Universidad Santo Tomás(Colombia) - Antioquia - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8abf0a69-250b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Sergio Arboleda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "011bed09-b709-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Simón Bolívar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "262cfb2b-28f9-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad Simon Bolivar, Cucuta - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "31566f00-a9db-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Surcolombiana (Colombia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "de073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Tecnológica de Bolívar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "8c29a203-777c-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universidad Tecnologica de Bolivar - Cartagena - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "32e0eacd-e46f-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Tecnologica de Pereira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "5c4a46c5-4e4a-e811-8103-000d3af41938",
+		"OrganizationName": "Universitaria Agustiniana - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "1843d4d5-5460-e811-8105-000d3af41938",
+		"OrganizationName": "Universitaria Autónoma del Cauca - Sistemas - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "a272e84b-9b11-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universitaria Virtual Internacional - Bogota - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "ed11bf8d-ff6f-df11-b841-0030487d8897",
+		"OrganizationName": "University of Cordoba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "COL",
+		"InstitutionID": "20ad5068-9b6d-df11-b841-0030487d8897",
+		"OrganizationName": "University of Valle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

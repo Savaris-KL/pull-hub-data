@@ -1,0 +1,66 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e62b2036-6288-e911-811a-000d3af41938",
+		"OrganizationName": "Academy of Learning College - PEI",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "eddcec3e-7346-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "College de l’Ile",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ab368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Holland College",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9b046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Maritime Christian College",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "63c5b99e-f9c1-e111-9902-f04da23fc522",
+		"OrganizationName": "Parkside Elementary School",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2c3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Prince Edward Island",
+		"ProvinceCode": "PE",
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,4298 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Adair-Casey",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70752fa8-0fc5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Adel DeSoto Minburn Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Adel-DeSoto-Minburn",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55e2adc3-d207-41ed-8895-fe9634400057",
+		"OrganizationName": "AEA 267",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "AGWSR",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "A-H-S-T",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af3f1744-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "AIB College of Business",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Akron-Westfield Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Albert City-Truesdale",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Albia",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Alburnett",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Alden",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Algona",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Allamakee",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Allen College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Allison-Bristow",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Alta",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ames",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Anamosa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Andrew",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Anita",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ankeny",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Ankeny Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Anthon-Oto",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Antioch School of Church Planting and Leadership Development",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Aplington-Parkersburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Armstrong-Ringsted",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ar-We-Va",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Atlantic",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Audubon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Aurelia",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Des Moines",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ballard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Battle Creek-Ida Grove",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Baxter",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "BCLUW",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Bedford",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Belle Plaine",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Bellevue",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Belmond-Klemme",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Bennett",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Benton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Benton Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Bettendorf",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61b77dde-4dcd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Bettendorf Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8efe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bio-Chi Institute",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d080855b-beb8-4dae-86cd-c48052e6788c",
+		"OrganizationName": "Bishop Heelan Catholic Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Bondurant-Farrar",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Boone",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Boyden-Hull",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Boyer Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Briar Cliff College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "283f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Briar Cliff University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Brooklyn-Guernsey-Malcom",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Buena Vista University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Burlington Notre Dame",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "C and M",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "CAL",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Calamus-Wheatland",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Camanche",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capri College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Cardinal",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0afd7261-5462-e711-80f1-000d3af41938",
+		"OrganizationName": "Cardinal Community School District (Eldon, Iowa)",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Carlisle",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Carroll",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Cedar Falls",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Cedar Rapids",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8e6da5f-eab2-424d-967f-8eae7b9691a8",
+		"OrganizationName": "Cedar Rapids Area Metro Catholic Education System",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cedar Rapids Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Center Point-Urbana",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Centerville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f36154b-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Central Campus High School - Campus Store",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central Clinton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central College - Pella Campus",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central Decatur",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c6c6624-3465-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Central High School - Davenport",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central Lee Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Central Lyon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Chariton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Charles City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Charter Oak-Ute",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Cherokee",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44577cdd-ca2b-4f67-9a42-231aab2714fa",
+		"OrganizationName": "Child Development Center Childrens and Families",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clarina CSD",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clarion-Goldfield",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clarke",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clarke College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "723d6e40-6a10-e111-a703-f04da23e67f6",
+		"OrganizationName": "Clarke University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clarksville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clay Central-Everly",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clayton Ridge",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clear Creek Amana",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clear Lake",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a92479d-9dcd-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Clear Lake High School - Clear Lake - Microsoft Imagine Standard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clearfield",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Clinton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coe College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Colfax-Mingo",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da65eee6-605f-49bd-9b89-232a876701ba",
+		"OrganizationName": "College Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Collins-Maxwell",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Colo-Nesco",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Columbus",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50867f6f-e107-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Columbus Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5a65859-6374-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Converse County School District #1",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Coon Rapids-Bayard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cornell College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Corning",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b201bea0-e857-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Corning Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Corwith-Wesley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Council Bluffs",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Creston",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Dallas Center-Grimes",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Danville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Davenport Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Davis County",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Decorah",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Deep River-Millersburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Delwood",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Denison",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Denver",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d13f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Des Moines Area Community College, Ankeny",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Des Moines Independent CSD",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Des Moines Public Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0cd1337f-99e7-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Des Moines University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a930e2d8-ff5d-df11-b841-0030487d8897",
+		"OrganizationName": "Des Moines University - Des Moines - Campus Store",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Diagonal",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Dike-New Hartford",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0405d6b3-3da9-4fde-9ce9-86f4e9e6efcd",
+		"OrganizationName": "Diocesan Office of Education at Sioux City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d53cf21-c556-4ad6-9f65-dfdf6f1297f4",
+		"OrganizationName": "Diocese of Des Moines",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "349efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Divine Word College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dordt College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38d0327c-5789-e911-811a-000d3af41938",
+		"OrganizationName": "Dordt University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Dows",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Drake University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Dubuque",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Dunkerton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Durant",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Dutchem Moc-Floyd Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Eagle Grove",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Earlham",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "East Buchanan",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "East Central",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "East Greene",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "East Marshall",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "East Union",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Eastern Allamakee",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a25f48c2-427e-df11-bc53-0030487d8897",
+		"OrganizationName": "Eastern Iowa Community College District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Eddyville-Blakesburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdfe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Eddyville-Blakesburg-Fremont",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Edgewood-Colesburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Eldora-New Providence",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Elk Horn-Kimballton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff9efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Emmaus Bible College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Emmetsburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "English Valleys",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Essex",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Estherville Lincoln",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Exira",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fairfield",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Faith Baptist Bible College and Theological Seminary",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Farragut",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Forest City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fort Dodge",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fort Madison",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fredericksburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fremont",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Fremont-Mills",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Galva-Holstein",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Garner-Hayfield",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "George-Little Rock",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Gilbert",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Gilmore City-Bradgate",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Gladbrook-Reinbeck School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Glenwood Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Glidden-Ralston",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "GMG",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Graceland College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "292f890d-c558-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Graceland University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Graettinger Terril",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grand View College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eae1f885-5b4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Grand View University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "325ac309-3a69-432f-8b8c-0b280c24e61d",
+		"OrganizationName": "Grandview Park Baptist School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4bf0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Grandview Park Baptist School (DesMoines, IA) - High School AA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Grant Wood AEA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "424c1bb1-5308-4886-8ed4-2082edc1cacb",
+		"OrganizationName": "Grant Wood Area Education Agency",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61bb49f8-5ee7-4732-b786-f975332f06a0",
+		"OrganizationName": "Green Valley AEA 14",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Greene",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grinnell College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Grinnell-Newburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Griswold",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Grundy Center",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Guthrie Center",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hamburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db714704-5c29-e011-b71d-0030487d8897",
+		"OrganizationName": "Hamilton Technical College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hampton-Dumont",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Harlan",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Harmony",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Harris-Lake Park",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hartley-Melvin-Sanborn",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "239622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hawkeye Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b534bb3b-9ab3-4ea5-ade7-e316b01243d5",
+		"OrganizationName": "Heartland AEA 11",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Highland",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hinton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "H-L-V",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b30a0888-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "HLV Community School (St Victor, IA) - High School AA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Howard-Winneshiek",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hubbard-Radcliffe",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Hudson Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f363c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Humboldt",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f463c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "IKM",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f563c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Independence",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Indian Hills Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abfe1e33-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Indian Hills Community College - Ottumwa - Microsoft Imagine Standard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Indianola",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "INSTE Bible College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Interstate 35",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22686b23-219b-4789-849d-1fe5ba1b2734",
+		"OrganizationName": "Iowa Braille School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Iowa Central Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9612c5e2-9123-45c4-aced-4ff43b87fa17",
+		"OrganizationName": "Iowa Christian Academy",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Iowa City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85bd6805-4ec4-4fb8-a20e-992f19699698",
+		"OrganizationName": "Iowa Department of Education",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a60722fb-782d-470c-9b75-74c3481e815d",
+		"OrganizationName": "Iowa Educators Consortium",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f963c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Iowa Falls",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9787a89-a799-df11-ad8b-0030487d8897",
+		"OrganizationName": "Iowa Lakes Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Iowa Public Television",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67d877e9-b9b9-4dd5-8747-c5548deec597",
+		"OrganizationName": "Iowa School for the Deaf",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Iowa State University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b82774e-bb2a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Iowa State University of Science and Technology",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c802f4b-8a9a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Iowa Valley Community College District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Iowa Wesleyan College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3af058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Iowa Western Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Janesville Consolidated",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Jefferson",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Jefferson-Scranton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f063c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Jesup",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Johnston Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f163c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Johnston Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f263c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Keokuk",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Keota",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df98c4f7-4575-4c3e-a543-e6ebe78c2160",
+		"OrganizationName": "Keystone AEA 1",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Kingsley-Pierson",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6395031-f449-de11-b696-0030485a8df0",
+		"OrganizationName": "Kirkwood Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Knoxville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbfe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kuemper Catholic School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f663c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lake Mills",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f763c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lamoni",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f863c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Laurens-Marathon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lawton-Bronson",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Le Mars",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lenox",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lewis Central Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lineville-Clio",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe63c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Linn-Mar",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lisbon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2918b71f-bb40-4ecf-a1c5-c1d898957baa",
+		"OrganizationName": "Loess Hills AEA 13",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Logan-Magnolia",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lone Tree",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Loras College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Louisa-Muscatine",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Luther College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "LuVerne",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Lynnville-Sully",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Madrid",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maharishi University of Management",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Malvern",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Manning",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Manson Northwest Webster",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Maple Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Maquoketa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Maquoketa Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Marcus-Meriden-Cleghorn",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Marion Independent",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0f859fc-0f90-df11-ad8b-0030487d8897",
+		"OrganizationName": "Marshalltown Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Martensdale-St Marys",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marycrest International University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mason City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mason City Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mediapolis",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Melcher-Dallas",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "663b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mercy College of Health Sciences",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7406100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mercy/St. Luke's Hospital",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Meservey-Thornton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "MFL MarMac",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Midland",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mid-Prairie",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f57b4f7d-0a33-426d-96c4-915c21804901",
+		"OrganizationName": "Mississippi Bend AEA 9",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Missouri Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "MOC-Floyd Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Montezuma",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Monticello",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Moravia",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mormon Trail",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Morning Sun",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Morningside College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Moulton-Udell",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mount Ayr",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Mercy College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "294a7891-ea3c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Mount Mercy University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mount Pleasant",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount St. Clare College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Mount Vernon Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b74346fd-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Mount Vernon High School - Information Technology - High School AA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Murray",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Muscatine",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Muscatine Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Nashua-Plainfield",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Nevada",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "494e70e2-390b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Nevada Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "New Hampton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "New London",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "New Market",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Newell-Fonda",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5d3ea62-1c18-e911-8110-000d3af41938",
+		"OrganizationName": "Newman Catholic Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Newton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Nishna Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Nodaway Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Nora Springs-Rock Falls",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Cedar",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Central",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Fayette",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cbe9db6-e590-df11-ad8b-0030487d8897",
+		"OrganizationName": "North Iowa Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Kossuth",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Linn",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Mahaska",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Polk",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Scott",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Tama County",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "North Winneshiek",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Northeast",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Northeast Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Northeast Hamilton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeast Iowa Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d55c492-d181-497b-ab44-e013dfe66c93",
+		"OrganizationName": "Northwest AEA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Northwest Area Education Agency",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96b9439d-359e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Northwest Iowa Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwestern College of Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Northwood-Kensett",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Norwalk",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Norwalk Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Odebolt-Arthur",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Oelwein Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ogden",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Okoboji",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Olin Consolidated",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Orient-Macksburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Osage",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Oskaloosa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ottumwa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Palmer College of Chiropractic",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Panorama Community School District - Panora - Microsoft Imagine Standard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Paton-Churdan",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "PCM",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pekin",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e98bb5cc-b215-4210-9737-45bf8fe0ea38",
+		"OrganizationName": "Pella Christian Grade School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pella Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Perry Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pleasant Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pleasantville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pocahontas Area",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c366eca2-0ebf-e711-80f7-000d3af41938",
+		"OrganizationName": "Pocahontas Catholic School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Pomeroy-Palmer",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Postville Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da01bea0-e857-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Prairie Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65ca0f51-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Prairie High School - Information Technology - High School AA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3376a487-eb52-4607-a95b-4d502e37f73a",
+		"OrganizationName": "Prairie Lakes AEA",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Prairie Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Prescott",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Preston",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64380a12-f3d7-454a-9ee5-dde23f1e1d08",
+		"OrganizationName": "Private Schools (Iowa)",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Red Oak Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Remsen-Union",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Riceville Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "River Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6300c5e5-d9f0-4276-80dc-fb77854c1a79",
+		"OrganizationName": "Rivermont Collegiate",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Riverside Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Rock Valley Community School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Rockwell City-Lytton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Rockwell-Swaledale",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Roland-Story",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Rudd-Rockford-Marble Rk",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Russell",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ruthven-Ayrshire",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sac",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Saydel CSD",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Schaller-Crestland",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Schleswig",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sentral",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sergeant Bluff-Luton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Seymour",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sheffield-Chapin",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sheldon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Shenandoah",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f75309ab-30fc-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Shiloh University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sibley-Ocheyedan",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sidney Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sigourney Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ccc37d0c-ef81-de11-8cd1-0030487d8897",
+		"OrganizationName": "Simpson College in Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sioux Center",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sioux Center Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sioux Central Rebels",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sioux City",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Sioux City Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Solon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South Clay",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South Hamilton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South OBrien",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South Page",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South Tama County",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "South Winneshiek",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Southeast Polk",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeast Polk Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Southeast Warren",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Southeast Webster Grand",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dd39188-5e00-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Southeastern Iowa Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Southern Cal",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6cd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Southwestern Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Spencer",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Spirit Lake",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Springville",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "St Ansgar",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Ambrose University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9524ed0-9c31-4f9e-9445-5390cdae02c8",
+		"OrganizationName": "St. Cecelia School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4e0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "St. Luke's College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Stanton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Starmont",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4eb5fc83-1dfc-4435-96ea-1d1f96ab931f",
+		"OrganizationName": "State Library of Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Storm Lake",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Stratford",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Sumner",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db2e6513-63a2-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Sumner-Fredericksburg Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Terril",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b07dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Grand Central Accademy of Arts",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Tipton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Titonka Consolidated",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Treynor",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "977dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tri Center Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Tri-Center",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Tri-County",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "098f82a9-8910-ea11-8124-000d3af41938",
+		"OrganizationName": "Trinity Lutheran church and  School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Tripoli",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3f6e217-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Tripoli Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Turkey Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Twin Cedars",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Twin Rivers",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Underwood",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Union",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "United",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f28471a1-ca81-485c-89aa-bb9b1dcccd3c",
+		"OrganizationName": "Unity Christian High School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Dubuque",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "333b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Northern Iowa",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b33b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Upper Iowa University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Urbandale",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Urbandale Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Urbandale School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Van Buren",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Van Meter",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vennard College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Ventura",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Villisca",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Vinton-Shellsburg",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Waco",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Waldorf College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Wall Lake View Auburn",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Walnut",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Wapello",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Wapsie Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wartburg College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Washington",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Waterloo",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Waukee",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Waverly-Shell Rock",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Wayne",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Webster City School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Bend-Mallard",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Branch",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Burlington Ind",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Central",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b864c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Central Valley",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b964c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Delaware County",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Des Moines Community School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Des Moines Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ab0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Des Moines Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Hancock",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Harrison",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Liberty",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Lyon",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Marshall",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c064c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Monona",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "West Sioux",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Western Dubuque",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Western Iowa Tech Community College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b764c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Westwood",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c464c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Whiting Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "083c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "William Penn College",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49ee7fe9-9d5c-e111-8056-f04da23e67f6",
+		"OrganizationName": "William Penn University",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c564c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "WIlliamsburg Community School District",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c664c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Wilton",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Winfield Mt. Union Community School",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Winterset Community Schools",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd64c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Woden-Crystal Lake",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c164c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Woodbine",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c264c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Woodbury Central",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c364c951-9146-dc11-a62f-0030485a6b08",
+		"OrganizationName": "Woodward-Granger",
+		"ProvinceCode": "IA",
+		"SubsectorCode": "education_k_12"
+	}
+]

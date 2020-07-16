@@ -1,0 +1,2410 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bef39bb-015e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Agape Love Bible College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8664cb2e-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Alexander Hamilton high School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4064afcc-9fd7-e811-810b-000d3af41938",
+		"OrganizationName": "Altoona High School - Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alverno College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a8d511c-e218-e011-b71d-0030487d8897",
+		"OrganizationName": "Appleton Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04fe5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Appleton Area School District - High Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85350bbc-f751-df11-b56b-0030487d8897",
+		"OrganizationName": "Archdiocese of Milwaukee",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d2d7a72-659b-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Arrowhead Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a55f80c4-452a-e911-8111-000d3af41938",
+		"OrganizationName": "Ashwaubenon School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Association of Information Systems Professionals",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7d53930-371f-e011-b71d-0030487d8897",
+		"OrganizationName": "Baldwin-Woodville High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c764cb2e-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bay View High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83846d74-dad4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Beaver Dam High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d0c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bellin College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Beloit College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d12e1c4-ed89-e811-8108-000d3af41938",
+		"OrganizationName": "Benjamin Franklin Junior High School - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c39422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Blackhawk Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd491b52-38c5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Boscobel Area Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a49b2ea-1e2e-df11-b4ab-0030487d8897",
+		"OrganizationName": "Brensten Education - Waukesha  Campus",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bryant and Stratton College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8701e540-fdf1-41f9-a5c1-2fb8f4f7ebf8",
+		"OrganizationName": "Cardinal Stritch University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carroll University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0b06f3b-88d0-e711-80f9-000d3af41938",
+		"OrganizationName": "Carter's Christian Academy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carthage College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25594f36-7d7e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Carthage College - WAH",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0865cb2e-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Caslmir Pulaski High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33cbe8be-ed89-e811-8108-000d3af41938",
+		"OrganizationName": "Charles F. Fernandez Center for Alternative Learning - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6fa740d-e957-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Chetek-Weyerhaeuser Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "463f3421-e3b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Chippewa Falls Area Unified School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chippewa Valley Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9f60461-e227-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Christian Life School (Wisconsin)",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9d34f86-7039-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Colby School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41f7d850-d0fc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Coleman School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Menominee Nation",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "152abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Columbia College of Nursing",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Columbus School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia University - Wisconsin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dad66451-bde1-de11-baeb-0030487d8896",
+		"OrganizationName": "Cooperative Educational Service Agency #2",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1aa6faa-a5cf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Cuba City School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5cd8008-049f-e711-80f6-000d3af41938",
+		"OrganizationName": "Cumberland School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bbd9035-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Custer High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60b98175-2902-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Deerfield Community School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca6882f4-2583-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "devCodeCamp",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29215aab-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Diesel Truck Driver Training School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40f35efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Dominican High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Eau Claire Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5338958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Edgerton High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Edgewood College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Elmbrook Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ade4aa13-4bd5-de11-baeb-0030487d8896",
+		"OrganizationName": "EW4HS - Tom (Janesville, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd1c2a3a-48eb-de11-a13b-0030487d8897",
+		"OrganizationName": "Expression Web HS (Eagle River, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5b3ee60-dc77-df11-bc53-0030487d8897",
+		"OrganizationName": "Fort Atkinson High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "514c88ed-2657-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Fox Valley Lutheran High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "052f5dc2-d473-df11-bc53-0030487d8897",
+		"OrganizationName": "Fox Valley Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9dd2ebf-8084-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Gale Ettrick Trempeleau",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gateway Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0427f744-5125-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Gateway Technical College - Departmental Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abbd9035-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Genesis School of Business Technology Tr (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd33f147-3852-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Germantown School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18632dca-42be-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Gibraltar School District - Wisconsin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76f35efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Grafton School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32f19c80-4ea9-df11-ad57-0030487d8897",
+		"OrganizationName": "Green Bay Area Public School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72030fe8-751d-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Green Lake School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2bd9035-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Harold S Vincent High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "218a8ed4-a710-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hartford Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eca0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Healing Oasis Wellness Center",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bced6e0c-c69f-e711-80f6-000d3af41938",
+		"OrganizationName": "Herzing University - Departmental Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Herzing University - Madison",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bf35efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Highland School, WI",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0302bea0-e857-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Hilbert School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0a52460-190c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Holmen High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c304202e-4aaa-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Home-Based Private Education Program",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f2e12c1-8fd2-4750-869d-b1f4d4aa360b",
+		"OrganizationName": "Hortonville Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dab7c569-2dc4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Hudson School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fc4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Iola-Scandinavia School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f9d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kaukauna Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66ecac26-9c20-df11-856f-0030487d8897",
+		"OrganizationName": "Kenosha Unified School District No. 1",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "369d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kettle Moraine Lutheran High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2f5a0db-1ade-df11-bd73-0030487d8897",
+		"OrganizationName": "Kettle Moraine School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d947e65d-ed07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kimberly Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48f66fac-f426-e811-8101-000d3af41938",
+		"OrganizationName": "La Causa Charter School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7535f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lac Courte Oreilles Ojibwa Community College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6eed5472-c43b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Lac du Flambeau Public School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23f35efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Lake Geneva Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lakeland College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f269ab9e-f0d6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Lakeland College - Sheboygan Center, Plymouth - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e15f98d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lakeland Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "089722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lakeshore Techinical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lakeshore Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lawrence University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74442a2d-8384-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Little Chute",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61edb386-8584-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Luther High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d94923b-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Lynde and Harry Bradley Technical and Tr (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "583f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Madison Area Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "403c6e63-cd4a-e711-80f0-000d3af41938",
+		"OrganizationName": "Madison Country Day School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f8a9f16-84cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Madison Edgewood High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c073f87-01dd-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Madison Metropolitan School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40ccd3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Madison School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Manitowoc Lutheran High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dd42f03-8884-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Maple Dale-Indian Hill School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maranatha Baptist Bible College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd41f9ad-b4d8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Maranatha Baptist University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marian University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marquette University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "014d0149-3e19-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Marquette University - Milwaukee - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd2e8cfe-c3df-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Marquette University High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ea8260d-85ca-de11-baeb-0030487d8896",
+		"OrganizationName": "Mauston School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9f25efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "McFarland Community Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Medical College of Wisconsin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1133642-1d74-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Menominee Indian School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8973d0bf-729e-e011-969d-0030487d8897",
+		"OrganizationName": "Menomonee Falls School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mid-State Technical College - Wisconsin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0320b23-18a0-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Mid-State Technical College - Wisconsin - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c95923b-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Milwaukee African American Immersion Hig (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Milwaukee Area Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "063c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Milwaukee Ballet School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "153c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Milwaukee Career College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b076137-631a-4fac-9417-152b2398c4e6",
+		"OrganizationName": "Milwaukee Institute of Art and Design",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88dcd80c-5498-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Milwaukee Public Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7a47f28-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Milwaukee Public Schools (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53d5e563-1240-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Milwaukee School of Engineering - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Milwaukee School of Engineering - Milwaukee Campus",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d19722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Milwaukee School of Engineering (MSOE)",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30314ef7-f1b0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Minneapolis Media Institute",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e277c69f-754e-e011-bd14-0030487d8897",
+		"OrganizationName": "Monon Grove School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f11d77d2-d1ff-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Monona Grove High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fb6659e-01d2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Montello Jr./Sr. High School - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "243c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Montessori Institute of Milwaukee",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Moraine Park Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7259ae62-23ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Moraine Park Technical College - Wisconsin - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Mary College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c87a313-1242-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Mount Mary University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Senario College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a716186-8984-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Mukwonago Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "239bb2f4-99f4-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Mukwonago Area School District - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b33c33a3-2d51-de11-b696-0030485a8df0",
+		"OrganizationName": "Muskego-Norway School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "703c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Nashotah House",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3b8b2a0-b65a-47d6-bd5b-e9380930b794",
+		"OrganizationName": "National-Louis University - WI",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2f796fa-4df9-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Neenah Joint School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a6b9441-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "New School for Community Service (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c09b845-6f9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Nicolet Area Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8603d6b8-d835-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Nicolet Area Technical College - Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nicolet College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "526124ed-8a8e-de11-8cd1-0030487d8897",
+		"OrganizationName": "Nicolet College in Rhinelander",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d1d4b98-8b84-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Nicolet High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f0d0838-66b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Northcentral Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeast Wisconsin Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northland College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f26f41b6-f3d4-e111-9c76-f04da23fc522",
+		"OrganizationName": "Northland Pines School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "389566fc-cbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Notre Dame Academy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d31d670-8ff0-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame Middle School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ff35efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Oakfield School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d696f2e-c292-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Oostburg School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e585cc09-d560-e211-a88c-f04da23e67f4",
+		"OrganizationName": "out of commission",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a1ad3cb-d445-e011-b1e1-0030487d8897",
+		"OrganizationName": "Pardeeville High School (Pardeeville, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98895086-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Parker High School - Information Technology - Departmental Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "289922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "PC ProSchools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1f12448-8e84-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Peshtigo School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b610e1c4-ed89-e811-8108-000d3af41938",
+		"OrganizationName": "PJ Jacobs Junior High School - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6c9e8be-ed89-e811-8108-000d3af41938",
+		"OrganizationName": "Point of Discovery School  - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8191c258-0f7f-df11-bc53-0030487d8897",
+		"OrganizationName": "Racine Unified School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "519b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rice Lake Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91046667-8f84-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Richland School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34b110ba-0e3a-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Richmond School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "153a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ripon College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "666b9441-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Ronald Wilson Reagan College Prepartory (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a13f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Salem Community College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1f25efa-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "School District of Amery",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c367fa7-1825-e211-a76f-f04da23e67f6",
+		"OrganizationName": "School District of Beloit",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7918284-3956-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "School District of Bloomer",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c884e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "School District of Bonduel",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8385804e-baa9-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "School District of Cudahy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "812964f4-578b-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "School District of Elkhart Lake",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1f6b72b-b2c7-e211-be21-f04da23e67f4",
+		"OrganizationName": "School District of Fort Atkinson",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "538e1563-40be-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "School District of Glenwood City",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2896cd1-d38e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "School District of Janesville",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed2e8682-d8c9-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "School District of Luck",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6fe65cd-9184-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "School District of Marinette",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "School District of Marshfield",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "School District of New Berlin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f11703ba-aecf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "School District of Phillips",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "838ff4ba-9f67-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "School District of Pittsville",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6635894d-4397-e011-969d-0030487d8897",
+		"OrganizationName": "School District of Siren",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a85583c-4fe4-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "School District of Spring Valley",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "School District of St. Croix Falls",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b895e447-05ef-e211-ad17-f04da23e67f4",
+		"OrganizationName": "School District of Superior",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf2a83a3-9641-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "SCHOOL DISTRICT OF WAUKESHA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "School District of Whitefish Bay",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b363aa6-a9a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Shepherds College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a75df8e-b421-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Shiocton High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "709dc684-7b8c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Shorewood School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "643a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Silver Lake College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a76b9441-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "South Division High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Southwest Tech",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "549a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southwest Wisconsin Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f09af34-9984-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Sparta Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "381a2828-a3a6-4b4c-b868-4ced73ca1d04",
+		"OrganizationName": "Spencer Public Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Spooner Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7a9e0a5-e2db-e111-9c76-f04da23fc522",
+		"OrganizationName": "St Norbert College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Catherine's High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00bcedcb-e19b-e811-8109-000d3af41938",
+		"OrganizationName": "St. Francis Xavier Catholic School System",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "383e3ac3-619f-e111-9b64-f04da23e67f6",
+		"OrganizationName": "St. Mark Lutheran School - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "473a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Norbert College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01f5c302-eeb6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "St. Norbert College - De Pere - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e813e1c4-ed89-e811-8108-000d3af41938",
+		"OrganizationName": "Stevens Point Area Senior High School - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a68553a-7967-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Stoughton Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16f77326-0f5a-df11-b841-0030487d8897",
+		"OrganizationName": "Suring School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8790f4ba-9f67-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Two Rivers Public School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09ba7a0c-9951-e011-bd14-0030487d8897",
+		"OrganizationName": "Unified School District of Antigo",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c360695-9084-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Unified School District of De Pere",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e3f1c4d-2b83-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "University Lake School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Wisconsin",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ee5aeab-bac1-df11-859b-0030487d8897",
+		"OrganizationName": "University of Wisconsin - Extension",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a63b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin - Green Bay - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "663c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin Colleges",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9f79168-f4bc-de11-886d-0030487d8897",
+		"OrganizationName": "University of Wisconsin La Crosse",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59e7cb60-cdc0-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "University of Wisconsin Systems",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a53b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Eau Claire",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a73b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, LaCrosse",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a83b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Madison",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a93b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Milwaukee",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Oshkosh",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4554290f-528a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "University of Wisconsin, Oshkosh - Campus Vmware",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Parkside",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Platteville",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, River Falls",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Stevens Point",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Stout",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Superior",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b13b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Wisconsin, Whitewater",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b39a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Wisconsin-Madison Computer Sciences Department",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b99a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Wisconsin-Madison School of Business",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "959a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Wisconsin-Madison School of Medicine and Public Health",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4927130-e176-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University of Wisconsin-Milwaukee",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11d7f236-fdce-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Wisconsin-Stout",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9df4c539-36d1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University School of Milwaukee",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6904c8f8-cac0-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "University Wisconsin - Extension",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03d9d122-10c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "University Wisconsin - Green Bay",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57f31ed9-40c1-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "University Wisconsin - System Administration",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49b7bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Verona Area School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87337263-8428-4553-bfba-78a668014f87",
+		"OrganizationName": "Viterbo University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0639f803-289a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Wabeno High School - Wabeno - Microsoft Imagine Standard",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7fc9248-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Washington High School (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17fd9248-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Washington High School of Information Te (Milwaukee, WI) - High School AA",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "441656f5-eb8a-e011-969d-0030487d8897",
+		"OrganizationName": "Waterford Graded School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76b4fa92-9a87-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Waterford Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96d325a8-ae39-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Watertown Unified School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Waukesha County Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce94e985-9c87-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Waunakee Community Schools",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b429c32-9e87-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Waupun School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "623cad5c-6e4d-e811-8103-000d3af41938",
+		"OrganizationName": "Wausau School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6eb91fb0-07b9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Wauwatosa School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Suburban Christian Academy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a524e57-b62b-46b7-8c6b-020798df3752",
+		"OrganizationName": "Western Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c55f64f8-9684-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Weston School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38cd01ef-f69d-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Whitewater High School - Whitewater - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab3c7c71-0e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Williams Bay School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e17ced6-6967-e011-971f-0030487d8897",
+		"OrganizationName": "Wilmont Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "607338aa-6060-e011-971f-0030487d8897",
+		"OrganizationName": "Wilmot Union High School",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc750432-cef8-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Wisconsin Academy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ddb3060-c14d-469f-8201-2f386a9447a0",
+		"OrganizationName": "Wisconsin Association of Independent Colleges and Universities (WAICU)",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be3df977-86b9-47fc-ac43-d243c9e18e9e",
+		"OrganizationName": "Wisconsin Association of Independent Colleges and Universities 2 (WAICU 2)",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90ae9b09-874a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Wisconsin Connections Academy",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wisconsin Department of Public Instruction",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edfee48d-cd66-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Wisconsin Heights School District",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61e40683-683d-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Wisconsin Heights School District - Campus Store",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wisconsin Indiahead Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "389b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wisconsin Indianhead Technical College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "123c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wisconsin Lutheran College",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6d646e1-7952-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Wisconsin School of Professional Psychology",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wisconsin Technical College System",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94c8bd86-4a3c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Woodlands School - WI",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_k_12"
+	}
+]

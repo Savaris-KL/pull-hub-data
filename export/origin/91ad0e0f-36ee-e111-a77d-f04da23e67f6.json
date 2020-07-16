@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "91ad0e0f-36ee-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Mobile County Public Schools",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "515a0b9b-e5ff-e411-940c-b8ca3a5db7a1",
+		"WebStoreName": "Mobile County Public Schools",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=515a0b9b-e5ff-e411-940c-b8ca3a5db7a1"
+	}
+]

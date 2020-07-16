@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "70388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grand Canyon University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://grandcanyon.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "ef42680d-a226-dd11-9986-0030485a6b08",
+		"WebStoreName": "Grand Canyon University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ef42680d-a226-dd11-9986-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "8d07565e-a326-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Grand Canyon University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9c07565e-a326-e711-9427-b8ca3a5db7a1",
+		"WebStoreName": "GCU CSET -VMWare & Azure DevTools for Teaching",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9c07565e-a326-e711-9427-b8ca3a5db7a1"
+	}
+]

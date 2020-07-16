@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "1ce6df2a-ba14-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Flinders University (Australia)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "33e6df2a-ba14-e711-9427-b8ca3a5db7a1",
+		"WebStoreName": "Flinders University of South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=33e6df2a-ba14-e711-9427-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "10644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Flinders University (Australia)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ccbe2f9a-41bf-e311-93fc-b8ca3a5db7a3",
+		"WebStoreName": "Flinders University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ccbe2f9a-41bf-e311-93fc-b8ca3a5db7a3"
+	}
+]

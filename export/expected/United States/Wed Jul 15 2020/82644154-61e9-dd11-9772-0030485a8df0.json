@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "82644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Charles Sturt University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ebb95bce-f002-e411-9400-b8ca3a5db7a1",
+		"WebStoreName": "Charles Sturt University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ebb95bce-f002-e411-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "2395c829-2cf5-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Charles Sturt University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3195c829-2cf5-e511-9417-b8ca3a5db7a1",
+		"WebStoreName": "IT Masters, Charles Sturt University - IT Masters",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3195c829-2cf5-e511-9417-b8ca3a5db7a1"
+	}
+]

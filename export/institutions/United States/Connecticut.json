@@ -1,0 +1,1506 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c50c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy Di Capelli School of Cosmetology",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e28a3dec-72a6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Information Technology & Engineering",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bab19361-9627-df11-856f-0030487d8897",
+		"OrganizationName": "ACES",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "aces center for arts",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f6f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Achievement First",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Albertus Magnus College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27457b50-e731-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Asnuntuck Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2bed5f17-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Bethel BoE",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52450b56-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bolton Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e761380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Branford Hall Career Institute - Windsor, CT Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "179942f9-98fe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bridgeport Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bristol Technical Education Center",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68ed5f17-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Brookfield School District",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3aa9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Canton Board of Education - Market Street",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4538958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Canton Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ae5af07-e0a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Capital Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Capital Region Educational Council - Coltsville",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df2f2732-9627-df11-856f-0030487d8897",
+		"OrganizationName": "Capitol Region Education Council",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edd5071a-44a6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "CENTER FOR FINANCIAL TRAINING",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Connecticut State University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5b04262-604a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Central Connecticut State University - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Charter Oak State College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86ed5f17-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Chase Collegiate School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "250d7e2b-1974-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Cheshire Academy",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6e5f7b5-7d7f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Choate Rosemary Hall",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eaa8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christian Heritage School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christoval ISD",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e43a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coast Guard Academy",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb73af0b-fc86-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Colchester Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2179ea88-24b0-e711-80f7-000d3af41938",
+		"OrganizationName": "Common Ground High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Connecticut College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d89f2d86-eb31-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Connecticut State Colleges & Universities",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Connecticut State Department of Education",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "035c5ff0-9527-df11-856f-0030487d8897",
+		"OrganizationName": "Cooperative Educational Services",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cromwell Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62ef9dda-8cb9-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Daniel Hand High School - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "East Lyme Board of Education",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06a454f6-9627-df11-856f-0030487d8897",
+		"OrganizationName": "EASTCONN",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern Connecticut State University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29fe1e33-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Eastern Connecticut State University - Willimantic - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67ef00cc-9527-df11-856f-0030487d8897",
+		"OrganizationName": "Education Connection",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2359f3c-8901-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Engineering & Science University Interdistrict Magnet School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d773423-2bc7-e811-810a-000d3af41938",
+		"OrganizationName": "Fairfield Ludlowe High School - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fairfield Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fairfield University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45bb229d-8ee3-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Fairfield Warde High School - Fairfield - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55ed17d2-fdb0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Gateway Community College - Connecticut - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a347fb7-ab85-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Gateway Community College - New Haven Campus",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aefb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Glastonbury Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Glastonbury Public Schools - High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Goodwin College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19a574ea-a1a9-ea11-812c-000d3af41938",
+		"OrganizationName": "Greenwich Country Day School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "505a8328-f17e-df11-bc53-0030487d8897",
+		"OrganizationName": "Hartford Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hartford Conservatory",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hartford Seminary",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adf1f304-30e5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Hebrew High School of New England - West Hartford - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cb1140a-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "High Horrizons Magnet School (Bridgeport, CT) - High School AA",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "610ad230-76d2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Holy Apostles College and Seminary",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4335644-0473-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Hopkins School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Housatonic Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aced5f17-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Housatonic Regional School District",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3e2f1be-ae85-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Inactive - Connecticut Community Colleges",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef25601d-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Kent School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23fd9316-7cbd-de11-886d-0030487d8897",
+		"OrganizationName": "Killingly Central School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c3b3c96-7cbd-de11-886d-0030487d8897",
+		"OrganizationName": "Killingly High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14c1d248-7cbd-de11-886d-0030487d8897",
+		"OrganizationName": "Killingly Intermediate School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "824327d2-7bbd-de11-886d-0030487d8897",
+		"OrganizationName": "Killingly Memorial School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd35c5d9-23c2-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Killingly Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d257a65-ec20-e111-8d82-f04da23e67f6",
+		"OrganizationName": "King Low Heywood Thomas School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91de4f21-9727-df11-856f-0030487d8897",
+		"OrganizationName": "LEARN",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dafe6d9c-4bc4-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Lewis S. Mills High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lincoln College of New England (formerly Briarwood College)",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Litchfield Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcfb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "LYME - Old Lyme Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "163b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lyme Academy College of Fine Arts",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Manchester Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "174a4595-6683-e711-80f3-000d3af41938",
+		"OrganizationName": "Middlebrook School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c79722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Middlesex Community College - Connecticut",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "699a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Middletown Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d13647b-4520-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Mitchell College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e46273f-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Montville High School (Oakdale, CT) - High School AA",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Naugatuck Valley Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "caef9788-efb8-de11-886d-0030487d8897",
+		"OrganizationName": "New Britan Board of Education",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b8785ff-61ce-e011-ae14-f04da23e67f6",
+		"OrganizationName": "New Canaan Country School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e6c234b-0ef8-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "New Canaan Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "409cec90-6bd4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "New Haven Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "New London Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6fda799-bdbf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "New London Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89a405df-1d32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Newtown Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1726601d-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Newtown School District",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Stonington Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "939822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "North Western Connecticut Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2edf2a2b-1c16-e111-a703-f04da23e67f6",
+		"OrganizationName": "North Western Connecticut Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b78a81e-3448-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Northwest Catholic High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "493d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwestern Connecticut Community College -  Computer Science - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "023f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Norwalk Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "939017cb-91c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Plainfield Cental Middle School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "997c8834-fd72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Plainsville Community Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4100499c-500b-48e4-b773-5a3a21b468c2",
+		"OrganizationName": "Post University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e388ec1-babf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Post University - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ece7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Prairie Hills Elementary School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb24214d-43f6-df11-9c87-0030487d8897",
+		"OrganizationName": "Quinebaug Valley Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "063a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Quinnipiac University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cafb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Region 16",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Regional School District 14",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer at Hartford",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f14cbb45-fb1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ridgefield Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rocky Hill Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sacred Heart University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7eb4b877-e605-e811-80fc-000d3af41938",
+		"OrganizationName": "Sacred Heart University - WCOB - Fairfield - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3926601d-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Salisbury SD",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5ad5f18-2274-e111-a407-f04da23e67f6",
+		"OrganizationName": "Shelton High School - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bb48ec1-7d4e-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Simsbury High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f06aa85-56ef-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "South Kent School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a690e52e-2218-e011-b71d-0030487d8897",
+		"OrganizationName": "South Windsor High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00e23ebc-b102-de11-bf04-0030485a8df0",
+		"OrganizationName": "Southern Connecticut State University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd8d286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "St Thomas More School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aafd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St Timothy Middle School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb5ee9e5-4be0-e711-80fa-000d3af41938",
+		"OrganizationName": "St. Francis & St. Rose of Lima",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "592c0ad2-0e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Gabriel School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "373a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Joseph College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ce9e4d5-970b-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "St. Vincent’s College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Staples High school",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94b00f65-ea1f-df11-856f-0030487d8897",
+		"OrganizationName": "State of Connecticut RESC Alliance",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Stonington Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f57d477-f340-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Suffield Academy",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b33a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Teikyo Post University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a45c6cb6-f444-e011-b1e1-0030487d8897",
+		"OrganizationName": "Terra Firma Academy",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c239d0f0-2145-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "The Hotchkiss School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95d959d6-6469-e111-a407-f04da23e67f6",
+		"OrganizationName": "The Loomis Chaffee School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5522e6ea-c03d-e811-8103-000d3af41938",
+		"OrganizationName": "THE TAFT SCHOOL",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c25396a5-07e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "The Woodhall School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "452c4746-365e-e111-8056-f04da23e67f6",
+		"OrganizationName": "Three Rivers Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d33a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trinity College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c13dda8-ccf8-df11-9c87-0030487d8897",
+		"OrganizationName": "Trumbull High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Trumbull Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "513d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tunxis Community College",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6af58109-42e6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Tunxis Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Bridgeport",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47821a48-ca74-e011-969d-0030487d8897",
+		"OrganizationName": "University of Connecticut - Health Center",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "063b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Connecticut - Store Campus",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "263b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Hartford",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of New Haven",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e26601d-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Unquowa School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e390392-bbd6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Wallingford Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e33b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wesleyan University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c9d8455-5880-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Wesleyan University - Middletown - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91140ca7-ea26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "West Hartford Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Connecticut State University - Danbury Campus",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1b14adc-0f7a-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "William Hall High School - Campus Store",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6224a04e-16bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Wilton Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Windham Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b36d3dc9-cf2d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Windsor Public Schools",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c7f15b2-3bbc-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Woodstock Academy",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8126601d-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Wooster School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe312fe6-83f5-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Wooster School - Microsoft Imagine Standard",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b91096e7-c8fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Xavier High School",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e431776-91ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Yale New Haven Health - Residency Program",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "183c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Yale University",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	}
+]

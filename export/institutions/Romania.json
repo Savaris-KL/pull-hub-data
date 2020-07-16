@@ -1,0 +1,746 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "58318160-b4d8-e711-80fa-000d3af41938",
+		"OrganizationName": "BIYSK TECHNOLOGICAL INSTITUTE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "6b787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Board of European Students of Technology Cluj-Napoca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "20f769ee-a240-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Bucharest Academy of Economic Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "252f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Bucharest Academy of Economic Studies - Academia de Studii Economice din Bucuresti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "4fe66637-024d-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Școala Națională de Studii Politice și Administrative (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "6e787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Colegiul National Aurel Vlaicu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "bfe542b2-a783-e811-8108-000d3af41938",
+		"OrganizationName": "COLEGIUL NATIONAL CALISTRAT HOGAS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "41913fae-bd61-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Colegiul Naţional de Informatică - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "e90e4402-3237-e811-8103-000d3af41938",
+		"OrganizationName": "Colegiul National de Informatica Spiru Haret Suceava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "efe21705-eddb-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Colegiul National Decebal - Deva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "71787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Colegiul National Traian Drobeta Turnu Severin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "74787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Credis Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "162f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Dimitrie Cantemir University, Bucharest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "ab264a16-d72a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Emanuel University of Oradea (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "879c2000-45be-e211-be21-f04da23e67f4",
+		"OrganizationName": "Facultatea de Comunicare si Relatii Publice (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "5c0af50a-3d15-e111-a703-f04da23e67f6",
+		"OrganizationName": "Facultatea de Stiinte Economice si Gestiunea Afacerilor (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "78787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Faculty of Automatics Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "210b14e4-b3d8-e711-80fa-000d3af41938",
+		"OrganizationName": "FGOU SPO NATK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "18954778-6775-e811-8106-000d3af41938",
+		"OrganizationName": "Harghita District School Board (Inspectoratul Şcolar Judeţean Harghita)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "650fb482-f27b-e011-969d-0030487d8897",
+		"OrganizationName": "Institutul de Studii Europene",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "d5f2b641-19bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Iuliu Hațieganu University of Medicine and Pharmacy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "4a535c41-4a3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Andreea Sufaru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "aaedb055-4b3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Irina Potâng",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8733c741-4c3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Roxana Araiman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "83e11fda-7f94-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Liceul Teoretic Dante Alighieri - Bucuresti - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "2f2f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Lucian Blaga University, Sibiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8373b1e7-e584-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Military Technical Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "365a6ca4-794f-ea11-8127-000d3af41938",
+		"OrganizationName": "National University of Political Studies and Public Administration (Școala Națională de Studii Politice și Administrative din București)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "7c787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "North University Center of Baia Mare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "1b2f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Petroleum-Gas University of Ploiesti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "3c634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Politehnica University of Timisoara - Romania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "5e95a05e-d397-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Polytechnic University of Timișoara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "46634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Romanian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "202f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Romanian-American University, Bucharest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "a672a671-7ad7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "SAPIENTIA HUNGARIAN UNIVERSITY OF TRANSYLVANIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "46080a0c-60d1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "TECHNICAL UNIVERSITY OF CLUJ NAPOCA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "5098504d-9e9a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Technical University of Cluj-Napoca - Mechanics - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "112f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "The University of Agronomy Science and Veterinary Medicine, Bucharest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "0c2f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "The University of Medicine and Pharmacy Carol Davila, Bucharest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "7f787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The University of South-East Europe Lumina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "669d7cab-0885-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Transilvania University of Brașov",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "82787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea 1 Decembrie 1918 Din Alba lulia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "42644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universitatea Alexandru Ioan Cuza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "38393d97-dd76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universitatea Alexandru Ioan Cuza - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "16ce3ccb-e9e4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Alma Mater Sibiu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "3b18a9da-f17b-e011-969d-0030487d8897",
+		"OrganizationName": "UNIVERSITATEA APOLLONIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "85787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Aurel Vlaicu Arad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "3cd45dec-886c-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Universitatea Babes - Bolyai (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "9b32db38-be4b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universitatea Babes-Bólyai Facultatea De Matematica Si Informatica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "88787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Bogdan Voda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "157605c3-f37b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Danubius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "647f14e8-3ab8-e711-80f7-000d3af41938",
+		"OrganizationName": "Universitatea de arhitectura si urbanism Ion Mincu (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "2cc1c638-a64f-e711-80f0-000d3af41938",
+		"OrganizationName": "Universitatea de Artă şi Design din Cluj-Napoca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "20fd5008-ce7b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea de Arte George Enescu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "4c0afdd8-3029-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universitatea de Medicina si Farmacie din Craiova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "9b305a49-ce7b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea de Medicina si Farmacie Gr.T. Popa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8c664475-2683-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Universitatea de Medicină şi Farmacie Târgu Mureş",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8b787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea de Nord din Baia Mare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "603eb45a-cd7b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea de Stiinte Agricole si Medicina Veterinara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "cc77c598-66d7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universitatea de Vest \"Vasile Goldiş\" din Arad (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8e787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea de Vest din Timisoara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8875a4df-f27b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea din Bacau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "71a05635-7da6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universitatea Din Bucuresti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "4b718040-cfaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universitatea din Craiova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "92787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Din Oradea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "a9e3ec91-107b-e811-8106-000d3af41938",
+		"OrganizationName": "Universitatea din Petrosani (University of Petrosani)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "a2baa48b-f37b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Dunarea de Jos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "3fc25114-f37b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea George Bacovia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "46423ab0-f27b-e011-969d-0030487d8897",
+		"OrganizationName": "UNIVERSITATEA GH. ZANE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "cdd258f8-4d78-e711-80f1-000d3af41938",
+		"OrganizationName": "Universitatea Lucian Blaga din Sibiu - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "8a1c7b16-f27b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Mihail Kogalniceanu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "95787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Ovidius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "0e6e934e-f27b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Petre Andrei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "98787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Petru Maior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "9b787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Petru Maior Din Targu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "cec3c6cf-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universitatea Politehnica Buc - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "2a2f9860-a937-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universitatea Politehnica Bucuresti (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "f96414e1-48a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universitatea Romano-Americana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "027795a4-f3d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Româno-Americana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "45967d58-b2d8-e711-80fa-000d3af41938",
+		"OrganizationName": "Universitatea Sapientia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "9f787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Spiru Haret",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "92313100-f47b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Stefan cel Mare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "c68c381d-695b-e211-b607-f04da23e67f6",
+		"OrganizationName": "Universitatea Tehnică din Cluj-Napoca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "26d74c96-ce7b-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Tehnica Gheorghe Asachi din iasi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "a2787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Titu Maiorescu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "6f42ef4e-2786-e011-969d-0030487d8897",
+		"OrganizationName": "Universitatea Transilvania din Brasov - UTBv - Brasov - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "a5787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea Valahia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "c4055392-d984-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "University Alexandru Ioan Cuza of Iasi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "ac634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Bucharest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "d092038c-874d-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University of Medicine and Pharmacy of Tîrgu Mureș (Universității de Medicină și Farmacie Tîrgu Mureș)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "56e4cde9-13e8-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "University of Pitesti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "65d161d2-7bd0-e711-80f9-000d3af41938",
+		"OrganizationName": "Victor Babes University of Medicine and Pharmacy, Timisoara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ROU",
+		"InstitutionID": "ffcee68d-7a71-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "West University of Timisoara (Romania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

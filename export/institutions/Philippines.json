@@ -1,0 +1,1506 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "74c89cac-1f55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "ABE International Business College - Taft - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "b08c5d2c-a590-e211-87e9-f04da23e67f4",
+		"OrganizationName": "ABE International Business College (Philipines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0067e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ABE International College of Business and Accountancy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2b0c98df-7215-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Adamson University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "ec01bb9a-ea6b-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Adventist International Institute of Advanced Studies (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0367e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Aldersgate College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9d0b9ba6-1f55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "AMA Computer College - Malolos - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1fa9aa9a-1f55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "AMA Computer College - Santiago - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4657b247-d48e-e111-981b-f04da23e67f6",
+		"OrganizationName": "AMA Computer College (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0667e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AMA Computer Learning Center - Caloocan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0967e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AMA Computer Learning Center - Iloilo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0d67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AMA Computer Learning Center - San Pablo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1067e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AMA Computer Learning Centre - Batangas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6a1c610f-10bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "AMA Computer University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a24b4228-c1b3-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "AMA Education System Members",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8276bfdb-e6f3-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "AMA University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "10197be4-2c1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "American International Learning Academy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1567e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Angeles University Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "72b63226-2785-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Araullo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9d2aa37f-7200-e811-80fc-000d3af41938",
+		"OrganizationName": "Arellano University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "e94c22ca-508a-e111-981b-f04da23e67f6",
+		"OrganizationName": "Asia Graduate School of Theology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "dd4be039-ec84-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Asia Pacific College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "12873a0a-4d8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Asia Pacific Nazarene Theological Seminary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "aa5739a2-8884-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Asia Pacific Theological (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5557c75b-0894-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Asian College of Science and Technology - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "f7a4081e-538c-e811-8108-000d3af41938",
+		"OrganizationName": "Asian Institute of Computer Studies - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5dab41c6-1073-df11-bc53-0030487d8897",
+		"OrganizationName": "Asian Institute of Management (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "74086443-b106-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Ateneo de Davao University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8c5e8dd9-d2ef-e711-80fa-000d3af41938",
+		"OrganizationName": "Ateneo de Iloilo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "08644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ateneo de Manila University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1867e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ateneo de Naga University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5eeb0e43-4d79-e711-80f1-000d3af41938",
+		"OrganizationName": "Ateneo de Naga University - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c7f81be6-e882-df11-bc53-0030487d8897",
+		"OrganizationName": "Bicol University (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "d820acbc-250f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Brent International School Subic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "aaf47b6f-45f1-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Bulacan State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a57e4399-2785-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Cagayan de Oro College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9fa648bd-2abe-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Camarines Sur Polytechic Colleges",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2dc18023-f34b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Capitol University (Philippine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a53a2cf5-b934-e711-80ef-000d3af41938",
+		"OrganizationName": "Catanduanes State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "aa3256f8-d92f-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Cebu Doctors' University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0047f389-818c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Cebu Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8459c671-212c-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Cebu Technological University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "61831086-dc77-df11-bc53-0030487d8897",
+		"OrganizationName": "Central Luzon State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "77dc4a02-4275-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Central Mindanao University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0011d24d-bc1b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Central Philippine Adventist College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1b67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Central Philippine University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "1e67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chiang Kai Shek College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "94bdadb8-d841-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Colegio de San Juan de Letran - Calamba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "7b342629-5b40-e911-8113-000d3af41938",
+		"OrganizationName": "Colegio San Agustin (Bacolod)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a637712f-cebb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Colegio San Agustin (Binan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2167e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "College of the Immaculate Conception",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2467e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Computational Science Research Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "e58dc179-d68e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Computer Technologies Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "61a0b19b-df1c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Cor Jesu College - Computer Studies - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Cristal e-College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "61149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Davao Christian High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "11428225-e02d-e811-8101-000d3af41938",
+		"OrganizationName": "Davao del Norte State College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "ece4fa96-1619-e911-8110-000d3af41938",
+		"OrganizationName": "Davao Oriental State College of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0d3ed42a-c8ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "De La Salle Araneta University - Malabon - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "f1d9e535-c2c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "De La Salle Santiago Zobel School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "aa6c0d3d-0873-df11-bc53-0030487d8897",
+		"OrganizationName": "De La Salle University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6c497ede-6082-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "De La Salle University - Dasmariñas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "673396e2-b1ff-e711-80fc-000d3af41938",
+		"OrganizationName": "De La salle university – Lipa Batangas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "18fea5a3-d78e-e111-981b-f04da23e67f6",
+		"OrganizationName": "De La Salle-College of Saint Benilde",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8a8012f8-85d0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "DMC College Foundation Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "37386e56-2612-e111-a703-f04da23e67f6",
+		"OrganizationName": "DMC College Foundation Inc. - College of Computer Studies - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0e4483dc-043d-e911-8111-000d3af41938",
+		"OrganizationName": "Don Bosco School, Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "edcef658-5008-e811-80fc-000d3af41938",
+		"OrganizationName": "Far Eastern University Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "86dcb8b8-73f2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "FEU Diliman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2a67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "FEU High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8dbff6e7-4669-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "FEU Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "671ba400-977e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Foundation University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "bde536a4-0603-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Greenville College - Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "ac51733a-bf1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Holy Angel University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a348daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Holy Family Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c31a6058-fd72-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Name University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "f3667404-0535-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Holy Rosary School of Pardo - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "55f54c8b-8ced-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Hope Christian High School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4018b1bd-33bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Iligan Medical Center College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6bca4e5e-f8ab-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Iligan Medical Center College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "db9dffae-128f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Immaculate Conception Int'l College of Arts & Tech",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "ade57c25-d3e9-e811-810c-000d3af41938",
+		"OrganizationName": "Informatic Holdings Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "aa7b18af-fcb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Informatics Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "2f67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Information and Communications Technology Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "55dc1bdd-2b01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "International School Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a7977cb9-bed7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "ISABELA STATE UNIVERSITY (philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3254859e-9b67-ea11-8129-000d3af41938",
+		"OrganizationName": "J.H. Cerilles State College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "39e70801-13c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "JBLFMU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3267e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "John B. Lacson Foundation Maritime University - Arevalo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3567e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "John B. Lacson Foundation Maritime University - Molo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "af48daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jose Rizal Highschool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "91c25f06-c6a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Jose Rizal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a76f8d1d-cdbc-e211-be21-f04da23e67f4",
+		"OrganizationName": "Lorma Colleges - San Fernando City - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "41e60fae-ecf7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Lyceum of Alabang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3867e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lyceum of the Philippines University - Batangas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "96d10f95-d6c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lyceum of the Philippines University - Cavite",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6d8e1c0c-1382-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Lyceum of the Philippines University - Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c05d3f67-96be-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Malayan Colleges Laguna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c477ff23-4cfd-e711-80fc-000d3af41938",
+		"OrganizationName": "Manila Tytana Colleges",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3b67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Manuel L. Quezon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a3c07873-c766-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Manuel V. Gallego Foundation Colleges, Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "43ae27a3-77d4-e711-80f9-000d3af41938",
+		"OrganizationName": "Mapua Information Technology Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "acd8e93f-0fc2-e111-9902-f04da23fc522",
+		"OrganizationName": "Mapúa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9748daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mary Help of Christian School, Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c4b3b81a-08c9-e911-811e-000d3af41938",
+		"OrganizationName": "Mindanao State University–Iligan Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "96064552-ffb9-e911-811e-000d3af41938",
+		"OrganizationName": "MINT College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "ac032013-e4f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "National University, Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4d054194-023b-e711-80ef-000d3af41938",
+		"OrganizationName": "NEW ERA UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0898c0a6-751e-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame of Dadiangas University - General Santos - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "bedb1615-9129-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame of Kidapawan College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0f4a2c90-043b-e711-80ef-000d3af41938",
+		"OrganizationName": "Notre Dame of Marbel University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "22256afe-0018-e811-80fe-000d3af41938",
+		"OrganizationName": "Notre Dame of Midsayap College - ICTC-Management Information System - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "70c73595-4fb3-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame of Tacurong College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "52ec4d09-4fb3-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame of Tacurong College - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "e78aa376-e415-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Nueva Vizcaya State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "50f854d8-76d4-e711-80f9-000d3af41938",
+		"OrganizationName": "Our Lady of Fatima University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "90485ea9-370b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pamantasan ng Lungsod ng Maynila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a744680b-17f0-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Patria Sable Corpus College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "225338ff-2719-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Philippine Normal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9cd1381e-449e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "PLT College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "3f67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Polytechnic University of the Philippines - Manila - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "eef0939f-64be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "RRLS-ICT Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "edde7903-c474-e811-8106-000d3af41938",
+		"OrganizationName": "RRLS-Information&Communication Technolog - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4467e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Espana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Iloilo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4a67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Lagro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4d67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Las Pinas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5067e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Lipa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5367e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Lucena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5667e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Makati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5967e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Mandaluyong",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5c67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saint Augustine School of Nursing - Quezon City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "edc6f134-9420-e811-8101-000d3af41938",
+		"OrganizationName": "Saint Louis University ( Philippines )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "f3f3a2c6-079b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Saint Mary's University - Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "40821723-6e1d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Saint Michael's College of Laguna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0b68c34a-6684-e811-8108-000d3af41938",
+		"OrganizationName": "San Beda College - Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "b548daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "San Beda College Alabang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "fec8175d-2fbf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "San Pedro College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a9b10d9b-91d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Santa Rita College of Pampanga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "137ac1ec-2800-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Silliman University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0ffe5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Southville International School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "9d48daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Joseph La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "cdb62570-845e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "St. Jude College (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a948daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Mary of the Woods",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8f0ed14f-0b90-e811-8108-000d3af41938",
+		"OrganizationName": "St. Mary’s Academy of Pasay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "bb48daf0-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Mary's College Quezon City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "d91ce9a1-822c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "ST. Paul College of Ilocos Sur - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "d16c875a-4fdf-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "St. Paul University Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "888cfbc1-1f12-ea11-8124-000d3af41938",
+		"OrganizationName": "STI College San Jose Del Monte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a6bda788-f50f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "STI Education Services Group, Inc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "5ddc1bdd-2b01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "System Technology Institute Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "d8c82429-c039-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "TECHNOLOGICAL INSTITUTE OF THE PHILIPPINES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "50b9a35b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Technological University of the Philippines - Manilla - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "484583f0-2c1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Lorma Schools - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "7d6ad8b1-545e-e111-8056-f04da23e67f6",
+		"OrganizationName": "The Philippine Women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "e0576c34-f65f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "THE RAYA SCHOOL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "af6c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Treston International College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "b9e9d163-89d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Zamboanga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "4dd97037-ba2e-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "University of Asia and the Pacific (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6167e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Baguio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "59550c64-4a5b-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "University of Caloocan City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6467e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Cebu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Iloilo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "c818be11-86fd-e811-810d-000d3af41938",
+		"OrganizationName": "University of Manila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "95555de9-8c0f-e911-810e-000d3af41938",
+		"OrganizationName": "University of Mindanao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "90e57d3b-dee8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "University of Mindanao - Davao - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "621fa8c3-be44-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Negros Occidental - Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "a87a0eb2-e5fa-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "University of Northern Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "eb1d4c50-b5cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Nueva Caceres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "843cbf75-8ae5-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University of Pangasinan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8a1e1378-75d4-e711-80f9-000d3af41938",
+		"OrganizationName": "University of San Agustin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0461d479-7a2b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "University of San Carlos (Philippines)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "0410dd4b-75e9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "University of San Jose - Recoletos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "cd27a0dd-786f-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Santo Tomas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "e47448e2-6705-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Southeastern Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "53f08e37-9fe6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "University of St. La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "6a67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of the Cordilleras",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "d613b66a-6abe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of the East",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "12634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of the Philippines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "f578c537-999d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of the Philippines - Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "7d424d3f-e273-df11-bc53-0030487d8897",
+		"OrganizationName": "University of the Philippines Diliman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "42673b5d-0265-df11-b841-0030487d8897",
+		"OrganizationName": "University of the Philippines Los Baños",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "514f605a-a04c-df11-b56b-0030487d8897",
+		"OrganizationName": "University of the Philippines Visayas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "b13d1ebf-e982-df11-bc53-0030487d8897",
+		"OrganizationName": "University of the Phillipines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8f374f34-f440-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University of the Visayas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "dcf1c067-cec0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "West Visayas State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "904bdaf9-63b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Xavier School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PHL",
+		"InstitutionID": "8205dd32-2673-df11-bc53-0030487d8897",
+		"OrganizationName": "Xavier University - Ateneo de Cagayan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "d4b3380f-b846-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Alabama State University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "10b4380f-b846-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Alabama State University - Computer Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=10b4380f-b846-e511-940f-b8ca3a5db7a1"
+	}
+]

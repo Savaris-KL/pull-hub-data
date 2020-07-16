@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "7a5e20d7-f26d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Big Valley Christian",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "fe9417dd-f26d-e611-9420-b8ca3a5db7a1",
+		"WebStoreName": "Lassen County Office of Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=fe9417dd-f26d-e611-9420-b8ca3a5db7a1"
+	}
+]

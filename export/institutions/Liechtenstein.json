@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LIE",
+		"InstitutionID": "d8889111-be7e-e811-8108-000d3af41938",
+		"OrganizationName": "Schulen Liechtenstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LIE",
+		"InstitutionID": "50894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universität Liechtenstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

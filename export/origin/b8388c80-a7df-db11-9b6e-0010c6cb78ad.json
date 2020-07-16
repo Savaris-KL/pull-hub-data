@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "6c2610d2-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Jacksonville State University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "70176f1d-bd9b-e011-969d-0030487d8897",
+		"WebStoreName": "Jacksonville State University - Mathematical, Computing, and Information Sciences",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=70176f1d-bd9b-e011-969d-0030487d8897"
+	}
+]

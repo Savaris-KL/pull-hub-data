@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FJI",
+		"InstitutionID": "5dce8f40-f7f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "FIJI NATIONAL UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FJI",
+		"InstitutionID": "4a69e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "International School Suva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FJI",
+		"InstitutionID": "65e591df-a84b-df11-b56b-0030487d8897",
+		"OrganizationName": "University of the South Pacific",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

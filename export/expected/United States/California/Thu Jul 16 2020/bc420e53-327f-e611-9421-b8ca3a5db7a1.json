@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "bc420e53-327f-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Brea-Olinda Unified School District",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "be420e53-327f-e611-9421-b8ca3a5db7a1",
+		"WebStoreName": "Brea-Olinda Unified School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=be420e53-327f-e611-9421-b8ca3a5db7a1"
+	}
+]

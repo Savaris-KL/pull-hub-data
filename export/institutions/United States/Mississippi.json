@@ -1,0 +1,778 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alcorn State University - Lorman - Microsoft Imagine Standard",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "755de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Career Institute",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Belhaven College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8fe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Blue Mountain College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4de83896-06b8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Coahoma Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21cbd3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Columbia School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01910135-ec9f-42c8-af2c-3bc154b14c8e",
+		"OrganizationName": "Copiah-Lincoln Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Delta State University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8291cd32-961d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "DeSoto County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "859efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "East Central Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a47ef7e-2f5f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "East Mississippi Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e900787-9f05-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Grenada School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hancock County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hattiesburg Public School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7795cb5-1a72-e711-80f1-000d3af41938",
+		"OrganizationName": "Hattiesburg School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4668088a-8b1d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Heritage Academy",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "def464ec-f04b-e011-bd14-0030487d8897",
+		"OrganizationName": "Hinds Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "649622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Holmes Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c63fa0e4-edbc-de11-886d-0030487d8897",
+		"OrganizationName": "Homes Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Itawamba Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b699de3-b989-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Jackson Academy (Mississippi)",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jackson State University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jones County Junior College - Microsoft Imagine",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lawrence County School  District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Madison Ridgeland Academy",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65f3bf22-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Magnolia Bible College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66a6fc95-a026-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "McComb School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Meridian Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Millsaps College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mississippi College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d3c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mississippi Delta Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "866e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mississippi Department of Education",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mississippi Gulf Coast Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mississippi State University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de30fafb-789d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mississippi State University Engineering - Departmental Store",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mississippi University for Women",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mississippi Valley State University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b73c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeast Mississippi Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwest Mississippi Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27763559-43a6-e811-8109-000d3af41938",
+		"OrganizationName": "Noxubee County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0e44aa0-afc2-ea11-812d-000d3af41938",
+		"OrganizationName": "Ocean Springs School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e59b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Orchard Lake Schools",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ace5646-1bba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Oxford School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pascagoula-Gautier School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b63c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pearl River Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b31b0b5-e344-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Pontotoc City School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2ee9db2-5ef0-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Rankin County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "273a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rust College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95992ee6-6166-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Southeastern Baptist College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwest Minnesota State University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "951f1d4e-6b8d-443b-976c-1224e5b42b73",
+		"OrganizationName": "Southwest Mississippi Community College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d2b9d87-8a02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "St. Andrew’s Episcopal School",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65fbaeb4-214a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Stone County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd33ef3e-6222-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Tishomingo County High School",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tougaloo College",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "615ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tufts University Medford",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bea8bedf-086a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tunica Academy",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Union College - Lincoln",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Mississippi",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d36406f7-e273-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Mississippi Health Science Campus",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Mississippi Medical Center",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "853b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Southern Mississippi",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afd505c7-7429-e011-b71d-0030487d8897",
+		"OrganizationName": "University of Southern Mississippi - Personal Use Software",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fccd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Southern Mississippi Gulf Coast",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5645a766-e20b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Wayne County School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wesley Biblical Seminary",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39343dd3-da97-e211-87e9-f04da23e67f4",
+		"OrganizationName": "West Point School District",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "043c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "William Carey University",
+		"ProvinceCode": "MS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

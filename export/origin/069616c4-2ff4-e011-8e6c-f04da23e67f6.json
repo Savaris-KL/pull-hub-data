@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "069616c4-2ff4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Auburn University - College of Veterinary Medicine",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://auburnvm.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "6be08adc-2ff4-e011-8e6c-f04da23e67f6",
+		"WebStoreName": "Auburn University - College of Veterinary Medicine",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=6be08adc-2ff4-e011-8e6c-f04da23e67f6"
+	}
+]

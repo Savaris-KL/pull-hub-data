@@ -1,0 +1,3914 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9aea3207-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "ABZ Altmunster",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "27777800-f5d6-e811-810b-000d3af41938",
+		"OrganizationName": "AHS der Kreuzschwestern Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3e2be17d-d5ff-e811-810d-000d3af41938",
+		"OrganizationName": "AHS Heustadelgasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ad3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "AIESEC Austria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "15f056fd-c5e5-de11-a13b-0030487d8897",
+		"OrganizationName": "Akademie der bildendenden Künste Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "de069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Akademie der Wissenschaften",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "aebe6d84-1ca5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Alpen Adria Universität Klagenfurt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6a3d06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Am Gym",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "514504fd-a3b6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Amt der Kärntner Landesregierung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "bbbe6323-a55f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Amt der OÖ LandesreAmt der OÖ Landesregierung - OÖ Berufsschulengierung - OÖ Berufsschulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1e9764d3-4d05-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Amt der Steiermärkischen Landesregierung - Compeco - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1fc9fcc4-580b-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Amt der Vorarlberger Landesregierung - Vorarlberger Schulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3d079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Anton Bruckner Privatuniversität",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ca767800-f5d6-e811-810b-000d3af41938",
+		"OrganizationName": "BAfEP der Kreuzschwestern Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dbf16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "BBA St. Poelten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1d920528-97f5-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "BBRZ Reha GesmbH Region Ost - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "063bd42d-88af-e711-80f7-000d3af41938",
+		"OrganizationName": "BBS-ROHRBACH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "166b1bde-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "BBS-WEYER",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "94ddcf7f-4414-e111-a703-f04da23e67f6",
+		"OrganizationName": "Berufsschule 2 Wels",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2db138a5-9424-e011-b71d-0030487d8897",
+		"OrganizationName": "Berufsschule 3 Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d5ea3207-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Berufsschule Attnang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "baf4cd0a-7214-e111-a703-f04da23e67f6",
+		"OrganizationName": "Berufsschule Freistadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "66a9b0e6-f8f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Berufsschule für Informationstechnik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e345f5a5-2079-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Berufsschule für Maschinen, Fertigungstechnik und Elektronik Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f5cfd275-f127-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Berufsschule Mattighofen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b53db292-f227-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Berufsschule Vöcklabruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ec3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bezauer Wirtschaftsschulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "18758514-f981-e211-bf66-f04da23e67f4",
+		"OrganizationName": "BFI Oberösterreich - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "be3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BFI Steiermark",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f606ba9c-e393-e711-80f6-000d3af41938",
+		"OrganizationName": "BG / BRG / BORG KAPFENBERG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9d08f683-d5ff-e811-810d-000d3af41938",
+		"OrganizationName": "BG Bludenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "651a10d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "BG Dornbirn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "221a10d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "BG Gallus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7d4503fb-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Bg St Polten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e13c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Bg Tulln",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9fb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BG und BRG Feldkirch (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "10149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BG und BRG Gmünd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cab4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BG und BRG Hallein (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2ab061b1-5d31-e911-8111-000d3af41938",
+		"OrganizationName": "BG und BRG Korneuburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "13149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BG Weiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f8966957-271c-ea11-8125-000d3af41938",
+		"OrganizationName": "BG/BRG Gleisdorf (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "25039773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BG/BRG Kirchengasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "edee1c56-5be4-e911-8120-000d3af41938",
+		"OrganizationName": "BG/BRG Leoben (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "13de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "BG/BRG Lichtenfels",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b4e75cd1-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "BG/BRG Lienz (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "82767800-f5d6-e811-810b-000d3af41938",
+		"OrganizationName": "BG/BRG Mödling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "11b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BG/BRG Mössingerstraße (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fb794727-24fb-e911-8122-000d3af41938",
+		"OrganizationName": "BG/BRG St. Polten, Josefstraße 84, 3100 St. Pölten, SKZ 302016 (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "eaf2832f-e2f4-e811-810c-000d3af41938",
+		"OrganizationName": "BG/BRG Waidhofen/Th",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "402d3756-1a39-e911-8111-000d3af41938",
+		"OrganizationName": "BG/BRG Wieselburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d1b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BG/BRG Zell am See (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b4b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BG/BRG/BORG Kapfenberg (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "403d06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "BG|BRG Purkersdorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5608f683-d5ff-e811-810d-000d3af41938",
+		"OrganizationName": "BG18 Klostergasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "94de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "BgBorg St. Johann / Tirol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cd3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK & BHAS Wien 10",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d33bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK & BHAS Wien 13",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4d5b1c5c-ba3e-e911-8113-000d3af41938",
+		"OrganizationName": "BHAK & HTL Freistadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6df16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "BHAK & PHAS Bludenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "90f4b595-5729-e911-8111-000d3af41938",
+		"OrganizationName": "BHAK / BHAS Feldbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "583cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bhak Bhas Mistelbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "da9699ec-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "BHAK BHAS Weiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "673cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bhak Bhas Wr. Neustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "acf16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "BHAK Hartberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b43bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK II Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "533cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bhak Judenburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "11149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BHAK Korneuburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3f3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bhak Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fb1910d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Bhak Lustenau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "515456cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "BHAK und BHAS Laa/Thaya (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dca10c0f-6351-e911-8113-000d3af41938",
+		"OrganizationName": "BHAK Zwettl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c84503fb-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Frauenkirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b6d8a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "493cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK/BHAS IT-Kolleg Imst",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cef52f49-3fd2-e811-810b-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Liezen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5d3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK/BHAS Schwaz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4a832e64-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BHAK/BHAS Schwaz - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a467dcd9-3def-e811-810c-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Spittal an der Drau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a86a1bde-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Waidhofen/Ybbs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6c3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK/BHAS Zell am See",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6c520e88-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "BHAK/BHAS Zell am See - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c33bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK-BHAS Eisenerz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d6d8a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "BHAKBHAS Hallein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "623cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK-BHAS St. Pölten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c83bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BHAK-BHAS Weiz DigBiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "683b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Bhakwien 22",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8970e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bhas-Bhak Eferding",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d6de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "Bildungsanstalt für Elementarpädagogik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1f3c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Bildungszentrums Kenyongasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d9069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "BMWF",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ac5b56ab-5d31-e911-8111-000d3af41938",
+		"OrganizationName": "BORG  \"Auer von Welsbach\" Althofen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5908a53e-e1f4-e811-810c-000d3af41938",
+		"OrganizationName": "BORG Birfeld",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "284a9fef-85e4-e911-8120-000d3af41938",
+		"OrganizationName": "Borg Eisenerz (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c75b1c5c-ba3e-e911-8113-000d3af41938",
+		"OrganizationName": "BORG Feldbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a6b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BORG Götzis (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4b3c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Borg Kindberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "37b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BORG Lienz (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "73de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "BORG Murau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "32de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "BORG Ternitz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fda10c0f-6351-e911-8113-000d3af41938",
+		"OrganizationName": "BORG Wien 1 Hegelgasse 12",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a71910d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Borg3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dd3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BPI Mödling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "883c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Brg Enns",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "57b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "BRG Erlgasse (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e23bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "BRG Kepler",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d05b56ab-5d31-e911-8111-000d3af41938",
+		"OrganizationName": "BRG Keplerstraße Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9c4503fb-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Brg Krems",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3b3b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Brg Landeck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ff3c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "BRG Maria Enzersdor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3aab8b46-1c0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "BRG Salzburg (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a2c83670-02ff-e811-810d-000d3af41938",
+		"OrganizationName": "BRG und BORG Dornbirn Schoren",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b73c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Brg Wels",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "47777800-f5d6-e811-810b-000d3af41938",
+		"OrganizationName": "BRG1 Schottenbastei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e38729b0-d89d-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "BRgORg 15 Henriettenplatz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d91680a6-e957-e111-8056-f04da23e67f6",
+		"OrganizationName": "BS 10 Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5771c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "BS 2 Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "df70c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "BS Kremsmunster",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5075437e-2f33-e211-aed3-f04da23e67f6",
+		"OrganizationName": "BS Ried",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9f05c400-0eba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "BS Schärding",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "de7da00c-b04a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "BS Steyr 2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fbbc1c70-0c07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "BS Wels 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c5abf387-10ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "BS Wels 3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "45f96b35-241a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Bundesgymnasium 19 (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0ab5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "Bundesgymnasium Mödling (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "42f4b595-5729-e911-8111-000d3af41938",
+		"OrganizationName": "Bundesgymnasium Sportrealgymnasium HIB Saalfelden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2c5456cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "Bundesgymnasium Tamsweg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c96a1bde-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Bundesgymnasium Wien 11 Geringergasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b07dfa23-7ae7-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Bundesgymnasium Wien 8",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a994296a-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Bundeshandelsakademie Eisenerz - Eisenerz - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "40d9a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "Bundeshandelsakademie Tamsweg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f81d6814-973a-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Bundeshandelsakademie und Bundeshandelsschule Steyr",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "23c71bca-9f94-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Bundesrealgymnasium Hamerlingstraße",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8ef16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "Bundesrealgymnasium Waidhofen/Ybbs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4a5663b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "Bundesrealgymnasium Wörgl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f13bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "C4ALL.com",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5963cd61-70f7-e911-8122-000d3af41938",
+		"OrganizationName": "Camillo Sitte Bautechnikum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "943cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Camillo-Sitte-Lehranstalt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2c079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "CAMPUS 02 GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6adf36fc-5fbf-df11-859b-0030487d8897",
+		"OrganizationName": "CAMPUS02, Fachhochschul-Studiengänge der Wirtschaft GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f7ec2ffb-51a9-df11-ad57-0030487d8897",
+		"OrganizationName": "Carinthia University of Applied Sciences (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1cd9a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "Caritas Schule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fb3bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Center for Usability Research  and Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "03f26896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "CHS Villach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c633f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Danube Private University (DPU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "451a10d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Die Kundmanngasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "bd5563b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "Die WIMO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "12149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Dietmar Koeb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "18079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Diplomatische Akademie Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "003cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Diplomatische Akademie Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "71624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Donau-Universität Krems",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "78a28ba3-1580-ea11-812a-000d3af41938",
+		"OrganizationName": "Duale Akademie Wien (Wko.at)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c0419520-24d5-e711-80f9-000d3af41938",
+		"OrganizationName": "EDV Schule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a3a10c0f-6351-e911-8113-000d3af41938",
+		"OrganizationName": "Europagymnasium Baumgartenberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7ca63557-ff7e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Europamittelschule Strasshof",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cb33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "European Peace University – Private Universität (EPU-Privatuniversität)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3a3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Des Bfi Wien Gm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "711a4b2b-ed83-e111-981b-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Oberosterreich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2e3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "583d9858-3ca6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Salzburg GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "353cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fachhochschule St. Pölten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3f75044b-474b-e011-bd14-0030487d8897",
+		"OrganizationName": "Fachhochschule Technikum Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "04fba9e4-a7d9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Fachhochschule Technikum Wien für Mitarbeiter",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "df0d349f-5beb-df11-9c87-0030487d8897",
+		"OrganizationName": "Fachhochschule Vorarlberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ac3e2cce-2862-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Wiener Neustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dbd091b4-e92e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Ferdinand Porsche FernFH-Studiengänge",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "22079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fern FH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4491ea2c-2d7f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Fern FH Studiengänge",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1d079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "FH BMLV",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0fdb3f46-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "FH Campus 02 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6c218ec7-8c74-e211-bf66-f04da23e67f4",
+		"OrganizationName": "FH Campus Wien, university of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d033f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "FH Gesundheitsberufe OÖ GmbH.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "aa3f4dce-8e5c-e111-8056-f04da23e67f6",
+		"OrganizationName": "FH Joanneum Gesellschaft MbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "293cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "FH Kufstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c808a8ee-e3b6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "FH Oberösterreich - University of Applied Sciences Upper Austria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d533f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "FH OÖ Studienbetriebs GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f8b8c3d5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "FH Technikum Wien - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "32079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "FHG Tirol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0f3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "FHS Burgenland Ges.m.b.h.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b233f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "FHWien-Studiengänge der Wirtschaftskammer Wien (WKW)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ca4a4ab6-3632-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Freie Waldorfschule Wien West - Wien - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "23994d17-9ce3-e811-810c-000d3af41938",
+		"OrganizationName": "G, RR u. ORG des Schulvereins De La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6c215e16-ed91-e911-811a-000d3af41938",
+		"OrganizationName": "Gastgeberschule fur Tourismusberufe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "81d5b428-e596-e211-87e9-f04da23e67f4",
+		"OrganizationName": "GemNova Dienstleistungs GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e8069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Geologische Bundesanstalt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d83bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Graz Borg Monsberger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7070e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Graz University of Technology IAIK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d204acea-e704-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Greenwich Management College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5dcc73ed-5930-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "GRG 17 Parhamergymnasium (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "856b4820-9772-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "GRG 23 Alterlaa - Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2e3d6b6a-c6f5-e911-8122-000d3af41938",
+		"OrganizationName": "GRG 5 - Reinprechtsdorfer Straße 24-26 (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "bf2be17d-d5ff-e811-810d-000d3af41938",
+		"OrganizationName": "GRg ORG 20 Brigittenauergymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "593c7d9e-27a8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "GRG1 Stubenbastei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "60d9a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "GRG19/Bi26 Billrothgymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ac3b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Grg21oe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7808f683-d5ff-e811-810d-000d3af41938",
+		"OrganizationName": "GRG6 Rahlgasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c71910d8-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Gymnasium Draschestraße",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7fa4a256-c973-e711-80f1-000d3af41938",
+		"OrganizationName": "Gymnasium Klosterneuburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "91b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "Gymnasium Schillerstrasse Feldkirch  (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a1d9a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "Gymnasium und Realgymnasium \"Sacré Coeur Pressbaum\" der Schulstiftung der Erzdiözese Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e64bb05d-e10a-e911-810e-000d3af41938",
+		"OrganizationName": "Gymnasium und Realgymnasium des Schulverbundes SSND",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "84f0a08d-a626-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Gymnasium Wien 21 Ödenburger Straße",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3a5bd5f0-a826-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Gymnasium Wien 21 Ödenburger Straße",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e667dcd9-3def-e811-810c-000d3af41938",
+		"OrganizationName": "HAK Feldkirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "443cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HAK Grazbachgasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "edb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HAK HAS Eferding (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "89b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HAK HAS FK (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f83b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Hak Kitz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b243c068-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HAK Lambach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "935456cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "HAK Lambach (Student Use Benefit)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c4c83670-02ff-e811-810d-000d3af41938",
+		"OrganizationName": "HAK/HAS Bregenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c367dcd9-3def-e811-810c-000d3af41938",
+		"OrganizationName": "HAK/HAS Tulln an der Donau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5ea9b0e6-f8f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hauptschule Krems",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8d60a15d-1d35-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Hauptschule Ottenschlag",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4be177f8-bee8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Hauptschule Söll",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "087080de-55ea-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Hauptschulgemeinde Heidenreichstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3db6731f-6c9b-e111-9b64-f04da23e67f6",
+		"OrganizationName": "HBLA Leoben - Wirtschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5c5556cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "HBLFA Raqumberg-Gumpenstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9d70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HBLFA Raumberg-Gumpenstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "bbb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HBLW Saalfelden (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4d34f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hebammenakademie an der Landes-Frauen- und Kinderklinik Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4734f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hebammenakademie Klagenfurt am A.ö. Landeskrankenhaus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "846a1bde-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "Herta Reich Gymnasium und Realgymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fbb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HLA Baden (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b4de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "HLA für Landwirtschaft und Ernährung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "713cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HLA-Mödling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0095296a-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "HLA-Mödling - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f9d8a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "HLBLA St. Florian",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "715b56ab-5d31-e911-8111-000d3af41938",
+		"OrganizationName": "HLT Bad Leonfelden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6a5663b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "HLT Semmering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "affe6674-3fb9-e911-811e-000d3af41938",
+		"OrganizationName": "HLTW21 - Tourismusschule Wassermanngasse(MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "763cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hlw Biedermannsdorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d0da3f46-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "HLW Biedermannsdorf - Biedermannsdorf - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "464cb05d-e10a-e911-810e-000d3af41938",
+		"OrganizationName": "HLW Elisabethinum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ed767800-f5d6-e811-810b-000d3af41938",
+		"OrganizationName": "HLW für Kommunikations- und Mediendesign",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2a5663b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "HLW Hermagor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d73b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "HLW Krieglach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "085663b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "HLW Leoben",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "30b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HLW Lienz (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "064cb05d-e10a-e911-810e-000d3af41938",
+		"OrganizationName": "Hlw Neumarkt/Wallersee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7b3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hlw Schrdinger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6c5b1c5c-ba3e-e911-8113-000d3af41938",
+		"OrganizationName": "HLW Schrödinger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b0f4b595-5729-e911-8111-000d3af41938",
+		"OrganizationName": "HLW Spittal/Drau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "772d3756-1a39-e911-8111-000d3af41938",
+		"OrganizationName": "HLW Wolfgangsee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f8f6a10d-445d-e911-8115-000d3af41938",
+		"OrganizationName": "HLW19 Straßergasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d8b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HLWM Salzburg-Annahof (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3971c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Hochschule der Franziskanerinnen in Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fd33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hochschule für Agrar- und Umweltpädagogik Wien (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3734f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hochschule für Katholische Theologie Internationales Theologisches Institut – ITI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "38079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hochschule Kufstein Tirol Bildungs GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8372ccc1-4571-e211-bf66-f04da23e67f4",
+		"OrganizationName": "HÖHERE BUNDESLEHRANSTALT FÜR MODE UND BEKLEIDUNGSTECHNIK UND FÜR WIRTSCHAFTLICHE BERUFE (HLMW9 Michelbeuern)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e6bc6313-2771-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Höhere technische Bundes- Lehr- und Versuchsanstalt Wiener Neustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "361352b4-bd61-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Höhere Technische Bundeslehranstalt (HTBLA) Eisenstadt  - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "747d7214-1674-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Höhere Technische Bundeslehranstalt Eisenstadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3470e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hohere Technische Bundeslehranstalt Moessingerstrasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "867b27c7-bcd4-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Höhere Technische Bundeslehranstalt Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c28a87ea-37b4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Höhere Technische Bundeslehranstalt Vöcklabruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fbd318db-dc0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "HS der Franziskanerinnen Ried",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "853cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBL u. VA Rankweil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "51994d17-9ce3-e811-810c-000d3af41938",
+		"OrganizationName": "HTBLA Grieskirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2a70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLA Kaindorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2f70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLA Kaindorf an der Sulm",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4370e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLA LEONDING",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e05f5492-1f80-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "HTBLA Perg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dfb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTBLA Vöcklabruck (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "56db91e8-62d7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "HTBLA Weiz (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9a3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLA-Braunau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a63cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLuVA Dornbirn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "803cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLuVA Mödling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "57473e4c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "HTBLuVA Mödling - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "af8fdd4c-89a4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "HTBLuVA Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a270e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Htbluva Spengergasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4d70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTBLuVA St. Pölten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f16a1bde-cbbd-e811-810a-000d3af41938",
+		"OrganizationName": "HTBLuVA Waidhofen/Ybbs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6170e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Htblva Wiener Neustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b03cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Anichstrasse Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "adb4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Bau und Design (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ab3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Htl Bau Und Kunst",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9f3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Donaustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3ce0b2fa-7d78-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "HTL Dornbirn - Dornbirn - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e73bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Graz Gösting",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e4106237-ed34-e711-80ef-000d3af41938",
+		"OrganizationName": "HTL Grieskirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "244cb05d-e10a-e911-810e-000d3af41938",
+		"OrganizationName": "HTL Hallein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b53cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d3e75cd1-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Karlstein (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8f3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Klagenfurt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "60b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Kramsach, Glas und Chemie (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3e70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Leoben",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0a3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL LINZ PAUL-HAHN STRASSE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4fb5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Mistelbach (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1f3d06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Htl Moedling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b93bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Neufelden ATN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4870e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Ottakring",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "638bfb95-4080-e211-bf66-f04da23e67f4",
+		"OrganizationName": "HTL Saalfelden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "083b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Htl Shkoder",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3fb5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Spengergasse (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "442cafca-41d7-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "HTL Spengergasse, VMware Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5270e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL St. Pölten Edvo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5770e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL VILLACH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "553f1814-0274-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "HTL Waidhofen / Ybbs (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "47b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "HTL Weiz (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8a3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL Wien 3 Rennweg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b543c068-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL3 Rennwer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3970e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL-Mössingerstraße-Klagenfurt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5c70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "HTL-Wolfsberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6670e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Humboldt Bildungsgesellschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fa42360c-52cc-e111-971c-f04da23e67f6",
+		"OrganizationName": "Humboldt Bildungsgesellschaft - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7570e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "ICT&S Center University of Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b843c068-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Imagine Club",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "163cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "IMC Fachhochschule Krems GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2b5556cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "Inactive(Use for next deployment)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d470e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "inactive)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7a70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Inso - Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c070e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institut Für Informatik Gruppe Deri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b670e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institut Für Softwaretechnik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a770e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institut Für Systemsoftware - Johannes Kepler Universität Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6b70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute for Applied Information Processing and Communication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "053cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute for Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4234f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute of Science and Technology Austria (IST Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4e3cef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "IT-Kolleg IMST",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ac54e6dd-4c3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Martin Meusburger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e4f9e6c3-8145-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Johannes Kepler Universität Linz (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9b6c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Karl Landsteiner Privatuniversität für Gesundheitswissenschaften GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cf70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Karl-Franzens-Universitaet Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "43079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Katholisch Theologische Privatuniversität Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1634f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Katholische Pädagogische Hochschuleinrichtung Kärnten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0734f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kirchliche Pädagogische Hochschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0234f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kirchliche Pädagogische Hochschule in Wien/Krems",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d74fe900-1897-e711-80f6-000d3af41938",
+		"OrganizationName": "KMU Akademie und Management AG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "48079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Konservatorium Wien Privatuniversität",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d3d55213-895c-e111-8056-f04da23e67f6",
+		"OrganizationName": "KPH Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f644e7ad-2825-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kunstschule Wien (Vienna Art School, Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "554efe87-2940-e911-8113-000d3af41938",
+		"OrganizationName": "Kunstuniversität Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "04186252-2712-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Land Salzburg Abteilung 2 - Salzburg - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "048e2ea6-629c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Land Salzburg für Landesberufsschulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5234f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Landesverteidigungsakademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "27079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lauder Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e693c078-e657-e111-8056-f04da23e67f6",
+		"OrganizationName": "LWBFS Andorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c670c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "LWBFS Katsdorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "debecce7-e857-e111-8056-f04da23e67f6",
+		"OrganizationName": "LWBFS Kleinraming",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2636e558-b14a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "LWBFS Mauerkirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f770c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "LWBFS Mistelbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d6f4730b-ed57-e111-8056-f04da23e67f6",
+		"OrganizationName": "LWBFS Otterbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1071c30d-b3cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "LWBFS Ritzlhof",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ac70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "MBI - Graz University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8470e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "MCI Management Center Innsbruck - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3720583d-3ea6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Medical University Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "32e861ca-9cb1-ea11-812c-000d3af41938",
+		"OrganizationName": "MEDIEN HAK Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ec3f27a6-ea20-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Medizinische Universität Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ed069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Medizinische Universität Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "bc33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Medizinische Universität lnnsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a8624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Medizinische Universität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fbb6c3b7-3da6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Modul University Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f2069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Montanuniversität Leoben",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "72a04c39-8dba-e811-810a-000d3af41938",
+		"OrganizationName": "MS-ACH Windows Student Use Benefit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c3b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "MultiAugustinum (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6a3c06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Musisches Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "41f52b82-679d-e711-80f6-000d3af41938",
+		"OrganizationName": "Neue Mittelschule 2 Schwaz Work at Home",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dea21297-927e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Neue Mittelschule Absam - Student use Benefit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c0a07f14-1d9e-e711-80f6-000d3af41938",
+		"OrganizationName": "Neue Mittelschule Absam- Work at Home",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "60db2dcf-1b09-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Neue Mittelschule Abtenau - 5441 - Prepaid Site",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "66a2fc70-f2bb-e211-be21-f04da23e67f4",
+		"OrganizationName": "Neue Mittelschule Marc Aurel Tulln",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0716bb84-ee73-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Neue Mittelschule Oberwart (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "29f16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "NMS BG BRG Klusemannstrasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3767ee65-9866-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "NMS Kalsdorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "90d8a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "NMS Praxisschule der PH Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e26bd1a7-1082-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "NMS Schwanberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "883b06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Noeschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9370e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "NWCLD",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9870e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "ÖH Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "55a9b0e6-f8f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Österreichisches ROTES KREUZ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "da33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Kärnten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e433f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Niederösterreich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "08d036ea-4237-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Pädagogische Hochschule Niederösterreich - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e933f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Oberösterreich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "df33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "075556cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "Pädagogische Hochschule Steiermark",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ee33f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Tirol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f333f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Vorarlberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f833f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4d079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Paracelsus Medizinische Privatuniversität",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "52079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "PEF Privatuniversität für Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "22f7a10d-445d-e911-8115-000d3af41938",
+		"OrganizationName": "PH Niederösterreich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2b34f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Philosophisch-Theologische Hochschule Benedikt XVI. Heiligenkreuz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3234f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Philosophisch-Theologische Hochschule der Diözese St. Pölten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3c34f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Philosophisch-Theologische Hochschule Klosterneuburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "98b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "pORG Rudolf Steiner (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "91797b16-62a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Presbyterian Ladies’ College, Sydney",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6d079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Private Medizinische Universität Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0c34f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Private Pädagogische Hochschule der Diözese Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4594af9d-2d1f-e011-b71d-0030487d8897",
+		"OrganizationName": "Private Universitat fur Gesundheitswissenschaften, Medizinische Informatik und Technik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2534f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Privater Hochschullehrgang für Islamische Religionspädagogische Weiterbildung / IHL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "2034f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Privater Studiengang für das Lehramt für Islamische Religion an Pflichtschulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "be5456cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "Privatgymnasium Mehrerau (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "57079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Privatuniversität der Kreativwirtschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5c079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Privatuniversität Schloss Seeburg (vormals: UM Private Wirtschaftsuniversität)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fdb44a49-c089-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Queanbeyan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "996d4911-9ce3-e811-810c-000d3af41938",
+		"OrganizationName": "Rg Komensky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "93b6b31e-ee91-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Rudolf-Steiner-Schule Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "42254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Salzburg Research Forschungsgesellschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "73c83670-02ff-e811-810d-000d3af41938",
+		"OrganizationName": "Schule für Sozialbetreuungsberufe der Caritas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b6c6361e-91a3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Schulgemeinde Ternitz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "94a9e5fd-8e72-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Schulverein De La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fb85c0f6-6c39-e711-80ef-000d3af41938",
+		"OrganizationName": "Schulzentrum Imst Unterstadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "45254bff-80c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Schulzentrum Ungargasse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fe791f8e-1866-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Schulzentrum Ybbs an der Donau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f57238b1-ea7f-e011-969d-0030487d8897",
+		"OrganizationName": "Sigmund Freud Privatuniversität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e55456cb-b7de-e811-810b-000d3af41938",
+		"OrganizationName": "Ski-Akademie Schladming",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "9bbeb07a-a7e2-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Sporthauptschule Altenmarkt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4093d24e-6860-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Sportmittelschule Imst Unterstadt - Imst - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1134f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stiftung Private Pädagogische Hochschule Burgenland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1b34f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Studiengang \"Lehramt für jüdische Religion“ der Jüdischen Glaubensgemeinschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "61079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "TCM Privatuniversität LI SHI ZHEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e55563b2-eaec-e811-810c-000d3af41938",
+		"OrganizationName": "Technische Fachschule Haslach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b170e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technische Universität Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dc624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Technische Universität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0d8e5ce7-8956-e711-80f0-000d3af41938",
+		"OrganizationName": "Technische Universitat Wien - Adobe Web-service",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ca0f8a0b-e920-e111-8d82-f04da23e67f6",
+		"OrganizationName": "TGM - Die Schule der Technik (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5734f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Theresianische Militärakademie Fachhochschul-Studiengänge Militärische Führung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "dc3a06f5-8eba-e811-810a-000d3af41938",
+		"OrganizationName": "Theresianum Eisenstadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d269b152-b27f-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Tiroler Fachberufsschule EKE - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "70ec9667-0986-e911-811a-000d3af41938",
+		"OrganizationName": "Tourismuskolleg Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f4b4f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "Tourismusschule im WIFI (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "28b5f074-77d8-e811-810b-000d3af41938",
+		"OrganizationName": "Tourismusschulen Villa Blanka Innsbruck  (MS-ACH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "10634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "TU Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "3eb8bf8d-b0d9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "TU Wien - Adobe - Webservice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b055d2d7-2c67-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "u:book",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ca70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Umit - University For Health Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c570e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "UNI INNSBRUCK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "7f70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universitaet Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ff069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universität für angewandte Kunst Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "befcb33e-a2cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Universität für Bodenkultur Wien (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "13079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "UNIVERSITÄT FÜR KÜNSTLERISCHE UND INDUSTRIELLE GESTALTUNG LINZ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0e079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universität für Musik und darstellende Kunst Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "04079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universität für Musik und darstellende Kunst Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0e8be764-e56f-df11-b841-0030487d8897",
+		"OrganizationName": "Universität Klagenfurt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c4a93235-37a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Universität Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "09079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universität Mozarteum Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a7bf0ea3-37a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Universität Salzburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f63bef42-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universität Salzburg Computerwissenschaften",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d970e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "89b5e357-3da6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences bfi Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "cd6cc098-3ba6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Burgenland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "66149fc0-3aa6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Campus Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4a1e60f1-3ca6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Graz (Johanneum)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "94adfca0-39a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Hagenberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "aa38001f-3ca6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Innsbruck (MCI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "94b504cb-3ba6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Kärnten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c71cc387-3aa6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Krems",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b7eafb88-51a9-df11-ad57-0030487d8897",
+		"OrganizationName": "University of Applied Sciences Kufstein (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1f6c2fdb-39a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Linz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b7fa5af1-3ba6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences St. Pölten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "89ba7e15-3aa6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Steyr",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "40514001-057a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University of Applied Sciences Upper Austria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a8634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Applied Sciences Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "937b7f4f-3aa6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Wels",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5d65c564-39a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Wiener Neustadt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5a935201-37a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "85fd1d6f-6d9e-e011-969d-0030487d8897",
+		"OrganizationName": "University of Innsbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d0ed1c8e-be2e-de11-a497-0030485a8df0",
+		"OrganizationName": "University of Leoben (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "47e21bf8-3da6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Natural Resources and Life Sciences, Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "0e654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "a580fa12-ea7e-e811-8108-000d3af41938",
+		"OrganizationName": "Verein Holztechnikum Kuchl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c133f1e3-d26d-e111-a407-f04da23e67f6",
+		"OrganizationName": "Veterinärmedizinische Universität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f8069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Veterin�rmedizinische Universit�t Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "b444a063-7b55-e011-bd14-0030487d8897",
+		"OrganizationName": "Vetmeduni Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "4ff16896-54ce-e811-810b-000d3af41938",
+		"OrganizationName": "Vienna Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "d2ab36c6-9239-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Vienna Business School Mödling (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "747a75e6-71b0-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Vienna International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "63634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Vienna University of Economics and Business Administration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "62c178fc-7dca-df11-859b-0030487d8897",
+		"OrganizationName": "Vienna University of Technology, Institute of Electrodynamics, Microwave and Circuit Engineering (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "996645a6-a9db-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Volksschule Nüziders",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e470e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vrvis Forschungs Gmbh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "c28f1031-afec-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "VS Graz-Murfeld Startseite",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "6ea9b0e6-f8f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "VS-Feldkirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "68079ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "Webster University Vienna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "81d9a0ac-6ce3-e811-810c-000d3af41938",
+		"OrganizationName": "Wiednergymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5cb6df12-5099-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Wiener Sangerknaben",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "72df3271-0c1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "WIFI der Wirtschaftskammer Salzburg - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "1d637b79-41b3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "WIFI der Wirtschaftskammer Salzburg (Austria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f370e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wifi Der Wirtschaftskammer Tirol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "8e70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wifi Noe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e970e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "WIFI Oberösterreich GMBH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "ee70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "WIFI St. Johann",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "df70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "WIFI Vorarlberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "53de91f2-b9e9-e811-810c-000d3af41938",
+		"OrganizationName": "WIKU BRG Graz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "5dc76b92-345c-df11-b841-0030487d8897",
+		"OrganizationName": "Wirtschaftsuniversität Wien",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "f870e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "WU WIEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "fd70e748-d976-e111-a407-f04da23e67f6",
+		"OrganizationName": "WWEDU World Wide Education GmbH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AUT",
+		"InstitutionID": "e3069ba9-2e53-e111-8056-f04da23e67f6",
+		"OrganizationName": "ZAMG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

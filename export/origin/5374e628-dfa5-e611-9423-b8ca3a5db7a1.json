@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "bd9c14eb-b197-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Coral Coast Christian School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "12eb18f1-b197-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "Seventh Day Adventist Schools, South Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=12eb18f1-b197-e611-9422-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "5374e628-dfa5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Coral Coast Christian School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4fc09bd4-4ea8-e611-9423-b8ca3a5db7a1",
+		"WebStoreName": "Coral Coast Christian School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4fc09bd4-4ea8-e611-9423-b8ca3a5db7a1"
+	}
+]

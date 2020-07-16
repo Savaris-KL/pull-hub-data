@@ -1,0 +1,1330 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Broadcasting School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6750f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Institute of Medical Technology",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a25de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Autry Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f97aff86-8641-df11-b56b-0030487d8897",
+		"OrganizationName": "Bacone College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bartlesville Wesleyan College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d071636e-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Battiest Public School - Science, Technology and Math - Departmental Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4049f193-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bishop Kelley",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4237b7a4-1e22-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Broken Arrow Senior High School - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e09422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Caddo Kiowa Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fccbd4d-dac0-e811-810a-000d3af41938",
+		"OrganizationName": "Calera Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cameron University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea9422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Canadian Valley Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1eae9a8c-c15b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Canadian Valley Technology Center - El Reno - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "079522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "CareerTech",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carl Albert State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d142248-10db-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Carl Albert State College - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b89cf09a-72e7-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Casady School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Central Tech",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Chisholm Trail Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8024fc59-3982-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Coalgate Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b40633b-4269-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Collinsville Public School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "242abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Community Care College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "522abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Connors State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41f56f19-7d7c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Copan Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4271915-3197-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Deer Creek Schools, Edmond, OK",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35ddb4df-6ff8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Dove Public Charter Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1de2b0e2-8633-e811-8101-000d3af41938",
+		"OrganizationName": "Dove Science Academy",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "East Central University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "999efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastern Oklahoma County Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastern Oklahoma State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f261c55-1a0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Edmond Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Edmonds Santa Fe High School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c0be06c-2b01-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Eisenhower Senior High School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c7e3257-86cf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Emerson Elementary School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80f07f18-651f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Fairland High School (Fairland, OK) - High School AA",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "889522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Francis Tuttle Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59a4f467-c07a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Francis Tuttle Technology Center - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c49522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gordon Cooper Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51a07d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Gracemont High School (Gracemont, OK) - High School AA",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e29522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Great Plains Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Green Country Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b05e4893-cc28-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Heartland Baptist Bible College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f0b602d-0e76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Herbert W. Armstrong College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "559622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "High Plains Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hillsdale Free Will Baptist College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a500049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hooker Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "630f238a-fbf2-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "In His Image",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "879622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Indian Capital Technology Center Bill Willis Campus",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b21f1bb-315e-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Inola Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kiamichi Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3da8c1d-f732-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Kingston Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Langston University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Laureate Institute for Brain Research",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "208bd5b8-c82d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lawton High School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Meridian Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88e08a31-adfe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Metro Christian Academy",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Metro Technology Centers",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ba2e4b7-c6aa-df11-ad57-0030487d8897",
+		"OrganizationName": "Mid-America Christian University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-America Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddddb4ec-f0ff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Mid-Del Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1121f1bb-315e-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Monte Cassino School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f99722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Moore Norman Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "383c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Murray State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffe66ddc-6bf6-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Murray State College - Tishomingo - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72a11a45-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Muskogee High School - CareerTech Computer - Departmental Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Norman Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a79822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northeast Technology Centers",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b59822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northeastern Oklahoma A M College (Miami)",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeastern Oklahoma A&M College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeastern State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9af313f-3814-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Northern Oklahoma College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwestern Oklahoma State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklahoma Baptist University - Oklahoma Campus",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d1005de-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Oklahoma Baptist University - Shawnee - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "329213ac-e4a2-de11-886d-0030487d8897",
+		"OrganizationName": "Oklahoma Christian University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklahoma Christian University of Science & Arts",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklahoma City Community College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklahoma City University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe238521-a546-ea11-8127-000d3af41938",
+		"OrganizationName": "Oklahoma Department of Mental Health and Substance Abuse Services",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklahoma Panhandle State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ce8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Oklahoma State Department of Education",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2e09593-abc8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Oklahoma State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc4346fd-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Oklahoma State University - Oklahoma City - Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41ebc8aa-a18b-df11-ad8b-0030487d8897",
+		"OrganizationName": "Oklahoma Wesleyan University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oklamhoma State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "OKU",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "263f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oral Roberts University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8daef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Owasso Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c011eac-8ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Owensboro Community Technical College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Phillips University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a501546-380b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pioneer Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85fe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ponca City Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9b55a8f-e762-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Pontotoc Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pryor Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ede975a0-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Purcell High School (Purcell, OK) - High School AA",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Redlands Community College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80d45a59-ec2e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Riverfield Country Day School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "203a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rogers State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d93d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rogers State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rose State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53007758-e9a8-4c24-ae7a-6182caeffd51",
+		"OrganizationName": "Salina WildCats",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e420d3-d8e8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Sapulpa Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0d5296e-7962-df11-b841-0030487d8897",
+		"OrganizationName": "Seminole State College - Oklahoma - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "713a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeastern Oklahoma State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd2519f1-a24c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Southeastern Oklahoma State University  - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Nazarene University - Bethany",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f690bac-1be3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Southwestern Christian University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "873a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwestern Oklahoma State University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f998ca81-6e04-e011-bed1-0030487d8897",
+		"OrganizationName": "Spartan College of Aeronautics and Technology",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0c4903c-8695-e211-87e9-f04da23e67f4",
+		"OrganizationName": "St. Gregory's University",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stillwater Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea294d25-2f46-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Strother Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12734c05-d7d7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "The Academy of Classical Christian Studies",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e1005de-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "The Oklahoma School of Science and Mathematics - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "395ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The Oklahoma School of Science Mathematics",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b081fdfa-5df5-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "The University of Tulsa",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef1a89da-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "Tri County Technology Center - Networking - Departmental Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b39958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tulsa City-County Library",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afe52ec6-2e34-de11-9d57-0030485a8df0",
+		"OrganizationName": "Tulsa Community College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9678609c-d813-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Tulsa Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e4e23b3-9166-df11-b841-0030487d8897",
+		"OrganizationName": "Tulsa Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d94d2d1d-6f1d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Tulsa Technology Center - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "951a14fa-6d62-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Union Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Central Oklahoma",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d34f561c-a881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "University of Central Oklahoma - Edmond - Campus Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Oklahoma",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Oklahoma Health Sciences Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Oklahoma, College of Public Health",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Science & Arts of Oklahoma",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Tulsa",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e15cc632-3193-e711-80f6-000d3af41938",
+		"OrganizationName": "University of Tulsa - Departmental Store",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8b2bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Western Heights Public Schools",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e516db2-beea-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Western Oklahoma State College",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Western Technology Center",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67629b53-2e95-e111-981b-f04da23e67f6",
+		"OrganizationName": "Westminster School - Microsoft Imagine Standard",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eebd0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Will Rogers Middle School (Miami, OK) - High School AA",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4c512d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Wright Business School",
+		"ProvinceCode": "OK",
+		"SubsectorCode": "education_college_university"
+	}
+]

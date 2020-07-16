@@ -1,0 +1,858 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "577ef192-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia Cristiana Bilingue Victoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "f641e056-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia Naval Almirante Illingworth",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "29c4ef8c-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Anelan, S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "10c13c1d-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camara de Comercio de Guayaquil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "08eff49e-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camara de la Pequena Industria de Pichincha - ICAPI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "1e4c312f-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Educativa Seneca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e142a08f-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CI-FIE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "8f063b17-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Angel Polibio Chaves",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "34dc4847-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Antares",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "53fdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Britanico Internacional Quito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "30b6df6b-b083-e811-8108-000d3af41938",
+		"OrganizationName": "Colegio Católico Jose Engling",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "aeecf49e-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Ciencia y Fe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "02fdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Cristiano en Quito | Academia Victoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "90ab14c3-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio de Abogados del Guayas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "3eda4847-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Isaac Newton",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "4f54fb0e-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Julio Verne (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "00c6ef8c-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Liceo Internacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "a5147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Maria Auxiliadora - SALESIANAS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "26ac3dff-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Militar Teniente Hugo Ortiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "0bfdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio San Gabriel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "337a45f9-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Santo Domingo de Guzman - Ambato",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e1f43423-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Seneca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "2dfdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Tecnico Experimental de Aviacion Civil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "90ae3dff-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Tomas Moro Primaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "7054fb0e-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Tomas Moro Secundaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "aa8ce96e-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Comil-4 Abdon Calderon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "cce9a089-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Confederacion Ecuatoriana de Establecimientos de Educacion Catolica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "6218b94a-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Consorcio Fundacion Liceo Internacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "82f0a386-673b-e011-b1e1-0030487d8897",
+		"OrganizationName": "Diners Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "6d3b11b7-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Educadores Luteranos Eduluteranos Cia. Ltda.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "fafcfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Education Unit Bilingual Torremar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "b6f63423-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela Particular Inaquito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "13cf4737-1b17-df11-856f-0030487d8897",
+		"OrganizationName": "Escuela Politécnica del Ejército (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e38a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Escuela Politécnica Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "91385a6f-3c19-de11-9c12-0030485a8df0",
+		"OrganizationName": "Escuela Politécnica Nacional del Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "759a276e-867d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior Politecnica de Chimborazo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "6f1a522c-03e4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior Politecnica del Litoral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "72644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Escuela Superior Politécnica del Litoral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "4d5523a1-321e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior Politécnica del Litoral - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e98de96e-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela Tecnica de Aviacion Civil / ISTAC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "5263c318-050b-ea11-8124-000d3af41938",
+		"OrganizationName": "FDETEC (Fundación para el Desarrollo con Equidad Técnica) - Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "101b4d11-e38b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Fundación Colegio Americano de Quito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "33f820d5-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Cultural y Educativa Ambato",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "1238a27d-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion del Paz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "1dfdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Educacional Alberto Einstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "fe634d5f-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "FUNDACION EDUCATE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "80ce7f71-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion E-ducate Guayaquil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "3af1f49e-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Instituto De Desarrollo Profesional IDEPRO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "f83bdd5c-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Theodoro W. Anderson",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "f4740ffd-0780-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Grupo Estrategos-Robotic Minds - Quito - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "38fdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "HCJB Voice of Andes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "06506309-02e9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Iaa InterAmerican Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "636c9a83-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnologico de Formacion Empresarial",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "447ef8a2-1528-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnológico Superior American Junior College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "1ebf3c1d-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Intervida Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "ccd5ceb4-b7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Junta de Beneficencia de Guayaquil - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "733b11b7-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Liceo Ortega y Gasset",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "a93ffd03-9dc5-df11-859b-0030487d8897",
+		"OrganizationName": "Pontificia Universidad Católica del Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "5f54fb0e-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Servicio Ecuatoriano de Capacitacion Profesional SECAP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e46326cf-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Atenas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "fe39dd5c-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Balandra- Cruz Del Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "2ede4847-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Bilingue Internacional Steiner",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "f2fcfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Bilingue Mixta Sagrados Corazones",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "768448f3-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Borja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "fa7337e1-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Cristiana Verbo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "4834f398-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Hermano Miguel de la Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "5754fb0e-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Julio Verne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "25fdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa La Condamine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "6854fb0e-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa San Felipe Neri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "14fdfb08-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa San Jose La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "912a00b9-6527-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Andina Simón Bolívar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "854f2c0f-de24-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Cuenca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "15ea93e5-563e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Católica Santiago de Guayaquil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "51d0089c-455b-e711-80f0-000d3af41938",
+		"OrganizationName": "Universidad Central del Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "2f2e9200-72d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad de Cuenca (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "d6f1d955-1cbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Espíritu Santo (UEES)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "1f7d3235-1cac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad de Guayaquil - Tarqui - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "8c7a82a4-b1a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad de las Americas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "c9dca8f5-15bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de las Fuerzas Armadas (ESPE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "cfe4d125-3dd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Los Hemisferios (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e68a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad del Azuay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "0da190cf-6ad9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Estatal Amazónica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "93c4a44c-dc24-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Estatal del Sur de Manabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "5e87d9b8-0660-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Estatal Península de Santa Elena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "fa39ced6-6b9e-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad International del Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "6bb62f22-ba8d-e711-80f4-000d3af41938",
+		"OrganizationName": "Universidad Israel - Uisrael",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "c718b357-00da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Laica Eloy Alfaro De Manabi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "80d68ded-4309-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Chimborazo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e02dfc4f-182b-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional De Loja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "7ca283d8-831c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Universidad Politécnica Salesiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "5ec24eba-98c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad PolitTcnica Salesiana de Quito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "3ed0a108-3ace-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Regional Amazónica-IKIAM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "c2b49a55-3294-e811-8108-000d3af41938",
+		"OrganizationName": "Universidad Regional Autonoma de Los Andes - Ecuador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "286e9df4-159b-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universidad San Francisco de Quito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "d23c7e79-976d-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Santa María",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "bdd5ee99-7784-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Santa Maria (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "8ceaaa7d-112b-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Técnica Ambato",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "9b1c4874-4d5b-e711-80f0-000d3af41938",
+		"OrganizationName": "Universidad Técnica de Ambato",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "06ba9756-8158-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Técnica de Cotopaxi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "e650078d-f654-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "UNIVERSIDAD TECNICA DE MACHALA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "7e6ede83-fbc1-e111-9902-f04da23fc522",
+		"OrganizationName": "Universidad Tecnica Del Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "cde1c960-106f-e811-8106-000d3af41938",
+		"OrganizationName": "Universidad Técnica Estatal de Quevedo - Quevedo - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "9fd428c5-dad9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad Técnica Particular de Loja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "a1e8b938-12bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Técnica Particular de Loja - Loja Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "7ad2cd9a-8969-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Universidad Tecnologica Equinoccial (Ecuador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "75577bb7-2f34-e711-80ef-000d3af41938",
+		"OrganizationName": "University Research Corp",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ECU",
+		"InstitutionID": "d6212aee-953c-e711-80ef-000d3af41938",
+		"OrganizationName": "Yachay University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

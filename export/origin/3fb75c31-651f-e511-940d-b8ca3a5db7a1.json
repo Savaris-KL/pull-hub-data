@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c811c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Lidcombe TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "de236732-aa8b-e011-969d-0030487d8897",
+		"WebStoreName": "TAFE NSW - VMware Academy",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=de236732-aa8b-e011-969d-0030487d8897"
+	}
+]

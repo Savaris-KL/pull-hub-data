@@ -1,0 +1,1642 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff775733-2eff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Agia Sophia Academy",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American College of Healthcare Sciences",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Aquidneck Island Robotics (AIR) 4-H Club",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cb7bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ashland School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "273c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Portland",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c46994c7-1a1d-ea11-8125-000d3af41938",
+		"OrganizationName": "Banks School District (Oregon)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c26400c8-7f9b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Beaverton School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25c97363-3f15-e111-a703-f04da23e67f6",
+		"OrganizationName": "Beaverton School District - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b3bc148-976b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Benson Polytechnic High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Birthingway College of Midwifery",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Blue Mountain Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c22ad91e-fe21-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Bushnell University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "579e4277-a660-e111-8056-f04da23e67f6",
+		"OrganizationName": "Camas Valley School - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9b5bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cascade School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e67a169-7b76-e011-969d-0030487d8897",
+		"OrganizationName": "Catlin Gabel",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Catlin Gabel School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3994ea75-c7f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Catlin Gabel School - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "442e67a3-8727-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Center for Advanced Learning - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfefde36-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Center for Applied Systems and Soft - Technology - Departmental Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59cf5f38-ee78-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Central Catholic High School - OR",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a9806d1-5c4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Central Oregon Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fdea0a43-7220-de11-9c12-0030485a8df0",
+		"OrganizationName": "Chemeketa Communith College (Oregon)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "365be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Chemeketa Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clackamas Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc25054e-7fb3-de11-886d-0030487d8897",
+		"OrganizationName": "Clatsop Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd9beaac-d24f-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Columbia Educational Designs",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0180c99c-c927-e011-b71d-0030487d8897",
+		"OrganizationName": "Columbia Gorge Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d448563-6a34-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Columbia School of English",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee8c28f3-80f7-43f4-a686-0bcbea2f3dc2",
+		"OrganizationName": "Concordia University - Oregon",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53292e37-af6f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Concordia University Portland",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Coos Bay School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "511f3cbf-1737-4f69-b1c2-649f9ea5ce0f",
+		"OrganizationName": "Corban College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Corban University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fb1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Corvallis School District 509J",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6def98f8-b0e5-de11-a13b-0030487d8897",
+		"OrganizationName": "Creswell High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a6a5ffc-f6aa-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "David Douglas School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a033de59-0f8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Dayton School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df7392d1-d765-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Delphian School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad455dd9-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Delphian School - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern Oregon State College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a33d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern Oregon University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eugene Bible College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf78c1a4-7f84-df11-bc53-0030487d8897",
+		"OrganizationName": "Eugene School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca7c4b06-746e-4900-9afe-e2b29d46d48a",
+		"OrganizationName": "Everest College - OR",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7293f5be-58ce-48f9-8e01-d5c294251174",
+		"OrganizationName": "Everest Institute - OR",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46b89c2c-b7a3-4856-8299-8b61b3c2504a",
+		"OrganizationName": "George Fox University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "baa8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Grant ESD",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7239958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Grant School District #3",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gutenberg College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d82b9908-63c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Harbor Lights Middle School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2facf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hermiston SD",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b43f1744-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hillsboro Aviation/Airman's Proficiency Center",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "699622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "HomeSource Family Charter",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hood River County",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17f058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "IITR Truck Driving School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0571f4a-65c5-dd11-9f2a-0030485a7be8",
+		"OrganizationName": "Insight Schools",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b19e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "Inter Mountain ESD (Umatilla SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Intermountain Education Serce District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbe587a9-2162-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "InterMountain ESD",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "769e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Adrian SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b9f79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Athena SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "999e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Burnt River SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Cove SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e49e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Echo SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Elgin SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Four Rivers)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c29e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Helix SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Imbler SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Ione SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (La Grande SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Malheur ESD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Milton-Freewater SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "129f79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Morrow County SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "449e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (North Powder SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "099f79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Nyssa SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "929e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Pendleton)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "689e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Pilot Rock)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "849e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Stanfield SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc9e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Union SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b99e79fb-1736-ea11-8126-000d3af41938",
+		"OrganizationName": "InterMountain ESD (Vale SD)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e89c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Intermountain ESD: Morrow County SD",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "306d02db-d7c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Inza Wood Middle School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "068a286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Jesuit High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kings Valley Charter School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "640f7976-f589-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Klamath Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "947b5b66-c905-df11-85a5-0030487d8897",
+		"OrganizationName": "Klamath County School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lane Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "326e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lane Education Service District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts - Portland",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a530818d-b0f4-440c-bfbc-276c93b025ad",
+		"OrganizationName": "Lewis & Clark College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5a1491e-89ff-4924-92fb-4a55d644476e",
+		"OrganizationName": "Linfield College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Linn Benton CC",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "413f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Linn-Benton Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "679722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lundquist College of Business",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f03b3e86-e00b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Malheur Education Service District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07b4c102-6eac-4403-8185-5b5aa464b7ad",
+		"OrganizationName": "Marylhurst University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "MCMinnville SD 40",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bd05f38-ee78-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Medford S.D.",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Medford School District 549C",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f47e7bf5-913d-49a2-b0ba-32e381328df0",
+		"OrganizationName": "Mount Angel Abbey & Seminary",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mt. Hood Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c743c922-ec5a-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Muddy Creek Charter School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "232fafd5-d964-4b7a-b52a-34ba82ca2efe",
+		"OrganizationName": "Multnomah Bible College & Biblical Seminary",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4403ab21-14fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "National College of Natural Medicine",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fd44d13-a81d-4cdd-acfb-6ee579217473",
+		"OrganizationName": "National College of Naturopathic Medicine",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "952b4e03-6090-e011-969d-0030487d8897",
+		"OrganizationName": "National College of Naturpathic Medicine",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4756972f-f54a-e711-80f0-000d3af41938",
+		"OrganizationName": "Newberg Public Schools (Newberg School District, Oregon)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "North Marion School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Wasco County School District 21",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "687e1d29-8ba0-4268-a484-5293fd7c0aed",
+		"OrganizationName": "Northwest Christian College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7d06a30-79c3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Northwest Christian University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e86798f3-b291-4086-b3dc-0ff87285456a",
+		"OrganizationName": "Oregon College of Art & Craft",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdd9633d-ce0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oregon Conference of Seventh-day Adventists",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d79b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Oregon Department of Education",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "faece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oregon Episcopal School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oregon Graduate Institute of Science & Technology",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "486f897b-3dd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Oregon Health and Science University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oregon Health Sciences University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c79c46a-684c-43a7-95da-4986d241ef97",
+		"OrganizationName": "Oregon Independent Colleges Association",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oregon Institute of Technology - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oregon State University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pacific Crest Community School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70935cf2-f042-4aff-b49f-e2ff324d0a85",
+		"OrganizationName": "Pacific Northwest College of Art",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eae1d104-16f9-4c11-b3f6-5da0a9f340cf",
+		"OrganizationName": "Pacific University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "284473f7-9bdb-df11-bd73-0030487d8897",
+		"OrganizationName": "Pauling Academy of Integrated Sciences",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe80c759-5f7a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Philomath School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "049b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Phoenix - Talent School District #4",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbd05550-2129-de11-a497-0030485a8df0",
+		"OrganizationName": "Pioneer Pacific College - Wilsonville - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e2c85cf-d215-ea11-8125-000d3af41938",
+		"OrganizationName": "Pleasant Hill High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Portland Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d47486d6-139e-de11-886d-0030487d8897",
+		"OrganizationName": "Portland Jewish Academy",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Portland State University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74db6ebb-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Portland State University - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "557fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Prairie City School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d84c91c-7f84-e811-8108-000d3af41938",
+		"OrganizationName": "Redmond School District (Oregon)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fdaef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Redmond SD 2J",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5bc2f29-2d5f-4a4e-964d-64204d1abaf8",
+		"OrganizationName": "Reed College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Reedsport School District 105",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cd89b82-06d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Reynolds High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9b23556-0148-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Riverdale School District - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b892b3ba-1801-e211-bd05-f04da23e67f6",
+		"OrganizationName": "River's Edge Academy Charter School - Microsoft Imagine Standard",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e520670d-0f73-df11-bc53-0030487d8897",
+		"OrganizationName": "Rogue Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2fc4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rogue River School District #35",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1107fb7b-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Saint Mary's School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Salem Academy Christian Schools",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6301bea0-e857-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Salem-Keizer Public Schools",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "424ddd0e-9851-e011-bd14-0030487d8897",
+		"OrganizationName": "Sam Barlow High School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f50b3ce-567d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Santiam Christian Schools",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00907e77-45bc-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Seaside School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c97ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Silver Falls School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b406fb7b-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sisters School District #6",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bab5bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Southern Oregon Education Service District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Oregon University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78fb5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Southern Oregon University - Campus Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49fca898-cab9-de11-886d-0030487d8897",
+		"OrganizationName": "Southwest Charter School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e13f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwestern Oregon Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "daa8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Andrew Nativity School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Mary's School",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f250bdc2-c46f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "St. Matthew Catholic School (Oregon)",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a79a6e5-584d-df11-b56b-0030487d8897",
+		"OrganizationName": "Tigard-Tualatin School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03db9afd-bc29-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Tillamook Bay Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dec916cf-ec82-df11-bc53-0030487d8897",
+		"OrganizationName": "Treasure Valley Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Umatilla-Morrow Education Service District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e438f9dc-9957-df11-b841-0030487d8897",
+		"OrganizationName": "Umpqua Community College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Oregon",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cfd06a3-92ee-4cbb-98bc-078c09e39ca9",
+		"OrganizationName": "University of Portland - Departmental Store",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afb57589-be5e-e011-971f-0030487d8897",
+		"OrganizationName": "University of Western States",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Baptist College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f53b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Oregon State University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Oregon University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a125cf56-0b5a-432c-937f-a51d3367dd1f",
+		"OrganizationName": "Western Seminary",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d24bd67-a01e-4f72-bc82-2157bc8a6e31",
+		"OrganizationName": "Western States Chiropractic College",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Willamette Education Service District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41190fd5-734c-44ea-b6e1-1beb3eccfc0a",
+		"OrganizationName": "Willamette University",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Woodburn Academy of Art Science, Technology",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbb0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Woodburn School District",
+		"ProvinceCode": "OR",
+		"SubsectorCode": "education_k_12"
+	}
+]

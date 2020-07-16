@@ -1,0 +1,50 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "16d31bc7-d3a0-df11-ad57-0030487d8897",
+		"OrganizationName": "Aurora College",
+		"ProvinceCode": "NT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "85193bfd-048a-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "École St. Patrick High School",
+		"ProvinceCode": "NT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "81d602c1-5cda-e111-9c76-f04da23fc522",
+		"OrganizationName": "Government of Northwest Territories, Department of Education Culture and Employment",
+		"ProvinceCode": "NT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1e9c2a34-c2b1-4b40-afcd-59bb5311b00b",
+		"OrganizationName": "University of Tuktoyaktuk",
+		"ProvinceCode": "NT",
+		"SubsectorCode": "education_college_university"
+	}
+]

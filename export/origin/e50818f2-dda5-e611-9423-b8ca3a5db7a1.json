@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "bd9c14eb-b197-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Gold Coast Christian College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "12eb18f1-b197-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "Seventh Day Adventist Schools, South Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=12eb18f1-b197-e611-9422-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "e50818f2-dda5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Gold Coast Christian College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "922a42bc-16a8-e611-9423-b8ca3a5db7a1",
+		"WebStoreName": "Gold Coast Christian College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=922a42bc-16a8-e611-9423-b8ca3a5db7a1"
+	}
+]

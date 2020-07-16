@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "173b5adf-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Birmingham Southern College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b69643e6-9f8b-e011-969d-0030487d8897",
+		"WebStoreName": "Birmingham Southern College - Creative and Applied Computing",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b69643e6-9f8b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "10dd6d86-d9b8-4f74-9740-f13833cb9e16",
+		"OrganizationName": "Birmingham Southern College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "99731128-1560-e211-a88c-f04da23e67f4",
+		"WebStoreName": "Birmingham Southern College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=99731128-1560-e211-a88c-f04da23e67f4"
+	}
+]

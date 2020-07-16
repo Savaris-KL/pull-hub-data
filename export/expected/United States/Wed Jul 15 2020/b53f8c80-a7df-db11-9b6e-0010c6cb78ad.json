@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "f5505234-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Tecnológica Nacional - Departmental Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3ff32d8c-9c9b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad Tecnológica Nacional - Regional Tucumán - TUCUMAN",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3ff32d8c-9c9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "b53f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Tecnológica Nacional - Departmental Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d63370f6-0bd9-e211-9d05-f04da23e67f4",
+		"WebStoreName": "Universidad Tecnológica Nacional - Departmental Store",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d63370f6-0bd9-e211-9d05-f04da23e67f4"
+	}
+]

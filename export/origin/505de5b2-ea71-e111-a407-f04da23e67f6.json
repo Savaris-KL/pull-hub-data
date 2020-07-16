@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "7eba4ef1-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "ABC Adult School",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8acf8ef0-829b-e011-969d-0030487d8897",
+		"WebStoreName": "ABC Adult School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8acf8ef0-829b-e011-969d-0030487d8897"
+	}
+]

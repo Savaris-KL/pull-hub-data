@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PNG",
+		"InstitutionID": "19d11fb1-a235-de11-9d57-0030485a8df0",
+		"OrganizationName": "Divine Word University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PNG",
+		"InstitutionID": "bcc7d6ce-af4b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Pacific Adventist University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PNG",
+		"InstitutionID": "878c5855-76e9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "PNG University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PNG",
+		"InstitutionID": "09c09b6f-8b72-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "The University of Papua New Guinea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

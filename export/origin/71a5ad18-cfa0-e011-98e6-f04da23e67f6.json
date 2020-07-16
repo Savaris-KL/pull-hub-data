@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "71a5ad18-cfa0-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Inaburra School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://inaburra.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "db546038-cfa0-e011-98e6-f04da23e67f6",
+		"WebStoreName": "Inaburra School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=db546038-cfa0-e011-98e6-f04da23e67f6"
+	}
+]

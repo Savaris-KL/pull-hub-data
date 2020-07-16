@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "7e624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Australian Catholic University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://acu.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "8c6a5248-a43b-e111-a1f4-f04da23e67f6",
+		"WebStoreName": "Australian Catholic University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8c6a5248-a43b-e111-a1f4-f04da23e67f6"
+	}
+]

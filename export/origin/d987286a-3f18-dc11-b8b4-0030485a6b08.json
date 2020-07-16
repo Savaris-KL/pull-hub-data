@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "d987286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Bentley School",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b64e6e10-6c7f-e611-9421-b8ca3a5db7a1",
+		"WebStoreName": "Bentley School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b64e6e10-6c7f-e611-9421-b8ca3a5db7a1"
+	}
+]

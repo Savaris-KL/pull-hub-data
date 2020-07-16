@@ -1,0 +1,58 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "6231fecd-878c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "ICT Academy (Mauritius)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "1e31b441-6533-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Mauritius Institute of Training and Development",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "c60c8333-01e5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Open University of Mauritius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "4d1bb3e7-878c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Rushmore Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "3ef07a4e-a8e7-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Universite Des Mascareignes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "21d603cc-d09a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Mauritius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MUS",
+		"InstitutionID": "f1dbc3ac-e402-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "University of Technology, Mauritius",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

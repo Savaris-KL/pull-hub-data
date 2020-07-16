@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "a563e0c1-6b28-de11-a497-0030485a8df0",
+		"OrganizationName": "Tuskegee University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b063e0c1-6b28-de11-a497-0030485a8df0",
+		"WebStoreName": "Tuskegee University - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b063e0c1-6b28-de11-a497-0030485a8df0"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "dd3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tuskegee University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e6e07d5c-33f2-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "Tuskegee University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e6e07d5c-33f2-e311-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "1cc718e9-0082-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Tuskegee University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "28c718e9-0082-e211-bf66-f04da23e67f4",
+		"WebStoreName": "Tuskegee University - Electrical Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=28c718e9-0082-e211-bf66-f04da23e67f4"
+	}
+]

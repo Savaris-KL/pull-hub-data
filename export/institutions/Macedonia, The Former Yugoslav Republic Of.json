@@ -1,0 +1,106 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "8d2e2e65-4a72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Faculty of Economics - Prilep",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "ff7642f3-4fa2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Faculty of Economics - Skopje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "cb0f2ccb-88bd-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "FON University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "30bb0e84-99bc-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Goce Delcev University of Stip",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "292430d1-976e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "International Vision University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "5b2ecda2-aa4f-e811-8103-000d3af41938",
+		"OrganizationName": "Medical Faculty of Ss. Cyril and Methodius University in Skopje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "52d54a1c-0647-e811-8103-000d3af41938",
+		"OrganizationName": "Saints Cyril and Methodius University of Skopje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "0a777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "SEE University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "0cbf9124-a639-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ss. Cyril and Methodius University in Skopje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "3c973d2e-1e76-e711-80f1-000d3af41938",
+		"OrganizationName": "St. Kliment Ohridski University - Bitola - Faculty of Information and Communication Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "28db29d2-9b82-e711-80f3-000d3af41938",
+		"OrganizationName": "State University of Tetova (Tetovo, Macedonia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "0d777c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University for Information Science Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MKD",
+		"InstitutionID": "bed37918-af8d-e711-80f4-000d3af41938",
+		"OrganizationName": "Univerzitet Donja Gorica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

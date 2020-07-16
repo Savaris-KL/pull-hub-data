@@ -1,0 +1,1354 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "2610a723-cf6b-e711-80f1-000d3af41938",
+		"OrganizationName": "Academia Sinica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "e14166dd-0176-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Aletheia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "45331789-10a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Asia University (亞洲大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "8265f4d1-21cf-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Cardinal Tien Junior College of Healthcare and Management (耕莘健康管理專科學校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f3f7b8b5-0ad9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Central Taiwan University of Science & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a34bdb5e-a494-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Chang Gung University (長庚大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "06ec78d4-d50d-e811-80fe-000d3af41938",
+		"OrganizationName": "Chang Gung University of Science and Technology (長庚科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "76894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chang Jung Christian University (長榮大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5ef21910-8a02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Chaoyang University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c945f40b-2695-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Cheng Shiu University  (正修科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "10e58f91-96d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Chien Hsin University of science and technology (健行科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "4acb565b-a749-e011-bd14-0030487d8897",
+		"OrganizationName": "Chihlee University of Technology (致理)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "de44746d-2e5c-e211-9922-f04da23fc522",
+		"OrganizationName": "China Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c2627377-544b-e011-bd14-0030487d8897",
+		"OrganizationName": "Chinese Culture University (中國文化大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "9a624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chung Hua University (中華大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "795a0fe2-9a5e-e811-8105-000d3af41938",
+		"OrganizationName": "Chung Hwa University of Medical Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5a69e470-1c4a-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Chung Shan Medical University (中山醫學大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "61695119-a6cf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Chung Yuan Christian University (中原大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "33654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Da Yeh University (大葉大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "06ab6ba6-9b22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Dharma Drum Institute of Liberal Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c4cee115-316c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Far East University (遠東科技大學）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "3515602c-2e0c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Feng Chia University (逢甲大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "8030ef49-af98-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fo Guang University (Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f706419a-981f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fu-Jen Catholic University (輔仁大學學校財團法人輔仁大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0dd33989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Future-Heir Bilingual Elementary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c45f86f4-e629-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Grace Christian Academy (Taipei, Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "46b1d9b2-66f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Haiching Vocational High School Of Technology And Commerce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "35fcf58f-c0cb-e811-810b-000d3af41938",
+		"OrganizationName": "Hsiuping University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c86665d2-a324-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Huafan University (Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5d3d8f45-62d8-e811-810b-000d3af41938",
+		"OrganizationName": "Huiwen Elementary School (臺中市南屯區惠文國民小學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7d4d5c90-7d02-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Hungkuang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "b82f782b-e399-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Hungkuang University (弘光科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "147c32d5-3856-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Institute of Astronomy and Astrophysics, Academia Sinica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "efd23989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "I-Shou International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "36bc7a7a-2dcb-df11-b4c3-0030487d8897",
+		"OrganizationName": "I-Shou University (義守大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "78992547-2d86-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kainan University (開南大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "9d6668e3-aaff-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Kang-Ning Junior College of Medical Care and Management - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "1e34332e-13e6-df11-bd73-0030487d8897",
+		"OrganizationName": "Kao Yuan University 高苑科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0bb877e5-56f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Kaohsiung Education Bureau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "dcb6bcf6-3471-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Kaohsiung Medical University (高雄醫學大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "2913f651-f74e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Kaohsiung Municipal Siaogang Junior High School  (高雄市立小港國民中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "13d33989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KIVAM Junior High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "157c6396-1238-e811-8103-000d3af41938",
+		"OrganizationName": "Kun Shan University (崑山科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "e2208ca6-985d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "LEE-MING Institute of Technology　（黎明技術學院）",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a05fc10c-4b4c-e711-80f0-000d3af41938",
+		"OrganizationName": "Ling Tung University (嶺東科技大学)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "391e2ef1-32ec-e811-810c-000d3af41938",
+		"OrganizationName": "Ling Tung University (嶺東科技大学) - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "79894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lunghwa University of Science and Technology (龍華科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "ec1b0c8a-6e3c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Lunghwa University of Science and Technology (龍華科技大學) - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "9c64a5c2-c071-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Mackay Medical College (馬偕醫學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "dd9d56d4-835a-e711-80f0-000d3af41938",
+		"OrganizationName": "Meiho University (美和科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "437b7801-b38f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ming Chi University Of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "1b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ming Chuan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "aa624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ming Hsin University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0d322e1a-afe3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Morrison Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5ce8c32a-cf8d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Nanhua University (南華大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a6bfe4c9-04ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "National Central University (國立中央大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c2e6a19d-fbc8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "National Changhua University of Education (國立彰化師範大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0221d5ae-e0cc-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "National Cheng Kung University (國立成功大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f4644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National ChengChi University (國立政治大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "ab644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Cheng-Kung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7f27ca05-8fde-e211-9000-f04da23fc520",
+		"OrganizationName": "National Chi Nan University (國立暨南國際大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f5644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Chiao Tung University (國立交通大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "3fc6b2ac-311c-e111-a703-f04da23e67f6",
+		"OrganizationName": "National Chiayi University (國立嘉義大學, Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "02370e4d-13e6-df11-bd73-0030487d8897",
+		"OrganizationName": "National Chin-Yi University of Technology 國立勤益科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "88894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Chung Cheng University (國立中正大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7dcf5968-a9c2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "National Chung Hsing University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "fbbc2190-287e-e911-8119-000d3af41938",
+		"OrganizationName": "National Chutung Senior High School (國立竹東高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5740582c-26f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "National Defense Medical Center (國防醫學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c75398dc-f64f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "National Defense University (國防大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "aa82365a-549d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "National Dong Hwa University (國立東華大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7f894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "National Formosa University (國立虎尾科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0df8464d-acee-e911-8122-000d3af41938",
+		"OrganizationName": "National Guanfu Senior Commercial and Industrial Vocational High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5c121961-8258-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "National HsinChu University of Education (國立新竹教育大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "1fec5564-abc7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "National Hualien Industrial Vocational Senior High School (國立花蓮高級工業職業學校 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "054dca02-5c3e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "National Ilan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "561cc42c-544b-e011-bd14-0030487d8897",
+		"OrganizationName": "National Kaohsiung First University of Science and Technology (高雄第一科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c5f1a54a-48ce-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "National Kaohsiung Marine University (國立高雄海洋科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "db2416b4-fcab-e111-9b64-f04da23e67f6",
+		"OrganizationName": "National Kaohsiung Normal University (國立高雄師範大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "917ec6a9-83c7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "National Kaohsiung University of Applied Science (國立高雄應用科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "b2339f9e-bb71-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "National Kaohsiung University of Hospitality and Tourism (國立高雄餐旅大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "2b884a91-45dc-e711-80fa-000d3af41938",
+		"OrganizationName": "National Kaohsiung University of Science and Technology (國立高雄科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "fbd23989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Lo-Tung Commercial Vocational Senior High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "14efeb88-404a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "National Penghu University (國立澎湖科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "01d33989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National SU-AO Marine & Fishery Senior Vocational School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a2cc83e1-049a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "National Sun Yat Sen University (國立中山大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "98d23989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Taichung Girls' Senior High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "eb7cacee-6d05-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "National Taichung University of Education (國立臺中教育大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "626cd125-0803-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "National Taichung University of Science and Technology (國立臺中科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "07d33989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Tainan School for the Hearing Impaired",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "2c081487-d539-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "National Taipei College of Business (Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0e24bc58-bd6d-df11-b841-0030487d8897",
+		"OrganizationName": "National Taipei University (國立臺北大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "d2123b18-affa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "National Taipei University of Business (國立臺北商業大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "3ed7560c-2ccb-df11-b4c3-0030487d8897",
+		"OrganizationName": "National Taipei University of Education (國立臺北教育大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0fdf9581-9682-e211-bf66-f04da23e67f4",
+		"OrganizationName": "National Taipei University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "33619b58-345a-e011-bd14-0030487d8897",
+		"OrganizationName": "National Taitung Senior High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "70fe4c24-3e4a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "National Taitung University (國立臺東大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "02a2627a-534b-e011-bd14-0030487d8897",
+		"OrganizationName": "National Taiwan Normal University (國立臺灣師範大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "8fb602cb-ed74-e011-969d-0030487d8897",
+		"OrganizationName": "National Taiwan Ocean University (國立臺灣海洋大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "647267b3-85ee-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "National Taiwan Sport University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "ac644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Taiwan University (臺灣大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "719f50a3-0b11-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "National Taiwan University of Arts (國立臺灣藝術大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "42d6034e-c971-e011-971f-0030487d8897",
+		"OrganizationName": "National Taiwan University of Science and Technology (國立臺灣科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "70335f4b-ca73-e711-80f1-000d3af41938",
+		"OrganizationName": "National Taiwan University of Science and Technology (國立臺灣科技大學) -  Department of Information Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "b6624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Tsing Hua University of Taiwan (國立清華大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "fa2008bb-6146-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "National United University (國立聯合大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "45d749dc-0dcc-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "National University of Kaohsiung (國立高雄大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c649674b-023b-e711-80ef-000d3af41938",
+		"OrganizationName": "National University of Tainan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "939d3e0b-2a18-e011-b71d-0030487d8897",
+		"OrganizationName": "National Yang Ming University (Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c7bcce04-f023-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "National Yang-Ming University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "26767ba8-f212-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Yunlin University of Science and Technology (國立雲林科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "39782947-345a-e911-8115-000d3af41938",
+		"OrganizationName": "Neng Ren Home Economic And Commercial Vocational High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "acae08f2-7026-ea11-8125-000d3af41938",
+		"OrganizationName": "New Taipei Municipal Fuhe Junior High School (新北市立福和國民中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "17b346b7-c37c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "New Taipei Municipal ShuangXi Elementary School (新北市雙溪國小)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "34a8bf4e-0fac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Oriental Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "cdbe8f11-75fa-e911-8122-000d3af41938",
+		"OrganizationName": "pei teh industrial and home economics vocational high school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "931f29ac-8780-e911-8119-000d3af41938",
+		"OrganizationName": "Pingtung DongGang Senior High School (屏東縣立東港高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f59ed30f-aec2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Providence University (靜宜大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "81558650-26f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "R.O.C Military Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "feef6e1c-7984-e811-8108-000d3af41938",
+		"OrganizationName": "Sacred Heart High School for Girls (新北市私立聖心女子高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "3c4973f6-61d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Shih Chien University ( 實踐大學 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "38559462-4ebb-e711-80f7-000d3af41938",
+		"OrganizationName": "Shih Hsin University - Taipei - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "d3ca2e3d-5fc0-ea11-812d-000d3af41938",
+		"OrganizationName": "Shu-Te University (樹德科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "2d07c65e-bf71-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Soochow University (東吳大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "32076ff9-333b-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Southern Taiwan University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "46c75390-ac9d-e911-811a-000d3af41938",
+		"OrganizationName": "Tainan National University of the Arts (台南藝術大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c66db46f-24f4-e911-8122-000d3af41938",
+		"OrganizationName": "Tainan University of Technology (台南應用科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "90a1b4ab-e244-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Taipei American School (台北美國學校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "24644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Taipei Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0508890d-da57-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Taipei Municipal Heping High School (台北市立和平高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "52c8af8c-27ab-ea11-812c-000d3af41938",
+		"OrganizationName": "Taipei Municipal Jianguo High School (臺北市立建國高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "71adb9d3-1cf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Taipei Municipal Jingxing Elementary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a644d06c-ea35-e911-8111-000d3af41938",
+		"OrganizationName": "Taipei Municipal Jingxing Junior High School (台北市立景興國民中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "16f8c733-32f4-e911-8122-000d3af41938",
+		"OrganizationName": "Taipei Municipal Nangang Vocational High School (臺北市立南港高工)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "638f3c3f-3e10-e911-810e-000d3af41938",
+		"OrganizationName": "Taipei Municipal Zhong-zheng Senior High School (臺北市立中正高級中學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7618a546-df76-e711-80f1-000d3af41938",
+		"OrganizationName": "Taipei National University of the Arts (國立臺北藝術大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5b94e3ce-2bcb-df11-b4c3-0030487d8897",
+		"OrganizationName": "Taiwan Laptop Program",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "4c97c741-e795-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Taiwan Theological College and Seminary (台灣神學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "75c6aaf0-524b-e011-bd14-0030487d8897",
+		"OrganizationName": "Tajen University - 大仁科技大學 (Taiwan)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "6674c3d0-6419-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Takming University of Science and Technology (德明財經科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "57617068-5724-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tamkang University (淡江大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "6055c30d-3e0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Tatung Institute Of Commerce And Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "78b54003-4f06-ea11-8124-000d3af41938",
+		"OrganizationName": "Tatung University (大同大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "19d33989-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The ChiaYi Private Tatung Commercial High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "613e701c-8958-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "The National Open University - Taiwan (國立空中大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "54639a08-486b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Toko University (稻江科技暨管理學院)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "10d10287-1be9-e911-8122-000d3af41938",
+		"OrganizationName": "Tung Fang Design Institute (東方設計大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "09ff99b9-0fcc-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Tunghai University (東海大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "0bb16bf1-f732-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Tungnan University (東南科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "a77a0434-bd63-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Tzu Chi University ( 慈濟大學 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c59cf4eb-8358-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Tzu Chi University of Science and Technology (慈濟科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "59ffd7f9-2b2e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "University of Taipei (臺北市立大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "3d03dc26-040b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Wenzao Ursuline University of Languages",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "9b0e07c0-e51f-e911-8110-000d3af41938",
+		"OrganizationName": "Yixue Elementary School (新北市泰山區義學國民小學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "e4b2f099-0676-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Yu Da University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "4eaf6feb-dad4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "YUAN ZE UNIVERSITY (元智大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "719dc2df-fb0d-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Yuan-Kuang Institute of Buddhist Studies (圓光佛學研究所)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "ceb76ba3-90f2-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Yuanpei University (元培醫事科技大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "752a022b-2ccb-df11-b4c3-0030487d8897",
+		"OrganizationName": "世新 Shin Hsin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "85894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "中國科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "c6fbbc8e-ba8a-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "亞洲大學 - 資訊發展處 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "7c894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "國立中興大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "b5485caa-a797-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "新北市私立聖心女子高級中學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "f53adb68-a743-e211-ad71-f04da23e67f6",
+		"OrganizationName": "明新科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "b7c1cc34-9f30-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "臺北市私立新民國民小學 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "33994db4-02d6-e811-810b-000d3af41938",
+		"OrganizationName": "臺北市立大安高級工業職業學校 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "82894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "萬能科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "5f450e6b-7c88-e011-969d-0030487d8897",
+		"OrganizationName": "輔仁大學 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "eb068499-09d9-e711-80fa-000d3af41938",
+		"OrganizationName": "醒吾科技大學",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TWN",
+		"InstitutionID": "52ac3ad5-37f1-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "高雄市立海青工商 - 左營區 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

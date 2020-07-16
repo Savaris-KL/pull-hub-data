@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "10804e1e-866d-df11-b841-0030487d8897",
+		"OrganizationName": "Brandman University",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "97e6a5e3-d63a-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Brandman University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=97e6a5e3-d63a-e511-940f-b8ca3a5db7a1"
+	}
+]

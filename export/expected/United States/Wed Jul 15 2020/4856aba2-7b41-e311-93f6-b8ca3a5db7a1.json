@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4856aba2-7b41-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "NSW Department of Education SO and Adobe",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5e35d9ba-7b41-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "NSW Students WebStore",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5e35d9ba-7b41-e311-93f6-b8ca3a5db7a1"
+	}
+]

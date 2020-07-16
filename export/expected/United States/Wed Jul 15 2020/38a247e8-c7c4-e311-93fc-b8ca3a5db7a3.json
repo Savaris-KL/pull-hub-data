@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "38a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Católica de Santa Fe",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "32b0d3cf-9dc4-e711-80f9-000d3af41938",
+		"WebStoreName": "Universidad Católica de Santa Fe",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=32b0d3cf-9dc4-e711-80f9-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "13164be0-9456-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Católica de Santa Fe",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "270d48e6-9456-e211-ad71-f04da23e67f6",
+		"WebStoreName": "Universidad Catolica de Santa Fe - Sistemas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=270d48e6-9456-e211-ad71-f04da23e67f6"
+	}
+]

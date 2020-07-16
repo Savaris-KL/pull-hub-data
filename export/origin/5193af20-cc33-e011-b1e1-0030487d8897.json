@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "5193af20-cc33-e011-b1e1-0030487d8897",
+		"OrganizationName": "Emmaus Christian College Inc",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "7e73403f-d0fb-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "Emmaus Christian College Inc",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7e73403f-d0fb-e311-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "295bc6cc-98be-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Emmaus Christian College Inc",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://aissa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "61a26612-99be-e011-bb5b-f04da23e67f6",
+		"WebStoreName": "Association of Independent Schools of South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=61a26612-99be-e011-bb5b-f04da23e67f6"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MMR",
+		"InstitutionID": "1124b143-6dce-e911-8120-000d3af41938",
+		"OrganizationName": "ALSA International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MMR",
+		"InstitutionID": "b7adf102-e3f5-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "University of Computer Studies, Yangon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MMR",
+		"InstitutionID": "437a6fd8-e47e-e811-8108-000d3af41938",
+		"OrganizationName": "Yangon Academy International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MMR",
+		"InstitutionID": "6a808a40-f4a2-e711-80f6-000d3af41938",
+		"OrganizationName": "Yezin Agricultural University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,426 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "a9d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale de Bech",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "8bd33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale de Betzdorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "afd33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale de Dippach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "36d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale de Mersch",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "9dd33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale De Petange",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "fcd33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Administration Communale De Tandel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "c5a47714-06f4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "AGEDOC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "d4d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Caritas Accueil et Solidarite ASBL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "91418245-9a84-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Centre de gestion informatique de l'education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "ee17c980-76d2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Centre de Recherche Public Henri Tudor (Germany)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "ca58a57e-0878-e111-a407-f04da23e67f6",
+		"OrganizationName": "CNFPC Ettelbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "82d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CNFPC Ettelbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "16d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Albert Elsen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "51d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Commune Bissen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "e7d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole De Erpeldange",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "f0d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole De Feulen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "57d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole De Grosbous",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "c7d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole de Kehlen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "4ad43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole De Septfontaines",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "bbd33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole De Steinfort",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "71d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole de Vichten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "0975bf6b-ff01-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Ecole européenne Luxembourg II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "dad33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Fondamentale Ettelbruck",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "a3d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Francaise de Luxembourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "3ed43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole J.P. Welter",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "64d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Primaire de Nommern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "91d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecole Privee Grandjean asbl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "c2fef79d-c86e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Ecole Privee Marie-Consolatrice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "44d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecoles Commune Bettendorf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "5ed43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecoles De La Commune De Tuntange",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "97d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "EPND Sainte Sophie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "23d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escole Fondamentale Elvange",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "7fd43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Forum pour l'emploi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "da275ebc-4411-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Haute Ecole de Namur-Liège-Luxembourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "6f503e23-9066-e011-971f-0030487d8897",
+		"OrganizationName": "International School of Luxembourg - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "76698144-27e9-e911-8122-000d3af41938",
+		"OrganizationName": "LUNEX University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "bb6b9fda-7336-e711-80ef-000d3af41938",
+		"OrganizationName": "Luxembourg Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "42b773af-5bb4-df11-ad57-0030487d8897",
+		"OrganizationName": "Luxembourg School of Finance",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "57531984-9dbb-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Lycée de Garçons d'Esch",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "e0d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lycee de Garcons Esch",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "77d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lycee Michel Rodange Luxembourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "b5d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lycee Robert-Schuman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "481afe1a-815a-e211-b607-f04da23e67f6",
+		"OrganizationName": "Lycee Technique de Bonnevoie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "53894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lycée Technique des Arts et Métiers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "c5e30264-ba1b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Lycée Technique d'Esch-sur-Alzette",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "f1f66358-ed52-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Lycée Technique pour Professions de Santé",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "c1d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ministere de L`Education Nationale-Education Diferenciee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "f6d33bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nordstad Lycee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "2ad43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Regional Schoul Uewer Sauer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "30d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Schoulsyndikat Heischent An Esch/Sauer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "02d43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Schoulzenter Reiler",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "fc220f47-4e28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Université du Luxembourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LUX",
+		"InstitutionID": "6ad43bcc-351a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zentralschoul Welleschten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

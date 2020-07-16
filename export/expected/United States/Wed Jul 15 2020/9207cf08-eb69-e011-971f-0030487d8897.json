@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "9207cf08-eb69-e011-971f-0030487d8897",
+		"OrganizationName": "Cochise County Community College District",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://cochise.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "302c692a-eb69-e011-971f-0030487d8897",
+		"WebStoreName": "Cochise County Community College District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=302c692a-eb69-e011-971f-0030487d8897"
+	}
+]

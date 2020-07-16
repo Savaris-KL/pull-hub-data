@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "7d56b9d9-39d9-e811-810b-000d3af41938",
+		"OrganizationName": "Gordon Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8d56b9d9-39d9-e811-810b-000d3af41938",
+		"WebStoreName": "Gordon Institute of Tafe - Computer Systems and Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8d56b9d9-39d9-e811-810b-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "ff67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gordon Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f77f3e7d-ee18-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Gordon Institute of TAFE",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f77f3e7d-ee18-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "67f846f8-f936-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Gordon Institute of TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "1cf946f8-f936-e611-941d-b8ca3a5db7a1",
+		"WebStoreName": "Gordon Institute of TAFE - Geelong City Campus",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=1cf946f8-f936-e611-941d-b8ca3a5db7a1"
+	}
+]

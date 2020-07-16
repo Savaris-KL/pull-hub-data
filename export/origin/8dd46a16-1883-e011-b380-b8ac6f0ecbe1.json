@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "8dd46a16-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Asociación ORT Argentina (SUB)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "dfa78a96-6d9b-e011-969d-0030487d8897",
+		"WebStoreName": "Asociacion ORT Argentina",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=dfa78a96-6d9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "23fc5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Asociación ORT Argentina (SUB)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "7a8a8c5f-826f-e011-971f-0030487d8897",
+		"WebStoreName": "Asociación ORT Argentina",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7a8a8c5f-826f-e011-971f-0030487d8897"
+	}
+]

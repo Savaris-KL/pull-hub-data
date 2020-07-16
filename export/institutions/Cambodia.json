@@ -1,0 +1,42 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KHM",
+		"InstitutionID": "dd5db398-63cb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Asia Euro University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KHM",
+		"InstitutionID": "70f64eba-4fae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Universitaria Uninpahu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KHM",
+		"InstitutionID": "95fa096d-66c0-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Institución Universitaria Antonio Jose Camacho",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KHM",
+		"InstitutionID": "aa4d00fa-af1b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "International University (Phnom Penh)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KHM",
+		"InstitutionID": "aa936530-96a0-df11-ad57-0030487d8897",
+		"OrganizationName": "Royal University of Phnom Penh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

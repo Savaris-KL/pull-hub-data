@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "92c3a6f9-cf31-e811-8101-000d3af41938",
+		"OrganizationName": "Coolum Beach Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4dbfce05-d031-e811-8101-000d3af41938",
+		"WebStoreName": "Coolum Beach Christian College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4dbfce05-d031-e811-8101-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d7c071b9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Coolum Beach Christian College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c2a0289c-8f0b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Independent Schools Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c2a0289c-8f0b-e411-9401-b8ca3a5db7a1"
+	}
+]

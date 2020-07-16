@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d7c071b9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Caloundra City Private School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c2a0289c-8f0b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Independent Schools Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c2a0289c-8f0b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f3d99ee9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Caloundra City Private School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "edee068b-53cc-e511-9414-b8ca3a5db7a1",
+		"WebStoreName": "Caloundra City Private School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=edee068b-53cc-e511-9414-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c1bd84e4-41b9-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Caloundra City Private School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d6e5fd96-48b9-e111-ad8d-f04da23e67f6",
+		"WebStoreName": "Elementary and High School Teacher Discounts on Microsoft Office and Windows",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d6e5fd96-48b9-e111-ad8d-f04da23e67f6"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KGZ",
+		"InstitutionID": "adbed0de-edea-e811-810c-000d3af41938",
+		"OrganizationName": "Kyrgyz State Technical University (Iskhak Razzakov atyndagy Kyrgyz Mamlekettik Tekhnikalyk Universiteti)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KGZ",
+		"InstitutionID": "52fadac5-ea40-e911-8113-000d3af41938",
+		"OrganizationName": "Silk Road International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KGZ",
+		"InstitutionID": "1ff1e7b3-341a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Uchrezhdeniye Hope Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

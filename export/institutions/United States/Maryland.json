@@ -1,0 +1,3186 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "575de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy of Computer Education",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffb7cac7-c437-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Academy of Computer Education - Greenbelt Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "deb2bb5b-d0d2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Academy of the Holy Cross",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8dcd3a89-2f41-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Alim Academy (Muslim Community School)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba169e6f-f20e-4389-97f5-3abfa7cf3cc4",
+		"OrganizationName": "Allegany College of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5465b05a-4841-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Allegany County Board of Education",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8311672-4c41-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Allegany County Library System",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34da53f9-5455-e011-bd14-0030487d8897",
+		"OrganizationName": "Allegany County Public School System",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "674f5f0e-9a9e-4a06-8272-e9c1986fc402",
+		"OrganizationName": "Anne Arundel Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec563515-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Anne Arundel Community College - Arnold - Microsoft Imagine Standard",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d94ab0e-dfe8-de11-a13b-0030487d8897",
+		"OrganizationName": "Anne Arundel County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d351acf8-c841-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Anne Arundel Public Library",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Anne Arundle Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b9a6b84-ce41-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Borders School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d02d3ad-d141-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Curley High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13a291f4-a542-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Neale School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c41e6168-af42-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Spalding High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aac87e4f-4f6e-df11-b841-0030487d8897",
+		"OrganizationName": "Archdiocese of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fefd4632-b642-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Archdiocese of Washington",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c82b596-b742-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Arlington Baptist School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cba723c-c342-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Arundel Christian School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa2fd764-8b1d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Bais Yaakov School For Girls - Md",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baltimore City Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf344232-ef88-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Baltimore City Public School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb63e769-af33-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Baltimore County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baltimore Hebrew University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baltimore International College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1586bbf7-d1ff-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Baltimore Lab School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18d0d29a-cb98-de11-8cd1-0030487d8897",
+		"OrganizationName": "Baltimore Polytechnic Institute",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Baltimore School for the Arts",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "113f2652-dd86-e011-969d-0030487d8897",
+		"OrganizationName": "Beth Tfiloh Dahan Community School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2cce1f5-4056-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bishop McNamara High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f68c6563-4156-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bishop Walsh School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04cde1f5-4056-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bnos Yisroel of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bowie State University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brescook, LLC Dale Carnegie Training",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb8bf838-b79f-e711-80f6-000d3af41938",
+		"OrganizationName": "Brightwood College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Broadcasting Institute of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5326069-4156-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bryn Mawr School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6307b8d6-6c79-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Bullis School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6750a84b-0807-e011-bed1-0030487d8897",
+		"OrganizationName": "Bullis School (Potomac, MD) - High School AA",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02336069-4156-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bullis School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26cde1f5-4056-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Butler Montessori",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c917b01-99e3-df11-bd73-0030487d8897",
+		"OrganizationName": "Cabin John Middle School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3ba9dab-4864-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Calvert County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16b07cfe-1311-46b3-9279-d80e75738d91",
+		"OrganizationName": "Calvert Hall College High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c53f1d6-6e1f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Calvert School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Capitol College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bba9ea75-4d05-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Capitol Technology University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "409b407b-a432-de11-9d57-0030485a8df0",
+		"OrganizationName": "Capitol Technology University - Maryland Campus",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e336069-4156-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Cardinal Hickey Academy, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54862409-4645-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Cardinal Shehan School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37336069-4156-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Caroline County Public Schools, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carroll Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02482e7c-b30e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Carroll Community College - Westminster - Campus Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60cde1f5-4056-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Carroll County Public Library",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b53d670-c7f9-45c2-8a67-d7f5cce5fd03",
+		"OrganizationName": "Carroll County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a02f751-2ecd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Carver Center - Microsoft Imagine Standard",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34e36246-e86f-df11-b841-0030487d8897",
+		"OrganizationName": "Catonsville Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CCBC Essex",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cecil College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "033f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cecil Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "410ac348-85e7-df11-bd73-0030487d8897",
+		"OrganizationName": "Cecil County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2024f0f9-3b09-e011-bed1-0030487d8897",
+		"OrganizationName": "Charles County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "699cfdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Charles E. Smith Jewish Day School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chesapeake College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a564af27-237d-e711-80f3-000d3af41938",
+		"OrganizationName": "Clarksburg High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Colgate Elementary School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Southern Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9900049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Columbia Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbia Union College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "433c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Community College of Baltimore County",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ComputerTraining.edu",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb441dbe-1145-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Concord Hill School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "922039f4-9a72-e011-971f-0030487d8897",
+		"OrganizationName": "Connections Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff43e570-e21a-de11-9c12-0030485a8df0",
+		"OrganizationName": "Connelly School of the Holy Child",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5919e4db-f10c-e811-80fe-000d3af41938",
+		"OrganizationName": "Conowingo - Rising Sun Christian School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coppin State College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coppin State University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "859cfdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Crest Lane SDA School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c99cfdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Cristo Rey Jesuit HS, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4264f65b-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Defense Cyber Investigations Training Academy - Campus",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef210868-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Defense Information School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be7e1774-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Defense Security Service Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "831adea0-c145-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Don Bosco Cristo Rey High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8893ec96-008c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Dorchester County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09f4ca55-8faf-49a0-98d5-f918ba30b69c",
+		"OrganizationName": "Eastern Shore Regional Library",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1f71d02-32e8-df11-bd73-0030487d8897",
+		"OrganizationName": "Education Affiliates",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "183fd85d-c945-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Elizabeth Seton High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac5ca7eb-6195-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Enoch Pratt Free Library",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fcb367c-0266-440b-9419-190b6e5b8121",
+		"OrganizationName": "Everest Institute - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "FAES Graduate School at the National Institute of Health (NIH)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae5dbfb0-d950-e911-8113-000d3af41938",
+		"OrganizationName": "Faith Theological Seminary",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c49dfdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Father Andrew White SJ School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd0d73d6-6fe1-4c71-86dc-65f8e8300924",
+		"OrganizationName": "Frederick Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e1cdbdb-971b-4efe-8623-26771e2f5cd1",
+		"OrganizationName": "Frederick County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20e386fa-e134-e711-80ef-000d3af41938",
+		"OrganizationName": "Frederick County Public Schools, Career and Tech Center - Cisco Acad",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25282d17-d745-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "French International School (Lycee Rochambeau)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1eb13551-b0ae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Friends School of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Frostburg State University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e89ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Garrett Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6caa1525-e045-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Garrett County Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e41201f-fdd2-4a48-bfe5-d951a1315807",
+		"OrganizationName": "Garrison Forest School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d06660fe-49be-de11-886d-0030487d8897",
+		"OrganizationName": "German School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "653da6a8-7db7-405a-96ab-0ace01a6d3ca",
+		"OrganizationName": "Gerstell Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a69522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Glenelg Country School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "984bbd92-e045-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Good Shepherd School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Goucher College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e89dfdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Grace Academy, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "110e59ce-7236-e711-80ef-000d3af41938",
+		"OrganizationName": "Grace Christian Academy of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b961b265-bd47-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Greater Baltimore Medical Center",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe0097a2-e145-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Green Acres School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hagerstown Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "149efdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Harford Christian School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Harford Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b3bae13-985d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Harford Community College, VMAP Campus",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38c62eb0-529f-456e-a4fd-e704b1a6e79d",
+		"OrganizationName": "Harford County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e860903e-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Harford Technical High School - Cyber Security - Departmental Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Health Career Institute",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b9ffdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Highland View Academy, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95de5280-ea01-de11-bf04-0030485a8df0",
+		"OrganizationName": "Holton-Arms",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a9ffdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Holy Cross School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "844f0beb-e145-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Holy Family Catholic School - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53bd5f3f-e245-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Holy Redeemer School - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hood College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Howard Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "634e57b4-c2f8-418f-8d93-3f3eac7a1314",
+		"OrganizationName": "Howard County Public School System",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1ff5b72-4171-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Howard Hughes Medical Institute",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6dae11e-dd9e-de11-886d-0030487d8897",
+		"OrganizationName": "ICDL Graduate School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89a0fdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Immaculate Conception School (Elkton)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe440a70-e245-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Immaculate Conception School (Towson)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c967e7fa-e245-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Immaculate Heart of Mary - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59ca20a8-1174-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Inactive - Garrett College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "180a6764-e445-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Indian Creek School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2a965b9-1305-de11-bf04-0030485a8df0",
+		"OrganizationName": "Institute of Notre Dame",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87a2fdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Israel Henry Beren High School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ca4fdf4-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Jemicy School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbd5489a-e445-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "John Paul Regional Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e582f4e9-e545-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins Applied Physics Laboratory",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88cac52e-e845-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins Hospital",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f900f6fa-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins Medical Campus",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f01f6fa-4d73-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins Public Health and Nursing",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5b4034e-6647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins School of Medicine",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Johns Hopkins University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34154590-2de5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins University - Krieger School of Arts & Sciences",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ea01ec6-26e5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Johns Hopkins University - School of Arts & Sciences",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Johns Hopkins University Bloomberg School of Public Health",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Johns Hopkins University*",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1f4b379-ff7d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kent County High School - Microsoft Imagine Standard",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a5b6c72-6647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Kent County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c6f474f-f83e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kernan Hospital - University of Maryland Medical System",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbbb7ee0-6747-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Krieger Schechter Day School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8745fa4d-5e0a-de11-9c12-0030485a8df0",
+		"OrganizationName": "Landon School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfe528d0-053d-e911-8111-000d3af41938",
+		"OrganizationName": "Leonard Hall Junior Naval Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f0d6665-34ee-e111-a77d-f04da23e67f6",
+		"OrganizationName": "LifeBridge Health",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ee8002f-6847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Little Flower School (Bethesda)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51536e53-6847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Little Flower School (Great Mills)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cdb49c7-8fc5-df11-859b-0030487d8897",
+		"OrganizationName": "Loyola Blakefield High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Loyola College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c55e7fc7-1a17-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Loyola University Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "333c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maple Springs Baptist Bible College and Seminary",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d72e6de-6847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Maryland Association of Community Colleges",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d60c523-5e47-41b0-8b32-81a4d879d310",
+		"OrganizationName": "Maryland Enterprise Education Consortium",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33104e76-7447-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Maryland Higher Education Commission",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2eab115-6947-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Maryland Independent College & University Association",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "044ed6e9-7dfc-de11-85a5-0030487d8897",
+		"OrganizationName": "Maryland Institute College of Art",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c9d6737-0522-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Maryland School for the Deaf",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "446954dc-0170-df11-b841-0030487d8897",
+		"OrganizationName": "Maryland Seminary",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c094873-c995-e011-969d-0030487d8897",
+		"OrganizationName": "Maryland State Department of Education",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maryland Technical Schools - TESST College of Technology",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08a5ec1e-21de-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Maryland University of Integrative Health",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c1c8670-6a47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Maryvale Prep School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aac487f4-6b47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Mater Dei School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "McDaniel College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "962ef956-0fb8-dd11-b00d-0030485a6b08",
+		"OrganizationName": "McDonogh School, Inc. -MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12c7189d-6c47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "McLean School of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68dba90f-a55c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Melvin J. Berman Hebrew Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93daa4ec-fc86-e011-969d-0030487d8897",
+		"OrganizationName": "Mercy High School - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b3bf6df-7547-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Monsignor Slade Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d43c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Montgomery College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "341b5774-0d56-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Montgomery College - Campus Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01708d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Montgomery County Library",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc0c2888-9db3-4f53-9bbf-bb61d8dbbf50",
+		"OrganizationName": "Montgomery County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fb1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Montgomery County Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Morgan State University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84d7852f-7647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Mother Catherine Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07d293d9-dc1c-e011-b71d-0030487d8897",
+		"OrganizationName": "Mother of God School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "612aed65-7647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Mount Calvary Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "616dd5ba-7647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Mount de Sales Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Saint Mary's College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ce2a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Mount St Mary's University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4273503f-bcbc-dd11-b00d-0030485a6b08",
+		"OrganizationName": "Mount St. Joseph High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5051053-7e13-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Mount St. Mary's University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1311019-ac22-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Foreign Language Center at the University of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "166e9289-e0ff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "National Institute of Diabetes and Digestive and Kidney Diseases",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "New Hope Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1ba5242-d222-e211-a76f-f04da23e67f6",
+		"OrganizationName": "NIH Clinical Center",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5adb147f-8d25-e011-b71d-0030487d8897",
+		"OrganizationName": "Norbel School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af497b8f-7847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Norwood School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1e1e1e9-438b-de11-8cd1-0030487d8897",
+		"OrganizationName": "Notre Dame of Maryland University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4829dbd8-7a91-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Notre Dame Preparatory School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb648f82-0e86-e011-969d-0030487d8897",
+		"OrganizationName": "Oakland Mills High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27922db2-140b-42ea-8fbb-fddb57d47fd3",
+		"OrganizationName": "Oldfields School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4ab4569-a9fe-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Our Lady of Good Counsel -MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc54a9f1-7847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady of Hope / St. Luke School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d9e92cc-7847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady of Mercy School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d04a0e9-9025-e011-b71d-0030487d8897",
+		"OrganizationName": "Our Lady of Mount Carmel",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a575848-a147-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady of Perpetual Help School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e83396b6-a147-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady of Victory School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1afb422-6680-df11-bc53-0030487d8897",
+		"OrganizationName": "Park School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68220c72-ef94-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Poolesville High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db222bec-a247-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Primary Day School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2f55ed6-b94c-47be-92ab-a2ed6a6f27c1",
+		"OrganizationName": "Prince George County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47c2524c-8b78-48ed-a773-40d6a9e7f6fb",
+		"OrganizationName": "Prince George's Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79cd1ae2-3797-41d0-ac2c-55d359165589",
+		"OrganizationName": "Prince George's County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60d50ba6-9abf-439f-b568-0ba638464bc7",
+		"OrganizationName": "Queen Anne's County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0f704a1-7447-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Queen of Peace/St. James and John School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a57c4c7-4448-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Resurrection - St. Paul School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b2cfc10-4548-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Roland Park Country School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec186a47-4648-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Sacred Heart School of Glyndon",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d84b69c-4648-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Saint Francis International School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c72ead9-4648-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Saint James School - MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "606aee99-5ff2-df11-9c87-0030487d8897",
+		"OrganizationName": "Saint John's Prep",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67d6fd76-9c47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Saint Stephen School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2708b176-139e-de11-886d-0030487d8897",
+		"OrganizationName": "Saint Vincent Pallotti High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Salisbury State University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Salisbury University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de02af81-548c-e811-8108-000d3af41938",
+		"OrganizationName": "Salisbury University - Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4527464d-237d-e711-80f3-000d3af41938",
+		"OrganizationName": "San Luis Obispo High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df801a0b-4748-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Sandy Spring Friends School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4985728-304e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "SANS Institute",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf9381a5-dafa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Seed School of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3def1b4e-4748-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Seton Keough High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sherwood High School - Sandy Spring - Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a95297cd-4748-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Sisters Academy of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "009a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Smith School of Business",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1df28804-4848-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Somerset County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "861094d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Southern Maryland Higher Education Center",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c21094d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Sovereign Grace School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a8566ce-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "Space Telescope Science Institute - Operations and Engineering - Departmental Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e01094d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Spencerville Adventist Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8b24d63-1e0c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Springbrook High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b68d286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "St Philip Neri School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa1094d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Agnes Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ffc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Anne's School of Annapolis",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "141194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Augustine School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f6accb3-2f56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Bernadette School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e1194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Casimir Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "541194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Clement Mary Hofbaur School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "711194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Elizabeth School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a1194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Francis de Sales Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a41194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Francis of Assisi School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe1194d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Ignatius Loyola Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "251294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Jane de Chantal School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d1294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Jane Frances School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d1294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Jerome School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "761294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Joan of Arc School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "921294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John Regional Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab1294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John School (Westminster)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c61294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John the Baptist School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e51294d4-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John the Evangelist School (Hydes)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ffa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John the Evangelist School (Severna Park)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37fa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John the Evangelist School (Silver Spring)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "343a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. John's College, Annapolis",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ffa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. John's School (Hollywood)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67fa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Joseph Regional Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ffa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Joseph School, Cockeysville",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9afa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Joseph School, Fullerton",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2fa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Jude Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "736accb3-2f56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Louis School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cefa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Margaret School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8fa95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Maria Goretti High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c6accb3-2f56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mark School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Martin of Tours School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Martin's in-the-Field Day School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bfb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Martin's Lutheran School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary Catholic School (Hagerstown)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary of the Mills School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dadd104-ca24-e011-b71d-0030487d8897",
+		"OrganizationName": "St. Mary's College of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fcc42e4-e0ce-4b38-91d8-71b7547392ad",
+		"OrganizationName": "St. Mary's County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7172aee2-d571-e011-971f-0030487d8897",
+		"OrganizationName": "St. Mary's Parish Annapolis",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51935e64-940a-de11-9c12-0030485a8df0",
+		"OrganizationName": "St. Mary's Ryken High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's School (Bryantown)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cafb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's School (Landover Hills)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2fb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's School (Rockville)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fafb95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's School of Piscataway",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31a3e9af-be1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Mary's Seminary & University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "443a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Mary's University of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63419465-50e6-4585-8c17-3eb4ad857e91",
+		"OrganizationName": "St. Michael's School - Ridge",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24fc95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Patrick Catholic School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41fc95da-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "St. Paul's School for Boys",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a738604e-3228-de11-a497-0030485a8df0",
+		"OrganizationName": "St. Paul's School for Girls",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3345b5d2-a047-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Peter's Catholic School (Olney)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1c89557-a047-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Peter's School (Waldorf)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1909ecd4-9d47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Philip the Apostle School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ffa998b-9d47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Pius X Regional School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40640298-9847-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St. Ursula School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5376f129-9d47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St.Pius X School, Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d17d36e0-9c47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St.Raphael's School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "660e54fb-9b47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St.Thomas Aquinas School, Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "605901b0-9b47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "St.Timothy's School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f16d610b-d84b-df11-b56b-0030487d8897",
+		"OrganizationName": "Stevenson University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e0ae8a6-573a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Stone Ridge School of the Sacred Heart",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d33ccc93-598a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "StraighterLine",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6598ee0-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Takoma Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d53a26a-9019-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Talbot County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cf8d042-39ba-dd11-b00d-0030485a6b08",
+		"OrganizationName": "Talmudical Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8774124d-bf05-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "TESST College of Technology, Towson Campus",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5538733d-8e5f-e011-971f-0030487d8897",
+		"OrganizationName": "The Barnesville School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "005a8ee0-2e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "The Barrie School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6dee6368-638e-44a1-a0e9-f6f72efa0866",
+		"OrganizationName": "The Boys' Latin School of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87709ebf-6d0a-de11-9c12-0030485a8df0",
+		"OrganizationName": "The Catholic High School of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c27bd51-c555-e211-ad71-f04da23e67f6",
+		"OrganizationName": "The Center for Cancer Research (CCR) (National Cancer Institute (NCI))",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fce2bc1-2494-df11-ad8b-0030487d8897",
+		"OrganizationName": "The Community College of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d4bbb72-e6a1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "The Community College of Baltimore County",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "647d9b47-3df1-4e37-9c02-4c44ef69e494",
+		"OrganizationName": "The Country School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63192045-9747-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The GreenMount School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d073a26-3fe4-de11-a13b-0030487d8897",
+		"OrganizationName": "The Key School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0449eeb-6647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The King's Christian Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3e11e97-9842-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Lamb of God School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1175b86d-9547-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Maryland School for the Blind",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adbb3189-9247-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Odyssey School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3011415-a247-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Park School of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dd75846-9247-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Salisbury School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The SANS Institute",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bac5d370-7e19-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "The School of the Cathedral of Mary Our Queen",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45e913b0-8f47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Torah School of Greater Washington",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The Uniformed Services University of the Health Sciences",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd3941f5-a7fe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "The University of Maryland Center for Environmental Science",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5d461f7-9147-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Washington New Church School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5adfdf5-227d-e711-80f3-000d3af41938",
+		"OrganizationName": "Thomas Edison High School of Technology",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0def15a-9047-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Torah Institute of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Towson University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc6d475e-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Trinity Lutheran School (Joppa, MD) - High School AA",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a64d9659-8f47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Trinity School, MD",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb8688e0-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "UMBC Training Centers - Information Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e83a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "United States Naval Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a61508fd-c0f1-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "United States Naval Test Pilot School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f93a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "413b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maryland",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Maryland - College Park",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maryland Eastern Shore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c2fc849-1a59-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "University of Maryland Eastern Shore - Store",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a62413c5-7c9a-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of Maryland Medical Center",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Maryland School of Law",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d226c78d-7336-4208-b0be-b04411a919c8",
+		"OrganizationName": "University of Maryland University College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "441148a6-8e47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University of Maryland, Baltimore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "403b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maryland, Baltimore County",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "417a1a7f-a559-e111-8056-f04da23e67f6",
+		"OrganizationName": "University of Maryland, College Park - Division of Information Technology",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52799318-8287-e711-80f3-000d3af41938",
+		"OrganizationName": "University of Maryland, Eastern Shore",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8ab601b-8b47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University of Maryland, School of Medicine",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Villa Julie College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53fcbcd9-f116-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Walkersville High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a862ba28-cf59-e211-b607-f04da23e67f6",
+		"OrganizationName": "Washington Adventist University",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d23b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington Bible College/Capital Bible Seminary",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d53b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Washington College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94ad49ec-6a57-49bc-b028-de8ce9a93c1d",
+		"OrganizationName": "Washington County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba4cc041-7a47-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Washington Episcopal School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cca98c7-7947-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "West Nottingham Academy",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f23b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Maryland College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b33eb03d-dc83-e111-981b-f04da23e67f6",
+		"OrganizationName": "Wicomico Board of Education - Microsoft Imagine Standard",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b970b886-6612-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Wicomico County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84eafc86-834b-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Wilde Lake High School",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6988c1a-5214-e911-8110-000d3af41938",
+		"OrganizationName": "Within U (Non-profit)",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c955a386-dda1-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Women's Institute of Torah Seminary",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df0d67c1-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Worcester Career and Technology Centre - Microsoft Imagine",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Worcester County Public Schools",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43bc107e-66b9-4294-ad55-f816be679868",
+		"OrganizationName": "Wor-Wic Community College",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10d94272-7947-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Yeshiva of Greater Washington",
+		"ProvinceCode": "MD",
+		"SubsectorCode": "education_k_12"
+	}
+]

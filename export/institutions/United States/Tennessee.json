@@ -1,0 +1,2402 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Baptist College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3650d06a-a8d4-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Anderson County Schools (Clinton, TN)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bce1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Anthem Career College - Memphis",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Antioch H S",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Austin Peay State University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fa0a18e-cc98-de11-8cd1-0030487d8897",
+		"OrganizationName": "Baptist College of Health Sciences",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c021a81-51be-e211-be21-f04da23e67f4",
+		"OrganizationName": "Bartlett High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Battle Ground Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fbb55b2-e9be-4fad-9f7e-985e69dde112",
+		"OrganizationName": "Battle Ground Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Baxter Alt School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Baxter Alternative Learning Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "848cf865-92c0-4de9-8c80-d4f22b1486b2",
+		"OrganizationName": "Baylor School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b153155-cfa7-4df4-8ce9-3a733cf95d3e",
+		"OrganizationName": "Bedford County (TN)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Belmont University - KVC",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5612688e-decb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Bethel University (TN)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Big Picture H S",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41fcfed6-247d-e711-80f3-000d3af41938",
+		"OrganizationName": "Blackman High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c74c64d8-529f-454f-89e0-f4b24ab03055",
+		"OrganizationName": "Bledsoe County School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37500952-30ca-41a2-9c06-5ef658b65b37",
+		"OrganizationName": "Boyd-Buchanan School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "802a44ff-5c5c-47d2-98f0-4a58c98e0c5b",
+		"OrganizationName": "Brentwood Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8af8f6c9-358c-4922-a049-5e53a1e26e64",
+		"OrganizationName": "Briarcrest Christian Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bryan College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cameron Middle S",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cannon County School District",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carson-Newman College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chattanooga Christian School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99bd398e-dd03-4311-b822-d1fb4634f831",
+		"OrganizationName": "Chattanooga Christian School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aded5831-1b31-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Chattanooga College Medical Dental and Technical Careers - Campus Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Chattanooga College Medical Dental Technical Careers",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "433d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chattanooga State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8788286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Christian Brothers High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Christian Brothers University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf53df44-8ec9-de11-baeb-0030487d8896",
+		"OrganizationName": "Claiborne County Board of Education CHS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Clarksville Montgomery Co School System",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "094ea05c-e390-e811-8108-000d3af41938",
+		"OrganizationName": "Clayton-Bradley Academy (Maryville, Tennessee)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffb0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cleveland City Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cleveland State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0538c938-06dc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Collierville Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbia State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Crichton College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Croft Design Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4718a39d-36b4-4133-a939-3fe02bb4686c",
+		"OrganizationName": "Crossroads Christian Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cumberland University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3bbc586-8bcc-44bd-a8e9-5f6dc859c76e",
+		"OrganizationName": "Currey Ingram Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4de04c3a-b214-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Daniel 1 Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "David Lipscomb HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "David Lipscomb University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9226fed-1508-de11-9c12-0030485a8df0",
+		"OrganizationName": "Davidson Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9861380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Daymar College - Murfreesboro Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b61380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Daymar College - Nashville - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc282ccd-e620-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Daymar Institute",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9c4558d-470c-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Dekalb County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af6eeef9-297d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Dobyns-Bennett High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f93ad8b-26ac-4e9d-9fa4-4ddd5aa0cafc",
+		"OrganizationName": "Dominican Campus - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dyersburg State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b05be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dyerssburg State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bec2ddc5-7503-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "East Nashville Magnet High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "East Tennessee State University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67879b1b-9de8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "edX - Massachusetts Institute of Technology",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f49efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Emmanuel Christian Seminary",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54e335be-46aa-403e-b751-5800fba70b20",
+		"OrganizationName": "Ensworth School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52efe62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Evangelical Christian School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ezell-Harding Christian",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df75ebeb-807e-4926-9976-90d67f822efa",
+		"OrganizationName": "Fayetteville City Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fisk University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fountainhead College of Technology",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Franklin Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fc1dffc-902f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Franklin Christian Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Franklin Road Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4d3891b-9541-4aaa-9d71-e1281522a8fc",
+		"OrganizationName": "Franklin Road Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Free Will Baptist Bible College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2127b8ad-62e2-e111-9231-f04da23fc522",
+		"OrganizationName": "Freed-Hardeman University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43f9f1a0-3e56-df11-b841-0030487d8897",
+		"OrganizationName": "Freed-Hardeman University - Information Technology",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Freed-Hardeman University*",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "979522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "G.GC Center For Technology",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58f058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Genesis Career College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f50d251e-4bbc-47e6-afce-842c254bb10e",
+		"OrganizationName": "Girl's Preparatory School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ce0aba3-c954-46ff-bc3c-9d43f9f61b77",
+		"OrganizationName": "Grace Baptist Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fafb2741-4c04-47cf-8d51-ca70d31c4e9e",
+		"OrganizationName": "Grace-St. Luke's Episcopal School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e680ed8-d30b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Greene County Board of Education - Greeneville - Campus Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8d2eeaf-4da9-df11-ad57-0030487d8897",
+		"OrganizationName": "Greene County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f50547bb-0511-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Hamilton County Dept of Education",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fadcc14-7703-4fc0-b2ea-34a3953c81c8",
+		"OrganizationName": "Harding Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harpeth Hall School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bfdad7b-45bd-4aa6-96b3-1b4b02fcef92",
+		"OrganizationName": "Harpeth Hall School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af112b17-d6f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "HCA Graduate Medical Education",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc17d1d9-b62f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Highland Rim Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hillsboro H S",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hillwood High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ca1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hiwassee College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aee07fc3-a740-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "HomeLife Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1eee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Howard, Mohorn & Associates Dale Carnegie Training",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ea1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Huntington College of Health Sciences",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c124a631-43b5-4b5c-8d29-63268dd0c141",
+		"OrganizationName": "Hutchison School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Independence HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "J.T. Moore MS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31ceac56-f93f-4d93-8cda-7434df631737",
+		"OrganizationName": "Jackson Christian School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbfa3502-2248-4fbf-a08e-f58b993d657f",
+		"OrganizationName": "Jackson State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jackson-Madison",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9fdce95-1dbf-de11-886d-0030487d8897",
+		"OrganizationName": "Jackson-Madison County School System",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abacf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jefferson County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "John A Gupton College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8d58f10-21ea-42c9-8a5f-2f6c3344122d",
+		"OrganizationName": "Johnson County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Johnson University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "King College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba76ceb2-e76d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "King University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "829b193b-4803-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "KIPP Nashville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfe7bc63-4a4f-4b2d-bfe3-45cf482d1234",
+		"OrganizationName": "Knox County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c6cb4dc-31c0-e811-810a-000d3af41938",
+		"OrganizationName": "Knoxville Christian School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Knoxville College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lambuth University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lane College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd2a7045-2145-4d2b-b4df-c4d5561367b8",
+		"OrganizationName": "Lausanne Collegiate School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16e06e92-257d-e711-80f3-000d3af41938",
+		"OrganizationName": "Lavergne High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lee University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "LeMoyne-Owen College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lincoln Memorial University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b53d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lipscomb University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Maplewood HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Martha Vaught Middle",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Martin Luther King - Jr. Magnet",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Martin Luther King Jr High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "223ea46c-706f-4d0f-a809-137527278c79",
+		"OrganizationName": "Martin Methodist College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4411e0c-4098-e911-811a-000d3af41938",
+		"OrganizationName": "Maryville City School District",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d33c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maryville College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a1c0963-2b14-44ba-9b77-f54415a713ff",
+		"OrganizationName": "McCallie School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b5248bb-a011-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "McClain Christian Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "McGavock High",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "McGavock HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18e308b9-f8b2-42b9-a197-1f03dd078dd6",
+		"OrganizationName": "Mckenzie Special School District",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "McMinn County Career Technical Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f822c4f9-e00e-e111-a703-f04da23e67f6",
+		"OrganizationName": "McMurray Middle School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Meharry Medical College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "536b4e0d-93af-de11-886d-0030487d8897",
+		"OrganizationName": "Meigs Middle Magnet",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a00d516d-884a-423a-8bd8-a86a371fd091",
+		"OrganizationName": "Memphis Association Of Independent Schools - Technology Education Consortium",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f37af594-f672-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Memphis City School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5679551-dd1b-df11-856f-0030487d8897",
+		"OrganizationName": "Memphis College of Art",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77b4d613-3042-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Memphis Teacher Residency",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Memphis Theological Seminary",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a05e28c7-8801-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Memphis University School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Metro Nashville Public Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ed1cb91-22a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Metropolitan Nashville Public Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-America Baptist Theological Seminary, Germantown",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29dc1936-4701-e011-bed1-0030487d8897",
+		"OrganizationName": "Middle Tennessee School of Anesthesia",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "513c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Middle Tennessee School of Anesthesia Inc",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15cabd52-a3b5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Middle Tennessee State University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Middle Tennessee State University - Murfreesboro - Campus Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-South Christian College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "403fbed0-17dd-4f11-9e35-71e8cec5eefc",
+		"OrganizationName": "Mid-South Independent School Business Officers-Tennessee",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Milligan College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f97231d4-719a-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Milligan College - Milligan College - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ebd8d92-7784-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Ministry International Inc.",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b264d35a-fcb4-47d5-a036-6ce9cd84e533",
+		"OrganizationName": "Montgomery Bell Academy - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "972342b9-870b-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Morgan County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc7ed16c-6b9e-e011-969d-0030487d8897",
+		"OrganizationName": "Motlow State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nashville School of Law",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85a537b3-c6c1-df11-859b-0030487d8897",
+		"OrganizationName": "Nashville State Community Colleg",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a03c1761-6e7a-e011-969d-0030487d8897",
+		"OrganizationName": "Nashville State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nashville State Tech",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Bartlett",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a70e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Bristol",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a80e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Knoxville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a90e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Madison",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Memphis",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Nashville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c4011e6-b5cb-e711-80f9-000d3af41938",
+		"OrganizationName": "New Hope Academy (Franklin)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8718096d-b632-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Northeast State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f53e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeast State Technical Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northeast State Technicall Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c25699db-a5c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Notre Dame High School - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ad37e62-da7c-491a-8e90-2426d6cecf35",
+		"OrganizationName": "Oak Hill School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oak Ridge High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15361d5c-c30f-e111-a703-f04da23e67f6",
+		"OrganizationName": "Oak Ridge Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2712058f-3168-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Obion County Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9db9b1fc-c2ac-4e90-ba53-837b03681d1e",
+		"OrganizationName": "O'More College of Design",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf203631-8ed5-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Ooltewah High School - Tennessee - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Overton HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83180ab3-ee5f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Paris Special School District",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Pearl Cohn HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pearl-Cohn High",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7379f2e2-b732-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Pellissippi State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "153f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pellissippi State Technical Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9610c10b-5b45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Pentecostal Theological Seminary",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d64346fd-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Polk County High School - Information Technology - Departmental Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ade0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Queen City College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "680258ec-4c72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Regents Online Campus Collabrative",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d88851e3-e00e-441d-9ff8-cc287d11c7de",
+		"OrganizationName": "Rhea County Department of Education",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "113a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rhodes College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89cfc75b-55bb-df11-859b-0030487d8897",
+		"OrganizationName": "Richmont Graduate University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Roane County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Roane State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1e36f3c-39c2-dd11-b00d-0030485a6b08",
+		"OrganizationName": "Robertson County Schools Technology Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "477ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rogersville City School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rose Park Magnet",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e756ff4e-d858-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Rutherford County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9af8ae1c-c16b-4554-b509-916145633096",
+		"OrganizationName": "Saint Andrew's Sewanee School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9cbfcfb-ec15-e111-a703-f04da23e67f6",
+		"OrganizationName": "Saint Henry Catholic School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19c7d3a7-95c8-4b6e-b39e-1b9ba4c61b0a",
+		"OrganizationName": "Saint Nicholas School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48134ff9-32dc-401f-a239-f34f36ab5413",
+		"OrganizationName": "Saint Paul Christian Academy",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "115122b0-2010-4ad2-a0a4-b7247ad359e9",
+		"OrganizationName": "Scenic Land School - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sewanee, University of the South",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03964998-37d9-de11-baeb-0030487d8896",
+		"OrganizationName": "Sewanee, University of the South - Campus",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d7f6b72-dc55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Shelby County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bcdc026-b5eb-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Smith Academy - Knoxville - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "062d8986-5b50-e211-ad71-f04da23e67f6",
+		"OrganizationName": "South College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southern Adventist University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "783a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern College of Optometry",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwest Tennessee Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "157a3a03-7220-de11-9c12-0030485a8df0",
+		"OrganizationName": "St Benedict of Auburndale (Tennessee)",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e557fe73-1c25-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. George's Independent School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "130eb57d-00d2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "St. Jude Children's Research Hospital",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7a72ff6-643e-e811-8103-000d3af41938",
+		"OrganizationName": "St. Louis Catholic School Memphis",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4ca0c51-3a09-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "St. Mary's Episcopal School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4668873-c1c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "STEM School Chattanooga",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d85c735c-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Stewarts Creek High School - Information Technology - Departmental Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08f7ad3f-a5cf-e711-80f9-000d3af41938",
+		"OrganizationName": "Sullivan County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd03a2a0-c251-4197-9c98-99d653a6f6c9",
+		"OrganizationName": "Sumner County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e1cf85b-37a1-de11-886d-0030487d8897",
+		"OrganizationName": "Sunset Middle School at Willimson County",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b56c781-6240-4c42-967c-27a1fe74ec2e",
+		"OrganizationName": "Tennessee Board of Regents",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03053c3a-e29a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Tennessee College of Applied Technology - Covington",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36fc707f-6f12-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Tennessee College of Applied Technology - Crossville - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f42e92b7-c205-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Tennessee College of Applied Technology - Murfreesboro",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1ecffd6-c4e1-e711-80fa-000d3af41938",
+		"OrganizationName": "Tennessee College of Applied Technology - Nashville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b09ba03c-36f6-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Tennessee College of Applied Technology Livingston",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91be2783-cf76-e711-80f1-000d3af41938",
+		"OrganizationName": "Tennessee College of Applied Technology - Nashville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b53a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tennessee State University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Tennessee Tech University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b63a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tennessee Technological University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e49606e9-d8fb-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Tennessee Technology Center - Nashville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fa03f5f-4a5f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Tennessee Technology Center at Crossville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d99ecf1f-9cb9-e211-be21-f04da23e67f4",
+		"OrganizationName": "Tennessee Technology Center at Crump",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2871d12b-3dd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Tennessee Technology Center at Shelbyvil",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51ee02e7-a65d-e111-8056-f04da23e67f6",
+		"OrganizationName": "Tennessee Technology Center at Shelbyville - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "205ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tennessee Technology Center Hohenwald",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "255ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tennessee Technology Center Shelbyville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b73a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tennessee Temple University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b83a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tennessee Wesleyan College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae108e80-0d52-df11-b56b-0030487d8897",
+		"OrganizationName": "The University of Tennessee Health Science Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of Tennessee, Knoxville",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dae0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "The University of the South",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "The University of TN Chattanooga",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b15b3ae-b0a3-49b4-872a-52e6e2f3811f",
+		"OrganizationName": "Tipton County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a20e214-0a3e-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Trenton Special School District",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d13a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trevecca Nazarene University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "508553ca-6511-e111-a703-f04da23e67f6",
+		"OrganizationName": "Trousdale School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tusculum College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72141111-aa37-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Unicoi County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Union University",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "443b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Memphis",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "563a8e7f-2146-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Memphis - Store",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Tennesee Medical Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1c68dc1-e173-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Tennesse Health Science Center",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Tennessee",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adff1d13-e98c-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of Tennessee at Chattanooga - Microsoft Imagine Standard",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dc01f6c-6756-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "University of Tennessee Space Institute",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Tennessee, Chattanooga",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Tennessee, Martin",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Tennessee, Memphis",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "319901c8-4581-4404-95fa-8b75a9e1ea7c",
+		"OrganizationName": "University School of Nashville - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vanderbilt University - Nashville Campus - KVC",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fcd2556-734a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Vanderbilt University Medical Center - KVC",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Volunteer State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3443053-406c-e011-971f-0030487d8897",
+		"OrganizationName": "Walters State Community College",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcc771c9-5fa6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Watkins College of Art and Design",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77769e2a-f58d-4742-bc1f-bfa989833923",
+		"OrganizationName": "Webb School of Bell Buckle - MISBO",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "446601e6-ed5a-e011-bd14-0030487d8897",
+		"OrganizationName": "West Greene High School (Mosheim, TN) - High School AA",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c76e01f-33bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "White Station High School",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Whites Creek HS",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a88d4401-f481-e211-bf66-f04da23e67f4",
+		"OrganizationName": "William R Moore College of Technology",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ade043d-fae5-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Williamson County Schools",
+		"ProvinceCode": "TN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "59f5f5c7-a081-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Brawley Union High School District",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5bf5f5c7-a081-e511-9412-b8ca3a5db7a1",
+		"WebStoreName": "Brawley Union High School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5bf5f5c7-a081-e511-9412-b8ca3a5db7a1"
+	}
+]

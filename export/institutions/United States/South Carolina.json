@@ -1,0 +1,1386 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "218th Regiment (LDR) SC Army National G",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ce105a1-95c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "218th Regiment (LDR), SC Army National G",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "721a9261-442d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Aiken Christian School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b63dca1b-801d-df11-856f-0030487d8897",
+		"OrganizationName": "Aiken Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d23f274-186b-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Allen University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Anderson College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9d73f3b-4d8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Anderson County School District Five",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da7ef0fb-7fb6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Anderson Districts I & II Career and Technology Center - Microsoft Imagine Standard",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bamberg Job Corps Center",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cff039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bamberg School District One",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74697387-1878-e011-969d-0030487d8897",
+		"OrganizationName": "Beaufort Academy",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Ben Lippen School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Benedict College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Berkeley County School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bob Jones University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2daedc74-42ab-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Bridgeway Christian Academy, SC",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cf29148-e70b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Calhoun County Public Schools",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e25db72-c4cf-de11-baeb-0030487d8896",
+		"OrganizationName": "Carolina Springs Elementary School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Carolina Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04265a75-4b5f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Central Carolina Technical College - Store",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d48944b5-457f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Charleston Charter School for Math and Science",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "325abb5c-bb5e-e011-971f-0030487d8897",
+		"OrganizationName": "Charleston County School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Charleston Southern University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a18d8a0-1a32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Cherry Hill Seminary",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Claflin College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f83e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Claflin University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clemson University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d2610d2-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Clemson University - Microsoft Imagine Standard",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c3eed37-d437-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Clover High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coastal Carolina University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coker College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Charleston",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "672c0817-80b1-e111-b575-f04da23e67f6",
+		"OrganizationName": "Columbia College (SC)",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b58f1f8-8647-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Columbia College South Carolina",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbia International University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Converse College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cba65a1-af2f-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Denmark - Olar School Disctrict 2",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "943a048c-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Denmark Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4c182d8-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "Dillon County Technology Center - Technology - Departmental Store",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4436d43e-be6d-df11-b841-0030487d8897",
+		"OrganizationName": "Divine Redeemer Catholic School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Dorchester School Dist #2 District Office",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6c8916c-ffc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Dutch Fork High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Erskine College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42782abd-b8d7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "First Baptist School of Charleston",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f08d7276-1ff9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Florence County School District Three",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Florence School District One",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52ccf71e-7fca-df11-859b-0030487d8897",
+		"OrganizationName": "Florence-Darlington Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "909ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Forrest College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fort  Mill School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Francis Marion University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Furman University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Georgetown County School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd207ac2-8dc9-de11-baeb-0030487d8896",
+		"OrganizationName": "Granard Middle School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdc85924-a13b-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Green Sea Floyds High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d69d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Greenville County Library",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cfb512a-4da9-df11-ad57-0030487d8897",
+		"OrganizationName": "Greenville County Schools",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Greenville Technical college",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "754d769d-0573-df11-bc53-0030487d8897",
+		"OrganizationName": "Greenwood School District 50",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05ae99ca-3148-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Hampton County School District 2",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bb33675-083d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Harrisburg Elementary School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hilton Head Christian Academy",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c1bf6d4-7c9a-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Homeward Education Association",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "760a367c-a2cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Horry County Schools",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "522c5d0d-1486-e011-969d-0030487d8897",
+		"OrganizationName": "Horry Georgetown Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba5e9e09-2317-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Horry Georgetown Technical College - Store",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12f058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute for Guided Studies (MEPI)",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6167e50b-9afa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Jackson Middle School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Johnson & Wales University-Charleston",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b11f525-b412-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Lancaster County School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lander University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "859c72d2-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "Lexington Technology Center - Technology - Departmental Store",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7f24f68-1c94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Limestone College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lowcountry Tech Academy",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "113b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lutheran Theological Southern Seminary",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Medical University of South Carolina",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11fcf2f1-e3c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Midlands Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3f6e217-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Mitchell Road Christian Academy",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd9af05c-2396-e111-981b-f04da23e67f6",
+		"OrganizationName": "Morris College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Newberry College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Greenville College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5f8587b-f04b-e011-bd14-0030487d8897",
+		"OrganizationName": "North Greenville University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d0ad497-5409-e111-a703-f04da23e67f6",
+		"OrganizationName": "North Myrtle Beach High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e7fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Ridgeville City Schools",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "519ebfd8-f56a-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Northeastern Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b3677d1-1b8e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Orangeburg-Calhoun Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cde20bb3-2dbb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Orangeburg-Calhoun Technical College - Store",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e03d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Piedmont Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af0f39f7-c195-df11-ad8b-0030487d8897",
+		"OrganizationName": "Pinewood Preparatory School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f770954-948c-e911-811a-000d3af41938",
+		"OrganizationName": "Porter-Gaud School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Presbyterian College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Richland County Public Library",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7c5cc94-cffa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Richland County School District One",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5156ba5-3673-df11-bc53-0030487d8897",
+		"OrganizationName": "Richland School District 2",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0daff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Richland School District Two",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95a9ddc8-97c9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Riverview Charter School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5afd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint John Neumann Catholic School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a4c5082-2251-e211-ad71-f04da23e67f6",
+		"OrganizationName": "School District Five of Lexington and Richland Counties",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be310b85-7308-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "School District of Oconee County",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "School District of Pickens County",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f3bacd8-4da2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Sherman College of Chiropractic",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ad61cdf-ebd9-de11-baeb-0030487d8896",
+		"OrganizationName": "Socastee High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4c4f684-3dc7-df11-859b-0030487d8897",
+		"OrganizationName": "South Carolina Association of Public Charter Schools",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "South Carolina Dept. of Education",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c8c7bcb-667d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "South Carolina Governor's School for Science and Mathematics",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c506fb7b-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "South Carolina Governors School for the Arts and Humanities",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "683a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "South Carolina State University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "132b40a0-fcc1-e111-9902-f04da23fc522",
+		"OrganizationName": "Southeastern Institute",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "813a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Wesleyan University",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3128ef57-1a0c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Southside Christian School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "feee7eef-a6a5-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Spartanburg Community College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d6d8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Spartanburg County School District 3",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Spartanburg Day School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e33f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Spartanburg Methodist College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Spartanburg School District 7",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Spartanburg Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6609e524-7e30-e011-b71d-0030487d8897",
+		"OrganizationName": "Spring Valley High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92d24058-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Strom Thurmond Career Center (Johnston, SC) - High School AA",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13012a1c-07fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Sumter School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e8b32ae-8c00-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Technical College of the Lowcountry",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The Citadel",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2ea326c-3eac-de11-886d-0030487d8897",
+		"OrganizationName": "The Citadel - VMware Campus",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cb1cf3c-3238-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "TriCounty Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tri-County Technical College - Pendleton Campus",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Trident Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "234b460f-bf12-ea11-8124-000d3af41938",
+		"OrganizationName": "University of South Carolina - Department of Statistics",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Carolina - Moore School of Business",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca67ecff-5e57-e711-80f0-000d3af41938",
+		"OrganizationName": "University of South Carolina- School of Medicine Greenville",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of South Carolina Upstate",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Carolina, Aiken - Microsoft Imagine Standard",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "803b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Carolina, Columbia",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db189967-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of South Carolina, School of Law",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "813b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Carolina, Spartanburg",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "823b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Carolina, Sumter",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc6f58c9-71fd-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Virginia College - Charleston",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d5af49d-c72f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Virginia College - Columbia",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd626411-d52a-df11-b4ab-0030487d8897",
+		"OrganizationName": "Voorhees College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bd7f394-2eb5-df11-ad57-0030487d8897",
+		"OrganizationName": "Wade Hampton High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35ad80d1-059f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Wando High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ware Shoals High School",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc878fdb-87a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Williamsburg County School District",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "113c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Winthrop University, Rock Hill Campus",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "143c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wofford College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e35901e4-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Wofford College - Microsoft Imagine Standard",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "York Technical College",
+		"ProvinceCode": "SC",
+		"SubsectorCode": "education_college_university"
+	}
+]

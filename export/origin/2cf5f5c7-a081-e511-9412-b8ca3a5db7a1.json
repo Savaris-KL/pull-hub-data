@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "2cf5f5c7-a081-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Banning Unified School District",
+		"SubsectorCode": "education_k_12",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2ef5f5c7-a081-e511-9412-b8ca3a5db7a1",
+		"WebStoreName": "Banning Unified School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2ef5f5c7-a081-e511-9412-b8ca3a5db7a1"
+	}
+]

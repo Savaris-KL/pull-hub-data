@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "cf871f3f-db8f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Australian Learning, Training and Education Centre",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f8871f3f-db8f-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "ALTEC College - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f8871f3f-db8f-e611-9422-b8ca3a5db7a1"
+	}
+]

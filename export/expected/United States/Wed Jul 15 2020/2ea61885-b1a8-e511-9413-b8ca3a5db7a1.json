@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "2ea61885-b1a8-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Canterbury College - AU",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a7a78a8b-b1a8-e511-9413-b8ca3a5db7a1",
+		"WebStoreName": "Canterbury College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a7a78a8b-b1a8-e511-9413-b8ca3a5db7a1"
+	}
+]

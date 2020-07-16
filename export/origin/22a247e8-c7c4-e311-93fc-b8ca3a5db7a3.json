@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "c47641cf-042e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Image Campus",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d27641cf-042e-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Image Campus - Educational",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d27641cf-042e-e411-9403-b8ca3a5db7a1"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://vcu.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "582fb704-61c4-dc11-8873-0030485a6b08",
+		"WebStoreName": "Virginia Commonwealth University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=582fb704-61c4-dc11-8873-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "add74003-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3c56a12e-9b9b-e011-969d-0030487d8897",
+		"WebStoreName": "Virginia Commonwealth University - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3c56a12e-9b9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "40fb5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "1e097194-966f-e011-971f-0030487d8897",
+		"WebStoreName": "Virginia Commonwealth University - IS",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=1e097194-966f-e011-971f-0030487d8897"
+	}
+]

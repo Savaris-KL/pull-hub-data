@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "6ca6c72a-1647-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Interactive Entertainment",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "44dee3c7-1647-e311-93f7-b8ca3a5db7a1",
+		"WebStoreName": "AIE",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=44dee3c7-1647-e311-93f7-b8ca3a5db7a1"
+	}
+]

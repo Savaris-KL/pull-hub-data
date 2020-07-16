@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d7c071b9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lighthouse Christian School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c2a0289c-8f0b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Independent Schools Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c2a0289c-8f0b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "5c8a286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Lighthouse Christian School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ede7e05a-4cb5-e511-9414-b8ca3a5db7a1",
+		"WebStoreName": "Lighthouse Christian School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ede7e05a-4cb5-e511-9414-b8ca3a5db7a1"
+	}
+]

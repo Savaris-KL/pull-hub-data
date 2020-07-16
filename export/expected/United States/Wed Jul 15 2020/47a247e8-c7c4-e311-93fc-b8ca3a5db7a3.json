@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "47a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de La Matanza",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "bcac279a-abde-e711-80fa-000d3af41938",
+		"WebStoreName": "Universidad Nacional de La Matanza",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=bcac279a-abde-e711-80fa-000d3af41938"
+	}
+]

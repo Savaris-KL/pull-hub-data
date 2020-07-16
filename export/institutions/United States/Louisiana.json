@@ -1,0 +1,1322 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d53b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "A & W Health Care Educators",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "469a7692-02ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Acadiana Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American School of Business",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd157e36-d89d-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Rummel High School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a85879e-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Archbishop Shaw High School - Computer Science - Departmental Store",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bba9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Ascension Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32498145-1fc6-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Ascension Parish School System",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "670b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Covington",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "810b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute Lafayette",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "860b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute New Orleans",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute-Baton Rouge",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23538e77-1a02-e911-810e-000d3af41938",
+		"OrganizationName": "Avoyelles Parish School System",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "016b0409-a788-e011-969d-0030487d8897",
+		"OrganizationName": "B E Boudreaux Middle School (Baldwin, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baptist Theological Seminary New Orleans",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e20b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Baton Rouge College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11562b87-3b3b-df11-b4ab-0030487d8897",
+		"OrganizationName": "Baton rouge Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e70b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Baton Rouge General Medical Center - School of Radiologic Technology",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Baton Rouge School of Computers",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb34d8fc-a688-e011-969d-0030487d8897",
+		"OrganizationName": "Berwick High school (Berwick, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "870bda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Berwick Junior High school (Berwick, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "222b5660-c5e3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Bolton High School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c937b49-8167-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Bonnabel High School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bossier Parish Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4713bd11-c5e3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Bossier Parish Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93316176-230f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Caddo Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Camelot College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Capital Area Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Career Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3912153-ca10-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Catholic High School - Campus Store",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec43e936-b5e8-432b-bde6-f1bfe92811b3",
+		"OrganizationName": "Centenary College of Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d20cda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Centerville High School (Centerville, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "247e12b1-dfd1-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Central Louisiana Technical Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8ea86a4-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Central Texas College , LA - Computer Science - Departmental Store",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9288286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Christian Life Academy",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Court Reporting Institute of Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a32abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Crescent City Career Institute",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Delgado Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57e93e35-28f3-46e8-b378-15d8d8d15353",
+		"OrganizationName": "Dillard University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aea1f56-0c02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Episcopal School of Acadiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6988830-0e5e-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Fannie C. Williams Charter School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc78f932-98d5-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Fletcher Technical Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5ca5212-f0fa-e711-80fc-000d3af41938",
+		"OrganizationName": "Franciscan Missionaries of Our Lady University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "900cda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Frankllin High School (Franklin, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grambling State University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ba0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gretna Career College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d089286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Holy Family School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67c3417d-3f3c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Iberia Parish Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "ITI Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20601ff6-6506-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Jefferson Parish Public School System",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf7f8268-8dcb-e111-971c-f04da23e67f6",
+		"OrganizationName": "John Paul the Great Academy",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "KIPP New Orleans Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5837d46-1679-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Lafayette High School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lafourche Parish Public Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5f8b289-c66b-e711-80f1-000d3af41938",
+		"OrganizationName": "Lincoln Preparatory School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d99c42d2-9b44-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Livingston Parish Literacy and Technology Center",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f367961-acb7-45d4-b29e-9e56063a0811",
+		"OrganizationName": "Louisiana Association of Independent Colleges and Universities",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9f5404c-2e22-4ba8-b457-5a417fdd5c43",
+		"OrganizationName": "Louisiana College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3aef7235-236e-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana Delta Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49173c3e-c332-df11-b4ab-0030487d8897",
+		"OrganizationName": "Louisiana Department of Education",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c235930-fc7a-de11-b7f9-0030487d8896",
+		"OrganizationName": "Louisiana State University - Baton Rouge Campus",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Louisiana State University - Health Sciences Center",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Louisiana State University and Agricultural & Mechanical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana State University Shreveport",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ea6bbc1-f193-4486-9d15-0f9a35d06fb1",
+		"OrganizationName": "Louisiana State University, Art & Design",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Louisiana Tech University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "449722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana Tech University Ruston",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "499722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana Technical College Baton Rouge Campus",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "539722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisiana Transportation Research Institute",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "589722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisianna Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b8a5614-730f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Loyola college prep",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4192ea4-747f-4a56-b98b-b1121e36d8db",
+		"OrganizationName": "Loyola University New Orleans",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "102fdc62-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "LSU",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "LSU - Health Science Center",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "LSU Health Sciences Center",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "LSU, Alexandria",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "LSU, Baton Rouge",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "LSU, Eunice",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "LSU, Shreveport",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "McNeese State University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Monroe City School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c70bda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Morgan City High School (Morgan City, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c0cda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Morgan city Junior High School (Morgan City, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4bf1e41-5742-4032-a464-10e27a7ffdc4",
+		"OrganizationName": "New Orleans Baptist Theological Seminary",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nicholls State University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "989822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northeast Louisiana Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeastern Louisiana University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Northwest Louisiana Technical College Shreveport",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwestern State University of Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ec461c1-b2a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame Seminary Graduate School of Theology",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44da33bc-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "Nunez Community College - Information Technology - Departmental Store",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0c5d501-fd83-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Ochsner Clinical School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3914aa86-2994-df11-ad8b-0030487d8897",
+		"OrganizationName": "Office of Catholic Schools, Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec6f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Orleans Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4f831d2-89e9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Ouachita Christian School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a8386dc-f35e-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ouachita Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b247dea-b519-49a9-8e7f-24cdff28dc8d",
+		"OrganizationName": "Our Lady of Holy Cross College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf256414-4987-e711-80f3-000d3af41938",
+		"OrganizationName": "Our Lady of Prompt Succor School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8000b7d4-9bb0-4ea3-b1ba-f434f9a2f78e",
+		"OrganizationName": "Our Lady of the Lake College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7941dda3-741f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Patrick F. Taylor Science & Technology Academy",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c0cda02-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Patterson High School (Patterson, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Plaquemines Parish Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c2282a4-e307-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Recovery School District",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7063ccc-500b-42af-bd85-574ed521d1e9",
+		"OrganizationName": "Saint Joseph Seminary College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c94d573b-7ef6-4702-8631-404bcd7eacdb",
+		"OrganizationName": "Scott University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81fbd27c-d941-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "South Central Louisana Technical College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eed46684-2712-ea11-8124-000d3af41938",
+		"OrganizationName": "South Louisiana Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "703a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeastern Louisiana University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eee0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Southern University and A & M College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dfa5b16-5b49-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Southern University Law Center",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern University System, Baton Rouge",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern University System, New Orleans",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80dc215e-38cd-de11-baeb-0030487d8896",
+		"OrganizationName": "Sowela Technical and Community College",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St James Parish School District",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St Jean Vianney Catholic School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "beeea0f4-0073-e211-bf66-f04da23e67f4",
+		"OrganizationName": "St. Joseph’s Academy",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b834d8fc-a688-e011-969d-0030487d8897",
+		"OrganizationName": "St. Mary Parish School Board Central Off (Centerville, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Summit University of Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6e91b37-12b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Tangipahoa Parish School System",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of Louisiana at Monroe",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c500c0e4-3be6-4b39-bc49-75e3c163a6b6",
+		"OrganizationName": "Tulane University - KVC",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "797ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Union Parish School District",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Louisiana at Lafayette",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of New Orleans - New Orleans Campus",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "863b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Southwestern Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3e19cb5-41f6-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Vandebilt Catholic High School",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6e6dac5-910f-e911-810e-000d3af41938",
+		"OrganizationName": "Vernon Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f89a2ec-5e13-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Virginia College - Baton Rouge",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7c4b015-1e7f-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Virginia College - Bossier City - Campus Store",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c12670b2-efb8-de11-886d-0030487d8897",
+		"OrganizationName": "West Feliciana High school",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Feliciana Parish Public Schools",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b835671-994a-e011-bd14-0030487d8897",
+		"OrganizationName": "West St John High School (Edgard, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b76a0409-a788-e011-969d-0030487d8897",
+		"OrganizationName": "West St Mary High School (Baldwin, LA) - High School AA",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "747ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Winn Parish School Board",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fb97654-2643-e811-8103-000d3af41938",
+		"OrganizationName": "WorldQuant University",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cc3c4de-a4cb-4b3b-b3cb-4f3607d2e470",
+		"OrganizationName": "Xavier University of Louisiana",
+		"ProvinceCode": "LA",
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "917f8a51-22d9-e811-810b-000d3af41938",
+		"OrganizationName": "Mesa High School - Campus Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ac7f8a51-22d9-e811-810b-000d3af41938",
+		"WebStoreName": "Mesa High School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ac7f8a51-22d9-e811-810b-000d3af41938"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c3be99ff-bff6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Australian College of Commerce and Management",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d0be99ff-bff6-e111-bd05-f04da23e67f6",
+		"WebStoreName": "Australian College of Commerce and Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d0be99ff-bff6-e111-bd05-f04da23e67f6"
+	}
+]

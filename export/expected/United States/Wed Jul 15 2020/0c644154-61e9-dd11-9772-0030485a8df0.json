@@ -1,0 +1,62 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "2d30d4f3-f3c0-e811-810a-000d3af41938",
+		"OrganizationName": "Edith Cowan University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3e30d4f3-f3c0-e811-810a-000d3af41938",
+		"WebStoreName": "Edith Cowan University - School of Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3e30d4f3-f3c0-e811-810a-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "3060204f-8ec4-de11-886d-0030487d8897",
+		"OrganizationName": "Edith Cowan University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3c60204f-8ec4-de11-886d-0030487d8897",
+		"WebStoreName": "Edith Cowan University - School of Science - VMAP",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3c60204f-8ec4-de11-886d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "21fe5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Edith Cowan University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "cf906b55-816f-e011-971f-0030487d8897",
+		"WebStoreName": "Edith Cowan University - School of Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=cf906b55-816f-e011-971f-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "0c644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Edith Cowan University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://ecu.edu.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "02496d45-c564-e211-a88c-f04da23e67f4",
+		"WebStoreName": "Edith Cowan University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=02496d45-c564-e211-a88c-f04da23e67f4"
+	}
+]

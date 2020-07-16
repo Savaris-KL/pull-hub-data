@@ -1,0 +1,67 @@
+[
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "AB",
+		"ProvinceName": "Alberta"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "BC",
+		"ProvinceName": "British Columbia"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "MB",
+		"ProvinceName": "Manitoba"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "NB",
+		"ProvinceName": "New Brunswick"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "NL",
+		"ProvinceName": "Newfoundland"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "NT",
+		"ProvinceName": "Northwest Territories"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "NS",
+		"ProvinceName": "Nova Scotia"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "NU",
+		"ProvinceName": "Nunavut"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "ON",
+		"ProvinceName": "Ontario"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "PE",
+		"ProvinceName": "Prince Edward Island"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "QC",
+		"ProvinceName": "Quebec"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "SK",
+		"ProvinceName": "Saskatchewan"
+	},
+	{
+		"CountryIsoAlpha3Code": "CAN",
+		"ProvinceCode": "YT",
+		"ProvinceName": "Yukon"
+	}
+]

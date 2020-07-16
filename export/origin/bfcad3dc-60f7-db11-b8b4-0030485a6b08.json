@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "bfcad3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Birmingham City School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "48ab167a-d045-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Birmingham City School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=48ab167a-d045-e511-940f-b8ca3a5db7a1"
+	}
+]

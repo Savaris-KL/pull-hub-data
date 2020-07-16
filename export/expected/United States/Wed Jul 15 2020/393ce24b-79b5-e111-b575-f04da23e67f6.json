@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "393ce24b-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Colegio Misericordia - Flores - Campus Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "453ce24b-79b5-e111-b575-f04da23e67f6",
+		"WebStoreName": "Colegio Misericordia - Flores",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=453ce24b-79b5-e111-b575-f04da23e67f6"
+	}
+]

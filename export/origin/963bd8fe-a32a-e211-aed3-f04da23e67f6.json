@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "963bd8fe-a32a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Asher College - Sacramento Campus - Store",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a23bd8fe-a32a-e211-aed3-f04da23e67f6",
+		"WebStoreName": "Asher College - Sacramento Campus",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a23bd8fe-a32a-e211-aed3-f04da23e67f6"
+	}
+]

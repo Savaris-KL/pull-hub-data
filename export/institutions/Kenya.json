@@ -1,0 +1,410 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "1cc7bf11-0aaa-e811-8109-000d3af41938",
+		"OrganizationName": "Africa International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "2f119ca0-328c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Africa Nazarene University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "ad724b67-6a1f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Aga Khan Academy, Mombasa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "bebb7f7e-6794-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Catholic University in Eastern Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "231870d8-328c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Catholic University of Eastern Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "4c6aaa37-cce4-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Catholic University of Eastern Africa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "b75bae09-338c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Daystar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "090eca51-318c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Dedan Kimathi University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "433e1e41-338c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "East African School of Aviation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "5d7c18a9-348c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Egerton University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "a83a39e6-348c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Graffins College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "c45c7814-f38e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Hillcrest International Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "076ce5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "INtel College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "0f8e5f2f-2404-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Jaramogi Oginga Odinga University of Science and Technology (JOOUST)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "70e07e11-e63b-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Jomo Kenyatta University of Agriculture and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "fa8e6a05-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Kabarak University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "55d4413c-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "KCA University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "3ddc91a2-318c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Kenya Institute Of Highways & Building Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "13114468-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Kenya Methodist University (KEMU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "ff285b6c-ec4b-e011-bd14-0030487d8897",
+		"OrganizationName": "Kenyan Teachers Program",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "03b4fe4e-b902-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Kenyatta University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "f9f98f26-ad52-e711-80f0-000d3af41938",
+		"OrganizationName": "Kiambu Institute of Science & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "8b4f00d4-0baa-e811-8109-000d3af41938",
+		"OrganizationName": "Kibabii University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "6cb028ef-318c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Kisii University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "c450d021-0caa-e811-8109-000d3af41938",
+		"OrganizationName": "Machakos University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "e32c9a99-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Maseno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "9adbf9ef-f76a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Masinde Muliro University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "95456fc7-318c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Moi University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "cfc427cd-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Mount Kenya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "be045bf2-358c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Multimedia University of Kenya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "de5e1130-958e-e811-8108-000d3af41938",
+		"OrganizationName": "Murang'a University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "d07c8227-341a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nairobi International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "2502099d-4921-e811-8101-000d3af41938",
+		"OrganizationName": "Oshwal College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "47555d58-a957-e811-8105-000d3af41938",
+		"OrganizationName": "Pan Africa Christian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "0368f0fd-0baa-e811-8109-000d3af41938",
+		"OrganizationName": "Pioneer International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "c58c84ae-948e-e811-8108-000d3af41938",
+		"OrganizationName": "Pwani University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "f2cee902-848c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Riara University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "766ea215-848c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Shangtao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "8eb70314-328c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Skylink",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "6e63a8c0-848e-e811-8108-000d3af41938",
+		"OrganizationName": "South Eastern Kenya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "17204465-878c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "St Pauls University (Kenya)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "5ab80c52-efd1-e111-971c-f04da23e67f6",
+		"OrganizationName": "St. Martin's Girls Secondary School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "bb5693bc-273c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Strathmore University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "7c404963-328c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Technical University of Kenya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "7b772390-878c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Technical University of Mombasa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "69ffc5fe-308c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The Co-operative University of Kenya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "2bece416-cb76-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Umma University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "82b8b5ff-cd76-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Umma University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "9f5c90f2-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "United States International University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "883136a7-4a21-e811-8101-000d3af41938",
+		"OrganizationName": "University of Embu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KEN",
+		"InstitutionID": "3d31df4e-0baa-e811-8109-000d3af41938",
+		"OrganizationName": "Zetech University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

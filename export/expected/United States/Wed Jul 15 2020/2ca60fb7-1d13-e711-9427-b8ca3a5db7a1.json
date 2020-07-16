@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "ff1210f7-24f1-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Mount Carmel College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://cesa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "9c6d6bf9-25f1-e011-8e6c-f04da23e67f6",
+		"WebStoreName": "Catholic Education South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9c6d6bf9-25f1-e011-8e6c-f04da23e67f6"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "69c3db81-09f1-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Northcentral University - AZ",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "0367b59a-09f1-e511-9417-b8ca3a5db7a1",
+		"WebStoreName": "NCU Technology Resource Center",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0367b59a-09f1-e511-9417-b8ca3a5db7a1"
+	}
+]

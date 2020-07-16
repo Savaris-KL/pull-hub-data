@@ -1,0 +1,882 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "834cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alum Creek Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d1289a4-856d-df11-b841-0030487d8897",
+		"OrganizationName": "Appoquinimink School District",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1877aa16-f026-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Archmere Academy",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "844cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arrowhead Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "854cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Big Walnut Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "864cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Big Walnut High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "874cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Big Walnut Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "884cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Valley East Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Valley High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Valley Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Valley North Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Valley West Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0435f669-af40-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Capital School District  - Campus Store",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Carlisle Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f19478de-4d58-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Christiana Care Health System",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9eaaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christina School District",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Conger Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a44cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Creekview Intermediate",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47a0c443-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Deep Muscle Therapy Center",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a54cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Delaware Area Career Center",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43d0233c-50a2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Delaware City Schools",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d6e1180-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Delaware College of Art and Design",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eeffdd85-2408-de11-9c12-0030485a8df0",
+		"OrganizationName": "Delaware Community Schools",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Delaware State University",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd79adfc-7ad4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Delaware Technical Community College",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "333c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Delaware Technical Community College - Millsboro",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf46a52c-ba32-4d1a-8fb1-631c20da30de",
+		"OrganizationName": "Delaware-Union Educational Service Center Collaborative",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14e06970-df91-e811-8108-000d3af41938",
+		"OrganizationName": "Delmar Schol District",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a64cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dempsey Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a74cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "East Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee342860-9754-e011-bd14-0030487d8897",
+		"OrganizationName": "EastSide Charter School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a84cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Edgewood Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a94cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fairbanks Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fairbanks High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fairbanks Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a04cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Glen Oak Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Goldey-Beacom College",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a14cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harrison Street Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a24cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hayes High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a34cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hylen Souders Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "984cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Indian Springs Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6df7edd1-9274-df11-bc53-0030487d8897",
+		"OrganizationName": "Kings International University of Science and Technology",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "994cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marysville High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marysville Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mill Valley Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Navin Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48666bbc-8f50-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "New Castle - William Penn High School -  Microsoft Imagine Standard",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Oak Creek Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "924cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "934cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy Liberty High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "944cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy Liberty Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "954cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy Meadows Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "964cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy Orange Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "974cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Olentangy Shanahan Middle School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75f922c5-308b-e111-981b-f04da23e67f6",
+		"OrganizationName": "Paul M. Hodgson Vocational Technical High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Raymond Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd38a422-402d-e811-8101-000d3af41938",
+		"OrganizationName": "Red Clay Consolidated School District",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3ad948d-f310-e811-80fe-000d3af41938",
+		"OrganizationName": "Saint Mark’s High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91bff479-0437-ea11-8126-000d3af41938",
+		"OrganizationName": "Salesianum School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5678716a-8eea-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Sanford School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Schultz Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Scioto Ridge Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Smith Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2afd6c9a-f8aa-e811-8109-000d3af41938",
+		"OrganizationName": "St. Elizabeth School - Campus Store",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fffc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Mary Magdalen School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "078744c5-8b28-e811-8101-000d3af41938",
+		"OrganizationName": "Sussex Academy of Arts & Sciences",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2201f369-c7f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sussex Central High School - Microsoft Imagine Standard",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6601b6fa-a64b-df11-b56b-0030487d8897",
+		"OrganizationName": "Tatnall School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "069a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "The Charter School of Wilmington",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a661373-38fc-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Thomas McKean High School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "904cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tyler Run Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "United States Open University",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "083b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Delaware",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dde4a6f1-d1b6-df11-ad57-0030487d8897",
+		"OrganizationName": "University of Delaware - Newark Campus",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "914cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Walnut Creek Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e23b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wesley College",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "894cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Willis Intermediate School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wilmington College (DE)",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e5e3c12-e230-de11-a497-0030485a8df0",
+		"OrganizationName": "Wilmington University",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Woodward Elementary School",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b4cd3e0-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wyandot Run Elementary",
+		"ProvinceCode": "DE",
+		"SubsectorCode": "education_k_12"
+	}
+]

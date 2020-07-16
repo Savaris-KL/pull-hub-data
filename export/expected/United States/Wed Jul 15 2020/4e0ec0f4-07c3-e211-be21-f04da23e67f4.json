@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "0533ba08-eae0-e711-80fa-000d3af41938",
+		"OrganizationName": "Melbourne Polytechnic",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "1433ba08-eae0-e711-80fa-000d3af41938",
+		"WebStoreName": "Melbourne Polytechnic - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=1433ba08-eae0-e711-80fa-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4e0ec0f4-07c3-e211-be21-f04da23e67f4",
+		"OrganizationName": "Melbourne Polytechnic",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a0be0881-cf23-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Melbourne Polytechnic",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a0be0881-cf23-e411-9403-b8ca3a5db7a1"
+	}
+]

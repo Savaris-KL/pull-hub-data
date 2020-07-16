@@ -1,0 +1,202 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "adc2e6f0-a1a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Centro de Especialización en Computación Y Estudios Comerciales S.R.L",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "31ffb339-0308-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Centro Escolar Alemán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "856b30db-f919-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Maryknoll",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "1200201d-289b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Colegio San Ignacio (Bolivia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "8c6d30db-f919-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Corporacion Educativa Domingo Savio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "cd02db04-2b9a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Militar de Ingenieria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "f6199f8a-b947-e711-80ef-000d3af41938",
+		"OrganizationName": "Fundación EDACE - UDI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "a1073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Jala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "98f034af-0397-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Klipo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "20afca31-1c9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Ministerio de Educacion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "80634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Autonoma Grabiel Rene Moreno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "493351c0-d076-e711-80f1-000d3af41938",
+		"OrganizationName": "Universidad Católica Boliviana \"San Pablo\"- Unidad Académica Tarija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "02c7755a-f24b-e011-bd14-0030487d8897",
+		"OrganizationName": "Universidad Católica Boliviana San Pablo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "fa5bd4e0-0e02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Aquino Bolivia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "44001a43-e8d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad del Valle - Bolivia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "4a716fa7-c9e5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Mayor de San Andres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "20f2cd29-2f24-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Mayor de San Simón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "3f31f446-f3fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional Abierta Centro Local Mérida",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "38a0b137-99d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad Privada del Valle S.A. - Campus Univalle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "26e3ff92-240e-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Salesiana de Bolivia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "6b9d7ebd-7227-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Simon I. Patiño",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "68eaacfc-b3d3-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Técnica de Oruro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "0d1f107c-841c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Universidad Técnica Privada de Santa Cruz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "a189fdc5-af81-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnológica Boliviana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BOL",
+		"InstitutionID": "26aad7a4-78f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad Tecnologica Privada de Santa Cruz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

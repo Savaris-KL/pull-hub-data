@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "a1e7572b-790c-e011-bed1-0030487d8897",
+		"OrganizationName": "NSW Department of Education WAH",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://det.nsw.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "5bae579a-7c0c-e011-bed1-0030487d8897",
+		"WebStoreName": "NSW Department of Education WAH",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5bae579a-7c0c-e011-bed1-0030487d8897"
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "65a7eec4-d54b-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Malta College of Arts, Science and Technology (MCAST)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "cc95acde-3201-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Malta Information Technology Agency",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "e99de16d-9d52-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Saint Martin's Institute of Higher Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "b3f0f5ed-c198-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "St Martin's Institute - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "e195c420-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Martin's Institute of IT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "a6c42dba-a3fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "St. Catherine’s High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "bd634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Malta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MLT",
+		"InstitutionID": "db95c420-361a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Verdala International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

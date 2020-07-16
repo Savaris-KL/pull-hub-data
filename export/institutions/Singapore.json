@@ -1,0 +1,650 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "d2802ea7-c18c-de11-8cd1-0030487d8897",
+		"OrganizationName": "Anglo-Chinese School (Independent)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "aaa6a37d-2a3d-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Anglo-Chinese School (Primary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "79624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Asia Baptist Theological Seminary of Cornerstone University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "eaac7e36-e123-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Asia Graduate School of Theology Alliance (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "c1d0ac8a-f34b-e011-bd14-0030487d8897",
+		"OrganizationName": "Asian Educational Consortium College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "ea61afbb-a781-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Auston Institute of Management - Singapore - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "6f67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "BCA Academy of the Built Environment",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "5e46892d-1c17-df11-856f-0030487d8897",
+		"OrganizationName": "Bioinformatics Institute (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7b076fe5-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Canadian International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "a5d7a203-9e84-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "CASA Fulfillment Center - Microsoft APOC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "e2dce79f-cc8d-df11-ad8b-0030487d8897",
+		"OrganizationName": "Center for American Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f9ebae48-ce60-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Changkat Changi Secondary School (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "53114edd-551c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Chartered Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "39dd5645-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "CHATSWORTH GROUP OF SCHOOLS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "0b201038-e2a2-de11-886d-0030487d8897",
+		"OrganizationName": "CHIJ Secondary (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "83076fe5-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cognita Asia Holdings Pte Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "ada9698a-7b4b-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Crescent Girls' School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "58f10ac1-3f7b-e011-969d-0030487d8897",
+		"OrganizationName": "German European School Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "4e92a333-bab6-df11-ad57-0030487d8897",
+		"OrganizationName": "Global Indian International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "48675321-bef1-df11-9c87-0030487d8897",
+		"OrganizationName": "Informatics Education Ltd.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "fc370f42-61b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Institute of Technical Education - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "2a5fac31-4702-ea11-8124-000d3af41938",
+		"OrganizationName": "Institute of technical education (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7367e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institute of Technical Education College East",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "46d8e7e2-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Institute Of Technical Education, College East",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "c2cfd8ce-a70e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Juying Secondary School (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "b8068496-ecdb-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Kaplan Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "6162191d-32f0-df11-9c87-0030487d8897",
+		"OrganizationName": "Knowledge Universe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "2397353e-070b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "LASALLE College of the Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "da417d5d-d915-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Management Development Institute of Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "e827751b-ba40-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Ministry Of Education, Sg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "dd8f741a-b463-e111-8056-f04da23e67f6",
+		"OrganizationName": "MOE Singapore Student Select",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "dbd5f89c-879a-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Nanyang Academy of Fine Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "8ed9e67c-ac3e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Nanyang Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f1634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Nanyang Technological University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f6644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Institute of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "784728ae-4237-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "National Institute of Education - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f188d75c-3124-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "National Junior College (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "45173b5a-bfc3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "National University Health System",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "60634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National University of Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7667e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "New York University Tisch School of the Arts Asia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "e6d6f48b-d0aa-e711-80f7-000d3af41938",
+		"OrganizationName": "Newcastle University in Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "70cec34b-5bff-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Ngee Ann Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "d2211ba4-cba2-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Ngee Ann Secondary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "a9bfbe0a-eddc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "NUS High School of Mathematics and Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "35f91b6b-918f-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Parkway College of Nursing and Allied Health",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "dfa61e57-9982-e211-bf66-f04da23e67f4",
+		"OrganizationName": "PSB Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "91289c05-9650-e911-8113-000d3af41938",
+		"OrganizationName": "Radin Mas Primary School (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "1d32977b-f776-e711-80f1-000d3af41938",
+		"OrganizationName": "Raffles Design Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "43634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Raffles Institution - Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "44634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Republic Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "332982a6-9029-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "River Valley High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "b1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "S P Jain Center of Management - Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "d518069b-cc86-e911-811a-000d3af41938",
+		"OrganizationName": "Saint Hilda's Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "33dd5645-5633-e211-aed3-f04da23e67f6",
+		"OrganizationName": "School of the Arts, Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "6e76f9b2-80d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Serangoon Junior College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7eec48e6-99fa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "SIM University (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "d6526f15-8fb7-df11-859b-0030487d8897",
+		"OrganizationName": "Singapore American School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "a9bdc29f-150d-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Singapore Bible College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "95a1c528-c3fe-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Singapore Higher-Ed Portal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "46dab6bc-fb34-de11-9d57-0030485a8df0",
+		"OrganizationName": "Singapore Institute of Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "fe610569-f1f4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Singapore Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "20644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Singapore Management University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "c8624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Singapore Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "27039773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Singapore Polytechnic - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7967e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Singapore Sports School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "9027e738-184a-e711-80f0-000d3af41938",
+		"OrganizationName": "Singapore University of Social Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "47aed327-d078-e911-8119-000d3af41938",
+		"OrganizationName": "Singapore University of Social Sciences (新跃社科大学/新躍社科大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "8c8114be-25b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Singapore University of Technology & Design (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f6f87418-f4df-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "St Joseph's Institution Junior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "9e953ef4-96c8-e211-be21-f04da23e67f4",
+		"OrganizationName": "St. Hilda’s Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "69b591ba-6b6f-e011-971f-0030487d8897",
+		"OrganizationName": "Stamford American International School Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "475ffab2-9304-e011-bed1-0030487d8897",
+		"OrganizationName": "Tanglin Trust School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f2bb27f6-eab6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "TCA College (Singapore)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "30bbee78-210c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Temasek Junior College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "b6644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Temasek Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "294dce85-0931-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Temasek Polytechnic - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "f4e127a8-b3bd-de11-886d-0030487d8897",
+		"OrganizationName": "U21 Global university",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "0162bbc8-8bb7-df11-859b-0030487d8897",
+		"OrganizationName": "United World College of South East Asia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "7c67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Newcastle Singapore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "8633bccc-92ff-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Victoria Junior College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SGP",
+		"InstitutionID": "3b8cde39-706b-e911-8115-000d3af41938",
+		"OrganizationName": "Woodlands Ring Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

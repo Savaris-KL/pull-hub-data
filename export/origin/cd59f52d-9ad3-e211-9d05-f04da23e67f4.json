@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "25fc5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Instituto Tecnologico de Buenos Aires",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f98a8c5f-826f-e011-971f-0030487d8897",
+		"WebStoreName": "Instituto Tecnologico de Buenos Aires - Información",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f98a8c5f-826f-e011-971f-0030487d8897"
+	}
+]

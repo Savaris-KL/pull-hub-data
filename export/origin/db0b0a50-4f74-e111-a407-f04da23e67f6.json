@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "db0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Barstow Community College",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e1e24a90-2fda-e911-8120-000d3af41938",
+		"WebStoreName": "Barstow Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e1e24a90-2fda-e911-8120-000d3af41938"
+	}
+]

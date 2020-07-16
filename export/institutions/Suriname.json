@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SUR",
+		"InstitutionID": "1499cc44-8e6d-df11-b841-0030487d8897",
+		"OrganizationName": "Anton de Kom University of Suriname",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SUR",
+		"InstitutionID": "85b3a740-8084-e811-8108-000d3af41938",
+		"OrganizationName": "FHR Institute for Higher Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SUR",
+		"InstitutionID": "f9850c46-28bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Polytechnic College Suriname (PTC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "653d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pima County Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://pima.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "c375102a-0094-df11-ad8b-0030487d8897",
+		"WebStoreName": "Pima County Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c375102a-0094-df11-ad8b-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "7789285a-e46e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Pima County Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://pima.ela.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "46024d7b-8474-e211-bf66-f04da23e67f4",
+		"WebStoreName": "Pima County Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=46024d7b-8474-e211-bf66-f04da23e67f4"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "3ef9d792-0d1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pima County Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4bf9d792-0d1f-e211-a76f-f04da23e67f6",
+		"WebStoreName": "Pima Community College CIS",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4bf9d792-0d1f-e211-a76f-f04da23e67f6"
+	}
+]

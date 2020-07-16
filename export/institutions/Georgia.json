@@ -1,0 +1,130 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "2b0c96af-25a4-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Akaki Tsereteli State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "8d1da31f-b4f7-e711-80fc-000d3af41938",
+		"OrganizationName": "Batumi Shota Rustaveli State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "e0590641-8f06-e811-80fc-000d3af41938",
+		"OrganizationName": "Business and Technology University (Tblisi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "f386827d-0365-e911-8115-000d3af41938",
+		"OrganizationName": "Caucasus University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "7610d07c-74ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Collins Hill High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "9d2f2d4e-5cd1-e711-80f9-000d3af41938",
+		"OrganizationName": "Education Management Information System",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "321a9ba7-395c-e711-80f0-000d3af41938",
+		"OrganizationName": "European School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "f4642d89-199b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Georgian Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "a689d77b-15e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Georgian-American University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "39635e79-7bf8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "International Black Sea University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "993d4764-e1de-e911-8120-000d3af41938",
+		"OrganizationName": "IT ACADEMY STEP - VMware IT Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "5b70563d-a34e-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Lumpkin County School System",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "79e1dcee-ce4c-e911-8113-000d3af41938",
+		"OrganizationName": "Shota Meskhia State Teaching University of Zugdidi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "e64d6261-94f4-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Staatliche Berufsschule I und Berufsoberschule Landshut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "a2baa03a-7103-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Sukhishvili Teaching University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GEO",
+		"InstitutionID": "03654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Georgia (GEO)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

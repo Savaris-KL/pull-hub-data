@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "029c0102-0049-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "King's College Christian School Warrnambool",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://kingscollege.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "43da041b-0049-e111-a1f4-f04da23e67f6",
+		"WebStoreName": "King's College Christian School Warrnambool",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=43da041b-0049-e111-a1f4-f04da23e67f6"
+	}
+]

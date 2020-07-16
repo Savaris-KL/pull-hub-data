@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AM",
+		"CountryIsoAlpha3Code": "ARM",
+		"CountryName": "Armenia",
+		"InstitutionID": "3ad6cd51-f030-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "American University of Armenia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "51d6cd51-f030-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "American University of Armenia - Information and Communications Technologies Services",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=51d6cd51-f030-e311-93f6-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AM",
+		"CountryIsoAlpha3Code": "ARM",
+		"CountryName": "Armenia",
+		"InstitutionID": "23760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American University of Armenia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9fedc405-56a8-e311-93fb-b8ca3a5db7a1",
+		"WebStoreName": "American University of Armenia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9fedc405-56a8-e311-93fb-b8ca3a5db7a1"
+	}
+]

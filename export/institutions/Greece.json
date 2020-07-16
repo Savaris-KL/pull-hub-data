@@ -1,0 +1,754 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "792324ca-5ceb-df11-9c87-0030487d8897",
+		"OrganizationName": "Agricultural University of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "024a6e07-962f-e011-b71d-0030487d8897",
+		"OrganizationName": "AKTO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "4425f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "ALBA Graduate Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "288132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Alexander Technological Educational Institute (Α.Τ.Ε.Ι) of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "6625f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "American College of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "948500cb-c86d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Anatolia College - Pylaia - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "4a597b4d-9c2f-e011-b71d-0030487d8897",
+		"OrganizationName": "Aristotelio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "7b8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Aristotle University of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "9333134e-dd70-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Aristotle University of Thessaloniki (Greece)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "6b25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Athena Research and Innovation Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "748032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Athens School of Fine Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "63624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Athens University of Economics and Business",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "473f2464-d207-e011-bed1-0030487d8897",
+		"OrganizationName": "CITY College Greece",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "5ecdd988-6bd4-e711-80f9-000d3af41938",
+		"OrganizationName": "City Unity College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "7125f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "DEI College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "f061e6bb-fb41-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Democritus University of Thrace",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "828032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Democritus University of Thrace - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "6fd5d48f-0906-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Eastern Macedonia and Thrace Institute of Technology (EMATTECH)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "abc0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ecclesiastical Academy of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8525f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eskisehir Osmangazi Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "0e22e1a0-8ad8-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Fryganiotis School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "6879f3b7-e548-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Geitonas School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "7625f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Greek Atomic Energy Commission",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "cfe39ae0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Greek Atomic Energy Commission - Athens - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "898032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Greek Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a784ddf0-d88e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Greek Research and Technology Network",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "e88032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Harokopeio University of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "7b25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Harokopio University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b0c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hellenic Air Force Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b6c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hellenic Air Force Academy of Air Navigators",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "aa21e363-fe49-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Hellenic Air Force Technical NCO Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "0113848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hellenic American Education Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "bbc0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hellenic Naval Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b0ada0f5-89d8-df11-bd73-0030487d8897",
+		"OrganizationName": "Hellenic Open University (Ελληνικό Ανοικτό Πανεπιστήμιο)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "c0c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Higer School of Pedagogical and Technological Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "c5c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "International Hellenic University - Thessaloniki - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "908032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ionian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "33aa7401-6d9a-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "IST College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "c5920714-4d3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Orestis Matsoukas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "7541755a-f1c6-e211-be21-f04da23e67f4",
+		"OrganizationName": "Mediterranean agronomic institute of Chania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8fe9b472-676f-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Metropolitan College (Greece)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b2624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National and Kapodistrian University of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8025f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "National Observatory Of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b5624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "National Technical University of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "065ac4c1-6bd4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "National Technical University of Athens (NTUA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8a25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Panepisthmio Peloponnhsoy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "d48032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Panteion University of Social and Political Sciences (Πάντειον Πανεπιστήμιο Κοινωνικών και Πολιτικών Επιστημών)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "034fd778-4b34-e011-b1e1-0030487d8897",
+		"OrganizationName": "Protypa School of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8f25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Research Academic Computer Technology Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "3af41948-f6a5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "SAE Ellados M.E.P.E.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "5f315709-a55c-e111-8056-f04da23e67f6",
+		"OrganizationName": "School of Pedagogical and Technological Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "f407e0fe-0d9c-e811-8109-000d3af41938",
+		"OrganizationName": "Scientific College of Greece",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a772a036-6f54-e811-8105-000d3af41938",
+		"OrganizationName": "St. Catherine's British School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b9df16d4-1785-e811-8108-000d3af41938",
+		"OrganizationName": "T.E.I. of Central Macedonia - Mechanical Engineering - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "9525f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "T.E.I. Piraeus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "dc8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Technical University of Crete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "9a25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "9f25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Crete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "458132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Lamia (Greece)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a425f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Larissa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a925f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Messolonghi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a353dd10-a702-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Technological Educational Institute of Peloponnese",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "ae25f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological Educational Institute of Serres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "4ef87e48-ab35-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Technological Educational Institute Thessalias - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "f38032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Athens",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "218132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Epirou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "6f8132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Halkidas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "3d8132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Hrakleiou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "368132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Kalamatas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "2f8132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Kavalas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "4c8132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Larisas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "538132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Mesologeiou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "cac0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "TEI of Crete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "cfc0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "TEI of Patras",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "d4c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "TEI of the Ionian Islands",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "008132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI of Western Macedonia (Greece)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "5a8132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Patras",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "618132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Peiraia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "688132bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TEI Serron",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "aaf6ab01-6ab0-df11-ad57-0030487d8897",
+		"OrganizationName": "The American College of Greece",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "978032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Aegean",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "d9c0fdbf-9f64-e111-8056-f04da23e67f6",
+		"OrganizationName": "University of Central Greece",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b68032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Crete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "ae4f06f4-6f85-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "University of Cyprus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "ac8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Ioannina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "bf8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Macedonia (Greece)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "8f073c80-41ae-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Patras",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "cd8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Peloponisos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "b325f136-9f73-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Peloponnese",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "c68032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Piraeus - Piraeus Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "0c654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Thessaloniki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "a58032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Thessaly",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "df2a1134-fb9d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "University of Western Greece - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GRC",
+		"InstitutionID": "9e8032bf-91f9-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Western Macedonia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

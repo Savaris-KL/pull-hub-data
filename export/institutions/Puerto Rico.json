@@ -1,0 +1,602 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "423bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia Discipulos de Cristo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "7a3bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia militar de las Antillas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "e16bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia San Ignacio de Loyola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "c76bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia San Jose Elemental",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "623bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia San Jose High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "d96bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Antilles Military Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "111d8f44-dbcb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Caribbean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "39a3494f-3fd0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Center for Advanced Studies on Puerto Rico and the Caribbean",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "3a3bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Bautista de Caguas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "f36bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Carmen Sol, Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "f96bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Catolico Notre Dame",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "970f648c-a32a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Colegio de Informatica y Tecnologia de Puerto Rico - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "7dcc2f76-b284-e111-981b-f04da23e67f6",
+		"OrganizationName": "Colegio de Ingenieros y Agrimensores de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "ed6bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Nstra. Sra. de la Providencia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "5a3bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Sagrado Corazon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "dbb317d8-dcf4-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Colegio San Ignacio de Loyola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "b3905c7e-ae05-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Colegio San José de San Juan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "236d419a-05c6-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Columbia Central University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "fd8a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Computer Technical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "9c3ed58d-4719-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Conservatorio de Música de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "256f8c66-5407-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Department of Education St. Croix District",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "24a1a370-4f0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Department of Education St. Thomas/St. John's District",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "731af51e-c0a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "EDP University of  Puerto Rico, Sebastian Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "8cbeee16-6425-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "EDP University of Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "bb6bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Esc. Jose E. Aponte De La Torre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "a5f7de3a-ea0c-e811-80fe-000d3af41938",
+		"OrganizationName": "Escuela Especializada en Matemáticas, Ciencias y Tecnología - San Juan - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "c1ee0a1e-e9b0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Padre Rufo (bilingue)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "cd6bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Government of the United States Virgin Islands Department of Education Office of the Commissioner",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "e76bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grupo Educativo - Municipio de Fajardo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "2a8a881a-40ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Huertas Junior College - Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "e5c7fd6a-0911-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Incube2 - Colegio de Informática de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "4a3bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Iniciativa - Tecnologica Centro Oriental Inc. / CIMATEC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "c16bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Iniciativa - Tecnologica Centro Oriental, Inc. / CIMATEC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "34ef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Instituto de Banca y Comercio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "5ece0ce2-d3c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto de Banca y Comercio (Puerto Rico)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "efa1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Inter American University of Puerto Rico, Guayama Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "bbd2eba1-25c2-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Inter American University of Puerto Rico, San German",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "723bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Islas Vírgenes de EE.UU. Departamento de Educación",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "523bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Liceo de Arte y Diseño Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "893b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mech-Tech College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "694e56cb-12e8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Microsoft Academy Service Partner  - Computer Learning Centers, Inc. - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "ff6bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "municipio autonomo de juncos, departmento de educacion municipal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "b56bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Museo de Arte de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "a1c97a00-3728-e211-aed3-f04da23e67f6",
+		"OrganizationName": "National University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "78644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Polytechnic University of Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "7203cd08-33be-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Ponce Health Sciences University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "a6812df6-524e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Ponce Paramedical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "cbdcb97f-2f34-de11-9d57-0030485a8df0",
+		"OrganizationName": "Ponce School of Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "19ef6736-49bb-df11-859b-0030487d8897",
+		"OrganizationName": "Pontificia Universidad Catolica de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "a6ec6acf-1686-e011-969d-0030487d8897",
+		"OrganizationName": "Pontificia Universidad Católica de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "ec8652b5-23b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Puerto Rico Department of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "018b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Recinto Universitario de Mayagüez de la Universidad de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "6a3bc9b4-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "San Ignacio de Loyola Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "cc17628a-c9e0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Sistema Universitario Ana G. Méndez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "8cfdaeeb-c7e0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Sistema Universitario Ana G. Méndez, VMware Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "d36bab70-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Thomas Alva Edison School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "6ed85047-184a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Adventista de las Antillas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "fa55f72e-5a6e-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Carlos Albizu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "83634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Central del Caribe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "cef85638-de73-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "18906e0c-6591-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Puerto Rico Aguadilla",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "048b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Puerto Rico en Bayamón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "782b4012-b9da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Puerto Rico School of Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "15274a00-6291-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Puerto Rico, Carolina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "588392e2-72d8-df11-bd73-0030487d8897",
+		"OrganizationName": "Universidad del Este",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "e2bcc8b6-3096-e111-981b-f04da23e67f6",
+		"OrganizationName": "Universidad del Sagrado Corazon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "580883c4-b106-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Turabo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "90634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Interamericana de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "6603970e-f456-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Internacional Iberoamericana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "a9644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Metropolitana (UMET)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "08ce9ad8-4dd5-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Politecnica de Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "e8634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Puerto Rico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "05654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Puerto Rico - Mayaguez Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "38624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Puerto Rico - Medical Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRI",
+		"InstitutionID": "02644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Puerto Rico at Cayey",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

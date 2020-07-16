@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "6300882e-2812-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "National Institute of Technology Australia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "7100882e-2812-e611-941a-b8ca3a5db7a1",
+		"WebStoreName": "National Institute of Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7100882e-2812-e611-941a-b8ca3a5db7a1"
+	}
+]

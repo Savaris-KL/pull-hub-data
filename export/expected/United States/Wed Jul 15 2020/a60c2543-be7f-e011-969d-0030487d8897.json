@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "85a4b343-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Chisholm Institute - Dandenong Campus",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "71aa8b24-b48b-e011-969d-0030487d8897",
+		"WebStoreName": "Chisholm Institute - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=71aa8b24-b48b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "a60c2543-be7f-e011-969d-0030487d8897",
+		"OrganizationName": "Chisholm Institute - Dandenong Campus",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "96fd6ae3-c823-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Chisholm Institute - Dandenong Campus",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=96fd6ae3-c823-e411-9403-b8ca3a5db7a1"
+	}
+]

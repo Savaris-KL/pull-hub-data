@@ -1,0 +1,586 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "a21e9883-78c3-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "APBS - Avicenne Private Business School - Information Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "53335af4-9a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale des Sciences de l'Informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "944458d6-3fab-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale des Sciences et Technologies Avancées de Borj Cédria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "d371cfce-4d92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "École nationale d'ingénieurs de Carthage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "7bc67881-8d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "ECOLE NATIONALE D'INGENIEURS DE GABES (National Engineering School of Gabès)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "1880de5c-9a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale d'Ingénieurs de Monastir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "4c1e5b1b-b491-e811-8108-000d3af41938",
+		"OrganizationName": "École nationale d'ingénieurs de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "f00d4bab-9a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale d'Ingénieurs de Sousse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "865486cf-9a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale d'Ingénieurs de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "b8c82a25-9b8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale Supérieure d'ingénieurs de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "88e26b50-9b8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Polytechnique De Tunisie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "d01a8ba1-b28c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Supérieure de Commerce de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "e86be65d-3d60-e811-8105-000d3af41938",
+		"OrganizationName": "Ecole supérieure de la statistique et de l'analyse de l'information",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "16463600-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Supérieure des Communications de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "299cc343-ab53-e811-8105-000d3af41938",
+		"OrganizationName": "École Supérieure des Sciences Économiques et commerciales de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "0736b19e-074f-e811-8103-000d3af41938",
+		"OrganizationName": "École Supérieure d'Informatique et de Gestion (Tunisia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "c62049ba-cfaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Superieure Privee des Sciences Appliquees et de Management (SEASAME)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "0e477043-5a7d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Supérieure Privée d'Ingénierie et de Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "ac9a77ef-7983-e711-80f3-000d3af41938",
+		"OrganizationName": "EPI Education Group",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "dad06170-5260-e811-8105-000d3af41938",
+		"OrganizationName": "Faculté des sciences de Monastir (كلية العلوم بالمنستير)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "fa380bdf-b28c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "FACULTÉ DES SCIENCES MathÉmatiques, Physiques et Naturelles de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "6cf27a33-917e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Faculté des Sciences Techniques Economiques de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "2fa0613d-b48c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Higher Institute of Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "ffca0d01-0c1b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "IHEC Carthage - Institut des Hautes Études Commerciales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "4d47ce8c-f01b-e811-80fe-000d3af41938",
+		"OrganizationName": "Institut des Hautes Etudes Commerciales de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "d280a638-2a3c-e811-8103-000d3af41938",
+		"OrganizationName": "Institut International de Technologie de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "93971cbf-26bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Institut National Agronomique de Tunisie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "f0809797-b38c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut National des Sciences Appliquées et de Technologie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "e3aaaaff-b38c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut Superieur d’Informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "773e569f-b48c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut Supérieur d’informatique et de Mathématique Monastir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "42e8c40d-41a8-e711-80f7-000d3af41938",
+		"OrganizationName": "Institut Superieur de Gestion de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "f3d6d093-9651-e011-bd14-0030487d8897",
+		"OrganizationName": "Institut superieur de gestion de Tunis (ISG) - Tunisia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "c1fbdb1e-b48c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut Supérieur de l'Informatique du Kef",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "fe3559b0-b38c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut Supérieur des Arts Multimédia de la Manouba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "e47d783c-7595-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut Supérieur des Etudes Technologiques (Charguia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "7996738a-314a-e811-8103-000d3af41938",
+		"OrganizationName": "Institut supérieur des études technologiques de Bizerte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "8a411667-c965-e911-8115-000d3af41938",
+		"OrganizationName": "Institut Supérieur des Etudes Technologiques de Jendouba (ISET Jendouba)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "c2dbcc05-1a23-e811-8101-000d3af41938",
+		"OrganizationName": "Institut Supérieur des études Technologiques de Kairouan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "60147e0e-3592-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "INSTITUT SUPÉRIEUR D'INFORMATIQUE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "4a0f8f54-b38c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Institut supérieur d'Informatique et des Techniques de Communication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "35c4bd75-26bb-e711-80f7-000d3af41938",
+		"OrganizationName": "IRESA : Institution de Recherche et de l'Enseignement Supérieur Agricoles",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "b3ca7ce7-b38c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "ISET Mahdia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "15789578-07c0-e711-80f7-000d3af41938",
+		"OrganizationName": "ISET'COM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "819332a3-b9b2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Istanbul Ticaret Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "60e05c58-a597-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Jendouba University Tunisia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "7c342563-8d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "L’Ecole Nationale d’Ingénieurs de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "5d78b3db-b48c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "L’Institut Supérieur des Technologies de l’Information et de la Communication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "b5e6be81-d370-e811-8106-000d3af41938",
+		"OrganizationName": "Ministry Of High Education Tunisia - Tunis - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "6760407b-9a8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "National Engineering School of Sfax - Ecole Nationale d’Ingénieurs de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "a43baa5f-fa3b-e811-8103-000d3af41938",
+		"OrganizationName": "Polytechnique Sousse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "fa1d4e6c-4916-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "South Mediterranean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "5fc52175-6616-e811-80fe-000d3af41938",
+		"OrganizationName": "TEK-UP: The Private Higher School of Technology and Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "44c28306-9b8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The National School of Computer Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "835681f3-9850-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Time higher school - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "b5c33ee4-3f37-e811-8103-000d3af41938",
+		"OrganizationName": "Tunis Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "68e6f7de-0108-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Université Centrale de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "edd0bda8-f434-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Université de Carthage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "9fa82875-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Gabes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "deae852b-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Gafsa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "360f3681-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Kairouan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "ef04c256-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Manouba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "d7da093e-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Monastir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "6c4c209a-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "daaf4e18-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Sousse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "00aaf2fc-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite de Tunis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "9bc1a6b0-bb97-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Université de Tunis El Manar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "3aef3dac-b58c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universite Elmanar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "d5bbce7f-d1e0-e111-9231-f04da23fc522",
+		"OrganizationName": "Université Internationale de Tunis - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "a060a64f-665c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Université Libre de Tunis (Tunisia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "ce171906-004c-e511-9417-b8ca3a5db7b1",
+		"OrganizationName": "Université SESAME",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "8e263f47-00e1-e711-80fa-000d3af41938",
+		"OrganizationName": "Université Tunis Dauphine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "3a935940-c2d6-e711-80f9-000d3af41938",
+		"OrganizationName": "University of Sfax",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUN",
+		"InstitutionID": "f5195610-73f8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University of Tunis El Manar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

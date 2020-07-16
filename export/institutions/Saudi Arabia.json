@@ -1,0 +1,626 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "50890cd7-21bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Al Aqeeq International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "ebfddda9-43a7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Al Bayan Colleges",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "41797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Al Hussan Training Institute of Managment  Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "04e829cf-d49a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Al Yamamah University - Riyadh - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "d381b8f5-0177-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Alfaisal University (Alfaisal University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "7e1789e7-7d07-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Al-Imam Muhammad Ibn Saud Islamic University (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "0f757d68-3cb1-e811-810a-000d3af41938",
+		"OrganizationName": "Al-Jouf University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "d2685d54-5e50-e711-80f0-000d3af41938",
+		"OrganizationName": "Batterjee Medical College for Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "0e94ff09-3c7b-e011-969d-0030487d8897",
+		"OrganizationName": "College of Business Administration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "0ae5c935-888c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "College of Science Al-Zulfi - Majmaah University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "55556461-76e0-e911-8120-000d3af41938",
+		"OrganizationName": "Dammam Community College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "fe09193b-171a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dar Al-Hekma College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "b3197130-d688-e711-80f3-000d3af41938",
+		"OrganizationName": "Dhahran Ahliyya Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "44797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Effat College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "9d179f9e-88a2-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "High Institute For Elastomer Industries (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "d5ada3cd-68f1-e711-80fb-000d3af41938",
+		"OrganizationName": "Imam Abdulrahman Bin Faisal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c88848cc-51f5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "International Technical Female College at Makkah",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "549f31f1-5aff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Islamic University in Medina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c1168e65-adb1-e111-b575-f04da23e67f6",
+		"OrganizationName": "Jazan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "001177a8-d9cc-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Jubail Industrial College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "7c95720e-48ae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Jubail Industrial College - Jubail Industrial - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "38821460-2c00-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Jubail University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "f7ec4e46-82be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "KACST",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "47797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Khamis Mushait Technology College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "5d654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "King Abdul Aziz University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "4bee6a1f-8928-e811-8101-000d3af41938",
+		"OrganizationName": "King Abdulaziz Medical City Postgraduate Medical Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "fa9a4aa1-83eb-e011-b09a-f04da23e67f6",
+		"OrganizationName": "King Abdulaziz University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "fc4d5b9b-f6aa-df11-ad57-0030487d8897",
+		"OrganizationName": "King Abdullah University for Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "815c9318-e2d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "King Fahd university for Petroleum and Minerals",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "e9644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "King Fahd University of Petroleum & Minerals",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "ae18d2ab-d99c-e011-969d-0030487d8897",
+		"OrganizationName": "King Faisal Specialist Hospital & Research Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "a7c6d0b6-974c-df11-b56b-0030487d8897",
+		"OrganizationName": "King Faisal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "5a1b4ae7-1406-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "King Khaled Eye Specialist Hospital (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "3348f880-2d25-e211-a76f-f04da23e67f6",
+		"OrganizationName": "King Khalid University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "88708c85-5037-e711-80ef-000d3af41938",
+		"OrganizationName": "King Khalid University - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "729d7a04-bbb2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "King Saud bin Abdulaziz University for Health Sciences - Riyadh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "89bd443e-7caf-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "King Saud University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "d9d1aa60-446c-e011-971f-0030487d8897",
+		"OrganizationName": "King Saud University - Derayah Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c0f73f68-decd-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Knowledge International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "34728cfb-9a22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Laureate Jeddah College of Excellence",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "5e45c235-1bb0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Laureate Makkah Female College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "4a797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Madinah College of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "1a807062-f726-e811-8101-000d3af41938",
+		"OrganizationName": "Majmaah University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "5801e2b2-a23a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Majmaah University - Majmaah - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "6d0581e1-3301-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ministry of Education - Saudi Arabia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "4f38a403-fc2c-e811-8101-000d3af41938",
+		"OrganizationName": "Multinational School - Riyadh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "59afb2f5-5850-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Najran University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "b05e984f-9bae-e711-80f7-000d3af41938",
+		"OrganizationName": "Niagara College KSA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c4b13705-ad37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Northern Border University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "d4c80b13-eea6-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Prince Mohammad University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "398e3cd2-838b-e811-8108-000d3af41938",
+		"OrganizationName": "Prince Sattam Bin Abdulaziz University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "19824fba-6372-df11-bc53-0030487d8897",
+		"OrganizationName": "Prince Sultan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "0d67c07c-f881-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Prince Sultan University - Women Campus - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "b70d95ce-7fa4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Prince Sultan Universty (PSU) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "32a7b185-01be-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Princess Nourah bint Abdulrahman University (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "e4c4654d-762f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Qassim University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c62ac66e-25dc-e711-80fa-000d3af41938",
+		"OrganizationName": "Riyadh Colleges of Dentistry and Pharmacy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "037ef728-b6b5-e811-810a-000d3af41938",
+		"OrganizationName": "Riyadh Polytechnic Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "26e0ff7c-4d76-e811-8106-000d3af41938",
+		"OrganizationName": "Saudi Arabian International School - Riyadh, Multinational - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "9e715a10-7e3e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Saudi Electronic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "55f0a08d-a626-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Saudi Electronic University - Riyadh - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "a0e1987f-c9fa-e711-80fc-000d3af41938",
+		"OrganizationName": "Shaqra University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "8e043b67-5dc6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sulaiman Al Rajhi Colleges (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "abf4d82d-16ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Tabuk University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "bdf5569a-654e-e011-bd14-0030487d8897",
+		"OrganizationName": "Taibah University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "874e1136-4250-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Taif University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "61e0c992-d58d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Technical and Vocational Training Corporation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "60f31678-e929-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Technical and Vocational Training Corporation - Saudi Arabia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "7a2c8eca-e3bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Thamer International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "e3436678-af2a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Umm al-Qura University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "c4ad3e6f-4163-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "University of Business and Technology (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "b0f208f7-0d9a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Dammam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "910e027e-c68d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of Hail",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "261350a2-0bfd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University of Jeddah",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "bcffc637-f9a4-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "University of Prince Mugrin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "cf644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "7b79a5c9-a09d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Yanbu Industrial College (Saudi Arabia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SAU",
+		"InstitutionID": "4d9d0734-05d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Yanbu University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

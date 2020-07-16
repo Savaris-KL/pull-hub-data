@@ -1,0 +1,698 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Aaniiih Nakoda College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f41609c-1477-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "American High School",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e603ac2-a9d8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Anaconda School District #10",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Arlee Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2742e8e7-40e2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Big Sky School District #72",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98fe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Blackfeet Community College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "249b12a9-29d3-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Bozeman Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carroll College Montana",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0bdce30-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Chief Dull Knife College - Computer - Departmental Store",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54b86266-4cfd-df11-9c87-0030487d8897",
+		"OrganizationName": "Crowder College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9cf5f38-ee78-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Cut Bank Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19d99f37-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dawson Community College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f665633-d665-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Elder Grove School",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Flathead Valley Community College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "749522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fort Belknap College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eac20ee8-ac41-df11-b56b-0030487d8897",
+		"OrganizationName": "Fort Peck Community College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcb0f4f5-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Fort Peck Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f31e1977-bf56-e711-80f0-000d3af41938",
+		"OrganizationName": "Francis Howell School District (FHSD)",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f5f0c85-2b0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Frenchtown School District #40",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Geraldine Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46e1df7e-5c12-df11-85a5-0030487d8897",
+		"OrganizationName": "Glasgow Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df4f756f-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hannibal Career and Technical Center",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "946e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Havre Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9757ed15-b692-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Helena Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5d0768d-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hillyard Technical Center",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89b4e9df-b236-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "John Burroughs School - MO",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c6ceaee-0c5e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Lockwood school",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "013c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Miles Community College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Missoula County Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f3c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Montana Bible College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "367fc009-ec8f-4c80-9439-1009596fa355",
+		"OrganizationName": "Montana Office of Public Instruction",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Montana State University Billings",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6965cc19-e438-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Montana State University, Bozeman",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c864375-a432-de11-9d57-0030485a8df0",
+		"OrganizationName": "Montana State University, Bozeman - College of Engineering",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18994c84-699e-e011-969d-0030487d8897",
+		"OrganizationName": "Montana State University–Great Falls College of Technology",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "MSU, Billings",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "MSU, Bozeman",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "MSU, Northern",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "911f9a9f-5c12-df11-85a5-0030487d8897",
+		"OrganizationName": "Natshua Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d045bf2e-ace5-4e2d-8533-46f70f5d7838",
+		"OrganizationName": "Orchard Farm R-V School District",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Orchard Farm School District",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2462ab35-df0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Plains Public Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d37dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Polson High School District #23",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f90566e-94a8-4034-8889-636e7733eb28",
+		"OrganizationName": "Polson Middle School",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "492b6563-240e-4e85-aee8-a12f0a1f5700",
+		"OrganizationName": "Rockwood School District",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rocky Boy Schools",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rocky Mountain College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Salish Kootenai College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "919b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Savannah R-III School District",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cca481b8-4657-e111-8056-f04da23e67f6",
+		"OrganizationName": "The University of Montana Western",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "253b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Great Falls",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89abef37-e722-df11-856f-0030487d8897",
+		"OrganizationName": "University of Montana",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26efa870-109a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Montana - Helena",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "523b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Montana - Missoula",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7cd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Montana Helena",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dde8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Montana, Bozeman",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "533b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Montana, Montana Tech",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "543b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Montana, Western Montana College",
+		"ProvinceCode": "MT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

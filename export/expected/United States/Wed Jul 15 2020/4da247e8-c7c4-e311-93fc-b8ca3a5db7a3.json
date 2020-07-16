@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "f9fa5e22-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b2eec8cb-7b9b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad Nacional del Centro de la Provincia de Buenos Aires - Facultad de Ciencias Exactas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b2eec8cb-7b9b-e011-969d-0030487d8897"
+	}
+]

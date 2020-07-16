@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "836c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "James Cook University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "12bae876-a38b-e011-969d-0030487d8897",
+		"WebStoreName": "James Cook University - Information Technology & Resources",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=12bae876-a38b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "2e624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "James Cook University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ab6ea4e9-d173-e311-93f8-b8ca3a5db7a1",
+		"WebStoreName": "James Cook University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ab6ea4e9-d173-e311-93f8-b8ca3a5db7a1"
+	}
+]

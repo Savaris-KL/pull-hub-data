@@ -1,0 +1,4482 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Abraham Baldwin Agricultural College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21cfe7c0-9a2e-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Advance Training Centers - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Advent Episcopal Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "911054ea-f009-4c78-be87-316de79746a4",
+		"OrganizationName": "Agnes Scott College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bef16228-32bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "AIS Student Chapters",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Albany State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86dd16d0-8141-df11-b56b-0030487d8897",
+		"OrganizationName": "Albany Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdb4771b-af86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Alcovy High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alfred & Adele Davis Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "All Saint's Episcopal School of Ft. Worth",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2759f0a4-dfa5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Altamaha Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f50b0888-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Altoona high School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6becb87e-b82c-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "American University of Integrative Sciences, St. Maarten",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7fa95ad-4027-4bec-babc-38f5384cf92a",
+		"OrganizationName": "Andrew College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2697a30-3bda-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Apalache high school",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b73f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Appalachian Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arbor Montessori School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Argosy University - Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arlington Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ashley Hall School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ashworth Career Programs",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc29ab3e-ffdd-de11-baeb-0030487d8896",
+		"OrganizationName": "Ashworth College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Athens Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Athens Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Atlanta Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01770f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Atlanta Ballet Centre for Dance Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "135a638c-5b8d-495d-94ab-b3707428ca8a",
+		"OrganizationName": "Atlanta Christian College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Atlanta Girls' School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Atlanta International College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a90af9c-af32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Atlanta Jewish Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07770f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Atlanta Job Corps Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a2fa7a8-7888-df11-ad8b-0030487d8897",
+		"OrganizationName": "Atlanta Metropolitan State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d4bb828-306c-e011-971f-0030487d8897",
+		"OrganizationName": "Atlanta Public Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Atlanta Speech School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45044be4-586a-df11-b841-0030487d8897",
+		"OrganizationName": "Atlanta Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Atlanta Youth Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9a44fd8-d99c-e011-969d-0030487d8897",
+		"OrganizationName": "Atlanta's John Marshall Law School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Augusta Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Augusta Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be5bbcb6-84b2-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Augusta University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2096745e-777b-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Aviation Institute of Maintenance",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "B",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bainbridge College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd83423f-89cf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Baker County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b1d14b9-3446-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Barrow County School System - Winder - Campus Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Baylor School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bayside Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bedford School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Berkeley Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91ad5a1e-4378-40e4-83d8-10fe84b0d82d",
+		"OrganizationName": "Berry College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ffe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Beulah Heights University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efc14957-8f63-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Bibb County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blessed Trinity Catholic High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49a06a96-b568-40d6-904f-b93dd3be6d6b",
+		"OrganizationName": "Blessed Trinity School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Boyd-Buchanan School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Brandon Hall School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1748b007-81ba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Brantley County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcb57bb7-9648-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Brantley County Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "feea75fc-8b70-4208-9f8b-f310d07acaf7",
+		"OrganizationName": "Brenau University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Brentwood Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a538fca6-1ee4-4fee-863d-909f053c7cfc",
+		"OrganizationName": "Brewton-Parker College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bridgeway Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bright from the Start",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0af0e62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Brookstone School Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Brookstone School, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bec71bb-8880-e811-8108-000d3af41938",
+		"OrganizationName": "Brookwood School (Thomasville, Georgia)",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4aff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brown College of Court Reporting and Medical Transcription",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brunswick Job Corps Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a942b1a9-d3fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Bulloch County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed77c913-5e4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Butts County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16fb2ffa-3138-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Calvary Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Camdem Military Academy, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "960c0888-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Campbell High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cannon School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cardinal Newman School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddd8ee49-a09c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Carroll County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Carrolton Chirstian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24fbce1f-4e6a-e811-8106-000d3af41938",
+		"OrganizationName": "Cartersville City Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9113d4c7-7a4e-e011-bd14-0030487d8897",
+		"OrganizationName": "Central Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Charlotte County Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4392c494-18b5-df11-ad57-0030487d8897",
+		"OrganizationName": "Chattahoochee High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb64840a-57d8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Chattahoochee Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c7da1bb-1c2f-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Chattahoochee Technical College - Marietta - Microsoft Imagine Premium",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chattahoochee Technical College, Marietta Campus",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f86b302a-baed-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Cherokee Christian Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f53e5bd2-a544-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Cherokee County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chesterfield Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f17ef30e-39ad-de11-886d-0030487d8897",
+		"OrganizationName": "Chestnut Log Middle School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Children's School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chingaupin School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Christ Church Episcopal Preschool",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Christ School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c066c96e-8cd3-49a7-926b-6b7cefddd749",
+		"OrganizationName": "Clark Atlanta University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b79b7afa-0973-df11-bc53-0030487d8897",
+		"OrganizationName": "Clayton County Public Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d6378bc-d9c8-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Clayton State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cliff Valley School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "503c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coastal Georgia & Satte University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a47894ef-277d-e711-80f3-000d3af41938",
+		"OrganizationName": "Coastal Pines Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cobb County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76693b45-a901-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "College of Coastal Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "College School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Colleton Preparatory Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Colonial Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2e00809-8502-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Colquitt County School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "446b26c7-3ec8-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Columbia County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Columbia Theological Seminary",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0321a5c-adcd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Columbus State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ec890db-efb8-de11-886d-0030487d8897",
+		"OrganizationName": "Columbus Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Communications-Electronics Command – Training Development",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Community Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Community School of Naples",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concord University School of Law",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cook County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cornerstone Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7833631e-8103-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Cornerstone Preparatory Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cottage School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0282a670-a261-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Covenant Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Covenant Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ff14f8e-bd88-424d-8e1e-f46afff990e5",
+		"OrganizationName": "Covenant College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Covenant Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "246326b6-1590-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Crawford County High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Creative Learning Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Creekside",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97e47c87-3b52-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Cross Creek High School - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dc3d41a-b627-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Dade County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9537958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Dalton Public Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "523c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dalton State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Darlington School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "943c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Darton College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c80b6e1-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Darton College - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7f9a86e-dcf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "DeKalb County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeKalb Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dominican Campus",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Douglas County School System",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dozier Centre",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Duke School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dunham School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80051d9e-c323-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Dwight D. Eisenhower Army Medical Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "East Cobb Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "953c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "East Georgia College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7293cc7-1ce0-e211-9000-f04da23fc520",
+		"OrganizationName": "East Laurens High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10c8807e-1ce0-e211-9000-f04da23fc520",
+		"OrganizationName": "East Laurens High School - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Edgewood Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de5639d8-8cb2-de11-886d-0030487d8897",
+		"OrganizationName": "Effingham County High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Emmanuel College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72ef1a8a-aedf-42e0-ba78-e2fcbcc15027",
+		"OrganizationName": "Emmanuel College GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1502736d-a3a0-4750-a69d-fa5c711e384f",
+		"OrganizationName": "Emory University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54727700-858b-e011-969d-0030487d8897",
+		"OrganizationName": "Emory University - School of Medicine",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Emory University Center for Comprehensive Informatics",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8a0fc8f-bb56-e711-80f0-000d3af41938",
+		"OrganizationName": "Emory University Goizueta Business - Atlanta - Campus Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f7bf98c-bb2f-e011-b71d-0030487d8897",
+		"OrganizationName": "Emory University-GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ensworth College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Episcopal High School of Baton Rouge",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Epstein School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfa49e3c-2341-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Etowah High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b7daf61-ba54-e011-bd14-0030487d8897",
+		"OrganizationName": "Evans County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae0a6d41-9398-4677-bc65-3242f6bf0525",
+		"OrganizationName": "Everest Institute - GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Faith Academy of Mobile, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fayette County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fellowship Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "First Montessori School of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ffe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "First Presbyterian Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "031181a2-e0a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Flint River Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "963c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Floyd College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f044b17-896e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Forsyth County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Fort Knox High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Franklin County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Frederica Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Friends School of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bd6aa17-2302-e011-bed1-0030487d8897",
+		"OrganizationName": "Fulton County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ad98eaf-d7b8-de11-886d-0030487d8897",
+		"OrganizationName": "Gainesville State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Galloway School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "George Walton Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f89ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Georgia Aviation & Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Georgia Career Institute",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Georgia Christian University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgia College & State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3132589-c455-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Georgia Cyber Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd0d2aba-a728-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Georgia Department of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebff4f47-fb8f-489e-a45d-e07c0eb59a03",
+		"OrganizationName": "Georgia Foundation for Independent Colleges",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6e7c351-3610-df11-85a5-0030487d8897",
+		"OrganizationName": "Georgia Gwinnett College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Georgia Health Sciences University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgia Highlands College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cea4ba8b-715b-e211-b607-f04da23e67f6",
+		"OrganizationName": "Georgia Independent College Association",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "173b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgia Institute of Technology - Atlanta Campus",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a19522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Georgia Institute of Technology - College of Management",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Georgia Institute of Technology CoA, CoC, GTRI, Dev, Foundation, OHR, CoM",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Georgia Medical Institute",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Georgia Medical Institute-Dekalb",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8feaa1a6-e058-4cd5-9700-9cd9337530f8",
+		"OrganizationName": "Georgia Military College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80ed8bd5-5f49-df11-b56b-0030487d8897",
+		"OrganizationName": "Georgia Northwestern Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcead47c-c38c-de11-8cd1-0030487d8897",
+		"OrganizationName": "Georgia Perimeter College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "877b34b6-151d-e111-a703-f04da23e67f6",
+		"OrganizationName": "Georgia Piedmont Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "deabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Georgia Public Library Services",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b692dd48-ea72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Georgia Regents University, Augusta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38fbc5b1-a432-de11-9d57-0030485a8df0",
+		"OrganizationName": "Georgia Southern University - VMAP Campus",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Georgia Southwestern State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cecbe8e1-c685-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Georgia State University - KVC",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgia Tech - College of Managment",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgia Tech Enterprise Innovation Institute",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39f400c-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Georgia-Cumberland Academy - Information Technology - Departmental Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Georgia's Public Liberal Arts University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b007dd50-8e34-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Gilmer County Charter Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e53a15c-7bc3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Gilmer Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Girls Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9198e312-7854-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Glynn County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Gordon College (University System of Georgia)",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18a2dc55-13d2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Gordon State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9bd9356-fd83-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Grace Academy Cartersville",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Grace-St. Luke's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2aa0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Grady Health System Professional Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Greater Atlanta Christian Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Greenfield Hebrew Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e61c1ece-1c36-df11-b4ab-0030487d8897",
+		"OrganizationName": "Griffin Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9da0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gupton Jones College of Funeral Service",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1237696c-1fc5-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Gwinnett Country Public Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4ba59ed-2993-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Gwinnett County Public Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gwinnett Tech",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df0566b1-5ab8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Gwinnett Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a23c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gwinnett University Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cb394fe-e420-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Hall County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hammond School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a4ef507-1b9a-ea11-812b-000d3af41938",
+		"OrganizationName": "Hapeville Charter Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5fca0f51-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Hardaway High School - Integrated Technology - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harding Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Harrells Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c0709e5-b6a5-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Harris County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "370d0888-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Harrison High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7efe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Heard County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "329622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Heart of Georgie Regional Educational Service Agency",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Heathwood Hall Episcopal",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hendricks Day School of Jacksonville",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Henry County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Heritage Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Heritage School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "419622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Herzing University - Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9bb1a5e-aea5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Herzing University - Atlanta - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hidden Lake Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "High Meadows School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "High Meadows School & Camp",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Highlands School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hill School of Fort Worth",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6edc668e-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Hillgrove High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hilton Head Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hirsch Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Holy Innocents’ Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Holy Spirit Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hooper Acadmey",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Horizons Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3cb2bbf-59c4-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Houston County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba0b157c-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Houston County Career Academy (Warner Robins, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e0d157c-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Houston County High School (Warner Robins, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Howard School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hutchison School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Indian Springs School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b23f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Institute of Paper Science and Technology",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b434f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Interactive College of Technology",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b934f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Interdenominational Theological Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Isidore Newman School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ivymount School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jackson Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Jacksonville Country Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "131042a7-3fd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Jenkins County School System",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "John Burroughs School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "John Cooper School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "John Curtis Christian Schools, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "John Paul II Catholic Schools, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e9b52ec-b141-e911-8113-000d3af41938",
+		"OrganizationName": "Johns Creek High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51dd668e-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Kell High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd91f101-b3fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Kennesaw Mountain High School Academy of Mathematics, Science, and Technology",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f8a8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Kennesaw Mtn High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Killian Hill Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "King's Ridge Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lab School of Washington",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aa54470-0f07-47e3-a24e-247483478f63",
+		"OrganizationName": "LaGrange College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lakeview Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1aef250-aa5d-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lamar County Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Landmark Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lanier Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "338b8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Lassieter High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lassiter High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lausanne Collegiate School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e639958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "LDI-Leadership Development International",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lee County High Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "548a286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Life Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Life University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Loganville Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfbfa3e5-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "Loganville High School (Loganville, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Louise S. McGehee School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lovett School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dccff27e-ac21-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Lumpkin County High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5beffb56-482e-e911-8111-000d3af41938",
+		"OrganizationName": "Luther Rice College & Seminary",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "023b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Luther Rice University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Macon State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Madeira School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "220e3ad1-afae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Marion County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Master's Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "McCallie School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f89040fb-d43d-e011-b1e1-0030487d8897",
+		"OrganizationName": "McClure Middle School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "McDonogh School, Inc. -GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76b2c2a2-f412-e211-a76f-f04da23e67f6",
+		"OrganizationName": "McDuffie School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d58b8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "McEachern High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c4422a2-bc69-e011-971f-0030487d8897",
+		"OrganizationName": "McIntosh County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d470817c-6311-e111-a703-f04da23e67f6",
+		"OrganizationName": "McIntosh High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cf3bf22-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Medix College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f23e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Memorial Health University Medical Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7904abe6-6cfb-48f2-b2d1-de3d154d43d7",
+		"OrganizationName": "Mercer University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb0870ff-a21f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Meriwether County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Metairie Park Country Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "372c9f1b-5a4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Middle Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7e8a2f7-892c-4b02-a906-ce61ef7564d7",
+		"OrganizationName": "Mid-South Independent School Business Officers - GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mill Springs Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "795f4e66-8ebe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Milton High School - Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "688fc6de-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "Monroe Area High School (Monroe, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07b7abe1-f088-4e5e-abbb-e9e49187d82d",
+		"OrganizationName": "Monroe County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Montgomery Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Montgomery Bell Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2974eeb3-9bfa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Montgomery Elementary",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Montverde Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c561973d-4e7d-465e-947c-7355123e1991",
+		"OrganizationName": "Morehouse College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Morehouse School of Medicine",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Morris Brown College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Moultrie Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Bethel Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Paran Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Pisgah Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Vernon Presbyterian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mount Zion Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Muscogee County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceed16eb-235d-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Newton College and Career Academy - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Newton County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e8c8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "North Cobb High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc0cabd0-257d-e711-80f3-000d3af41938",
+		"OrganizationName": "North Forsyth High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Georgia College & State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aad533bc-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "North Georgia RESA - Technology - Departmental Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "North Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "849822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "North Georgia Technical Institute",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Metro Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b4c0f52-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "North Oconee High School (Bogart, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b0c157c-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Northside High School (Warner Robins, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ee698ea-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "Northwest Georgia College and Career Aca - Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01589eb8-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Northwestern Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Oak Hill School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13a04f05-2b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Oconee Fall Line Technical College - Computer Information Systems - Departmental Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d76b21d8-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Ogeechee Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cfe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Oglethorpe County Board of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e735b847-cfeb-4c0a-a980-ef8afc3e4363",
+		"OrganizationName": "Oglethorpe University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e36c4cf7-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Okefenokee Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f8d8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Osborne High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Our Lady of Mercy Catholic High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Out-of-Door Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abf77ffd-67ee-41f2-9270-b4c998510e54",
+		"OrganizationName": "Oxford College of Emory University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pace Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Paideia Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79a46f63-7212-431c-bfcb-0de0b4ba81aa",
+		"OrganizationName": "Paine College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69e0ae1d-7775-4679-8405-e34c624dabdc",
+		"OrganizationName": "Peach County School District, Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Peach County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c38d8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Pebblebrook High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "410e157c-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Perry High School (Perry, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7707ba98-a3e8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Phoebe Putney Memorial Hospital",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b914288-477e-4e03-9921-3ab80250e9c1",
+		"OrganizationName": "Piedmont College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pike Liberal Arts School Foundation",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pinecrest Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c033b9d-284d-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Point University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1a23c04-3773-df11-bc53-0030487d8897",
+		"OrganizationName": "Polk School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "688e8094-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Pope High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Porter School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Prince of Peace Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Providence Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Psychological Studies Institute",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9f059f9-2b10-df11-85a5-0030487d8897",
+		"OrganizationName": "Queen of Angels",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Rabon Gap Nacoochee",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dec3ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rabun Gap Nacoochee School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rabun Gap-Nacoochee School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Randolph School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ransom Everglades",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ravenscroft School, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d76bafa-e781-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Reformed Theological Seminary",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f76cce5-260e-4a3c-958a-c137a096b695",
+		"OrganizationName": "Reinhardt University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f733b72-a0ff-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Richmond County School System",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d795b7e7-c3c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Riverside Middle School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Riverside Military Academy - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19ff29c9-4782-e911-8119-000d3af41938",
+		"OrganizationName": "Riverwood International Charter School (Riverwood High School)",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90f8d4ab-ee1e-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Robert S. Alexander High School - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9afe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Robert W. Woodruff Library",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "405cc8d1-ca85-e211-87e9-f04da23e67f4",
+		"OrganizationName": "SAE Institute, Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Andrew's - Sewanee",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Andrew's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint James School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Johns Country Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Mary's Hall",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Nicholas School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saint Paul's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98cd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Sandersville Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sandia Preparatory School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0d48761-c978-4583-a3fc-0ff726bd1463",
+		"OrganizationName": "Savannah College of Art and Design - Adobe",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dac516d6-0cc0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Savannah College of Art and Design - SA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2f455da-f82a-4ba0-a586-df5841e0e58b",
+		"OrganizationName": "Savannah Country Day School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ecd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Savannah River College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df4ecfa9-6e9e-e011-969d-0030487d8897",
+		"OrganizationName": "Savannah Tech",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Savannah Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Scenic Land School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Schenck School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Seigakuin Atlanta National School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Shiloh Hills Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99bb6be6-acff-46b8-b165-f0bd57619848",
+		"OrganizationName": "Shorter College Professional Studies",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28ef5472-f266-46ef-9081-f6fc3b2f5eb3",
+		"OrganizationName": "Shorter University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e39d2cc-235d-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Signal School - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a03c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Skidaway Institute of Oceanography",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf61db76-c836-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Sophia Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "829c7d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "South Cobb High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "South Georgia College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd0a9e47-3175-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "South Georgia State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be0e9fb3-009a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "South Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "269a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southeastern Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bbdeebb-17fd-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Southeastern Technical College - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35b32ebc-2d0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Southern Catholic College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "359a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southern Crescent Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca342d6c-e0a3-df11-ad57-0030487d8897",
+		"OrganizationName": "Southern Polytechnic University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb0e6ea8-cc58-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Southern Regional Technical College, Tifton Campus",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southwest Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52d449ba-2635-42fe-ba53-d6fed0db2fe3",
+		"OrganizationName": "Spelman College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90ba668a-e629-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Spelman College - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "249d7d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Sprayberry High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St Martin's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St Martin's Episcopal School-LA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Edward's School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Francis School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. George's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3115370-a7f1-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "St. Joseph Catholic School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Luke's Episcopal School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7048ebf-fa45-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "St. Mary's Catholic School in Rome",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Paul Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00fafc36-8462-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "St. Peter the Apostle School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Pius X Catholic High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St. Timothy's School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Steward School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Stratford Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Stuart Hall School for Boys",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Summit School, Inc.",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c18df1fc-68c1-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Sumter County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Swift School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tallulah Falls School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e103f88f-fd93-df11-ad8b-0030487d8897",
+		"OrganizationName": "Technical College System of Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fde0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Technology Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ba9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Temima The Richard and Jean Katz High School for Girls",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Alfred and Adele Davis Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "210cd7e2-c731-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "The Art Institute of Pittsburgh, Online Division",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "The Brighton School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "259a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "The Children's School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0afe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Cottage School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4645fbc2-7d6e-df11-b841-0030487d8897",
+		"OrganizationName": "The Epstein School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87dca19a-4095-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The Georgia School of Orthodontics",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Marist School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Schenck School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "The Walker School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "The Weber School (US)",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Westminster Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "569f2a7f-1d8f-4e86-968f-cc77e701918f",
+		"OrganizationName": "The Women's College at Brenau University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2875d63-e297-e711-80f6-000d3af41938",
+		"OrganizationName": "Thomas County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8baf318a-101d-47ca-8179-fe0b9ea8e952",
+		"OrganizationName": "Thomas University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8884bb8f-1204-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Thomaston-Upson County School District",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd7eedea-7b4a-4c58-9938-d417cf1f16a7",
+		"OrganizationName": "Toccoa Falls College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Torah Day School of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Trinity Preparatory School of Florida",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Trinity School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7984242c-d569-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Trion City Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tropical Christian School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Troy University - Ft. Benning",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Truett McConnell School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9fcd9ef-0b85-4855-9549-9b96cba699e3",
+		"OrganizationName": "Truett-McConnell College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "664b018e-2a2d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "University of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "233b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c85ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Georgia Education Technology Center",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fa0940d-77e9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "University of North Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75bc8a7e-37cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "University of North Georgia - Dahlonega - Store",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "223b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of West Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3458fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "University School of Nashville",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "103b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Albany State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "113b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Armstrong Atlantic State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "123b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Augusta State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "133b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Clayton College & State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "143b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Columbus State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "153b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Fort Valley State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "163b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Georgia College & State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "183b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Georgia Southern University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "193b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Georgia Southwestern State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Georgia State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Kennesaw State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Macon State College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Medical College of Georgia",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Middle Georgia College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, North Georgia College & State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "203b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Savannah State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "213b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Southern Polytechnic State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "243b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "USoG, Valdosta State University",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02fb1776-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Vetrans High School (Kathleen, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e58157f7-ff8d-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Virginia College - Savannah",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Waldorf School of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85d544db-5e85-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Walker County Department of Education",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "480adaeb-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "Walnut Grove High School (Loganville, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d931b86b-3000-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Walton County School District (Georgia)",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c99d7d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Walton High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd0c157c-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Warren Robins High School (Warner Robins, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Waycross College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3758fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wayland Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2306436b-b206-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Webb Bridge Middle School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Webb School of Bell Buckle",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d97fb62f-74d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Webster County Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aaf89369-1e56-464b-8c5c-0cd500ac7ebe",
+		"OrganizationName": "Wesleyan College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wesleyan School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Wesleyan Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "900c9482-84cb-e111-971c-f04da23e67f6",
+		"OrganizationName": "Wesleyan Schools, GA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "West Central Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "069b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "West Georgia Techncial College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "281016c7-d0b8-de11-886d-0030487d8897",
+		"OrganizationName": "West Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Westminster Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80bd0794-3843-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Wheeler Correctional Facility",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b9e7d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Wheeler High School (Marietta, GA) - High School AA",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3058fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Whitefield Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68a1b923-ff4e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Whitewater High School - Fayetteville - Microsoft Imagine Standard",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8415c18d-277d-e711-80f3-000d3af41938",
+		"OrganizationName": "Whitfield County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bacd597-6c68-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Wilcox County Schools",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3158fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wildwood Christian Academy",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "339b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wiregrass Georgia Technical College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "479b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Year Up",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2958fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yeshiva High School",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yeshiva Ohr Yisreal of Atlanta",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yeshivat Rambam",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb035b95-4294-4080-b564-aacc28208717",
+		"OrganizationName": "Young Harris College",
+		"ProvinceCode": "GA",
+		"SubsectorCode": "education_college_university"
+	}
+]

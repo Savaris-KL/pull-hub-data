@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "469c83a5-b996-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad Nacional de Cuyo",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "529c83a5-b996-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad Nacional de Cuyo",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=529c83a5-b996-e011-969d-0030487d8897"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "ec11c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Holmesglen",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ca356993-ab8b-e011-969d-0030487d8897",
+		"WebStoreName": "Holmesglen Computing & Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ca356993-ab8b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4f7cf44d-ca71-e011-971f-0030487d8897",
+		"OrganizationName": "Holmesglen",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2e02e40a-1343-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "Holmesglen Institute",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2e02e40a-1343-e311-93f6-b8ca3a5db7a1"
+	}
+]

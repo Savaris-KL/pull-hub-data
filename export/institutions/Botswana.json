@@ -1,0 +1,58 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "040a987a-c516-ea11-8125-000d3af41938",
+		"OrganizationName": "Botho University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "2f714d2d-6879-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Botswana International University of Science & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "aac7f686-c1c8-e911-811e-000d3af41938",
+		"OrganizationName": "Gaborone University College of Law and Professional Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "522ba43b-fa19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kgaswe School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "0cb14992-2c01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ministry of Education and Skills Development Republic of Botswana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "492ba43b-fa19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Learning Centre School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BWA",
+		"InstitutionID": "6cbcb57c-0a9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of Botswana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

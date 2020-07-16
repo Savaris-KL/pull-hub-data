@@ -1,0 +1,218 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "02f277c5-83d3-de11-baeb-0030487d8896",
+		"OrganizationName": "American School of Doha",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "4eea680d-7980-e011-969d-0030487d8897",
+		"OrganizationName": "Carnegie Mellon University - Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "6cd2868d-7880-e011-969d-0030487d8897",
+		"OrganizationName": "College of The North Atlantic - Qatar - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "76e146ad-371a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Doha College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "149b2779-4301-e811-80fc-000d3af41938",
+		"OrganizationName": "Doha Institute for Graduate Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "dc61eddf-ee25-e811-8101-000d3af41938",
+		"OrganizationName": "Educare International Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "4b8627a1-4b8c-e011-969d-0030487d8897",
+		"OrganizationName": "Faculty of Islamic Studies - Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "e458d7aa-4a8c-e011-969d-0030487d8897",
+		"OrganizationName": "Georgetown University in Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "7e75fc3b-0c0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Hamad Bin Khalifa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "a6daa834-0e86-e811-8108-000d3af41938",
+		"OrganizationName": "Hamad Medical Corporation - Medical Education Programs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "0b4876de-bcd2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Islamic Online University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "9f49ce79-4a8c-e011-969d-0030487d8897",
+		"OrganizationName": "Northwestern University in Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "f899eec5-1164-e811-8105-000d3af41938",
+		"OrganizationName": "Park House English School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "45b97913-784a-e011-bd14-0030487d8897",
+		"OrganizationName": "Qatar - Student Select",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "189a3df1-a48b-e011-969d-0030487d8897",
+		"OrganizationName": "Qatar Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "1097a64e-b2f8-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Qatar Aeronautical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "9436a02d-b574-e011-969d-0030487d8897",
+		"OrganizationName": "Qatar Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "0f3d2601-2c01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Qatar Foundation for Education Science and Community Development",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "abbd632f-4c8c-e011-969d-0030487d8897",
+		"OrganizationName": "Qatar Leadership Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "fef68361-4b8c-e011-969d-0030487d8897",
+		"OrganizationName": "Qatar Music Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "d386a8c5-b474-e011-969d-0030487d8897",
+		"OrganizationName": "Qatar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "253b3c61-4c8c-e011-969d-0030487d8897",
+		"OrganizationName": "SIDRA Medical and Research Center - Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "173d2601-2c01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Supreme Education Council",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "143fd950-7980-e011-969d-0030487d8897",
+		"OrganizationName": "Texas A&M University at Qatar - Doha - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "f332fe8a-b68d-df11-ad8b-0030487d8897",
+		"OrganizationName": "University of Calgary - Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "8d501405-4b8c-e011-969d-0030487d8897",
+		"OrganizationName": "Virginia Commonwealth University - Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "QAT",
+		"InstitutionID": "becfa884-7980-e011-969d-0030487d8897",
+		"OrganizationName": "Weill Medical College in Qatar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

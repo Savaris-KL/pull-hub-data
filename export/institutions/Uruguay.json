@@ -1,0 +1,162 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "d608bfb5-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "BIOS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "fb55ba98-0fb5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "BIOS Escuela de Sistemas y Tecnologías",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "b2e8a01a-2d48-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Centro Universitario de la Región Este (CURE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "bbd1ac2f-1196-e111-981b-f04da23e67f6",
+		"OrganizationName": "Faculdad de Quimica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "59be1bc2-044a-e711-80f0-000d3af41938",
+		"OrganizationName": "HackAcademy Uruguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "d008bfb5-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IMU - Instituto Crandon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "19c9c0f8-9256-e711-80f0-000d3af41938",
+		"OrganizationName": "Instituto Crandon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "bf08bfb5-301a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Cultural Anglo Uruguayo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "ea3050ef-26f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Cultural Anglo Uruguayo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "ff1eb9cc-2f68-e811-8106-000d3af41938",
+		"OrganizationName": "Instituto Superior Brazo Oriental",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "078b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Universitario BIOS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "9737a934-9f18-e811-80fe-000d3af41938",
+		"OrganizationName": "Plan Ceibal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "ef3c4598-2342-e711-80ef-000d3af41938",
+		"OrganizationName": "SinergiaTech Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "66208928-2dde-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica del Uruguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "88634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad de la República - Uruguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "50e6c054-68d2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Montevideo (Uruguay)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "90f95335-1486-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad ORT Uruguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "20c746c4-a328-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Universo Informático",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "9f3b6b13-27f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Uruguayan American School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "URY",
+		"InstitutionID": "6eccf1f9-9ac4-e711-80f9-000d3af41938",
+		"OrganizationName": "UTEC – Universidad Tecnológica del Uruguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

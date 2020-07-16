@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "cb9ee0ec-1bdb-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Universidad Austral - Argentina",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d89ee0ec-1bdb-e011-b09a-f04da23e67f6",
+		"WebStoreName": "Universidad Austral - Informatica",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d89ee0ec-1bdb-e011-b09a-f04da23e67f6"
+	}
+]

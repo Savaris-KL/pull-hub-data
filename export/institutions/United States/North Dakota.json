@@ -1,0 +1,698 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "add11e94-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Alexander Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bismarck Public Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58de4507-70fd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bismarck School District",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bismarck State College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76bdb667-3901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bismark Public Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f19422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cankdeska Cikana Community College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a498c314-7ac3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Dakota College at Bottineau",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dickinson State University",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29d21e94-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Edgeley Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41df2eb3-da5e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Edmore Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "685b5dc5-51e4-e811-810c-000d3af41938",
+		"OrganizationName": "Forest River School in North Dakota",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fort Berthold Community College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c726b1e-e94b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Four Winds Community School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adf1299b-414a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Grand Forks Central High School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "661e20e2-81f4-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Hankinson Public School District #8",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67e388fc-6f4a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Hillsboro Public Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jamestown College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c37179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Kensal School District",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Killdeer Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lake Region State College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3dbadb07-e54b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Leeds School District #6",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d350dd8a-2d7d-e711-80f3-000d3af41938",
+		"OrganizationName": "Lisbon Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mayville State University",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fa43e94-e64b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Midkota School District",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3937179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Midway School District 128",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1da9abb-346f-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Minnewaukan Public school",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "754c3e91-0b02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Minot Public Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ae427ce-fc01-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Minot Public Schools - Minot - Campus Store",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Minot State University",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "103c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Minot State University-Bottineau Campus",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7137179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Minto Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7ff3a73-4f8a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Missouri River Area Career and Technology Center",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1038179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "New Salem-Almont School District 49",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcd3468c-abbc-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "North Dakota Department of Career & Technical Education - Campus Store",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "845365c4-5460-4e3d-95ee-e6f898d95ca4",
+		"OrganizationName": "North Dakota Educators Service Cooperative",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Dakota State College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d131d04c-369e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "North Dakota State College of Science",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Dakota State University",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fe52550-852f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "North Dakota State University2",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77427029-1723-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "North Dakota University System",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d38179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Our Redeemer's Christian School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9343358a-267d-e711-80f3-000d3af41938",
+		"OrganizationName": "Red River High School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a1325a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Sargent Central Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d7f776e-199f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Sheyenne Valley Area Career & Tech Center",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70f7612b-5cc6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Shiloh Christian School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab1325a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Sioux Falls Catholic Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23f19816-346c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Sitting Bull College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d23a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trinity Bible College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "945ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "United Tribes Technical College",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Mary",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of North Dakota",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b93b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Valley City State University",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Washburn Public Schools",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "West Fargo Public Schools #6",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0e49ace-f0f6-e711-80fc-000d3af41938",
+		"OrganizationName": "West Fargo Sheyenne High - Computer Science - Microsoft Imagine Premium",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f801072-b484-e111-981b-f04da23e67f6",
+		"OrganizationName": "Williston Public School District #1",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75bd164f-8607-df11-85a5-0030487d8897",
+		"OrganizationName": "Williston State College - Business - Departmental Store",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8393f0e-fa5d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Wolford Public School",
+		"ProvinceCode": "ND",
+		"SubsectorCode": "education_k_12"
+	}
+]

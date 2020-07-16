@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "613317f9-7d1f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Hills International College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://hills.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "3d6502ec-7e1f-e111-8d82-f04da23e67f6",
+		"WebStoreName": "Hills International College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3d6502ec-7e1f-e111-8d82-f04da23e67f6"
+	}
+]

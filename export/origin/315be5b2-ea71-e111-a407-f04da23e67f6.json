@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "ef3ffee9-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Chattahoochee Valley Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d8cbc5db-f09b-e011-969d-0030487d8897",
+		"WebStoreName": "Chattahoochee Valley Community College - Applied Sciences",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d8cbc5db-f09b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "43c43b34-8fc9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chattahoochee Valley Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "51c43b34-8fc9-e311-93fc-b8ca3a5db7a3",
+		"WebStoreName": "Chattahoochee Valley Community College - Visual Communications",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=51c43b34-8fc9-e311-93fc-b8ca3a5db7a3"
+	}
+]

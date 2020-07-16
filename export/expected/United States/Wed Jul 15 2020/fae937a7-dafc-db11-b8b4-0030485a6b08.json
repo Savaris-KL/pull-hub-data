@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "74c5690a-0fd3-48fb-a50b-7a5270b0e9ad",
+		"OrganizationName": "Central Arizona College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://tcpn.texas.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "633e8553-aefc-db11-b8b4-0030485a6b08",
+		"WebStoreName": "The Cooperative Purchasing Network - Texas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=633e8553-aefc-db11-b8b4-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "fae937a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Central Arizona College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "280f345f-07c1-e411-940a-b8ca3a5db7a1",
+		"WebStoreName": "Central Arizona College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=280f345f-07c1-e411-940a-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "1be6d4e9-acd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Central Arizona College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "29e6d4e9-acd6-e611-9425-b8ca3a5db7a1",
+		"WebStoreName": "Central Arizona College - Apache Junction",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=29e6d4e9-acd6-e611-9425-b8ca3a5db7a1"
+	}
+]

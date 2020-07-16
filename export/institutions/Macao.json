@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAC",
+		"InstitutionID": "056a8bee-f834-e711-80ef-000d3af41938",
+		"OrganizationName": "Macao Polytechnic Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAC",
+		"InstitutionID": "d242c7a9-3240-e911-8113-000d3af41938",
+		"OrganizationName": "Macau Pooi To Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MAC",
+		"InstitutionID": "be408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Macau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

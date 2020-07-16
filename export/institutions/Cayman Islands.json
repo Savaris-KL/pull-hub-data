@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CYM",
+		"InstitutionID": "b4623968-b721-e111-8d82-f04da23e67f6",
+		"OrganizationName": "St. Matthew's University (Cayman Islands)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CYM",
+		"InstitutionID": "933adb85-e20e-e111-a703-f04da23e67f6",
+		"OrganizationName": "University of the Balearic Islands (Cayman Islands)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

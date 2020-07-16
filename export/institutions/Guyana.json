@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GUY",
+		"InstitutionID": "7f4b5337-798b-e811-8108-000d3af41938",
+		"OrganizationName": "Université de Guyane (University of Guyane)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GUY",
+		"InstitutionID": "747418c1-9a8e-e811-8108-000d3af41938",
+		"OrganizationName": "University of Guyana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

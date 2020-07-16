@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "69a38ca7-7232-e011-b1e1-0030487d8897",
+		"OrganizationName": "Holy Spirit College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://twb.catholic.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "6e9afe41-7332-e011-b1e1-0030487d8897",
+		"WebStoreName": "Diocese of Toowoomba Catholic Education Office",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=6e9afe41-7332-e011-b1e1-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "9794af20-cc33-e011-b1e1-0030487d8897",
+		"OrganizationName": "Holy Spirit College",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "87b937f3-af06-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "WebStore for Queensland Catholic Education Commission powered by Kivuto",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=87b937f3-af06-e411-9401-b8ca3a5db7a1"
+	}
+]

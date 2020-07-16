@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "7dda42c0-cb6d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "East Valley Institute of Technology",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f3da42c0-cb6d-e511-9411-b8ca3a5db7a1",
+		"WebStoreName": "East Valley Institute of Technology - Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f3da42c0-cb6d-e511-9411-b8ca3a5db7a1"
+	}
+]

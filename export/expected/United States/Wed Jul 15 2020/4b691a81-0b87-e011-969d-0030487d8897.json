@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4b691a81-0b87-e011-969d-0030487d8897",
+		"OrganizationName": "Mosston School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://mosston.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "aa91fba0-0b87-e011-969d-0030487d8897",
+		"WebStoreName": "Mosston School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=aa91fba0-0b87-e011-969d-0030487d8897"
+	}
+]

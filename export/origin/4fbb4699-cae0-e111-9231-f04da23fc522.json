@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4fbb4699-cae0-e111-9231-f04da23fc522",
+		"OrganizationName": "Diocese of Townsville Catholic Education",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "59fe047e-fe02-e411-9400-b8ca3a5db7a1",
+		"WebStoreName": "Townsville Catholic Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=59fe047e-fe02-e411-9400-b8ca3a5db7a1"
+	}
+]

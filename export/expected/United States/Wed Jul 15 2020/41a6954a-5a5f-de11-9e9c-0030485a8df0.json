@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "41a6954a-5a5f-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Barker College (Australia)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://barker.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "1a10eaa8-d07c-e011-969d-0030487d8897",
+		"WebStoreName": "Barker College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=1a10eaa8-d07c-e011-969d-0030487d8897"
+	}
+]

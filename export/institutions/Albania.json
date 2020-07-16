@@ -1,0 +1,138 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "4212848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "American University in Kosovo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "e94590c7-0118-e811-80fe-000d3af41938",
+		"OrganizationName": "Fakulteti Gjeologji Miniera - Geoinformatics - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "576479a2-e534-e711-80ef-000d3af41938",
+		"OrganizationName": "Fondacioni SEMA - Tirana - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "b5d5fb1b-8f70-e811-8106-000d3af41938",
+		"OrganizationName": "Industriale Pavaresia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "60b2e358-da8e-e111-981b-f04da23e67f6",
+		"OrganizationName": "InfoTech Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "0f718081-f2c2-e711-80f9-000d3af41938",
+		"OrganizationName": "Kolegji Profesional i Tiranes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "aeed6edb-8c70-e811-8106-000d3af41938",
+		"OrganizationName": "Kolin Gjoka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "86c4a76d-9070-e811-8106-000d3af41938",
+		"OrganizationName": "Teknike Elektrike Gjergj Canco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "4512848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Turgut Ozal Education Sh.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "5141f3e5-0d02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universiteti AAB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "fd382fe4-890f-e911-810e-000d3af41938",
+		"OrganizationName": "Universiteti Bujqësor i Tiranës ( Agricultural University of Tirana )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "014e1a47-0e9a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universiteti Europian i Tiranes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "65434370-854d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Universiteti i Tiranës (Albania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "5bd710a2-164d-e711-80f0-000d3af41938",
+		"OrganizationName": "Universiteti Katolik Zoja e Këshillit të Mirë",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "1efea7dc-b4d6-e711-80f9-000d3af41938",
+		"OrganizationName": "University of New York Tirana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "f66d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of New York Tirana - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ALB",
+		"InstitutionID": "7306d74a-4220-e111-8d82-f04da23e67f6",
+		"OrganizationName": "University of Shkodra (Albania)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

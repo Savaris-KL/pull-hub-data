@@ -1,0 +1,978 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "7005853a-e437-e211-aed3-f04da23e67f6",
+		"OrganizationName": "American Academy of Vietnam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "3c4a843a-290f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "An Giang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "2100e330-4718-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Banking University of Ho Chi Minh City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0ea6087b-b286-e811-8108-000d3af41938",
+		"OrganizationName": "Bing Duong University (Trường Đại học Bình Dương)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "ca3319de-c584-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Bình Duong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "350816de-8147-ea11-8127-000d3af41938",
+		"OrganizationName": "British University Vietnam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9b60f615-141a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Can Tho University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "d17d87e6-b0d5-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Can Tho University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5100c4a6-8b2b-e711-80ee-000d3af41938",
+		"OrganizationName": "Can Tho University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f60ede06-4dbb-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Cao đẳng nghề Việt Đức Vĩnh Phúc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "af1c45fb-b88e-e711-80f4-000d3af41938",
+		"OrganizationName": "College of Foreign Economic Relations",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "e39e02ce-3d1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "College of Information Technology, Ho Chi Minh City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f820f29c-9b75-e911-8119-000d3af41938",
+		"OrganizationName": "Concordia International School Hanoi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "142ad6b4-1eb7-e111-9902-f04da23fc522",
+		"OrganizationName": "Cong Thong Tin Dien Tu Tru'ong Dai Hoc Su Pham Tp. Ho Chi Minh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "81c67d05-9ea6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CUSC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5063a0d2-8d6e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Dai Hoc Hong Duc (Hong Duc University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9dd6c334-b981-e211-bf66-f04da23e67f4",
+		"OrganizationName": "ĐẠI HỌC KHOA HỌC TỰ NHIÊN (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "03149279-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Dai Hoc Lac Hong - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "67b2849e-c481-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Đại học Sài Gòn (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "b7f16dd0-52ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Đại học Thăng Long (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9d92deb2-207d-e711-80f3-000d3af41938",
+		"OrganizationName": "Đại học Thủ Dầu Một(Thu Dau Mot University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "49778b7f-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "DBD University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "489e36a4-c0a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Dong Nai University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "55eac0eb-4972-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Duy Tan University (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0c918ffa-0dbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Economics and Laws University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "88bd70eb-2bf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Foreign Trade University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "eb4d03a0-b513-e211-a76f-f04da23e67f6",
+		"OrganizationName": "FPT University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "4e714fd7-3d56-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Galaxy  Education and Training Co. Ltd - Hochiminh City - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "644b3782-1c82-e011-969d-0030487d8897",
+		"OrganizationName": "Griggs University and International Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f0188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hai Phong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "feb819d0-3b58-e711-80f0-000d3af41938",
+		"OrganizationName": "Hanoi Medical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "83b834a4-9e26-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Hanoi National University of Education (HNUE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "7b24d4fe-f55a-e011-bd14-0030487d8897",
+		"OrganizationName": "Hanoi University of Agriculture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "8d61dfe7-1930-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hanoi University of Business anh Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "8dc25925-9d26-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Hanoi University of Industry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "bd078ed7-039a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Hanoi University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "d9715694-5203-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Hanoi University of Science and Technology - School of International Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "8af837b3-ef72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Hanoi University of Science, VNU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "cdd223ed-a9d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "HCMC University of Technology and Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "63d2ef17-6657-e711-80f0-000d3af41938",
+		"OrganizationName": "Ho Chi Minh City International University (Đại học Quốc Tế Thành phố Hồ Chí Minh)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f14b2fe2-8a0c-ea11-8124-000d3af41938",
+		"OrganizationName": "Ho Chi Minh City Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5b170741-cc28-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Ho Chi Minh City Pedagogical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "6fd77189-46c5-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Ho Chi Minh City University of Science (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "6bdbbb88-d74b-df11-b56b-0030487d8897",
+		"OrganizationName": "Ho Chi Minh City University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f1df3f1b-259e-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Ho Chi Minh City University of Transport",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "59142479-e663-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ho Chi Minh Posts & Telecommunication Institute of Technology - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "ff45c094-511c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoa Binh Teachers Training College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0f325fa7-e55f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Hoa Hiep Primary School (Trường tiểu học Hòa Hiệp)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "38fab27b-3296-e111-981b-f04da23e67f6",
+		"OrganizationName": "Hoa Sen University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f3188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hochiminh University of Pedagogy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "15e00a27-100f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hue Industrial College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "6d2396ae-375c-e211-9922-f04da23fc522",
+		"OrganizationName": "Hue University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "225e6340-d78e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Hue University Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f6188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hung Yen University of Technology Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "1a7c6fcf-21d2-e811-810b-000d3af41938",
+		"OrganizationName": "iCare University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0b8fa05e-ed72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Industrial University of Ho Chi Minh City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "10cc9ee0-b7da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Information Technology - Vietnam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "68a62de9-4bbb-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Information Technology Vietnam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "1e39eb1e-e037-e211-aed3-f04da23e67f6",
+		"OrganizationName": "International School Ho Chi Minh City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "04d34a13-9648-e211-ad71-f04da23e67f6",
+		"OrganizationName": "International University - Vietnam",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "fa188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ispace - College Of It Vocational Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "823f0797-6b4a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "John von Neumann Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f8176957-091e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Khoa Cong Nghe Thong Tin - Trường Đại học Thủy Lợi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9e802f61-4718-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Korean International School in Hanoi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "36ae9717-aca0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Le Quy Don Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "12be635e-425b-e711-80f0-000d3af41938",
+		"OrganizationName": "Lien Dam Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "fd188f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Long An University Of Economy  Industry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "e5df06e4-3446-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Ly Tu Trong Technical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "00198f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mekong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "3d24b438-9a0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "National Economics University (Trường Đại học Kinh tế Quốc dân)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "e9c2a700-9070-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Nguyen Tat Thanh UNIVERSITY (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "cf4c1993-3dbf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "NHA TRANG University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "cda42b40-f0d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Nhat Nghe Education JSC - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "efa8f68c-0c03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Nong Lam University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "2088009e-6ea8-e711-80f7-000d3af41938",
+		"OrganizationName": "People’s Security College II (Cao Đẳng An Ninh Nhân Dân II)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "f5245574-e868-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Phong GD&DT Di Linh - Lam Dong (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "05198f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Phu Xuan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "1075852b-0b3b-e711-80ef-000d3af41938",
+		"OrganizationName": "Phu Yen University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "e19718c7-8ea6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Posts & Telecommunications Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "6230dfba-67be-e711-80f7-000d3af41938",
+		"OrganizationName": "Posts and Telecommunications Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9ae46a04-3a5f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "RMIT University Vietnam - Ho Chi Minh - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "edbaab3d-495f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Saigon Hi-Tech Park Training Center - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "b0e90f49-b8b1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Saigon Technology University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5f40ac89-3b8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "SAIGON UNIVERSITY (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "08198f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "The Financing Promoting Technology Corporation University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "7f6696d5-be1b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "The University of Danang - SDC - MTA@UD - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "36b4f12a-1c04-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "The University of Danang - University of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "ca52afeb-bcea-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "The University of Danang, University of Education (UEd-UD)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "6d6d7019-d13b-e711-80ef-000d3af41938",
+		"OrganizationName": "Tien Giang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "efbe805e-af31-e211-aed3-f04da23e67f6",
+		"OrganizationName": "TOEIC Center - Ton Duc Thang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0f7c6fc0-3728-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ton Duc Thang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "522f98e6-60d9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Trung tâm Mạng Thông tin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "ace81bfa-75d0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Trường Cao Đẳng Bách Việt - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "38523764-0e1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Trường Đại học Công nghệ thông tin và Truyền thông - Đại học Thái Nguyên",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9d963af3-0c9f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Trường Đại học Hà Tĩnh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a9ed8e88-d23b-e711-80ef-000d3af41938",
+		"OrganizationName": "Trường Đại học Quang Trung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "b4b18588-95db-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Trường ĐH Y Khoa Phạm Ngọc Thạch (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "494d46a2-82ea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Trường PTTH Lê Lợi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "eaf6aa71-6120-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Trường Trung học cơ sở Khương Thượng (Khuong Thuong Secondary School)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "7ffd5ecd-165b-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "United Nation International School of Hanoi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5e41d299-e3c8-e911-811e-000d3af41938",
+		"OrganizationName": "United Nations International School of Hanoi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "ac019e3d-1c76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "University of Dalat (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a141c33e-996b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "University of Economics and Finance (UEF)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "2748a636-ae6c-e211-a88c-f04da23e67f4",
+		"OrganizationName": "University of Economics Ho Chi Minh City (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a1f2dd57-46c5-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "University of Information Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "db0417d7-498a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Medicine and Pharmacy at Ho Chi Minh City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "fd318ede-8284-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Natural Sciences (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "c8ebc6b1-ee4b-e011-bd14-0030487d8897",
+		"OrganizationName": "University of Technical Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5f03ba8c-735e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "University of Thai Nguyen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9e15f3e7-f64b-e511-9417-b8ca3a5db7b1",
+		"OrganizationName": "University of Tra Vinh (Trường Đại Học Trà Vinh)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a9b68063-313b-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Van Lang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "20e337c9-868b-e811-8108-000d3af41938",
+		"OrganizationName": "VGU Vietnamese-German University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "b3e603ec-2c34-e711-80ef-000d3af41938",
+		"OrganizationName": "Viên Dai Hoc Mo Gia Hànôi - Hanoi Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a8fb4017-5cb8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Vietnam National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "9eee731a-2de0-e211-9000-f04da23fc520",
+		"OrganizationName": "Vietnam National University - HoChiMinhcity - Computer, Software, Electrical, Industrial, Mechanical, Biomedical, Chemical, Civil - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "a651b607-c0b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Vietnamese German University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "cc086b10-352d-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Vietnamese-German University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "4b44df5b-6e3c-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Vinh Long College of Economics And Finance",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "5cec47cd-53c9-e711-80f9-000d3af41938",
+		"OrganizationName": "Vinh Long University of Technology Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "fd667894-0429-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Vinh University (Trường Đại học Vinh)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "0b198f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "VnD Training Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VNM",
+		"InstitutionID": "beeef661-828d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Water Resources University (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

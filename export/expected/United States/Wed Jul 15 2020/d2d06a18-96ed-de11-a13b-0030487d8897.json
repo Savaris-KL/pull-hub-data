@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "5606100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Glendale Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "0c2cda19-c327-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Maricopa Community Colleges",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0c2cda19-c327-e411-9403-b8ca3a5db7a1"
+	}
+]

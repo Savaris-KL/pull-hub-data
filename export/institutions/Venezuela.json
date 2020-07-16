@@ -1,0 +1,594 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "2c62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "A.C. Colegio Nuetra Senora de Pompei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "14702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia Americana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "74c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia Merici Asociación de Padres APREMERICI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "3862515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Civil de Padres y Representantes Colegio Jefferson",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "20702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion de Padres Academia Merici APREMERICI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "8162515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Reflexion y Planificacion Educativa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "7562515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Alemán de Maracaibo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "4bc693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Cristo Rey (Altamira)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6362515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Fray Luis Amigo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5162515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Fray Luis de Leon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "46702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Guayamuri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5bc693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Guayamurí",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "84c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Integral El Avila",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "2e702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Maria Auxiliadora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "1a62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio SAN AGUSTIN EL MARQUES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "40702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Jose De Tarbes La Florida",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6f62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Marcos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "3a702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Santa Rosa de Lima",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5d62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Santo Tomas de Villanueva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "3e62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Simon Bolivar II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "2062515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Tirso de Molina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "7cc693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escuela Campo Alegre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "34702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Colegio Francia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "123b8351-05c6-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Fundación La Salle de Ciencias Naturales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "63c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hebreo Unidad Educativa Moral y Luces",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "c73263c2-13fe-df11-9c87-0030487d8897",
+		"OrganizationName": "Idealnet Webstore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "7b62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Iglesia Evangelica Pentescostal Las Acacias",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6cc693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto de Estudios Superiores de Administración",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "3262515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Gala De Venezuela, C.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "478b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Tecnológico Lourtec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5bae61c7-d2a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Universitario de Nuevas Profeciones",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "8349e4a0-db6f-de11-b7f9-0030487d8896",
+		"OrganizationName": "Instituto Universitario de Tecnología Américo Vespucio (Venezuela)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "4d8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Universitario de Tecnología La Victoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "4a8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Universitario Politécnico Santiago Mariño (San Cristóbal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "43c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Institutos Educacionales Asociados",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "1a702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "International School of Monagas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "8a39adf9-404a-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "KENT International College (Vietnam)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "37c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "La Academia Americana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "53c693f5-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sociedad Civil Escuela Britanica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "508b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sociedad Civil Universidad Yacambú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5762515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "U.E. INSTITUTO DIOCESANO BARQUISIMETO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "26702254-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa \"Hebraica Moral y Luces\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "4562515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Colegio Moral y Luces Herizl-Bialik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "4b62515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Henry Clay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6962515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Instituto Escuela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "2662515a-311a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unidad Educativa Mater Salvatoris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "98509d19-079f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Alejandro de Humboldt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "598b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Bicentenaria de Aragua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "a9037301-a339-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Católica Andrés Bello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "e58e0278-4584-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Central de Venezuela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "0c1691e7-d890-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universidad Centroccidental Lisandro Alvarado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "84634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad de Carabobo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "8a5bd602-109a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad de los Andes - Venezuela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5c8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Margarita",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "568b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Oriente (Anzoátegui)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "698b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Oriente (Cumaná)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6c8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Oriente (Maturín)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "538b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Oriente (Porlamar)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "b14bf651-8284-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad de Oriente (Venezuela)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "edc38c9e-dc8e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Universidad del Zulia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "c31616e3-069f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Dr José Gregorio Hernández",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "ca2d27cb-6c78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universidad Dr. Rafael Belloso Chacín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "608b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Fermín Toro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "638b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad José Antonio Páez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "93634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Metropolitana (UNIMET)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "07aa1ef5-6d7a-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad Nacional Abierta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "668b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional Experimental de las Fuerzas Armadas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "6935d71e-3c19-de11-9c12-0030485a8df0",
+		"OrganizationName": "Universidad Nacional Experimental del Táchira, Venezuela",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "7fa1f50d-9562-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Universidad Nacional Experimental Simon Rodriguez (Venezuela)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "5dc94324-217d-e711-80f3-000d3af41938",
+		"OrganizationName": "Universidad Nueva Esparta sede Centro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "097c1c1a-3f7e-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Simon Bolivar (Venezuela)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "10369f6f-a4a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad Tecnologica del Centro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "e6861a99-2c0c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Yacambu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "VEN",
+		"InstitutionID": "cc6d6dd7-8af0-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Yacambú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

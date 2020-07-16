@@ -1,0 +1,3530 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bfab6a40-e20c-de11-9c12-0030485a8df0",
+		"OrganizationName": "1~!@ - Can be delete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3e4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "3 Rivers Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6febf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "A.G Visser Laerskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9668db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Accelerated Christian Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dceaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Adullam Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dbecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "African Academy for Computer Assisted Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9078d2f6-d325-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Akademia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f6eaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Al-Azhar Institute of Cape Town",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cc48e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alberton Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f644e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alberton High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4b47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alberview Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9966db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Allen Glen High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6449e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alma Mater Academic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "beebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alpha and Omega School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "83ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alston Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "aae8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Andante Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e846e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Applewood Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ad48e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Armino 143 cc T/a St Christopher's Private School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "66e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ashley Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ec1bb19c-99ba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Association of South African Colleges (ASAC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3040c0b4-05cb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Association of South African University Directors of Information Technology - ASAUDIT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6e66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Assumption Convent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0747e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Athlone Park Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0eeaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Athlone Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2966db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Auckland Park Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "49ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Barachel Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9f66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Basa Tutorial Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4348e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Batswana Commercial Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9aebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bedelia Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "324be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Belfast Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b166db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Beweging vir Christelike Volkseie Onderwys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "142cc0e0-734a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Bishops Diocesan College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3debf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bisley Park Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2ae9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Blaauwskop Intermediêre Skool (R.K)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e1e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Blouberg International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "edecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bonwelong primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "30e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Boshoek Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4949e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Boskop Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5345e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Boston City Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5945e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Boston City Campus - Roodepoort",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1bdd00e2-c198-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Brainline - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e6f4c6b0-0969-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Brainline Learning World",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "50e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Brandcliff House",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "014ce429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Brenhurst Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7466db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Brescia House School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "60e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bronkhorstspruit Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7ee6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Brooklyn Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b644e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camelot Spa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "48e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camps Bay High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5b47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cannons Creek Independent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "85610ab1-4979-df11-bc53-0030487d8897",
+		"OrganizationName": "Cape Peninsula University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e7ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Carleton Jones high school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dfebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CCM Destiny School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ac40bd89-18b1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Cedar College of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b948e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cedar House School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fc942c49-b12f-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Central University of Technology, Free State",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4dedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centurion Christelike Laerskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2b46e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centurion Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "02ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Chameleons Montessori",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8766db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Chazon tekna independent school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "87da4ca8-06b1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "CIDA ICT Academy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "29edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "City Kidz Pre & Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b046e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Clapham high",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "03e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Clarendon Park Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6a49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Clarendon Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4866db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Clifton Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "35edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Closing the gap",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9366db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colin Mann Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b167e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "College Campus Parktown",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b1ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Companion ICT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4ee6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Con Amore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d6e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Concordia Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "24e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Constantia Kloof Primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4eebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Constantia Waldorf School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "56ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Continuing Education for Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2366db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cordwalles Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9046e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cornerstone Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7b694a38-dfbe-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Cornwall Hill College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b2ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "COSMOS PRIVATE ACADEMY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3ce6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Courtney House Learning Centre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d54be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cowan House Co-Educational Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e54be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cradock High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fdebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cradock Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3a45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Crossroads School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b467e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "CTI Education Group",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "235c6b47-6d33-e211-aed3-f04da23e67f6",
+		"OrganizationName": "CTU Training Solution Pretoria - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3208ee50-42be-e211-be21-f04da23e67f4",
+		"OrganizationName": "CTU Training Solution Pretoria (South Africa)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fe7c52e9-ccce-e711-80f9-000d3af41938",
+		"OrganizationName": "Curro Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "aae6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CVO Skool Pretoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e84ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CVO VIVO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9eecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cygnet Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f74be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Damelin Brits",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f9e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Damelin George",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c049e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Damelin Kimberley",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2f66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Damelin Lowveld",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1349e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Damelin Midrand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a566db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "De La Salle Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2347e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Deusche Schule Hermannsburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0de7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Diamantveld High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f9ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dihlabeng Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e368db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Domino Servite School - South Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8949e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Doon Heights Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e444e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Drakensberg Boys Choir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "62ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dumezizweni Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "09ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dumisani Theological Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "94ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dunamis Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4f4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dundee High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Durban Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bdecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Durban North Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bd47d32e-761e-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "East London Management Institute (ELMI) - East London - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2de7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "East Rand Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8f49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Eastdene Combined School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cee6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "eDegree (Pty) Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6ce6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Edenglen High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "75ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Empangeni Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7decf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ennerdale Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5ae9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Entheos Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "80ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Erasmia Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "48eaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Estcourt Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bc44e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fish Hoek High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "174ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Flamboyant School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c266db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fourways High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1e49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Frances Vorweg School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "42e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gateway Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "25cde9f3-7da5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Gekombineerde Skool Noorderlig - Benoni - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dd49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Get Ahead Project",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d4e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Get Ahead Project Whittlesea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8f4ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Glenashley Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "84e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Glenwood Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c944e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Glenwood House",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f3ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Global Academy of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5cecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Gonubie High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "eddeca91-6627-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Gordon Institute of Business Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8c8ef0fb-e525-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Graduate School of Business - University of Cape Town",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "05edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Graserkrat Studies t/a Good Hope Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "76ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grenville High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e1e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Groblersdal Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c9d88a2e-a05e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Guarantee Trust - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e1ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Halfway House Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "11edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hamilton Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "68ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Harding Special School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4d45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Harriston School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a0ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Harvest High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d848e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Helderberg High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d2ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "High School Oos-Moot",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fc44e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hillcrest Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "76e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hluhluwe Privaatskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "03ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoer Tegniese Skool Middelburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2e45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoer Volkskool Heidelberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2fedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoer Volkskool Potchefstroom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e348e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Adamantia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d5ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Birchleigh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c84be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Calvinia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2beaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Colesberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4ee9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoërskool Douglas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "77e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Ermelo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "abecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Fochville",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4149e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Hendrik Verwoerd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cc49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Jan de Klerk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "05e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoërskool Kakamas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "72e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Klerksdorp",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2449e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Kriel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3eedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Montana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7c4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Oosterland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0d49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Overkruin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "31ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Pionier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c9ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Roodepoort",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ea44e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Rustenburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "42e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Schoonspruit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5b4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Suid Natal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c2e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Vanderbijlpark",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ad4ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Voortrekker",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ee46e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Westonaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6866db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoërskool Wonderboom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d844e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hoerskool Zwartkop",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d248e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Holy Cross Sister'  School, Bellville",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d5e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Horizon View Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f568db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Howick High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "641bd449-f910-e811-80fe-000d3af41938",
+		"OrganizationName": "Human Science Research Council",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2145e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hurlyvale Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c4ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hydro Training Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "24ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ichthus Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fc46e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IMM Graduate School Of Marketing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "18ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Impact Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e968db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Inanda Seminary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "be82af22-08cb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Independent Institute of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a04be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Industries Education & Training Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bee8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Inkamana High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8d56b764-c2b0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Inscape Design College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3d47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "International School of Cape Town",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c409534d-f364-e211-a88c-f04da23e67f4",
+		"OrganizationName": "iSolve Business Solutions - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c5608990-06e9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "IT Training Corporation - Pretoria - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a944e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jan Celliers School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b348e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jeppe High Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d446e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jim Fouché Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0be9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jim Van Tonderskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "54e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kainon Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f3e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kamagugu School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1de9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kempton Park Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5ae6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kensington Ridge Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "67ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kenton Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4f66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kgalalelo Education (Pty) Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7f6e1b93-0db5-e811-810a-000d3af41938",
+		"OrganizationName": "Khulisa Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "714ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Khuphukani Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b044e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "King David School - Sandton",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7b66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kings School Westrand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b9e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kitlanang Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ba49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Klerksdorp Methodist Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a64be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Klerksdorp Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c648e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kokstad Junior School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "78e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Konke Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4b46e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kuschke Agricultural School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2745e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kuswag School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bf48e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "La Hoff laerskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7d49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "La Salle College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a149e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ladysmith High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "17e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool  Kwaggasrand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "60ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Brakpan-Oos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6ce9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Concordia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "30e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Currieskamp",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "52e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Die Poort",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f9e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool DR Havenga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c3ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Elsburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fceaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Fairland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7ee9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Fontainebleau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "60e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Goedehoop",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "714be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Hangklip",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dd68db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Jan Celliers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "47edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Jeugkrag",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "36e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Jozua Naude",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cb4ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Kragbron",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cfecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Kreft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a268db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Louis Leipoldt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "354ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Louw Geldenhuys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "96e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Lydenburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "43ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Machado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "efeaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Millennium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cf4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Noordhoek",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "254be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Onverwacht",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2a48e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Oospark Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dae8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Oranje-Suid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7749e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Piet van Vuuren Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "72e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Pietersburg Oos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "64eaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Pionier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ffecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool President",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e9eaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Roosheuwel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3c48e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Thabazimbi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b766db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Vastrap",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8ae9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Vostereiland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6b47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laerskool Wonderboom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "93e7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laudium Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f1e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Linksfield Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cde8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lord Milner School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ad4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lynford School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4948e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lynnwood Laerskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ffe8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lynwood Ridge Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e7e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Madibeng Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b6e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mahikeng Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "54e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Maiketso Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ec9767d1-0cfa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Management College of Southern Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "37e464ee-8c8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Mangostuthu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4e3844b5-7095-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Mangosuthu University Of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9de9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Maranatha School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1dedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Marianhill Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f1ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Meerhof School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b6e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Melkbosstrand Private School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "caebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Metsimaholo Primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "62a627c5-2c1c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Michaelhouse (South Africa)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "78e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Michaelis School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8349e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Micheal Mount Waldorf School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3648e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Micklefield School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c866db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Midrand High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4fecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Milton Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1d66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mitchell House Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0e45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mogolo Abet Provider Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "60eafb8b-5037-e711-80ef-000d3af41938",
+		"OrganizationName": "Monash South Africa - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "89ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mowat Park High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "be67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "MSL Strategies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0bedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mtuba Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1febf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nardini Convent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "29570e65-bc03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "National Research Foundation (NRF)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b0e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National School of the Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0c44ad82-29b4-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Nelson Mandela Metropolitan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f044e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nelspruit Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "996ca848-fdba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Nizamiye Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f048e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Northern Park Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b868db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Northridge primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5f74f5a4-7c45-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "North-West University (ZA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c8e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Oakley House School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ede8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ogodiseng Intermediate School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "66e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Oliver lodge primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bdeaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Oosrand Akademie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6cedf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Orania CVO School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ae5bc82a-6789-e111-981b-f04da23e67f6",
+		"OrganizationName": "Oval International",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "18ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Overvaal Privaatskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "90e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Parkrand Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c167e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "PC Training and Business College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "22eb68e3-1208-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Pearson Institute of Higher Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f14be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "PEPPS Mokopane Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bb4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Piet Retief High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "65edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Plettenberg bay CS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f525af9f-9770-e711-80f1-000d3af41938",
+		"OrganizationName": "Plumstead High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9ce6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Port Shepstone Islamic School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0245e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Port Shepstone Junior Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a4ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Potchefstroom High School for Boys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1647e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pretoria Chinese School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9549e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Primrose High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "53edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Prinshof School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1d47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Protea School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "17edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Providence Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "37ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Quiver Training t/a Damelin Klerksdorp",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "afe7f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rand Private School (Pty) Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "26ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rant-En-Dal School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "37ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Re Tlameleng School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "79cd28d7-1441-e911-8113-000d3af41938",
+		"OrganizationName": "Regenesys Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a01e1496-b8c2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Rhodes University (South Africa)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "11ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Richardia Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "abbae1b2-0f3a-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Richfield Graduate Institute of Technology - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b8ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ridgevale primary school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ebebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ridgeway Independent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5f45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rietondale Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bce6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Risidale Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "84e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Riverview Preparatory School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4166db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rivonia Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "de44e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Robert Hicks School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f7ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rock of Christ Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "31ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Roodepark Laerskool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c467e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Rosebank College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1f5f437d-b765-e711-80f1-000d3af41938",
+		"OrganizationName": "SACAP - The South African College of Applied Psychology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "81a60f73-1c05-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Sacred Heart College Jhb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ab66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sagewood Educational Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "987bbdde-665f-e811-8105-000d3af41938",
+		"OrganizationName": "Saheti School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b449e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Saint Joseph's Theological Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c344e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Salestalk 380 (PTY) LTD t/a Innovatus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8166db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sandown High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "7049e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sandringham High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9feaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SAVF Klein Spoortjies Pre-Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3049e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "School of Merit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6b46e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Scottsville Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fbe6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Secunda Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "fba8733f-0775-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Sefako Makgatho Health Sciences University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4e77b3a9-5dd1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Selborne College (South Africa)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5849e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Selborne Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ede6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shayandima School of Tomorrow",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a749e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shree Bharat Sharda Mandir Elementary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1b45e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shree Bharat Sharda Mandir Independent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8eebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sol Plaatje Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5b90b200-35d8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Sol Plaatje University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "da41961b-837c-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "South Africa - Windows 8",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d4e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "South African Jockey Association",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "73493f4d-695b-e211-b607-f04da23e67f6",
+		"OrganizationName": "South African Theological Seminary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "23edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "SPAPARK PRIMARY SCHOOL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "82eaf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Spero Villioti Elite Design Academy (Pty) Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0149e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Andrews School Welkom",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "acebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Barnabas Independent School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "524ae429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Benedict School - Pinetown",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d249e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Catherines Convent",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f546e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Columba's School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a209e1e1-41a2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "St David's Marist Inanda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5566db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Dominics Academy Newcastle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6166db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Dominic's Catholic School for Girls Boksburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e5ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ST Helena Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9402e5ff-7568-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "St Joseph's Marist College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4745e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Katharine's School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3566db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Martins School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e7f0b71f-ce53-df11-b56b-0030487d8897",
+		"OrganizationName": "St Mary's School for Girls",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4145e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Nicholas Diocesan School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d168db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Paulus Pre and Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "5b66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Peters Prep For Boys",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0845e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Peters Prep For Girls",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "964691bb-8ecf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "St Stithians College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2a49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St Ursula's High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d266db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Star Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "f949e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stellenbosch Academy of Design &Photography",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d3a8da31-cad3-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Stellenbosch University -  Bellville Park Campus - First Technology - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "08654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Stellenbosch University - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "82c1309f-8491-de11-8cd1-0030487d8897",
+		"OrganizationName": "Stellenbosch University - Information Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e7da4e95-a4a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Stellenbosch University - South Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e49e26c6-75ce-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Stellenbosch University - Stellenbosch - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "78edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stirling Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d9ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Strathvaal primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3749e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Strelitzia High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dae6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suid Natal Primere Skool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9b49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suiderlig High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8d66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suncrest High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "98e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sunnyridge Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "59edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sunrise School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "8ae6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Supero Private Combined School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "4af61492-5910-e111-a703-f04da23e67f6",
+		"OrganizationName": "Teachers Laptop Initiative",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "84edf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tehillah Christian Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3b66db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The American International School of Cape Town",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "b4cee493-f0d9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "The Belgium Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "08cdc640-828c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "The Da Vinci Institute - South Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d244e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The King's School Linbro Park",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6eecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Net of Christ Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c068db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Open Window School of Visual Communication",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3decf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Rock Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "834be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "THS Klerksdorp",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2a47e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tom Newby School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "11e9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tong Comprehensive School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ae49e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Transoranje School for the Deaf",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "88ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Trichardt Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "12ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tshwane Home Educators Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tshwane South College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "af4e76a3-ba20-df11-856f-0030487d8897",
+		"OrganizationName": "Tshwane University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "a6ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tulip High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1445e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Unica School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ff644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Cape Town",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "2c604bce-a8cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Fort Hare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "cb644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Johannesburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bb634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of KwaZulu-Natal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3fb5fd4f-e30c-e811-80fe-000d3af41938",
+		"OrganizationName": "University of KwaZulu-Natal - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6cc3e5ce-5ea9-e011-98e6-f04da23e67f6",
+		"OrganizationName": "University of Limpopo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0d2df382-400b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "University of Mpumalanga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "0d634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Pretoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "1d644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of South Africa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6d0c596b-cd97-e211-87e9-f04da23e67f4",
+		"OrganizationName": "University of the Free State",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "d1818eef-3938-df11-b4ab-0030487d8897",
+		"OrganizationName": "University of the Western Cape",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "13634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of the Witwatersrand - Johannesburg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "6191910f-460b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "University of Venda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "e4f11275-490b-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "University of Zululand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ecc1eae9-52b4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Vaal University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3ce9f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Valencia Combined School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "bb67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Varsity College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9b1d84bf-f89f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Varsity College - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "9a4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Victoria girls high school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "14e8f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "W.H De Klerk school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "78eb9906-8d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Walter Sisulu University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3147e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Wartburg Kirchdorf School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "c649e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Waterstone College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "43ebf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Wendon Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "074be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "West Coast Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dd5ce133-7699-e711-80f6-000d3af41938",
+		"OrganizationName": "Westville Boys’ High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "3445e429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Willowmoore High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "ab68db23-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Winston Park Primary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "90ecf12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Word of Life Christian School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "dc481cce-3add-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "WW.IT-IQ Training & Solutions",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "be264321-ad38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "WW.IT-IQ Training & Solutions - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "eb4be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "You Learn IT Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "48e6f12f-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zeerust Primary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZAF",
+		"InstitutionID": "384be429-0e1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zingisa comprehensive high school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

@@ -1,0 +1,3986 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "15908b8b-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ace Lifelong Education Centre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5030ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Ajou University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5b624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Andong National University (안동대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5530ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Andong Science College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5a30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Andong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5e5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Anjung High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7eaa01d6-16af-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Ansan College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5f30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Ansan College of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "595c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ansan Design Culture High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "365f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ansan International business High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7b5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ansan Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "285f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Anseong Doowon Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e35c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Anyang Girls Commercial High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6430ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Anyang Technical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "eb5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Anyang Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6930ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Anyang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4581b2c9-6ba6-ea11-812b-000d3af41938",
+		"OrganizationName": "Asian Center for Theological Studies and Mission",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4ceed61a-59c9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "aSSIST Seoul School of Integrated Sciences & Technologies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6d5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "baegam High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6d982d23-62cb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Baekseok Arts University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c7964f6b-05fc-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "Baekseok Culture University (백석문화대학)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d9de5318-3571-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Baekseok Theological Seminary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9f58d0e0-7197-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Baekseok University (백석대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b55e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Balan Bioscience High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3b5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Bibong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a68b3bd5-2cdc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Bubal Elementary School (부발초등학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "dd65123d-c686-e811-8108-000d3af41938",
+		"OrganizationName": "Bucheon College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "595e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Bucheon Information Industry High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "705e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Bucheon Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "72babc17-5840-e911-8113-000d3af41938",
+		"OrganizationName": "Bugil Academy (북일고등학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "395c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Bundang Management High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2fedde0b-5740-e911-8113-000d3af41938",
+		"OrganizationName": "Busan Digital University (부산디지털대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6e30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Busan Info-Tech College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "94046ceb-6f71-e711-80f1-000d3af41938",
+		"OrganizationName": "Busan Institute of Science And Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "685e95db-b23f-e711-80ef-000d3af41938",
+		"OrganizationName": "Busan Metropolitan City Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "03e8e38b-8102-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Busan National University of Education (부산교육대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a02beddd-712c-e811-8101-000d3af41938",
+		"OrganizationName": "Busan University of Foreign Studies (부산외국어대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4d6f3104-873a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Busan Women's College (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2c5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Buwon High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d4b49a83-93e8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Catholic Kwandong University (가톨릭관동대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cf4ced83-5503-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Catholic University of Daegu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8f616dc3-4762-e711-80f1-000d3af41938",
+		"OrganizationName": "Catholic University of Pusan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b44040e8-389c-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "CHA UNIVERSITY (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8b9288ae-b386-e811-8108-000d3af41938",
+		"OrganizationName": "Changbook Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7830ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Changwon College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7d30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Changwon National University (창원대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "065d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Cheongdam High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9d134165-272e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Cheongju National University of Education (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8230ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Cheongju University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cf5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Cheongpyeong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "aa6c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Chinju National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6b624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chonbuk National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "96624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chongju University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "59ec258b-19f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Chongshin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8730ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chonnam National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0b89ab5b-6a20-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Chosun College of Science and Technology (조선이공대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8c30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chosun University (조선대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b93cc5a1-4e5e-e811-8105-000d3af41938",
+		"OrganizationName": "Chugye University for The Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8907297f-f993-e711-80f6-000d3af41938",
+		"OrganizationName": "Chuncheon National University of Education (춘천교육대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ad0cb8af-5915-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Chung Cheong Nam Do Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9630ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chung Chong College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "20654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chung-Ang University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9130ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chung-Ang University (중앙대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9b30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chungbuk National University (충북대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c206a1cb-2623-e911-8110-000d3af41938",
+		"OrganizationName": "ChungCheongbuk-do Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a030ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chungju National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "64612bb5-cc4c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Chungkang College of Cultural Industries",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "288c4528-6bf8-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "ChungNam High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a530ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Chungnam National University (충남대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8311a9b8-a6a3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Chungwoon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "13fefcd9-4653-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Chunnam Techno University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1c8e30ab-6187-e711-80f3-000d3af41938",
+		"OrganizationName": "Cyber Hankuk University of Foreign Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "04d069d3-cbea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Cyber University of Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c45d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Daebu High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "aa30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daebul University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "af30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daeduk College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "20fa9b32-9b22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Daegu Gyeongbuk Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b430ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daegu Hanny University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7b32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daegu Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8678b1e7-534c-e711-80f0-000d3af41938",
+		"OrganizationName": "Daegu National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b930ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daegu University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2659ca0e-eae0-e711-80fa-000d3af41938",
+		"OrganizationName": "Daejeon Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "77611ffe-9da8-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Daejeon Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "be30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daejeon University (대전대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c330ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daejin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c830ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Daelim University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e92518c5-24f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Dalseon High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cd30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dankook University - Yongin - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "32c617cd-306c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Dankook University (단국대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8db27f7a-0b5b-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Danwon High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "035e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Dasan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4aa052f2-05d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Digital Seoul Culture Arts University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d230ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dong-A University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "acac1e27-c78e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Dong-Ah Institute of Media and Art",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8b5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Dongduchon Jungang High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ceabc126-a828-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Dongduk Women's University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6a620263-34e0-e711-80fa-000d3af41938",
+		"OrganizationName": "Dong-Eui Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d730ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dong-Eui University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "dc30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dongguk University (동국대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "145e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Dongil Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8e9f5616-df6f-e811-8106-000d3af41938",
+		"OrganizationName": "Dongnae Horticulture High School (동래 원예 고등학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e130ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dongnam Health University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e630ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dong-Pusan College University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "eb30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dongseo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f030ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "DongSeoul College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f530ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Dongshin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d78f6cd0-8414-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Dongwon Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8ecebbb9-b3d3-e811-810b-000d3af41938",
+		"OrganizationName": "Dongyang Mirae University (동양미래대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fa30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "DongYang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ff30ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Doowon Technical College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fd861205-fd7d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Dsuyoung Middle School (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0431ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Duksung women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "485c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Dukyoung High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "66b181b3-c792-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Eulji University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ca5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Eunhye High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "75624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ewha Womans University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "763c6a6a-5cff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Far East University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1ae810fa-9584-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Gachon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e224890b-1165-e011-971f-0030487d8897",
+		"OrganizationName": "Gachon University of Medicine and Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3a1ecdc1-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "GAFL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "461ecdc1-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Game Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9bdac963-e0c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Gangdong College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "28e6620a-cc28-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Gangneung-Wonju National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "be5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gaon High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e6346ece-6919-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Geumgang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a20c13a5-480b-e811-80fe-000d3af41938",
+		"OrganizationName": "Gimcheon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1e5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gimpo Jeil Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "225f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gonjiam High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "415e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Goyang High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "401ecdc1-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Green Computer Art School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "950549d8-caea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Gumi College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0931ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Gumi College of Korea Polytechnic VI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "755e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gunja Digital Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0c5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gunpo e-Business High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d7925398-b365-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Gwangju Institute of Science and Technology - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "51f84c58-5058-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Gwangju Institute of Science and Technology (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "435c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gwangju Joongang High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ce340cc5-2901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Gwangju Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d5cd9da5-c931-e811-8101-000d3af41938",
+		"OrganizationName": "Gwangju Software Meister High School - Gwangsan-gu - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0e31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Gwangju University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7a5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "GwangMyeong Business Accounts High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9d5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "GwangMyoung Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "77154ca3-2240-e911-8113-000d3af41938",
+		"OrganizationName": "Gwangpyeong Middle School (광평중학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "85ee28d7-7102-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Gyeongbuk Provincial College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d14fe31e-8b75-e911-8119-000d3af41938",
+		"OrganizationName": "Gyeonggi College of Science Technology (경기 과학 기술 대학규)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a75e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Global Trade High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "805c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi High School of Automotive Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8d5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Logistics High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "675d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Management High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "975d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Media Broadcasting Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5e5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Mobile Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a5b92972-935c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Provincial Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "985c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Taxation High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4c5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyeonggi Tourism High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "face6dbf-4db0-e811-810a-000d3af41938",
+		"OrganizationName": "Gyeongin National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "80050bbd-9efe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Gyeongnam International Foreign School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1ef02217-8393-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Gyeongnam National University of Science and Technology (경남과학기술대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1331ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Gyeongsang National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0388e2cc-4b03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Gyeongsangnamdo Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "185d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Gyoenggi International Trade High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8006db71-7ab3-e711-80f7-000d3af41938",
+		"OrganizationName": "Halla University (한라대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d6644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hallym University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c60813a2-e25d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Hana Academy Seoul (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f15c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Hanam Management High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1831ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hanbat National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5a644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hanbat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "115d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Hanbom High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9e89e2f9-7a62-df11-b841-0030487d8897",
+		"OrganizationName": "Handong Global University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0ce505bb-c3c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Hankuk Academy of Foreign Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d5e8728b-bba8-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Hankuk University of Foreign Studies (한국외국어대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1d31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hankuk University of Foreign Studies (한국외국어대학교) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5ad164eb-4b18-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hankyong National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2231ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hannam University - Daedeokgu - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "dd767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hansei university Young San Global Student",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d5a6ee83-4b18-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hanseo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2731ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hanshin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2c31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hansung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bb0a033f-ca99-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Hanyang Cyber University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "13644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hanyang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3131ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hanyang University Asan Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "24246b4a-0cc0-e811-810a-000d3af41938",
+		"OrganizationName": "Hanyang Women’s University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f4304490-65cb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Hanyoung Foreign Language High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3c5f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Haseong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "994a84ab-79fa-e711-80fc-000d3af41938",
+		"OrganizationName": "HiFive (Highschool for The Foremost Innovative Vocational Education)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c3dea083-d80c-e811-80fe-000d3af41938",
+		"OrganizationName": "Honam University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cd5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Hongik Design High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3631ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hongik University (홍익대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3b31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Hoseo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "810405db-972f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Hunet Lifelong Cyber-Learning Center (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6b23b0f1-2537-e711-80ef-000d3af41938",
+		"OrganizationName": "Hwashin Cyber University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ceb985b4-2694-e811-8108-000d3af41938",
+		"OrganizationName": "Hwikyung Girls' High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4031ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "HyeJeon College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c4355f49-17bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Hyupsung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8c5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Icheon Jeil High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "545c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Icheon Taxation High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "685e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ildong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "df5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Iljuk High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ec5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ilsan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "715c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Ilsan International Convention High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4531ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Incheon City College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d4867b96-8e09-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Incheon Global Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8aeea2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Incheon Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b8634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Incheon National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4a31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Incheon National University - Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4f31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Induk Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "46654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Information and Communications University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "18644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Inha University - Incheon (인하대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "47654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Inje University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8a7b780e-1796-e111-981b-f04da23e67f6",
+		"OrganizationName": "International Design School for Advanced Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8cf1d0eb-e7f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "International Graduate School of English",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ab1dbf0f-91fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Jamhyun Elementary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bfc72d1d-b7ab-e811-8109-000d3af41938",
+		"OrganizationName": "JangAn College - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5431ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Jeju National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "62bff5bb-2047-e811-8103-000d3af41938",
+		"OrganizationName": "Jeju National University Elementary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5e7b54bc-f846-e811-8103-000d3af41938",
+		"OrganizationName": "Jeju National University High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bf3a65ab-fd46-e811-8103-000d3af41938",
+		"OrganizationName": "Jeju National University Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d2029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Jeollabukdo Office of Education (전라북도교육청)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "60e0c1cc-2655-e711-80f0-000d3af41938",
+		"OrganizationName": "Jeollanam-do Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "155f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Jeongok High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f7b2d5ec-df8c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Jeonju National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5931ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Jeonju University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "92e7b3f1-25ea-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Jinsan Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fd5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Jinwee High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f75d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Jippeong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b75c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Jojong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "06c08fcf-5dd6-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Joongbu University (중부대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "da5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Juksan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "38c45a9b-7d88-e011-969d-0030487d8897",
+		"OrganizationName": "Jungwon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5e31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kangnam University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5a654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Kangnung National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6331ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kangnung-Wonju National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6831ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kangwon National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6d31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kangwon Tourism College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "13987af4-018b-e811-8108-000d3af41938",
+		"OrganizationName": "Kangwondo Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "289bf19a-31be-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Kaywon University of Art & Design",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7231ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Keimyung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d98a1162-86d0-e111-971c-f04da23e67f6",
+		"OrganizationName": "KEPCO International Nuclear Graduate School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "925e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Keunmyung Girl’s Information High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b701ccb9-4872-df11-bc53-0030487d8897",
+		"OrganizationName": "Kongju National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7731ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kongyang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7c31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Konkuk Univeristy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5a23e0e9-9684-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "KonKuk University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "60d0b374-059d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Konkuk University Medical Center (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "68b4b500-9954-e911-8113-000d3af41938",
+		"OrganizationName": "Konyang Cyber University (건양사이버대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0d148401-5846-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Konyang University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5e654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Kookmin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5f654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Korea Advanced Institute of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "30a19da8-a65c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Korea Aerospace University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8131ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea Air Force Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "745d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Animation High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c5646c11-9fbb-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Korea Baptist Theological University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4f5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Ceramic Art High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "db5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Culinary Arts Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "975e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Culture&Media High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a35c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Digital Media High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7b5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Food Service Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d51c3319-ecf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Korea Maritime and Ocean University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "63c98ec2-d7c3-e711-80f9-000d3af41938",
+		"OrganizationName": "Korea Military Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8631ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea National College of Rehabilitation & Welfare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cec2954d-b735-e711-80ef-000d3af41938",
+		"OrganizationName": "Korea National Defense University (국방대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "60654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Korea National Open University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3bd3d1da-e94a-e711-80f0-000d3af41938",
+		"OrganizationName": "Korea National Sport University (한국체육대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "323b917b-049d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Korea National University of Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f81eef32-95f2-e811-810c-000d3af41938",
+		"OrganizationName": "Korea National University of Cultural Heritage (한국전통문화대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e1c96ba5-3777-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Korea National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2fdfb1ac-a5fe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Korea National University of Transportation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0b8f849c-078e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Korea Nazarene University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "696ed85e-f577-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Korea Polytechnic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8b31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea Polytechnics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d5ad39c4-8860-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Korea Soongsil Cyber University (숭실 사이버 대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9031ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea Textile & Fashion Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4e5bc60d-eb5a-e911-8115-000d3af41938",
+		"OrganizationName": "Korea Tourism College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ed5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Korea Tourism Senior High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9531ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea University (고려대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c546262e-1d0d-e911-810e-000d3af41938",
+		"OrganizationName": "Korea University of Media Arts (한국영상대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ed43142f-b987-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Korea University of Technology and Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9a31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea University of Techology and Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9f31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Korea Women's Polytechnic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "472638dc-6e28-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Korean Bible University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e1fe461f-8c79-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Korean National Open University (한국방송통신대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "702f4033-1aaf-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Korean National University of Arts",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f1f3f8dd-f751-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Kosin University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "415f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Kumgok High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a431ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kumi College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a931ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kumoh National Institute of technology (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c8ae9f96-a9a4-e811-8109-000d3af41938",
+		"OrganizationName": "KUNJANG UNIVERSITY COLLEGE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ae31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kunsan National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b331ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kwandong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a1d0d1ca-38d8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Kwangju Women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "635e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Kwangtan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "62654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Kwangwoon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b831ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyonggi Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bd31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyonggi University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4a6466ee-bf48-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Kyung Hee Cyber University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "022598a1-b592-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Kyung Hee University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "30a4f8c4-c2bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Kyungbuk College (경북전문대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c731ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyunghee University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a25e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "KyungHwa Girl's English Business High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c75e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Kyungil High School of Tourism and Business Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cc31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungil University (경일대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4b6ce614-eae0-e711-80fa-000d3af41938",
+		"OrganizationName": "Kyungin Women's College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "485f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Kyungmin Business High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "72edd5b1-ef4f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Kyungmin College (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d55c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Kyungmin IT High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d131ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungnam College University of Information & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c231ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungnam University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d631ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungpook National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cd02fc17-ad1f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kyungso Middle School (Daegu) - 경서중학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "db31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungsung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e031ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Kyungwon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b93a0bdb-c64c-e911-8113-000d3af41938",
+		"OrganizationName": "Kyungwoon University (경운대학교 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1b5f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Maehyang Girls information High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c91d93aa-cdda-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Mail University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "865e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Majang High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e531ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Masan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3e77b4ca-b6f5-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Methodist Theological University (감리교신학대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3baa377c-67cb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Mokpo National Maritime University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6fc6f9ed-4bdf-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Mokpo National University (木浦大学校)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "eb251660-4c2e-e911-8111-000d3af41938",
+		"OrganizationName": "Mokpo Science University (목포 과학 대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ea31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Mokwon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "20ce2baa-0938-e811-8103-000d3af41938",
+		"OrganizationName": "Munsan Sueok High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "805e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Munsanjeil High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ef31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Myongji College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "29681dbc-e708-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Myongji University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f431ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Myongji University - Yongin - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f931ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Namseoul Univeristy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b0624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Namseoul University (남서울대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3e5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Namyang High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "335d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Namyangju Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3f7f7390-f45f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "North London Collegiate School Jeju",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4c1ecdc1-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Omega Point Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "525e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Osan Information High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fe31ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Osan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cf305b65-fcbd-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Pai Chai University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d86ab747-6ebd-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Paichai High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "805d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Paju Girls' High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "255d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Pocheonil High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "13d64401-689e-e011-969d-0030487d8897",
+		"OrganizationName": "Pohang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "057d49dc-af8d-e711-80f4-000d3af41938",
+		"OrganizationName": "Pohang University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0332ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Pohang University of Science and Technology - Pohang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f3acd7ac-6634-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Presbyterian University and Theological Seminary ( 장로회신학대학교 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0832ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Pukyong National University (부경대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "42634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Pusan National University (부산대학교, PNU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0d32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Pusan University of Foreign Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c25e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Pyeongchon Management High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6b5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Pyeongchon Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ad5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Pyeongtaek Girls' High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c35c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Pyeongtaek Mechanical and Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1232ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Pyongtaek University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4b634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Sahmyook University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bd5c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Samil Commercial High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e55e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Samil Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "925c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Sanbon Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1dc455d5-1bea-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "SanDong Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1732ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Sangji University (상지대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1f77f0ea-8097-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Sangmyung University (South Korea) -  Seoul Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "bb5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Segyeong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e8967dc8-8c56-e711-80f0-000d3af41938",
+		"OrganizationName": "Sehan University ( 세한대학교 )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0dfe5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Sejong City Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9832b56e-b032-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Sejong Cyber University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b5311f27-204a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Sejong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b2908fe3-7fe6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Semyung University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1c32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Seoil University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c4624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Seokyeong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "095e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Seongnam Finance High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9dd7ee7d-1de0-e711-80fa-000d3af41938",
+		"OrganizationName": "Seoul Art-Occupational Training College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7f479a45-6432-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Christian University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9eefa2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Seoul Computer Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b54bb53e-928f-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Cyber University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2677b123-1aba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Digital University (SDU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "07908b8b-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Seoul Foreign School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1a9a39d7-7b2f-e711-80ee-000d3af41938",
+		"OrganizationName": "Seoul Institute of the Arts (서울예술대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1f908b8b-5133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Seoul International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2841ea44-9a68-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Jangsin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c12e6c39-3e24-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Seoul National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0b9b1a9d-9906-e811-80fc-000d3af41938",
+		"OrganizationName": "Seoul National University Hospital",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a9fb5c64-3798-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Seoul National University of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e614e915-1b25-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Seoul National University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2132ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Seoul National University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8e2760c6-58d6-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Sahmyook Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "19832fe0-02e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Theological University (서울신학대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f76682d4-5626-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Visual Media High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6c971f33-f725-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Seoul Women's University (서울여자대학교, South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2632ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Sewon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c95c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Shihwa Techinal High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f8971755-02fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Shin Ansan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "54e94589-48b6-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Shingu College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0d1956c4-b926-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Shinhan University (신한대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "665c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Shinil Business High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "85ccc35b-ddb1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Silla University (신라대학교)  - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ca624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Sogang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "46eeacc2-8613-e911-8110-000d3af41938",
+		"OrganizationName": "SolBridge International School of Business",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e7d6bfe8-9910-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Songwon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2b32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Sookmyung Women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "01992220-f9fe-df11-9c87-0030487d8897",
+		"OrganizationName": "Soonchunhyang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "93a8897c-7cf2-e811-810c-000d3af41938",
+		"OrganizationName": "Soongeui Women's College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3032ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Soongsil University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "17a86402-a240-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Sun Moon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3532ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Suncheon First College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8cb1bb40-5328-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Sunchon National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ed13aec2-df6c-e911-8117-000d3af41938",
+		"OrganizationName": "Sunduck High School (선덕고등학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "875d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Sungbo Management High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9d5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Sungil Information High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "51597016-73a0-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "SungKongHoe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d0ba4f9d-af64-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "SungKyul University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b3644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "SungKyunKwan University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "9d5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Sungnam Techno Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3f6a301f-afcc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sungsan Hyo University (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fb7d5a23-b7ab-e811-8109-000d3af41938",
+		"OrganizationName": "Sungshin University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3a32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Sungshin Women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "96d7d56b-ce9a-ea11-812b-000d3af41938",
+		"OrganizationName": "Sungshin Women's University (성신여자대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3f32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Sunmoon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5d9069a9-8638-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Suseon College (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5dfba3e8-c608-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Suseong College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "35e5c0cb-a302-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "SuSeong College(수성대학교) - Suseonggu(수성구) - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a85d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Suwon High School for Agricultural Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d95e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Suwon Hi-tech High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "cf5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Suwon Information Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "79c831c9-95ee-e911-8122-000d3af41938",
+		"OrganizationName": "Suwon Science College (수원과학대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d35e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Suwon Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4432ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Suwon Women's University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4932ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "The Catholic University of Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "135be627-21f1-e911-8122-000d3af41938",
+		"OrganizationName": "The Cyber University of Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "195e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Tongjin High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ccf2f645-cbf2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Tongmyong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4e32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Tongwon College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8cb72bd8-3919-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Tongwon University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0d642835-a69e-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Torch Trinity Graduate University (횃불트리니티)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b95d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Uijeongbu Technical High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5332ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Ulsan College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3cd5466b-08e1-e711-80fa-000d3af41938",
+		"OrganizationName": "Ulsan Metropolitan Office of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c8464d89-9c0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Ulsan National Institute of Science and Technology (울산과학기술원)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "106455a0-790b-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Ulsan National Institute of Science and Technology, UNIST - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5d32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Ulsan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "08eaf11c-e26c-df11-b841-0030487d8897",
+		"OrganizationName": "University of North Korean Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f1b2e0de-6a28-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "University of Science and Technology (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "5832ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "University of Seoul",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Seoul - South Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b2226eae-3950-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "University of Suwon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6b73c6d2-bffa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Wolseong Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6232ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Wonkwang Health Science University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6732ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Wonkwang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e15d2374-a5bd-e711-80f7-000d3af41938",
+		"OrganizationName": "Woosan Elementary School (South Korea)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fbb6ffaa-bcb8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Woosong University (우송대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "6c32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Woosuk University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e65d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yangdong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "fa3e0c15-21a0-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Yang-Jae High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b35d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yangpyeong Electronics Science High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "475e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yangpyeong High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7132ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Yangsan College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "3c5d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yangseo High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "765c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yangyoung Digital  High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a7785368-0e23-e811-8101-000d3af41938",
+		"OrganizationName": "Yeojoo Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "30dae0cf-18ba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Yeoju Middle School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f25d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yeoju Self-Management Agricultural High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "d55d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yeojufirst High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2f5f7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yeoncheon High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7a03a250-07e6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Yeonmu High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7d2564e5-b4f5-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Yeonsung University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "741c74df-9b5d-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "YEUNGJIN CYBER COLLEGE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4e783683-0213-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Yeungjin University (영진전문대학교)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "28634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Yeungnam University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7632ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Yonam Institute of Digital Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "108a00b4-00bf-e711-80f7-000d3af41938",
+		"OrganizationName": "Yong IN University - 용인시 Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "925d7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yongin Bio High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "a8fe6102-9850-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Yongin University (용인대학교) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "0f5e7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Yongmoon  High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "4725d871-8238-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Yongsan International School of Seoul",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "c7634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "YonSei University in Korea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8532ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "YonSei University Wonju Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8032ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Yonsei University, Seoul Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "865c7156-9c5c-ea11-8129-000d3af41938",
+		"OrganizationName": "Youngbuk High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "35d73c2c-6486-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Youngdong University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2bd92cac-4b0a-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Youngsan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8a32ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Yuhan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "491fe937-64b3-e711-80f7-000d3af41938",
+		"OrganizationName": "Yukminkwan High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "feef0dcb-2901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "경상남도교육청",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "54a2828b-ba11-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "광운대학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "16efa2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "교육부 과학 기술",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "05eea2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "구로 컴퓨터 학원 협회",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1ec62d1d-b7ab-e811-8109-000d3af41938",
+		"OrganizationName": "김포대학교 - 김포 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "7330ad22-245c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "대구가톨릭대학교 (Catholic University of Daegu) - 경산시 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "ce61ec61-5361-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "대덕소프트웨어마이스터고등학교 - 유성구 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e4df6fae-eadb-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "배방고등학교 (Baebang High School)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1cf0a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "서울 외국인 학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "72c872a3-2bd5-e211-9d05-f04da23e67f4",
+		"OrganizationName": "선린인터넷고등학교 (Sunrin Internet High School) - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "88eda2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "에이스 평생 교육 센터",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "16a5054c-a3b6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "영남이공대학교 (Yeungnam University College )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "8cf0a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "인적 자�� 개발 연구원",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "2d6b9006-9dab-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "인하공업전문대학 (Inha Technical College)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1ac8ae09-22ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "종로산업정보학교 - 종로구 - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "52a0133a-0dbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "중원대학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "de92670b-81be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "한국장애인고용공단 일산직업능력개발원 (Vocational Competency Development Center) - IT Convergence Department - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "1d32ee18-55db-e111-9c76-f04da23fc522",
+		"OrganizationName": "해군사관학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "e4767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "해군사관학교",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "b8b62726-4659-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "호원대학교 (Howon University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "KOR",
+		"InstitutionID": "f95b72a8-b80e-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "홍익대학교 (HongIk University Sejong Campus School of Games) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

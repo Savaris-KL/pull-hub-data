@@ -1,0 +1,5514 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "A B Mcdonald Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "A F Intermediate School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "A H Bush Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "A J Winters Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "A W Johnson Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Aberdeen Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Aberdeen High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Aberdeen Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Acequia Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Adams Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Alameda Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Albertson College of Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Albion Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Almo Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "American Falls High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Amity Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ammon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Anser Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Arbon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Archer Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Arco Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Artec Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ashton Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Athol Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Atlas Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "153c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Austin Kade Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Avery Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Basin Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bear Lake High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bear Lake Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bellevue Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Betty Kiefer Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bickel Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Birch Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Black Canyon High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Blackfoot Community Learning",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Blackfoot High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Blackfoot Sixth Grade Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1daaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Blaine County SD",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bliss School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bliss School District #234",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf8f3834-776e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Boise Bible College",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Boise School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Boise Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "293d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Boise State University",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bonners Ferry High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bonneville High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f52b22bf-1e76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Bonneville Joint School District No. 93",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Borah Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Borah Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Boundary County Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bovill Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Brigham Young University - Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51bb487e-6e59-ea11-8127-000d3af41938",
+		"OrganizationName": "Brigham Young University – Pathway Worldwide",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bruneau Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Bryan Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Buhl High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Buhl Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Burley Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Burley Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Burton Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Butte County High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Butte County Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Butte View Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Caldwell Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Camas County Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Camas County High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cambridge Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cambridge Jr-Sr High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Camelot Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Canfield Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Canyon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Capital Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Carey Public School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Caribou High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cascade Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cascade Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cassia Alternative High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e19b0ba1-6b39-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Cassia County School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "229522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cassia Regional Technical Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Castleford School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cavendish-Teakean Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cecil D Andrus Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Centennial Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Centennial High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Centerpoint Alternative High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Central Alternative High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Central Canyon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Central Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Century High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Challis Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Challis Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Chaparral Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Chief Joseph Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Christine Donnell School Of Arts",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Chubbuck Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clair E. Gale Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clark County Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clark Fork Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Claude A Wilcox Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clayton Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clearwater Valley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Clearwater Valley Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cloverdale Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Coeur D'Alene Charter Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Coeur D'Alene High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cole Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4482936f-4f4d-4692-9b58-9a76cc66ec3a",
+		"OrganizationName": "Cole Valley Christian Schools",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ae5675a-3133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Cole Valley Christian Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b76e71ac-effd-dd11-bf04-0030485a8df0",
+		"OrganizationName": "College of Eastern Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60ae42ef-f34b-e011-bd14-0030487d8897",
+		"OrganizationName": "College of Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4044469f-0f90-df11-ad8b-0030487d8897",
+		"OrganizationName": "College of Southern Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40ebee3d-90bd-de11-886d-0030487d8897",
+		"OrganizationName": "College of Western Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Collister Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Columbia High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12135d00-060f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Community School (Sun Valley, Idaho)",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Compas Public Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Council Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Council Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Crimson Point Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Crossroads Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Culdesac School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Cynthia Mann Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Dalton Gardens Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Deary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Declo Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Declo Jr High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Declo Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dehryl A Dennis Technical Education Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Desert Sage Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Desert Springs Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Dietrich School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Donald D. Stalker Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Donald J Hobbs Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Donnelly Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Dora Erickson Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Downey Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Driggs Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Dworshak Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle Academy School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle Hills Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Eagle Rock Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "East Canyon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "East Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "East Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "East Minico Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "East Valley Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Edahow Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Edgemont Gardens Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Elk City Public School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Emmett High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Emmett Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Endeavor Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ernest Hemingway Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ethel Boyes Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Evergreen Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fairmont Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fairview Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Falcon Ridge Public Charter",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Falls Valley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Farmin Stidwell Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fernan Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Filer Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Filer High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Filer Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Firth High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Firth Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3885c00-1c30-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Forrest Bird Charter School - Campus Store",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fort Boise Mid High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fort Hall Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Foxhollow Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Franklin Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Franklin Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Frederick Post Kinder Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fremont H. Teed Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Frontier Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fruitland Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fruitland High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fruitland Intermediate",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Fruitland Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Garden City Community School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Garden Valley School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Garfield Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Garwood Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Gate City Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "240cf4fe-2c56-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Gem State Adventist Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3c4a0de-4711-ea11-8124-000d3af41938",
+		"OrganizationName": "Genesee Joint School District 282",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Genesee K-12 School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Georgetown Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Glenns Ferry Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Glenns Ferry High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Glenns Ferry Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Gooding Acclrted Learning Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Gooding Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Gooding High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5500049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Gooding JSD #231",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Gooding Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grace Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grace Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grand View Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grangeville Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grangeville High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Grays Lake Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Greenacres Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Greenhurst Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Groveland Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hacker Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hagerman School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hailey Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hamer Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hansen Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hansen Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Harold B Lee Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Harold B Lee Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Harrison Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Harwood Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hawthorne Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hawthorne Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hayden Meadows Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hazel Stuart Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Heartland High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Heritage Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Heyburn Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hibbard Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hidden Springs Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Highland K-12 School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Highland Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Highlands Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hillcrest Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hillcrest High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hillside Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hillview Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hollister Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Holmes Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Homedale Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Homedale High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Homedale Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hope Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Horizon Elementary School (Idaho, USA)",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Horseshoe Bend Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Horseshoe Bend Middle -Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Howard E Thirkill Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Howe Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hubbard Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Hunter Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "I B Perrine Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "I T Stoddard Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Arts Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho City High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Distance Education Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Falls High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c067762b-1d0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Idaho Falls School District 91",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Hill Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Leadership Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d39c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Idaho School for the Deaf & the Blind",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e1e7dbb-2be5-476d-a764-98cff05f097c",
+		"OrganizationName": "Idaho State Department of Education",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Idaho State University",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Idaho Virtual Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Independence Alternate High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb35f9d6-62c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Independent Studies of Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e2a100a-38a9-de11-886d-0030487d8897",
+		"OrganizationName": "Independent Study in Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Indian Creek Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Indian Hills Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Inkom Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Inspire Virtual Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Iona Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Iowa Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Irving Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Irving Kindergarten Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e32c1849-00dd-e211-9000-f04da23fc520",
+		"OrganizationName": "Isucceed Virtual High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "J. Russell Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jackson Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jefferson Alternative High",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jefferson Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jenifer Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jerome High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "007fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jerome Joint School District 261",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Jerome Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "John Brown Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "John Mullan Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Joplin Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Juliaetta Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kamiah Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kamiah High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kamiah Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kellogg High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kellogg Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kendrick Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kennedy Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kenneth Carberry Intermediate School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kershaw Intermediate School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kimberly Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kimberly High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kimberly Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68a511af-73e1-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Kimberly Public Schools",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Koelsch Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kootenai Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kootenai Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kootenai School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa7d0df4-e598-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Kootenai Technical Education Campus",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kuna High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Kuna Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lake City High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lake Hazel Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lake Hazel Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lake Pend Oreille Alternative High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakeland Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakeland Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakes Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakeside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakeside High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lakeside Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lapwai Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lapwai High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lapwai Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lava Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Leadore School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lena Whitmore Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Les Bois Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lewis & Clark Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lewis & Clark Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lewis-Clark State College",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Lewiston High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lewiston Independent SD",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lewiston Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Liberty Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Liberty Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lincoln Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lincoln High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Linden Park Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Linder Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lindy Ross Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Longfellow Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lowell Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lowell Scott Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Lowman Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mackay Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mackay Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Madison Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Madison Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Madison Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Magic Valley Alternative High",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Malad Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Malad Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Malad Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Maple Grove Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Marsh Valley High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Marsh Valley Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Marsing Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Marsing High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Marsing Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mary Mcpherson Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Maxine Johnson Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mccain Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mccall Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mccall-Donnelly High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mcghee Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mckinley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mcmillan Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mcsorley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meadows Valley School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Melba Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Melba High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Melba Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ac4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Melba School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridan Medical Arts Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridian Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridian Charter High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridian Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridian High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Meridian Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Middleton Heights Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Middleton High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Middleton Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Middleton Mill Creek Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Middleton Transition School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Midvale School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Midway Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Midway Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mini-Cassia Opportunity Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Minico Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Monroe Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Moreland Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Morningside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Moscow Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Moscow Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Moscow School District #281",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Moscow Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mount Hall Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain Cove High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain Home Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain Home Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain View Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain View High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountain View Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mountainview Alternatve High",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mtn Home Afb Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mullan Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Mullan Trail Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Murtaugh Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Murtaugh High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Murtaugh Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Nampa Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Naples Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "New Horizons High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "New Plymouth Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "New Plymouth High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "New Plymouth Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Newcomer Center",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Nezperce School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Fremont Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Gem Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Gem Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Idaho College",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40632c8c-1c9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "North Idaho College - Institutional",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "North Star Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Northside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Northwest Nazarene College",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwest Nazarene University",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Notus Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Notus Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Oakley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Oakley Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Oakwood Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ola Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Orchards Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Oregon Trail Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Orofino Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Orofino High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Orofino Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Owyhee Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Paradise Creek Regional Alternative School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Paris Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Park Intermediate School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Park Ridge Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Parker-Egin Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Parma High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Parma Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pathways Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Patterson Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Paul Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Payette High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Payette Lakes Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Payette Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Peck Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pepper Ridge Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Peregrine Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pierce Park Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pine Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pinehurst Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pioneer Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pioneer Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pleasant Valley Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Plummer-Worley School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pocatello Community Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pocatello SD 25",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pocatello Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Pocatello Teen Parenting Program",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ponderosa Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Popplewell Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Post Falls High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Post Falls Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Potlatch Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Potlatch Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prairie Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prairie Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prairie High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prairie Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prairie View Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Preston High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Preston Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest Lake Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest River Education",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest River Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest River Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest River Lamanna High",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Priest River Summer Education Program",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Proj Cda-Alternative High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Prospect Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Purple Sage Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Raft River Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Raft River Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ramsey Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Reagan Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Reed Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5912d309-d6b8-de11-886d-0030487d8897",
+		"OrganizationName": "REuse",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Richard Mckenna Charter High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Richfield School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ridge Crest Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rigby Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rigby Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Riggins Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rimrock Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rimrock Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ririe Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ririe High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ririe Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "River City Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "River Valley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Riverglen Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Riverside Alternative School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Riverside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Robert Stuart Jr High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Roberts Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rockford Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rockland Public School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rocky Mountain Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rolling Hills Public Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Roosevelt Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ross Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rulon M Ellis Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Rupert Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sacajawea Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sacajawea Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sage Valley Intermediate",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sagle Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Salmon High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Salmon Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Salmon Pioneer Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Salmon River Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sandcreek Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sandpoint Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sandpoint High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sandpoint Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9f5face-e82d-e811-8101-000d3af41938",
+		"OrganizationName": "Sandpoint Waldorf School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sawtooth Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sawtooth Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "School For The Deaf And Blind",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Seltice Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Seven Oaks Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shadow Butte Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shadow Hills Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shelley Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sherman Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shoshone  High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shoshone  Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Shoshone Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Silver Hills Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Silver Sage Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Silver Valley Alternative School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Skyline Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Skyview High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Skyway Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Snake River Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Snake River High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Snake River Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Snake River Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Soda Springs High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sorensen Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "South Fremont High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "South Fremont Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "South Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "South Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Southside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Spalding Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Spirit Lake Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "St Maries Community Education",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "St Maries High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "St Maries Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Stanley Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Star Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Stone Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sugar-Salem High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sugar-Salem Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Summerwind Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sunny Ridge Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sunnyside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sunrise Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Swan Valley Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Sweet-Montour Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Syringa Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Syringa Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Taylors Crossing Public Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Taylorview Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Telford Academy",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Temple View Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Tendoy Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Terreton Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Teton Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Teton High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Teton Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Tetonia Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Thatcher Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "The Academy (Arc) Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "825ac292-5449-e211-ad71-f04da23e67f6",
+		"OrganizationName": "The College of Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b81ccbeb-1e0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "The College of Idaho - Microsoft Imagine Standard",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e09340d-3317-e811-80fe-000d3af41938",
+		"OrganizationName": "The Village Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Theresa Bunker Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Thomas Jefferson Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Three Creek Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Tiebreaker Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Tigert Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Timberlake Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Timberlake Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Timberline High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Timberline School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Trail Wind Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Troy Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Troy Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce36b9cb-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Twin Falls School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Twin Falls Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Twin Lakes Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Tyhee Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ucon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Union-Lyman Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46caa45c-5ecc-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University of Idaho",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Idaho - College of Letters - Arts and Social Science",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b922174b-29eb-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "University of Idaho, College of Engineering - Moscow (Idaho) Campus",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Upper Carman Public Charter",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Upriver Elementary-Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Ustick Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Valley View Alternative High",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Valley View Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Vallivue High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Vallivue Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Van Buren Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Vera C O'Leary Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Victor Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Vivtory Charter School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wallace Junior-Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wapello Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Washington Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Webster Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Weiser High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Weiser Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wendell Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wendell High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wendell Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a3e222d-322d-df11-b4ab-0030487d8897",
+		"OrganizationName": "West Ada School District",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Canyon Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Jefferson High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Junior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Minico Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Park Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "West Side Senior High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Westside Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Westview High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "White Pine Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Whitebird Primary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Whitman Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Whitney Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Whittier Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wilder Middle/High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "William Howard Taft Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "William Thomas Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Willow Creek Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wilson Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0603ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Winton Elementary School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wood River High School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Wood River Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12623ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Woodland Hills Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Woodland Middle School",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13613ca6-7a5d-dc11-ac48-0030485a6b08",
+		"OrganizationName": "Woodside Elementary",
+		"ProvinceCode": "ID",
+		"SubsectorCode": "education_k_12"
+	}
+]

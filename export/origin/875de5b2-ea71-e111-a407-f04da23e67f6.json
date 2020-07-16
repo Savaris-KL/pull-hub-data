@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "33a94ca4-ac2d-de11-a497-0030485a8df0",
+		"OrganizationName": "Arizona State University (ASU)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3ea94ca4-ac2d-de11-a497-0030485a8df0",
+		"WebStoreName": "Mars Space Flight Facility",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3ea94ca4-ac2d-de11-a497-0030485a8df0"
+	}
+]

@@ -1,0 +1,1330 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "4a7da49a-5b51-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "(Inactive) Universidad Peruana Unión - VMAP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9bfcf8fc-d1aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Academia Diplomática del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9d13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "APAFA Cegne Particular Punta Arenas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2012bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "APEC Mariscal Ramon Castilla - I. E. P. Enrique Meiggs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "1412bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "APEC Mariscal Ramon Castilla - I. E. P. Mariscal Ramon Castilla",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "6013bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Colegio Mater Admirabilis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a4be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Colegio Pestalozzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a313bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Cultural Peruano Britanica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c113bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Educativa Benavides",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b513bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Educativa Formando Un Nuevo Mundo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "324c6360-c4ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Asociación Educativa Internacional ELIM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a22f6c15-d5e8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Asociación Educativa Internacional ELIM - Arequipa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c711bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Educativa La Fontana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9911bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Educativa San Isidro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7e13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Peruana de Servicios Educativos Multiples APSEM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "84be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Promocion Catolica - Colegio Mater Purissima",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7813bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Promotora Educativa El Rosario",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "30d52c54-2fd5-e711-80f9-000d3af41938",
+		"OrganizationName": "BS Grupo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "af13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "C.E.N.E. George Berkeley",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9211bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "C.E.P. San Francisco de Borja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8413bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEGNE HANS Christian Andersen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "6613bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cegne Los Alamos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2612bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cene Maria Molinari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "0c12bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Investigacion y Promocion del Campesinado - CIPCA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "d911bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Orientacion Familiar - Colegio Alpamayo (Secundaria)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7cbe287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro de Orientación Familiar Colegio Alpamayo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f88fd6c6-36f6-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Centro Educativo Particular San José La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fd11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Educativo Privado Roberto Letoureau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b411bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEP Isabel Flores de Oliva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e511bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEP Maria De Las Mercedes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "d311bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEP Mixto Cristo Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "bb13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEP Santa Teresita",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "96788f8b-a8d9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "CETPRO Maria Auxiliadora -  Ayacucho",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b202a688-f976-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Cibertec (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7a595ac3-ed08-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Americano Miraflores (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "d04c3d1c-b02f-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Colegio de Ingenieros del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fc004ebf-4e4a-e811-8103-000d3af41938",
+		"OrganizationName": "Colegio Elim Arequipa - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9cbe287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Internacional Peruano Britanico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "540ef92c-d37b-e811-8106-000d3af41938",
+		"OrganizationName": "Colegio Maria Alvarado - Lima - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "d5da25d6-e8f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "COLEGIO MAYOR SECUNDARIO (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f611bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio No Estatal Sir Alexander Fleming - Secundaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "eb11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Particular de los Sagrados Corazones - Arequipa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e97d1f55-71be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Colegio Particular San Agustin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "73be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Peruano Britanico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "827b3225-b1dd-e211-9000-f04da23fc520",
+		"OrganizationName": "Colegio San Agustín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2f6e52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Colegio San Carlos - Computacion - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "6c13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Charbel SRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c3be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio San Ignacio de Recalde",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "1671e765-b083-e811-8108-000d3af41938",
+		"OrganizationName": "Colegio San Jose de Cluny",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9f11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Jose de Monterrico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a3010359-a559-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "COLEGIO TRENER",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "1215ffa0-0123-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Villa Caritas (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "aebe287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Villa Maria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7213bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Consorcio Educativo San Roque SAC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8511bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Coop. Serv. Educacionales Augusto Weberbauer Ltda.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "6abe287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Coopdse Ing. Carlos Lisson Beingolea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9013bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cooperativa de Servicios Educacionales \"Libertador San Martin\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9613bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cooperativa de Servicios Educativos Santa Felicia Ltda.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "0312bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Direccion Regional de Educacion - Amazonas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f2a581ad-4d5e-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Dirección Regional de Educación de Lima Metropolitana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b2e97b28-669e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Escuela de Posgrado de la Universidad Señor de Sipán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8a13bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Franco & Barnatan E.I.R.L.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e0c6f6ef-d76b-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Gerens Escuela de Postgrado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "311c1ba4-0d33-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "I.E.S.T.P Josè Maria Arguedas - Sicaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "df11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IEP Colegio Mixto Santa Teresita S.A.C.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7e2595ef-32bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "IESTP Cibertec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "316ed89d-c20a-e911-810e-000d3af41938",
+		"OrganizationName": "InGenio Learning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f0d4aba0-375c-e711-80f0-000d3af41938",
+		"OrganizationName": "Institución Educativa Privada San José - Arequipa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fa70587a-24ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educacion Superior Tecnologico - Infonet - La Merced",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8ead0355-24ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educacion Superior Tecnologico Alexander Von Humboldt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "ee4183eb-14ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educacion Superior Tecnologico Jaime Cerrón Palomino - Huancayo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "676c255a-15ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educacion Superior Tecnologico Pampas - Huancavelica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "daadf764-3c1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto de Educación Superior Tecnológico Privado del Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b05da62b-3f71-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educación Superior Tecnológico Público Pasco (ISTP Pasco)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "0db32b2f-15ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Educacion Superior Tecnologico Publico Paucartambo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "684c432e-4f66-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Education Superior Technologico Publico (ISPT) Oxapampa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8b11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto del Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9f020d95-1824-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Frederick Winslow Taylor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "41d8e7e2-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Instituto Nacional de Investigacion y Capacitacion de Telecomunicaciones de la Universidad Nacional de Ingenieria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c996e50f-c1ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto San Ignacio de Loyola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "63abc922-c3bc-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Instituto SISE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "ade0630a-240e-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior Technologico Privado  Santa Lucia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "55ef56ce-16ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior Tecnologico Marco - Jauja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8d8ac2c7-2563-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "ISTP Pichanaki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "b6be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Marina de Guerra del Peru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "39414e9c-b2d8-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Markham College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f9d3e28c-dcd9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "National University of Cajamarca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "cd11bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Organizacion Educativa San Jose y el Redentor SAC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "820b534d-f364-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Patronato Escolar Peruano Alemán Max Uhle - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fd272ceb-fc54-e711-80f0-000d3af41938",
+		"OrganizationName": "Peruvian University of Applied Sciences (UPC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "dbd90ced-0798-de11-8cd1-0030487d8897",
+		"OrganizationName": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "d98a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Pontificia Universidad Católica del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "dc8a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Promotora de Educación y Desarrollo Cusco SAC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "6a52f845-12d2-e811-810b-000d3af41938",
+		"OrganizationName": "SENCICO - Servicio Nacional de Capacitación para la Industria de la Construcción",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "0fa9ee6b-71a8-e711-80f7-000d3af41938",
+		"OrganizationName": "Servicio Educativo Empresarial S.A.C - Pueblo Libre Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "16aced67-b131-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Servicio Nacional de Adiestramiento en Trabajo Industrial",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e0850be5-7bc3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "St. Ignatius Loyola University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "def2e0e9-5491-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "TECSUP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "396e16ee-7a7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Toulouse Lautrec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a913bb5c-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Trabajos Educativos De Vanguardia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "94be287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ugel Sullana - Unidad de Gestion Educativa Local Sullana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8cbe287f-21f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Unidad Ejecutora 303 Educacion Alto Piura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c5704629-256f-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Alas Peruanas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c7d46a16-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Alas Peruanas - Lima Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "53c9e1f6-aa06-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Antonio Ruiz de Montoya (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "686738c4-a938-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Autónoma del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e9616b71-93da-e711-80fa-000d3af41938",
+		"OrganizationName": "Universidad Autonoma del Peru  - Lima Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "ef8a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Católica de Santa Maria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f547e992-2783-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Santa María",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "05d18111-d2ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica San Pablo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "95ec3388-5a5c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica San Pablo - Arequipa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "eafc4003-0880-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica Santo Toribio de Mogrovejo - Chiclayo Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "1491a661-0ab7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica Sedes Sapientiae",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f28a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad César Vallejo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "717ad43a-9f4c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Científica del Sur - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e9aadf99-10d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Continental",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "48729bef-ad1e-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad De Ayacucho Federico Froebel - Ayacucho - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "83f0a3ed-36c6-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad de Ciencias y Humanidade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "aad09ad2-7de6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de Huánuco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7d3c1ac8-8769-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Universidad de Ingeniería & Tecnología (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fc3e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad de Lima",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "8b634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad de Piura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "034fd94c-eed1-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Callao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7a20dcd8-69b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Universidad del Pacífico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "ee418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad ESAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "530d551d-4bb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Femenina del Sagrado Corazón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "34fe63ed-ea82-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Inca Garcilaso de la Vega (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a131b8d8-7e9a-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional Agraria de la Selva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "3b2d3b96-4012-de11-9c12-0030485a8df0",
+		"OrganizationName": "Universidad Nacional Agraria La Molina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "209caf9b-ed30-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Educación Enrique Guzmán y Valle (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2429ba85-7de4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Huancavelica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "355f1da7-85ca-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Ingenieria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f4e08755-e0dd-de11-baeb-0030487d8896",
+		"OrganizationName": "Universidad Nacional de Ingeniería - Lima - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "90da37bd-45ab-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Piura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "3cd45521-ea82-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Nacional de San Antonio Abad del Cusco (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "56d9c4a2-8338-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de San Cristóbal de Huamanga (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "aa7cb254-dd2d-e811-8101-000d3af41938",
+		"OrganizationName": "Universidad Nacional de San Martín - Tarapoto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a985a443-80d0-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Trujillo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "5cb58071-b6df-e911-8120-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Ucayali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "65b101d1-617c-e711-80f3-000d3af41938",
+		"OrganizationName": "Universidad Nacional del Altiplano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9e0f1aeb-6b9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional del Centro del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f68a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional Federico Villarreal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2ef948d2-419e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional Hermilio Valdizán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "05999144-7a7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional Jose Faustino Sanchez Carrion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "fb505234-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Nacional Mayor de San Marcos - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "0b4cfcf5-8484-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Nacional Mayor de San Marcos (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "98634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Nacional Pedro Ruiz Gallo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "40aefb9a-1ea0-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional San Agustín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "40e1d6e3-6145-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional San Agustín de Arequipa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "016cf939-27a2-e711-80f6-000d3af41938",
+		"OrganizationName": "Universidad Nacional Santiago Antúnez de Mayolo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "7d3e4e82-83f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Universidad Nacional Tecnológica de Lima Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "cb1769be-bce2-e811-810c-000d3af41938",
+		"OrganizationName": "Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "e7624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Peruana Cayetano Heredia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "2a004210-757b-de11-b7f9-0030487d8896",
+		"OrganizationName": "Universidad Peruana de Ciencias Aplicadas (Peru)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "de5a705b-9ac4-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Peruana de Integración Global",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c6053114-4e3a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Peruana Union",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "ede8f485-5f45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad Privada Antenor Orrego",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "f98a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Privada de Tacna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "940accd5-9584-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Privada del Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "cfdff42b-4b78-e711-80f1-000d3af41938",
+		"OrganizationName": "Universidad Privada San Juan Bautista",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "82ec1b2d-6ef2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Ricardo Palma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a5206a1f-3ce6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Universidad San Ignacio de Loyola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "9020ab23-b874-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad San Martin de Porres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "c3ff2520-c787-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnologica del Peru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "91508cdf-4dee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Universidad Tecnológica del Perú",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PER",
+		"InstitutionID": "a53f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Uniwersytet Gdañski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

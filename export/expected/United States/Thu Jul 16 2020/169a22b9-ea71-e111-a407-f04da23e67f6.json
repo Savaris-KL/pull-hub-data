@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "7f2610d2-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "South Mountain Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "195c3957-bd9b-e011-969d-0030487d8897",
+		"WebStoreName": "South Mountain Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=195c3957-bd9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "fc7b9915-43d0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "South Mountain Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "0c7c9915-43d0-e511-9416-b8ca3a5db7a1",
+		"WebStoreName": "South Mountain Community College - MCLCTL",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0c7c9915-43d0-e511-9416-b8ca3a5db7a1"
+	}
+]

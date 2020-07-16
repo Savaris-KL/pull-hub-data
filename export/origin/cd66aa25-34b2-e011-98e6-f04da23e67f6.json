@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "cd66aa25-34b2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Tuscaloosa City Schools",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://tusc.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "0f8476ee-34b2-e011-98e6-f04da23e67f6",
+		"WebStoreName": "Tuscaloosa City Schools",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0f8476ee-34b2-e011-98e6-f04da23e67f6"
+	}
+]

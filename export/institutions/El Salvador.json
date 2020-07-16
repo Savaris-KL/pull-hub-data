@@ -1,0 +1,466 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "156c1445-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia Británica Cuscatleca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "b0352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia Británica Cuscatleca.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "0978823a-7f02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ACI - Academia Cristiana Internacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "c5147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "APCE Colegio Lamatepec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "29e5bb76-2742-e711-80ef-000d3af41938",
+		"OrganizationName": "Asociacion Agape De El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "036c1445-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Agape De El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "e4147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Asociacion Educacional Salesiana de Las Hijas de Maria Auxiliadora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "e5352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro Cultural Salvadoreno Americano - Laboratorio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "17167e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Estudios La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "0a157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Internacional De Programacion De Computadoras- San Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "a7157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Amilat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "45157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Ceren",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "f7157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Diego de Holguin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "256c1445-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Garcia Flamenco S.A de C.V.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "de147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Guadalupano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "ea147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "COLEGIO SALVADORENO INGLES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "b9147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio San Francisco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "a354f37b-4ba9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Santa Clara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "f0147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Consorcio Industrial Independencia S.A de C.V. (Futurekids)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "7ca1c550-3856-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Americana El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "d1352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escuela Cristiana Oasis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "d1157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ESCUELA CRISTIANA OASIS - SANTA ANA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "c189d66a-2dbf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Escuela de Comunicación Mónica Herrera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "1c55ec75-fb3e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Escuela Especializada en Ingenieria ITCA-FEPADE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "46515234-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Escuela Especializada en Ingenieria ITCA-FEPADE - Engenieria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "cb147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela Maria Auxiliadora Soyapango",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "c8352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ESCUELA NACIONAL DE AGRICULTURA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "bf147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escuela Nacional de Agricultura -Roberto Quinonez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "f2da5228-e2d7-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior de Economía y Negocios",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "672b719b-23f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Superior de Economia y Negocios - ESEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "62b283a1-68d4-e711-80f9-000d3af41938",
+		"OrganizationName": "Escuela Superior Franciscana Especializada, AGAPE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "d285f924-ff3c-e811-8103-000d3af41938",
+		"OrganizationName": "Escuela Superior Franciscana Especializada, AGAPE - Sonsonate - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "65c0f34d-9f22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "ESI School of Business",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "b8352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fepade  Desarollo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "d2147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion CEA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "a8352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion CREA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "1d6c1445-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Empresarial Para Desarollo Educativo (FEPADE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "25157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Americano de Educacion Superior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "155db590-5fd4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Hermanas Somascas (El Salvador )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "392e2289-feb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Técnico de Chalatenango",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "da352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnico Ricaldone",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "74157e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnico Ricaldone - Laboratorio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "3816fa1e-ff3c-e811-8103-000d3af41938",
+		"OrganizationName": "Instituto Tecnológico de Chalatenango - Chalatenango - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "d8147e6b-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "LICEO LADISLAO LEIVA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "c0352463-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Liceo San Miguel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "0a8b930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Catolica de El Salvador - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "1f603c13-0e15-e111-a703-f04da23e67f6",
+		"OrganizationName": "UNIVERSIDAD CENTROAMERICANA JOSE SIMEON CAÑAS (El Salvador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "87634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad de el Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "421b0785-ab35-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Oriente - El Salvador - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "6edd9a97-c1bb-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Oriente (El Salvador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "47182ad5-3797-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "UNIVERSIDAD DON BOSCO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "60584eb8-ea82-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Dr. José Matías Delgado (El Salvador)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "b3678fde-0cd9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad Evangelica de El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "5d6d4836-aea6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad Francisco Gavidia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "47907e72-e929-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Gerardo Barrios",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "b71de707-5560-e811-8105-000d3af41938",
+		"OrganizationName": "Universidad Modular Abierta - San Salvador - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "f254082d-fab4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Pedagógica de El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SLV",
+		"InstitutionID": "65f2077f-82bd-e711-80f7-000d3af41938",
+		"OrganizationName": "Universidad Tecnológica de El Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

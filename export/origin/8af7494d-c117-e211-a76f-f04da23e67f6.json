@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f42d831d-890b-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Lutheran Ormeau Rivers District School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "dabdf429-890b-e411-9401-b8ca3a5db7a1",
+		"WebStoreName": "Lutheran Education Queensland",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=dabdf429-890b-e411-9401-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "8af7494d-c117-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lutheran Ormeau Rivers District School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "faa2292c-f26d-e511-9411-b8ca3a5db7a1",
+		"WebStoreName": "Lutheran Ormeau Rivers District School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=faa2292c-f26d-e511-9411-b8ca3a5db7a1"
+	}
+]

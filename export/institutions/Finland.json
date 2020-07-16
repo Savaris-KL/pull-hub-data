@@ -1,0 +1,3562 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dadf6c98-09e9-df11-bd73-0030487d8897",
+		"OrganizationName": "Aalto University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0bd6c80a-c871-e111-a407-f04da23e67f6",
+		"OrganizationName": "Äänekosken ammatillisen koulutuksen kuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8478d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Åbo Akademi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f18344c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "AEL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "461f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "AEL Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "528444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "AHLMAN - Ammattiopisto Nuorille",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4b1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "AIESEC in Finland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1aafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "A-Klinikkasäätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "22afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Alliance for Educational Leadership",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2bafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Allianssi r.y",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "501f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "AMIEDU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fa583206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ami-saatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "47197a18-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ammattiopisto Spesia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "402fb587-d370-e811-8106-000d3af41938",
+		"OrganizationName": "Ammattiopisto Spesia - Uusimaa - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "08fca8c5-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Ammattiosaamisen kehittamisyhdistys Amke ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e4861a5d-50d9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "ANKE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5a1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arcada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "33afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Arkistolaitos - Kansallisarkisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "20109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Askolan koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3bafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Auran kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "112d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Auran kunta, sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2c593206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Axxell Utbildning Ab",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "43afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Björneborgs svenska samskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5f1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Central Ostrobothnia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e84f6bf2-46ac-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Centria ammattikorkeakoulu Oy - Kokkola Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f4936a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Certia Yliopistojen palvelukeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "53afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "CIMO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f9936a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "CSC - Tieteen tietotekniikan keskus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fe936a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Diakonia-ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d3c35eec-f7b8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Edupoli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "74afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Eiran Aikuislukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "882d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Enonkosken Kunta/Sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "96593206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Espoon Seudun Koulutuskuntayhtyma Omnia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ea447b0e-9956-e211-ad71-f04da23e67f6",
+		"OrganizationName": "ESTH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b6593206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Etela-Karjalan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "641f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Etelä-Karjalan koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d1593206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Etela-Savon Koulutus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0a318ab2-f351-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Eurajoen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7cafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Euran yhteiskoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "84afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "European Forest Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6b1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "EVTEK university of applied sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "12fb6c90-def0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Faktia Koulutus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "51bcd11f-104a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Faktia Koulutus Oy - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "91afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "FCG Finnish Consulting Group Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "de233f9a-56b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Finnish Geodetic Institute - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0eb1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Folkhalsan Utbildning Ab",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "711f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Geologian Tutkimuskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dbf52cd2-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Haaga Instituutti-saatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "761f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haaga-Helia University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ccb09f83-5e9d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "HAAGA-HELIA University of Applied Sciences - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7b1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haartman Institute University of Helsinki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hämeen ammatillisen korkeakoulutuksen kuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3fc5676a-9956-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Hämeenkyrö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3d007391-9656-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Hämeenlinnan kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "801f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "HAMK Hämeen ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "490606ce-1a7d-e211-bf66-f04da23e67f4",
+		"OrganizationName": "HAMK University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8978d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hanken",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "851f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hanken Svenska Handelshögskolan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "91b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "HARJAVALTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ccafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Harjulan Setlementti ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Haukiputaan kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dcafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Haukkarannan Koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b1b9af50-e998-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hausjärven kunta, sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "HEINOLAAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "11997124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Helmi Liiketalousopisto Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8a1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Helsingin Aikuisopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8f1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Helsingin Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4d5a3206-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Helsingin Diakonissalaitoksen säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d4e9f6bb-9456-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Helsingin kaupungin hankintakeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "beeb263c-9556-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Helsingin kaupungin opetusvirasto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "896d360c-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Helsingin kaupunki stadin ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "50a5c9cb-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Helsingin Konservatorion saatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ecafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Helsingin Maalariammattikoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2d473cce-192d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Helsingin Palvelualojen Oppilaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b9a37312-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Helsingin palvelualojen oppilaitos 2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Helsingin Ranskalais-Suomalainen koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d46d360c-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Helsingin sosiaali- ja terveysalan oppilaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "018444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Helsingin Suomalainen Yhteiskoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "49fb9451-5832-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Helsinki Metropolia University of Applied Science (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5e644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Helsinki Polytechnic Stadia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1644ec70-18ef-dd11-9772-0030485a8df0",
+		"OrganizationName": "Helsinki School of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "14644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Helsinki University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ce45ab24-6133-df11-b4ab-0030487d8897",
+		"OrganizationName": "Hengitysliitto Heli ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "30a47312-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Hengitysliitto Heli ry.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "551f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hengitysliitto ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1375d0eb-25bd-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Hmeen Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c487a750-50f7-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Högskolan På Åland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1fb8851f-752c-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Honkalampi Säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "428444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Honkalampi säätiö - Hyvää tekemässä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "03946a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Humanistinen Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6aa47312-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Hyria koulutus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d40f9e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hyvinkään kaupunki/ Sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a02d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "HYY Toimintatalous",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "38109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ikaalinen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b31eb541-53a8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Imatran kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "262e0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Interpedia ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "941f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Invalidiliiton Käpylän Kuntoutuskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "991f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Invalidisäätiön Keskuspuiston ammattiopiston Arla",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fcafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ISH-International school of Helsinki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9f99d265-5d48-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Istekki Oy, Kuopion kaupungin koulut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "62d076fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ita-Savon koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bcef90a4-8453-df11-b56b-0030487d8897",
+		"OrganizationName": "Itä-Savon Koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b92d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ita-Suomen Liikuntaopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "472d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Itä-Suomen suomalais-venäläisen koulun säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9578d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Itä-Suomen yliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "85a47312-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Ita-Uudenmaan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9e1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Itä-Uudenmaan koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c746cc78-9812-e911-8110-000d3af41938",
+		"OrganizationName": "Jakobstads Gymnasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c96f7cfc-9a56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Jalasjärven kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "14e4d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jalasjärven kunta / JAKK liikelaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dc0f9e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Järvenpää",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c7cabae2-9756-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Järvenpään kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "71197a18-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Jarviseudun koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7db0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jarviseudun koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2811f9e7-c198-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Jokilaaksojen koulutuskuntayhtymä - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8f197a18-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Jokilaaksojen koulutuskuntayhtymä JEDU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a31f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Jyväskylän Ammattikorkeakoulu - Jyväskylä Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8dd076fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Jyvaskylan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a81f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Jyväskylän koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ad1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Jyväskylän yliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4d847857-9b56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kaarinan koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b21f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kajaanin ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "53bd03db-9cae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Kajaanin ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2dd176fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Kajaanin kaupungin koulutusliikelaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "551d87ec-613e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Kajaanin kaupunki - kainuun kuntien hankintarengas - sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3c2218a6-6778-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kajaanin kaupunki / Kainuun kuntien hankintarengas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4af99994-9c56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kangasala",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "04b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kankaanpää",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "eb9fcea0-9b56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kannuksen kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5ea1a2ab-4b72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Karelia Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "08debea5-18b4-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Karelia Ammattikorkeakoulu - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "68cf4042-b38a-e811-8108-000d3af41938",
+		"OrganizationName": "Karkkila High School (Karkkilan lukio)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f37ae777-f5f3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Karkkilan kaupunki sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7f2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kauhavan Lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0cb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kauniainen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "14b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kemijärven kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9e6b8fd8-9b56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kemijärven kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b71f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kemi-Tornion ammattikorkeakoulu - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "43093300-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Kemi-Tornionlaakson Koulutuskuntayhtymä Lappia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1cb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kempeleen kunta / Opetustoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "00109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Kerava",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "16024c24-830f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Keravan kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "02392851-9856-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Keravan koulutoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bc1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Keski-Pohjanmaan ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "041a7a18-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Keski-Pohjanmaan koulutusyhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f2f39f53-cd68-df11-b841-0030487d8897",
+		"OrganizationName": "Keski-Pohjanmaan Koulutusyhtymä - Kokkola Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5bafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Keski-Suomen Kansanopiston Kannatusyhdistys ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "75d176fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Keski-Uudenmaan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6833d97b-bd1f-df11-856f-0030487d8897",
+		"OrganizationName": "Keski-Uudenmaan koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c11f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Keuda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8246721e-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Kiipulasaatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "24b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kimitoöns kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "787a3b15-9c56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kirkkonummen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2cb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "KIRKKONUMMI KYRKSLATT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f98344c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "KIRKKOPALVELUT - KOULUTUSKESKUS AGRICOLA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9cafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kirkon Ulkomaanapu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "35b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kisakallion Urheiluopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "732d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kiteen Evankelinen kansanopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c61f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kittilän kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bd46721e-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Koillis-Suomen Aikuiskoulutus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "32109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "KOKEMÄEN KAUPUNKI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3eb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Konneveden kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f10f9e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "KOTKA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1a51ad32-9856-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kotkan kaupunki, koulut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "cb1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kotkan-Haminan Seudun Koulutuskuntayhtym",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6c987124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Kotkan-Haminan seudun koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a05fa951-1a76-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Kotkan-Haminan seudun koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a1b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Koulutuskeskus Agricola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ad3a2b5a-e4dc-e111-9c76-f04da23fc522",
+		"OrganizationName": "Koulutuskeskus Salpaus - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0d780dbe-ba35-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Koulutuskeskus Salpaus - Sammonkatu - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6be6b9a6-e41f-df11-856f-0030487d8897",
+		"OrganizationName": "Koulutuskeskus Salpaus -kuntayhtymä (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d70292e7-411b-df11-856f-0030487d8897",
+		"OrganizationName": "Koulutuskeskus Tavastia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f1fa6c90-def0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Koulutuskuntayhtymä Tavastia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d01f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kouvolan Seudun Ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d51f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kpamk Ylivieska",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c52d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kulturkontakt Nord",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "cdd4e4c4-d46d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Kuopion Kaupunki Sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "54b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kuopion konservatorio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0544a1cd-665b-e211-b607-f04da23e67f6",
+		"OrganizationName": "Kuopion Lyseon Lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5cb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kuortaneen Urheiluopistosäätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "da1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kupittaan lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kuurojen Liitto ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d36c80c5-9c56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Kuusamon kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "66b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kvarnen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "70b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "KVS-INSTITUUTTI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8803a20f-436a-de11-b7f9-0030487d8897",
+		"OrganizationName": "Kymenlaakson ammattikorkeakoulu, University of Applied Sciences (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "cb2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lagmansgården",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "45da9a73-e41f-df11-856f-0030487d8897",
+		"OrganizationName": "Lahden Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1da5c9cb-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Lahden Diakoniasaatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f7495d0f-629d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lahden kaupunki, sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "71b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lahden kaupunki, tietohallinto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "eb2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "LAHDEN KONSERVATORIO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bcafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lahden Yhteiskoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e41f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lahti University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d3987124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Lansi-Pirkanmaan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b2987124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Lansirannikon Koulutus Oy WinNova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f1987124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Lansi-Uudenmaan ammattikoulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "55ba17d7-0ecb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lapin Ammattikorkeakoulun - Lapin AMK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e91f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lapin ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ff78d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lapin yliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "819cd6c7-9a42-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Lapinlahden lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d3e34f82-4eae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Lapland University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7681560a-77df-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Lappeenrannan Lyseon lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "64654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Lappeenranta University of Technology (LUT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "85b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Laptuote-säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9a2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lärkkulla Stiftelsen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e2765430-814e-e011-bd14-0030487d8897",
+		"OrganizationName": "Laurea University Of Applied Science (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "831abca7-8ec6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Laurea-ammattikorkeakoulu Oy - Espoo - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fcda4eb2-b794-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lempäälän kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "19a1e6e5-6d37-df11-b4ab-0030487d8897",
+		"OrganizationName": "Lempaalan Lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "794b2d79-08a2-e711-80f6-000d3af41938",
+		"OrganizationName": "Liedon kunnan sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2e1699e9-9c56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Liedon kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3e2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Liedon lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bf2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lihastautiliitto Ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b0138589-a0ab-df11-ad57-0030487d8897",
+		"OrganizationName": "Liminka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "12afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "LIPERI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b656a54e-84cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lohjan Kaupunki - Sivistystoimi - ATEA Finnland - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ee1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Loimaan Ammatti - Ja Aikuisopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6e52038e-378a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Loimaan kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "431808be-e998-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lopen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dd671474-ca50-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lounais-Hämeen Ammatillisen Koulutuksen ky",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8d987124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Lounais-Suomen koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5880df4c-f6b7-e711-80f7-000d3af41938",
+		"OrganizationName": "Loviisan koulut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8db0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Luumaen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3e109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Luumaen kunta Sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "95b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Maaninka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f31f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Malmi School Of Business",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0d109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "MÄNTSÄLÄN KUNTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ac8f8117-b9f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Mantsalan kunta, sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "098444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "markkinointi instituutti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9db0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Maskun kunta / Hemmingin koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a5b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Maskun kunta / Kurittulan koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ae197a18-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Mercuria/Kauppiaitten kauppaoppilaitos Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "adb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Merikarvian lukio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "252d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Merikarvian lukio ja yläaste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f61f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Metropolia Ammattikorkeakoulu Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "22311cc4-8f5f-df11-b841-0030487d8897",
+		"OrganizationName": "Metropolia University of Applied Science - Helsinki Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "062e0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mielenterveysyhdistys HELMI ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fb1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mikkeli University of Applied Sciences - Mikkeli - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bddbb5d5-c9b0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Mikkelin Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d67b8e64-66ba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Mikkelin kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "312d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "MJK Koulutuskeskus Ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b5b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "MJK-instituutti ja MJK-koulutus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "07109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Museovirasto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "da53c00b-5bf9-df11-9c87-0030487d8897",
+		"OrganizationName": "Naantalin Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bdb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nastolan kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2c109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Nilsiän kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b501edba-18ef-dd11-9772-0030485a8df0",
+		"OrganizationName": "North Karelia University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "721a7de7-463a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "NUORI SUOMI ILOA LIIKKEELLE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f02a6d40-9d56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Nurmijärven kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "08245d57-6b58-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Nurmijärven kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e333a312-1f26-df11-856f-0030487d8897",
+		"OrganizationName": "Omnia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0020416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Omnia Vocational College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "703edd4a-12d9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "-o-o-o",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "89b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Opetus- ja kulttuuriministeriö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ceb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "OPETUSHALLITUS UTBILDNINGSSTYRELSEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4ff8015c-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Opintotuen muutoksenhakulautakunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e601cad6-2226-df11-856f-0030487d8897",
+		"OrganizationName": "Optima",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6e083300-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Optima Samkommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9d7fe689-5d48-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Orivesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0520416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Oulu Seudun ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d6b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Oulun Aikuiskoulutuskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "71997124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Oulun Aikuiskoulutuskeskus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a62d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Oulun Diakoniaopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d704b6a4-cab0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Oulun seudun ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0a20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Oulun Seudun Ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8f997124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Oulun seudun koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1f5f776b-93a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Oulun seudun koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "deb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Oulun Seudun Setlementti ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "67716d24-3201-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oulun Tietotekniikka liikelaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ae6e49ed-85e2-df11-bd73-0030487d8897",
+		"OrganizationName": "Oulun Tietotekniikka Liikelaitos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "32ca2e11-559f-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Oulun Yliopisto - Student Use Benefit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a9a12cf8-e31f-df11-856f-0030487d8897",
+		"OrganizationName": "Päijät-Hämeen koulutuskonserni -kuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "469a7124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Päijät-Hämeen koulutuskonserni Salpaus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4ca7d25e-9d56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Paimion kaupunki EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0f20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Päivölän Kansanopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "26109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "PARAISTEN KAUPUNKI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e6b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Parkanon Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "00580d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Peimarin koulutuskuntayhtymä/Ammattiopisto Livia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "bb7c41f3-9556-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Pelastusopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "942d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pelkosenniemen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "198444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Pestalozzi Schulverein Skolföreningen Deutsche Schule Helsinki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "eeb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Petrea säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f6b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "PIELAVESI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f31dbbe5-ff48-df11-b56b-0030487d8897",
+		"OrganizationName": "Pirkanmaan Koulutuskonserni-kuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "feb0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Plan Suomi Säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1420416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pohjois-Karjalan Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "94d176fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Pohjois-Karjalan koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7688a468-b663-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Pohjois-Karjalan koulutuskuntayhtymä - Student use Benefit",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "956417f0-9d56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Pohjois-Karjalan Tietotekniikkakeskus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "332a0373-a2d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Pohjois-Savon Koulutuskonsortio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "279a7124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Pohjois-Suomen Koulutuskeskussäätiö PSK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f3d4231e-9656-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Poliisiammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "28503b10-fc5b-e211-b607-f04da23e67f6",
+		"OrganizationName": "Polvijärven peruskoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "06b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "PORI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1920416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Porin Aikuiskoulutuskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b38630ad-9d56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Porin kaupunki koulutoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1ea89f2f-d266-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Porvoo International College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "79b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Porvoon Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a4c4c5b0-a156-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Punainenristi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "36a5c9cb-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Raahen aikuiskoulutuskeskus Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c53c7536-2552-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Raahen Koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1e20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Raision aikuiskoulutuskeskus TIMALI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "07e4d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Raision KAUPUNKI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b5a58b34-b91f-df11-856f-0030487d8897",
+		"OrganizationName": "Raision seudun koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "db073300-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Raision seudun koulutuskuntayhtyma - Duplicate Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c9c0f55c-7553-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Raision Seudun Koulutuskuntayhtymä - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4bafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Rajavartiolaitos - Gransbevakningsvasendet Raja-ja merivartiokoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "16b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "RASTOR OY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1eb1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Raudaskylän Kristillinen Opisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d6d91af4-e998-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Riihimäen kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "298444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Rovalan Setlementti ry - Rovala-Opisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2320416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Rovaniemen Ammattikorkeakoulu - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "64afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Rovaniemen kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0de31193-31fe-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Rovaniemen kaupunki, sivistystoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "115cfd2a-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Rovaniemen koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2820416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ruskeasuon koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3a8444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ruskon koulutoimi - Maunun koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "345cfd2a-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "S. ja A. Bovalliuksen saatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "08946a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Saimaan ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "666dd20a-67a6-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Saimaan talous ja tieto Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "26b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sallan kunta / koulutoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a32417ef-9e56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Salon kaupunki school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "83560d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Salon seudun koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "372d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Samkommunen för Kronoby folkhögskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d9d176fe-1af0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Sastamalan Koulutuskuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2d20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Satakunnan Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "66560d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Satakunnan koulutuskuntayhtymä SATAEDU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "49c8b6b8-e6d2-df11-bd73-0030487d8897",
+		"OrganizationName": "Satakunta University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3220416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Savon ammatti- ja aikuisopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e0e47a04-1bf0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Savon koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3720416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Savonia Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2fa235c9-7c6f-e111-a407-f04da23e67f6",
+		"OrganizationName": "Savonia-Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2eb1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Savonlinna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6d2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Savonlinnan Kristillinen Opisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "37b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Savukosken kunta/ Opetustoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3c20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Seinäjoen Ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "7b00cc31-9f56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Seinäjoen Kaupunki - Opetustoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c8d17596-def0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Seinäjoen koulutuskuntayhtymä (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1e79d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sibelius-Akademin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fee3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Siilinjärven kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "41b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sipoo Suomen halutuin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "950ccae8-9fed-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Siuntion kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1a109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Sodankylä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "49b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "SOMERO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b0c03b87-9756-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Someron Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "792d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sos-Lapsikylä Ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4120416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "South Karelia University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "df1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "South-Eastern Finland University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4a8444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Suomalais-venäläinen koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0aafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Suomen Akatemia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "672d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suomen Kosmetologien Yhdistyksen Opiston Säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4620416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Suomen Liikemiesten Kauppaopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "acafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Suomen Liikunta ja Urheilu ry, Nuori Suomi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "45109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "SUOMEN MIELEN-TERVEYS-SEURA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2b2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suomen Nuorisoyhteistyö, Allianssi r.y.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "add1e424-a056-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Suomen Punainen Risti, Veripalvelu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "55f8015c-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Suomen Rehtorit ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "51b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Suomen Urheiluopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4b20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Suomen Yrittäjäopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b4afdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Suomenlinnan hoitokunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "20e8badd-9856-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Suonenjoen Kaupunki/ Koulutoimi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "14109e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Suonenjoki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "59b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Suupohjan ammatti-instituutti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "1f498f41-43b7-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Svenska Framtidsskolan i Helsingforsenheten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b6560d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Svenska Österbottens förbund för utbildning och kultur samkommun/ Yrkesakademin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9053b6ce-dc98-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Taideyliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a8b8b05c-9f56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Taivalkosken kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5020416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tampere Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "122600f4-1a4b-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Tampere University Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "25644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Tampere University Foundation - Tampereen korkeakoulusäätiö | TAMK Tampereen ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6e698541-58a6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Tampere University Foundation - VMAP Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "4780710f-5e31-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Tampereen Aikuiskoulutussäätiö TAKK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5520416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tampereen ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5a20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tampereen Ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e6997124-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Tampereen kaupunki Tredu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "61b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tampereen musiikkiopiston säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "69b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tampereen Talouskouluyhdistys ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "21fca8c5-b521-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Teak Oy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "cb9ba3f4-e85e-e111-8056-f04da23e67f6",
+		"OrganizationName": "Teak Oy -  Atea - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3c79d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Teaterhögskolan är det universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0d946a20-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Teatterikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "99b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Teatterikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "218444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tervaväylä OPPIMIS-JA OHJAUSKESKUS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5f20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "The University of Joensuu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e204bec8-cff5-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Tohtori Matthias Ingmanin säätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "71a8f63d-ae49-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Trade Union of Education in Finland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3e570d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "TTS Työtehoseura ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2bc5db19-e51f-df11-856f-0030487d8897",
+		"OrganizationName": "Tuoterengas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "34f7670a-78c3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Turku School of Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "95570d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Turun Aikuiskoulutussaatio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6420416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Turun ammatti-instituutti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6920416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Turun ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "20534f0b-b679-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Turun ammattikorkeakoulu - Turku",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b1b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Turun Ammattiopistosäätiö TAOS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6e20416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Turun Biotekniikan Keskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e4570d31-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Turun kaupunki/Turun ammatti-instituutti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a9b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Turun Kristillinen Opisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "398e9666-64b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Turun yliopisto (University of Turku)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e20f9e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tuusula",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "03c7e9b1-9756-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Tuusulan kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "328444c5-cb38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Työväen Sivistysliitto TSL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d2e3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "United Nations University World Institute for Development Economics Research/WIDER",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "856f84fc-93b7-df11-859b-0030487d8897",
+		"OrganizationName": "University of Eastern Finland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b5634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Helsinki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "9e501d2a-1a1d-e111-a703-f04da23e67f6",
+		"OrganizationName": "University of Jyvaskyla (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "def67a75-f181-de11-8cd1-0030487d8897",
+		"OrganizationName": "University of Kuopio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e7e1b71c-7cd8-df11-bd73-0030487d8897",
+		"OrganizationName": "University of Oulu - Oulun yliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "0f634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Tampere Finland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ca78d1fc-9e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "University of the Arts Helsinki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "38c8f537-7cfc-de11-85a5-0030487d8897",
+		"OrganizationName": "University of Turku (Finland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "15634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Vaasa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "dae3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Utsjoen kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "e6e3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Uurainen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b32d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vaalijalan kuntayhtymä",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "251f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vaasan ammattikorkeakoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "19e57a04-1bf0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Vaasan kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "81b1dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vaasan Kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2a1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vaasan kaupunki/ toisen asteen koulutus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "2f1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vaasan Yliopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d22d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vakuutustiedon Kehittämissäätiö",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "341f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Valkeakosken",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ab9bc200-9756-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Valkeakosken kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fce47a04-1bf0-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Valkeakosken seudun koulutuskuntayhtymä VSKY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "fa0f9e5c-cc38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Valkeakoski",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "c5b0dbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Valtion Taidemuseo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "49f8015c-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vanhus- ja lähimmäispalvelun liitto ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "8e2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Vanhusten Palvelutaloyhdistys ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6cafdbcf-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vanhustyön keskusliitto - Centralförbundet för de gamlas väl ry",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "d0791c0b-0d9b-e811-8109-000d3af41938",
+		"OrganizationName": "Vantaa Vocational College Varia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "38774e75-0c8b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Vantaan Ammattiopisto Varia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a3a60b18-c11f-df11-856f-0030487d8897",
+		"OrganizationName": "Vantaan kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "542d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Varastokirjasto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "97bdabed-9f56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Varkauden kaupunki EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "eee3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vesannon yhtenaiskoulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "b57a0f3d-a056-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Vesilahden kunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "f6e3d3d5-02f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vora- Maxmo Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "371f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Vörå-Maxmo kommun/skolor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "3c1f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ylä-Savon ammattiopisto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "5dc94537-0af4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Yla-Savon koulutuskuntayhtyma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "ad2d0f50-8718-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ylioppilastutkintolautakunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "a1d1598c-a156-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Ylitornio kunta koulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "6c770b74-a156-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Ylojarven kaupunki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "411f416f-c675-e111-a407-f04da23e67f6",
+		"OrganizationName": "Yrkeshögskolan Novia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FIN",
+		"InstitutionID": "81cad71c-42c9-e211-be21-f04da23e67f4",
+		"OrganizationName": "Yrkeshögskolan Novia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

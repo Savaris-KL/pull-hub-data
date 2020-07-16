@@ -1,0 +1,1290 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5857ceb-1d02-4ac7-928b-ff9ad04b79d5",
+		"OrganizationName": "Aberdeen Public School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cd11e94-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Alcester-Hudson School 61-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Arlington School District 38-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Armour School District 21-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c571689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Baltic School District 49-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e971689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Belle Fourche School District 09-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Bennett County School District 03-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1972689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Black Hills Special Services Coop",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Black Hills State University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "caa947b6-c59b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Black Hills State University - Store",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eefe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Boxelder Job Corps Center",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8be7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Brandon Valley School District 49-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0abf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Britton-Hecla School District 45-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Brookings School District 05-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "446d8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Brookings School District 5-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3abf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Burke School District 26-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cbf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Castlewood School District 28-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Clark School District 12-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcbf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Colman-Egan School District 50-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Colome School District 59-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fabf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Corsica School District 21-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Custer School District 16-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dakota State University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dakota Valley School District 61-8",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dakota Wesleyan University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b6d8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Dell Rapids Public School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dell Rapids School District 49-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "DeSmet School District 38-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Deubrook Area School District 05-6",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Deuel School District 19-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ec07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Diocese of Sioux Falls",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Doland School District 56-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ac07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Douglas School District 51-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Dakota Educational Coop",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Edgemont School District 23-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Elkton School District 05-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Elm Valley School District 06-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Enemy Swim Day School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Ethan School District 17-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Flandreau School District 50-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Florence School District 14-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Freeman School District 33-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Garretson School District 49-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0101af81-548c-e811-8108-000d3af41938",
+		"OrganizationName": "Gayville-Volin High School - Gayville - Campus Store",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0bc27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Grant-Deuel School District 25-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dc27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Gregory School District 26-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23c27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Groton School District 06-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5046996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Haakon School District 27-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9046996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hamlin School District 28-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0137179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Hanson School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hill City School District 51-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hot Springs School District 23-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hoven School District 53-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Howard School District 48-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hurley School District 60-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Huron University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Irene School District 63-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Jones County School District37-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kadoka School District 35-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5435f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kilian Community College",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "039722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lake Area Technical Institute - Watertown Campus",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Preston School District 38-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Langford School District 45-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lead-Deadwood School 40-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lemmon School District 52-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lennox School District 41-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e37dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lennox School District 41-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lyman School District 42-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "219d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Marty Indian School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "McCrossan Boys Ranch",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Meade School District 46-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mid-Central Ed Coop",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Midland School District 27-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mitchell Technical Institute",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Marty College",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mt. Vernon School District17-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "National American University - Microsoft Imagine Standard",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13ed03bf-f8d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "National American University - Rapid City",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "National American University Ellsworth AFB",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "NE Educational Services Coop",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a38179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Newell School District 9-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northern State University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Northwestern Area School District 56-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2773689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Oelrichs School District 23-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oglala Lakota College",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Oldham-Ramona School District 39-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b773689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Plankinton School District 01-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Platte Community School District 11-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Prairie Lakes Educational Cooperative",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Presentation College",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rapid City Area School District 51-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7540f9bd-80cd-4935-a5f9-835e1bb04c28",
+		"OrganizationName": "Rapid City Area Schools",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e1325a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Redfield Public School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Redfield School District 56-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rosholt School District 54-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c44e58e1-dfe9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Sinte Gleska University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81be3dc6-edce-e711-80f9-000d3af41938",
+		"OrganizationName": "Sioux Falls Christian Schools",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fd27be9-1ae3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Sioux Falls Seminary",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sioux Valley School District 05-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d174689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sisseton School District 54-9",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sisseton Wahpeton College",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c51325a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Smee School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94f39eef-8c7c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "South Dakota Board of Regents",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "693a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "South Dakota School of Mines & Technology",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "South Dakota State University",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "South Shore School District 14-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeast Technical Institute",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Spearfish School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33f12f51-dad2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "State of South Dakota K-12 Data Center",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stickney School District 01-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Summit School District 54-6",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed4c8443-38a9-de11-886d-0030487d8897",
+		"OrganizationName": "Takini School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d895a97d-96f8-e811-810d-000d3af41938",
+		"OrganizationName": "Tea Area School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Three-Rivers School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Tri-Valley School District 49-6",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Sioux Falls - Sioux Falls Campus",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "833b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Dakota - Vermillion Campus",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Viborg School District 60-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ae8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Wagner Community School",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wall School District 51-5 - Microsoft Imagine Standard",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Warner School District 06-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Waubay School District 18-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Waverly School District 14-5",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "231425a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Webster School District",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Webster School District 18-4",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wessington Springs School District 36-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "West Central School District 49-7",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b440053-0eb2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Western Dakota Tech",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d18662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "White River School District 47-1",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e38662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Willow Lake School District 12-3",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f58662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wilmot School District 54-7",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "138762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wood School District 47-2",
+		"ProvinceCode": "SD",
+		"SubsectorCode": "education_k_12"
+	}
+]

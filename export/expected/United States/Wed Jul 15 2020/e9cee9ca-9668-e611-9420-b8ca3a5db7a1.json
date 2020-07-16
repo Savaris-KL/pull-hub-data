@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "e9cee9ca-9668-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Kew High School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4e3703dd-9668-e611-9420-b8ca3a5db7a1",
+		"WebStoreName": "Kew High School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4e3703dd-9668-e611-9420-b8ca3a5db7a1"
+	}
+]

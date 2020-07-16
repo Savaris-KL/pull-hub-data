@@ -1,0 +1,3306 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b93a7e5-2f75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Accelerated Learning Laboratory",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18b821ba-0ebc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Adult Learning Center / Wincertification",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "957db02b-0570-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Agua Caliente Elementary School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d520bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Agua Fria Union High School district 216",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Aguila School District 63",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ajo Unified School District 15",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alhambra Elementary School District 68",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Alpine Elementary School District 7",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Altar Valley School District 51",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b2a81af-4601-e011-bed1-0030487d8897",
+		"OrganizationName": "American Indian College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Amphitheater School District 10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Antelope Union High School District 50",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66c95a42-2f94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Anthem High Tech Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Apache Elementary School District 42",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Apache Junction Unified School district 43",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e80eda17-826e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Apollo Group Adobe",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2a076ab-e3ca-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Apollo Group, Inc - HUP",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c0c6c7a-65c5-dd11-9f2a-0030485a7be8",
+		"OrganizationName": "Apollo Group, Inc.",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Argosy University - Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "500607e4-0744-df11-b56b-0030487d8897",
+		"OrganizationName": "Arizona Charter Schools Association",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arizona Christian University (formerly Southwestern Bible College)",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c2b8be4-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "Arizona College - School of Nursing - Microsoft Imagine Premium",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arizona College of Allied Health",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arizona Culinary Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Arizona Department of Education",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arizona State University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "875de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arizona State University (ASU)",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arizona State University West",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cdcd06b7-86b0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Arizona State University, Tempe - ETS",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45d00bed-3c09-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Arizona Summit Law School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Arizona Training Group",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b1a0c1d-bea0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Arizona Virtual Academy",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a23d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arizona Western College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Arlington School District 47",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ash Creek Elementary School District 53",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ash Fork Joint Unified School district 31",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Asian Institute of Medical Studies",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "530b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Automotive Dealership Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "950b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute -Tucson",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Avondale Elementary School District 44",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bagdad Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "576aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Balsz Elementary School District # 31",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Balsz Elementary School District 31",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4b657a8-aa0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "BASIS Chandler",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Beaver Creek Elementary School district 26",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f399ea6-831f-de11-9c12-0030485a8df0",
+		"OrganizationName": "Bella Vista Private School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Benson Unified School District 9",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bicentennial Union High School district 76",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bisbee Unified School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4e937a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blackwater Community School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blue Elementary School District 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Blue Ridge Unified School District 32",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bonita Elementary School District 16",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df790872-5242-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Boulder Creek High School - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bouse Elementary School District 26",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bowie Unified School District 14",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "584dd8b8-a37e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Brightmont Academy",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brookline College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Brophy College Preparatory",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fe1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Brown Mackie College - Tucson",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Buckey union high school district",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Elementary School District 33",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buckeye Union High School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bullhead City Elementary School District 15",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Burke Basic School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Camp Verde Unified School District 28",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a7fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Candeo Schools",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Canon School District 50",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae7b7075-fb73-e811-8106-000d3af41938",
+		"OrganizationName": "Cartwright School District - Phoenix - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cartwright School District 83",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Casa Grande Elementary School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Casa Grande Union High School District 82",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Catalina Foothills Unified School District 16",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cave Creek Unified School District 93",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cedar Unified School District 25",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fae937a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Central Arizona College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1be6d4e9-acd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Central Arizona College - Apache Junction - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "936a741f-4597-4677-8bd1-8b471ad4d3dc",
+		"OrganizationName": "Chandler Gilbert Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4534189-7d10-e111-a703-f04da23e67f6",
+		"OrganizationName": "Chandler Gilbert Community College - WAH",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98978238-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Chandler High School - Information Technology - Departmental Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Chandler Unified School District #80",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chandler Unified School District 80",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "193f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chaparral College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a3d5785-84cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Chaparral High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chinle Unified School District 24",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Chino Valley Unified School District 51",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clarkdale-Jerome School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d020bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Clifton Unified School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cochise College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9207cf08-eb69-e011-971f-0030487d8897",
+		"OrganizationName": "Cochise County Community College District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29a438c8-48a3-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Cochise County Community College District - Sierra Vista Campus - Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cochise School District 26",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Coconino Community College - Flagstaff - Arizona",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c764fb5-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Coconino County Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Collins College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Colorado City Unified School district 14",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Colorado River Union High School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Concho Elementary School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Congress Elementary School district 17",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Continental Elementary School District 39",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Coolidge Unified School District 21",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4669e13c-7eb7-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Corona del Sol High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb080c55-9d1a-e011-b71d-0030487d8897",
+		"OrganizationName": "Coronado High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "702abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cortiva Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cottonwood-Oak Creek School district 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Crane Elementary School District 13",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8837958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Crane Schools",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Creighton School District 14",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Crown King School District 41",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Deer Valley Unified School district 97",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry Institute of Technology-Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "279efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dine College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01dab01b-d2c9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Docufide Inc.",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Double Adobe School District 45",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Douglas Unified School District 27",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d120bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Duncan Unified School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b9efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dunlap-Stone University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e020bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Dysart Unified School District - AZ",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "East Valley Inst Of Tech School district 401",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "East Valley Institute of Technology",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e9ec224-612c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "EDUPRIZE Schools",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Elfrida School District 12",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Eloy Elementary School District 11",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14a041a5-dea1-4023-bef7-0168fb7a7e2f",
+		"OrganizationName": "Estrella Mountain Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5927af65-248f-4b80-93c1-fc41b033a0c0",
+		"OrganizationName": "Everest College - AZ",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6520d25-d860-4a37-b118-34f84380002b",
+		"OrganizationName": "Everest Institute - AZ",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ae6aa13-4bd5-de11-baeb-0030487d8896",
+		"OrganizationName": "EW4HS - Pat (Lake Havasu City, AZ) - High School AA",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Flagstaff Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Florence Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Flowing Wells Unified School District 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fountain Hills Unified School District 98",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e120bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fowler Elementary School District 45",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Fredonia-Moccasin Unified School district 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b020bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ft Huachuca School District 00",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ft Thomas Unified School District 7",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gadsden School District 32",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ganado Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a5cb7e7-88b2-de11-886d-0030487d8897",
+		"OrganizationName": "Gateway Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e220bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gila Bend Unified School District 24",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Gilbert Public Schools",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2d06a18-96ed-de11-a13b-0030487d8897",
+		"OrganizationName": "Glendale Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Glendale Elementary School District 40",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e520bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Glendale Union High School District 205",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Globe Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Grand Canyon Unified School district 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grand Canyon University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d07565e-a326-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Grand Canyon University, Main Campus",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hackberry Elementary School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bba0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Harrison Middleton University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hayden-Winkelman Unified School district 41",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Heber-Overgaard Unified School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Higley Unified School District 60",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hillside Elementary School District 35",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Holbrook Unified School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Humboldt Unified School District 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Hyder Elementary School District 16",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16208467-83d3-de11-baeb-0030487d8896",
+		"OrganizationName": "Immaculate Heart High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ind Oasis-Baboquivari Unified School District 40",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be34f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "International Baptist College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "International Import-Export Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Isaac Elementary School District 5",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "J O Combs School District 44",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Joseph City School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kayenta Unified School District 27",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "King Career Center",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kingman Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kirkland Elementary School District 23",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Kyrene Elementary School District 28",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kyrene School District 28",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Lake Havasu Unified School District - AZ",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eee1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Lamson College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Laveen Elementary School District 59",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5e0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts - Scottsdale",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Learning Matters Education Groups",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Liberty Elementary School District 25",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Litchfield Elementary School District 79",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3755f506-9cca-e911-811e-000d3af41938",
+		"OrganizationName": "Little Rock Christian Academy",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Littlefield Unified School district 9",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Littleton Elementary School District #65",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Littleton Elementary School District 65",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Madison Elementary School District 38",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Maine Cons Elementary School District 10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mammoth San Manuel Unified School district 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Marana Unified School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5606100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maricopa Community College System Office",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b06100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maricopa Community Colleges - Estrella Mountain Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f06100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maricopa Community Colleges - Gateway Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6506100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maricopa Community Colleges - Glendale Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maricopa Community Colleges - Mesa Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maricopa County Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Maricopa County Regional School District 509",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cb8d87f-a35c-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Maricopa High School - Maricopa - Microsoft Imagine Standard",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Maricopa Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mayer Unified School District 43",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mcnary School District 23",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b120bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mcneal Elementary School District 55",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09010d8e-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Mesa Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "917f8a51-22d9-e811-810b-000d3af41938",
+		"OrganizationName": "Mesa High School - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mesa Unified School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c520bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Miami Area Unified School District 40",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a016b539-a532-df11-b4ab-0030487d8897",
+		"OrganizationName": "Midwestern University - Arizona",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mingus Union High School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mobile Elementary School District 86",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7987e250-203a-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Mohave Accelerated Learning Center - Bullhead City - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c89a0476-76a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Mohave Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddeb37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mohave Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mohave Valley Elementary School District 16",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Mohawk Valley School District 17",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d220bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Morenci Unified School District 18",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Morristown Elementary School District 75",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f020bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Murphy Elementary School District 21",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b220bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Naco School District 23",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f120bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Nadaburg Elementary School District 81",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fd3a761-e635-df11-b4ab-0030487d8897",
+		"OrganizationName": "National Park College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Nogales Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cbabdf5-0646-de11-b696-0030485a8df0",
+		"OrganizationName": "Northcentral University - AZ",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69c3db81-09f1-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Northcentral University - KVC",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northern Arizona University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northland Pioneer College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08708d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Notre Dame Preparatory High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Oracle Elementary School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e6aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Osborn School District #8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f220bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Osborn School District 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Owens-Whitney School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c020bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Page Unified School District 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb2d8aa3-afce-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Paideia Academy South Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Palo Verde Elementary School District 49",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Paloma Elementary School District 94",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Palominas Elementary School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aec12532-5e9b-4fac-b47c-bcf3c1a74c2e",
+		"OrganizationName": "Paradise Valley Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Paradise Valley Unified School district",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Parker Unified School District 27",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Patagonia Elementary School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Patagonia Union High School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Payson Unified School District 10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Peach Springs Unified School district 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pearce Elementary School District 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pendergast Elementary School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Peoria Unified School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Peoria Unified School District #11",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9518983b-a3a5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Phoenix Children's Hospital - Fellowship Programs",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6530b0d6-8a9d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Phoenix college",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Phoenix Country Day School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Phoenix Elementary School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6dc2d49a-0bdb-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Phoenix Institute of Herbal Medicine & Acupuncture",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddb6c253-816f-4250-90ee-e7f724c61157",
+		"OrganizationName": "Phoenix School of Law",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Phoenix Union High School district 210",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Picacho School District 33",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7789285a-e46e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Pima Community College District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "653d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pima County Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94effdbf-287d-e711-80f3-000d3af41938",
+		"OrganizationName": "Pima County JTED (Joint Technological Education District)",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pima Unified School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "656aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pinal County Library District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pinal County School Office ESA",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pine Strawberry Elementary School district 12",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c6aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pinnacle Online High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pinon Unified School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Pomerene School District 64",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96f6d56e-c593-46a7-b970-10374258fd01",
+		"OrganizationName": "Precision Academy Systems",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6c91963-721f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Prescott Adventist Christian School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Prescott College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "736aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Prescott Unified School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Prescott Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6a17e24-d550-4d30-87a6-bd8d3a355850",
+		"OrganizationName": "Presidio Charter High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Quartzsite Elementary School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Queen Creek Unified School district 95",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ray Unified School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Red Mesa Unified School District 27",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3021bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Red Rock School District 5",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rio Salado College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Riverside Elementary School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Roosevelt School District 66",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "986f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rose Academies Public High Schools",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a420bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Round Valley Unified School District 10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sacaton Elementary School District 18",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Saddle Mountain Unified School district 90",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Safford Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sahuarita Unified School District 30",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c670ff53-8c38-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Saint Mary's Catholic High School - Phoenix - Campus Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bea60e9-b6bf-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Saint Maximilian Mary Kolbe School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Salome Cons Elementary School District 30",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddf06797-99ae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Salt River Pima-Maricopa Indian Community-Education Department",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "San Carlos Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "San Fernando Elementary School District 35",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b720bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "San Simon Unified School District 18",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a320bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sanders Unified School District #18",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sanders Unified School District 18",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Santa Cruz Elementary School District 28",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Santa Cruz Valley High School District 840",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Santa Cruz Valley Unified School district 35",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad025c85-9d5f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Scottsdale Christian Academy - Phoenix - Microsoft Imagine Standard",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Scottsdale Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d333a36b-8e6e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Scottsdale Preparatory Academy",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Scottsdale Public Library",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e60c7bdc-6c48-427d-bbf5-b2b749285f4a",
+		"OrganizationName": "Scottsdale Unified School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Scottsdale Unified School District 48",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sedona-Oak Creek Joint Unified School District 9",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Seligman Unified School District #40",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Seligman Unified School District 40",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sentinel Elementary School District 71",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4a36fed-3868-df11-b841-0030487d8897",
+		"OrganizationName": "Sessions College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Show Low Unified School District #10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Show Low Unified School District 10",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b820bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sierra Vista Unified School District 68",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Skull Valley School District 15",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Snowflake Unified School District 5",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Solomon Elementary School District 5",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Somerton School District 11",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sonoita Elementary School District 25",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86112056-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Sonoran Science Academy Davis Monthan (Tucson, AZ) - High School AA",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94a17d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Sonoran Science Academy Tucson (Tucson, AZ) - High School AA",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "169a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "South Mountain Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e3c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "South Mountain Community College - Maricopa Colleges",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4de47727-3c73-df11-bc53-0030487d8897",
+		"OrganizationName": "Southwest College of Naturopathic Medicine",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St David Unified School District School District 21",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a520bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "St John's Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "988c74b7-8041-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "St. Michaels Indian School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Stanfield Elementary School District 24",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80298351-d19c-4c8f-adf5-564056cb793f",
+		"OrganizationName": "Stepping Stones Academy",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Sunnyside Unified School District 12",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e2f7e26-8520-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Sunrise Mountain High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Superior Unified School District 15",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f80d4e29-d15e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Taliesin Frank Lloyd Wright School of Architecture",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tanque Verde Unified School district 13",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7f1ae67-e82c-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Telesis Preparatory Academy (Lake Havasu, AZ) - High School AA",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tempe Elementary School District 3",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tempe Union High School District 213",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Thatcher Unified School District 4",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97e0ff28-fcf3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "The Art Institute of Tucson",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The Biodesign Institute Arizona State University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa0c3538-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "The Center for Academic Success - Engineering - Departmental Store",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbe18530-86da-4e7e-a47d-54cca6094a26",
+		"OrganizationName": "The Cooperative Purchasing Network - Arizona",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a74e913-7f9c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The French American School of Arizona",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39efc3ea-f728-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "The Gregory School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "459e498c-e1bc-df11-859b-0030487d8897",
+		"OrganizationName": "The National Graduate School of Quality Management",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45525855-f932-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "The Orme School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d881d113-a65a-de11-9e9c-0030485a8df0",
+		"OrganizationName": "The University of Arizona College of Medicine",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Thunderbird School of Global Management",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a1d4b07-27a1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Tohono O'odham Community College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a6aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tolleson Elementary School District #17",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0121bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tolleson Elementary School District 17",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0221bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tolleson Union High School District - Tolleson - Microsoft Imagine Standard",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Toltec School District 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tombstone Unified School district 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tonto Basin School District 33",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Topock Elementary School District 12",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c120bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Tuba City Unified School District 15",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ce1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Tucson College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ed43cc1-0a11-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Tucson Unified School District",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tucson University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f8288e0-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "UEI College - Computer & Network Technician - Microsoft Imagine Premium",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0321bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Union Elementary School District 62",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adc512d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universal Technical Institute",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9595f321-c455-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University High School, Tucson",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cc73308-e473-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Advancing Technologies",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b90c4e50-6297-e011-969d-0030487d8897",
+		"OrganizationName": "University of Advancing Technology",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cbdb021-b214-df11-856f-0030487d8897",
+		"OrganizationName": "University of Advancing Technology - Campus",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f33a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Arizona",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Valentine Elementary School district 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "235e71e2-e576-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Valley Lutheran High School",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b520bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Valley Union High School District 22",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Vernon Elementary School District 9",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Washington Elementary School District 6",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5421bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wellton Elementary School District 24",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wenden Elementary School District 19",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western International University",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bd15eb0-eb2e-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Western Maricopa Education Center - West-MEC",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Whiteriver Unified School District 20",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0521bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wickenburg Unified School District 9",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb20bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Willcox Unified School District 13",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0647e976-3b97-4d3e-b6dc-ec75792d9d8f",
+		"OrganizationName": "Williams Unified School Dist. 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8aed37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Williams Unified School District #2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c220bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Williams Unified School District 2",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Wilson Elementary School District 7",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a620bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Window Rock Unified School District 8",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1821bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Winslow Unified School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15ddc6fd-8d9a-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Xavier College Preparatory",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4921bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yarnell Elementary School District 52",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b33c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Yavapai College",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c920bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Young Public School District 5",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f21bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yucca Elementary School District 13",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5621bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yuma Elementary School District 1",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5ed37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yuma School District One",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5721bb54-6bfd-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Yuma Union High School District 70",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_k_12"
+	}
+]

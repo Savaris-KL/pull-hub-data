@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "aba83389-8f06-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Santiago del Estero",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "c1a83389-8f06-e311-93f3-b8ca3a5db7a1",
+		"WebStoreName": "Universidad Catolica de Santiago del Estero - Informatica",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=c1a83389-8f06-e311-93f3-b8ca3a5db7a1"
+	}
+]

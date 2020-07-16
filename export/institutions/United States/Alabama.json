@@ -1,0 +1,1538 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": ".Air University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9db27630-9559-e111-8056-f04da23e67f6",
+		"OrganizationName": "Air Command and Staff College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alabama A&M University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Alabama Agricultural Mechanical University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "665de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Alabama Institute for Deaf Blind",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bd42bf3-1ad6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Alabama Southern Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alabama State University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Albertville City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d074569b-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Alexandria High School (Alexandria, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "American College of Computer and Information Sciences",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ecb1f5c-27f1-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Amridge University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "965de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Athens Bible School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d60be52-3b00-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Athens City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Athens State College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d9dc8a8-d6b8-de11-886d-0030487d8897",
+		"OrganizationName": "Athens State University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Auburn City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Auburn University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a858730a-e638-de11-b696-0030485a8df0",
+		"OrganizationName": "Auburn University - Campus",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "069616c4-2ff4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Auburn University - College of Veterinary Medicine",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Auburn University at Montgomery",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "720b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Birmingham",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "315f936f-9344-4039-bdda-71542f0b3c60",
+		"OrganizationName": "Baldwin County Board of Education",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e3535d2-c5bb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Bayshore Christian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bevill State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c72a1a8-261a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Big Cove Christian Academy",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfcad3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Birmingham City School District",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10dd6d86-d9b8-4f74-9740-f13833cb9e16",
+		"OrganizationName": "Birmingham Southern College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1505f8ab-aee3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Bishop State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "512feb92-c286-e811-8108-000d3af41938",
+		"OrganizationName": "Boaz City Schools (Alabama)",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Breyer State University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce277c8f-dd95-e011-969d-0030487d8897",
+		"OrganizationName": "Briarwood Christian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Butler County School District",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6481953-5d9a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Calhoun Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d38632b-651f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Calhoun Community College - CIS",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cardiac and Vascular Institute of Ultrasound",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de00e180-a1f1-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Chambers County School District",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "315be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Chattahoochee Valley Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Chilton County Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "City of Jacksonville",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e89c735-3b3b-df11-b4ab-0030487d8897",
+		"OrganizationName": "Clayton College of Natural Health",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38b4b958-9dcf-e711-80f9-000d3af41938",
+		"OrganizationName": "Coastal Alabama Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fde1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Community College of the Air Force",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2998d012-2c71-4fd4-b653-a09ed8e4e0b3",
+		"OrganizationName": "Concordia College Selma",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia College-Selma",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "892abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Covert & Associates Dale Carnegie Training",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d4e2878-ffe5-e911-8120-000d3af41938",
+		"OrganizationName": "Cullman City School District",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14ad25e2-5d4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Culverhouse College of Commerce and Business Administration",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e84ca43-0e65-e011-971f-0030487d8897",
+		"OrganizationName": "Dauphin Island Sea Lab",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "384bd612-8a60-e011-971f-0030487d8897",
+		"OrganizationName": "Dauphin Island See Lab",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45bb616a-2594-e911-811a-000d3af41938",
+		"OrganizationName": "Department 1",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8704b145-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Elkmont High School (Elkmont, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c39a8607-55d4-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Enterprise City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cdaf5392-67b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Enterprise State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad66fe30-b6bd-de11-886d-0030487d8897",
+		"OrganizationName": "Enterprise-Ozark Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a264e75-f0a1-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Envision Virtual Academy",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2a892c6-3f5c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Escambia County High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc54e108-d216-e111-a703-f04da23e67f6",
+		"OrganizationName": "Eufaula High School (Eufaula, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b845e82-732d-47d7-9082-e2d155a121d1",
+		"OrganizationName": "Faulkner University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f236b9cb-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Florence City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "799522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fortis College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae6b0409-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Gadsden City High School (Gadsden, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gadsden State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "426aab2f-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Guntersville City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f19522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "H. Council Trenholm State Technical College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c06d969-1090-df11-ad8b-0030487d8897",
+		"OrganizationName": "Hartselle City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Heritage Christian University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "469622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Herzing University - Birmingham",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4facf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hoover City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d18e4ce-b27e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Huntingdon College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Huntsville Bible College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8532ff64-fecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Huntsville City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2335f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "J F Drake State Technical College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b79622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "J. F. Ingram State Technical College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddc87290-ee4a-de11-b696-0030485a8df0",
+		"OrganizationName": "J. F. Ingram State Technical College - Deatsville - Campus Store",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jacksonville State University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2835f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "James H Faulkner State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3535f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Jefferson Davis Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e83e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jefferson State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "777a38a6-938e-df11-ad8b-0030487d8897",
+		"OrganizationName": "Judson College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lawson State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4050d0f2-c205-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Lee County Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8806100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lurleen B Wallace Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9affbe80-73ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Macon County Public Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01d34d60-64de-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Madison City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc355a88-3a38-df11-b4ab-0030487d8897",
+		"OrganizationName": "Marion Military Institute",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55a456a1-9cf3-4f6a-bb95-e817ddfa26e5",
+		"OrganizationName": "Miles College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91ad0e0f-36ee-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Mobile County Public Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "669ab7f9-361b-e811-80fe-000d3af41938",
+		"OrganizationName": "Montgomery Catholic Preparatory School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "226de3f7-8481-e011-969d-0030487d8897",
+		"OrganizationName": "Mountain Brook Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac724d00-333e-de11-b696-0030485a8df0",
+		"OrganizationName": "Northeast Alabama Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "070defce-d0ff-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Northwest Shoals Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a87023f1-4ad1-df11-bd73-0030487d8897",
+		"OrganizationName": "Oak Mountain High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfc8aab3-9363-41dd-a018-d0c0816fef33",
+		"OrganizationName": "Oakwood College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20e2a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Oakwood University - Microsoft Imagine Standard",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1375569b-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Ohatchee High School (Ohatchee, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Philadelphia College of Osteopathic Medicine",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06b23a5d-7eca-df11-859b-0030487d8897",
+		"OrganizationName": "Pike County Board of Education",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5a64ea1-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Pleasant Valley Senior High School (Jacksonville, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Providence Christian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d828905-65f1-4a2c-8cef-751b3a1c70e1",
+		"OrganizationName": "Regions University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Reid State Technical College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c121e88-bf03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Restoration Academy",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b74569b-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Saks High School (Anniston, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16cf4664-2967-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Samford University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "348bf0cf-4ac8-44bb-a2b3-1f17aa765f39",
+		"OrganizationName": "Samford University (SS)",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abe7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Scottsboro City Board of Education",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "548010b0-a73a-e011-b1e1-0030487d8897",
+		"OrganizationName": "Shades Mountain Christian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc047bbe-b113-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Shelton State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a038a6ef-0e94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Snead State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeastern Bible College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "773a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Christian University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Union State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "834e03b6-149c-478c-9dd4-0a9cfcc52865",
+		"OrganizationName": "Spring Hill College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99704d25-fd51-e711-80f0-000d3af41938",
+		"OrganizationName": "Spring Hill College - Dauphin - Campus Store",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04867742-0fe1-df11-bd73-0030487d8897",
+		"OrganizationName": "Springville High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2d3ca3f-bec6-dd11-9f2a-0030485a7be8",
+		"OrganizationName": "St. Paul's Episcopal School - AL",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b42707f8-58bc-47a4-9d16-4e5ed1aa1d48",
+		"OrganizationName": "Stillman College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "457980ea-8448-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Sylacauga City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f35b601-3cb9-440f-84a8-1342146145ab",
+		"OrganizationName": "Talladega College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2658fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "The Altamont School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee2cc0d1-0893-de11-8cd1-0030487d8897",
+		"OrganizationName": "The University of Alabama",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c306b12-122d-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "The University of Alabama - Campus Store",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "803c3a8d-3b66-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "The University of Alabama - Tuscaloosa - Departmental Store",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The University of Alabama - UAB School of Business",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dcfdf25-63fc-e711-80fc-000d3af41938",
+		"OrganizationName": "The University of Alabama, VMAP Campus",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of West Alabama",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e6c3b78-5029-e011-b71d-0030487d8897",
+		"OrganizationName": "The Way Home Christian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85a8571a-c9ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Thompson High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c652cfa1-1618-4c88-afbf-d53591c2b352",
+		"OrganizationName": "Trenholm State Technical College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8396f12-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Trinity Presbyterian School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d73a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Troy State University - Dothan",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d83a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Troy State University, Florida Region",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d93a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Troy State University, Montgomery",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d26f9f11-8ebd-de11-886d-0030487d8897",
+		"OrganizationName": "Troy University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54e63a58-c295-df11-ad8b-0030487d8897",
+		"OrganizationName": "Trussville City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd66aa25-34b2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Tuscaloosa City Schools",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tuskegee University",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "665ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tuskegee University CBIS",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04c3ce44-0572-464e-9b34-223b6abc5401",
+		"OrganizationName": "United States Sports Academy",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5492eb2b-0276-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "University of Alabama at Birmingham - Health Systems Group",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c9d0f6b-f386-4220-92f3-ffa15b3cc4f0",
+		"OrganizationName": "University of Alabama at Birmingham - KVC",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Alabama System - Birmingham",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Alabama System - Huntsville",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Alabama System, Tuscaloosa",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83e433e3-e232-49c5-aa5a-3f7205dabaf1",
+		"OrganizationName": "University of Mobile",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "553b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Montevallo",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Alabama",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "873b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of South Alabama",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a33b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of West Alabama",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce8a5f44-ecf2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Vestavia Hills High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e19a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia College Birmingham",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0fb9aa5-2cd5-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Virginia College in Mobile - Microsoft Imagine Standard",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85e19dbd-2b7d-e711-80f3-000d3af41938",
+		"OrganizationName": "Virginia College Montgomery",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f671bd74-1d9f-de11-886d-0030487d8897",
+		"OrganizationName": "Wallace Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f2efd5b-c07a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Wallace Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f39ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wallace Community College - Selma",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wallace State Community College",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92a74ea1-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Weaver High School (Weaver, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4a74ea1-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Wellborn High School (Anniston, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c535c4f-21af-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Wetumpka High School",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19a84ea1-1baf-e011-98e6-f04da23e67f6",
+		"OrganizationName": "White Plains Road (Anniston, AL) - High School AA",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Whitesburg Christian Academy",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f3f5911-5745-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Winston County Board of Education",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

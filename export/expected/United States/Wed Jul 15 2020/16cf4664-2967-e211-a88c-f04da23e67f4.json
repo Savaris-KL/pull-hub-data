@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "16cf4664-2967-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Samford University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a4642d93-2967-e211-a88c-f04da23e67f4",
+		"WebStoreName": "Samford University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a4642d93-2967-e211-a88c-f04da23e67f4"
+	}
+]

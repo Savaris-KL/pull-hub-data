@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "45d5abfd-431f-e011-b71d-0030487d8897",
+		"OrganizationName": "Arizona State University West",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "52d5abfd-431f-e011-b71d-0030487d8897",
+		"WebStoreName": "Arizona State University at the West Campus - School of Mathematical and Natural Sciences",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=52d5abfd-431f-e011-b71d-0030487d8897"
+	}
+]

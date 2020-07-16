@@ -1,0 +1,74 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "23760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American University of Armenia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "aebab01f-8bd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Eurasia International University (Եվրասիա միջազգային համալսարան)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "d2c74ab5-de34-e711-80ef-000d3af41938",
+		"OrganizationName": "European Regional Educational Academy of Armenia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "bd374285-eb34-e711-80ef-000d3af41938",
+		"OrganizationName": "Hayastani Fransiakan Hamalsaran",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "220ea554-2db0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "INSTITUTE FRANCO GERMAN DEUTSCH FRANZOSISCHES INSTITUT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "09222d65-3d3b-e711-80ef-000d3af41938",
+		"OrganizationName": "National Polytechnic University of Armenia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "4f56a5b4-0576-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Russian-Armenian (Slavonic) University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "04b59ce8-c58b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Yerevan State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARM",
+		"InstitutionID": "c3bfa362-8bd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Yerevani Petakan Tntesagitakan Institut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

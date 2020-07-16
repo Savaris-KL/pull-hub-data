@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://westwood.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "f4e84547-3a6a-e211-a88c-f04da23e67f4",
+		"WebStoreName": "Westwood Colleges",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f4e84547-3a6a-e211-a88c-f04da23e67f4"
+	}
+]

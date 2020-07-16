@@ -1,0 +1,1826 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ad50c463-503b-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Abant İzzet Baysal Üniversitesi (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "18ac8e85-96fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Abdullah Gul University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "954eb75d-cdfd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "ACI Schools",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ddbae28b-10de-df11-bd73-0030487d8897",
+		"OrganizationName": "Acibadem University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ece532d6-989f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Adana Gundogdu College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "df2a2637-a834-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Adana Science and Technology University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e9bbd190-b346-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Adapazari Ozel Enka Okullari - Sakarya - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "1c32f8e1-b186-e811-8108-000d3af41938",
+		"OrganizationName": "Adiyaman University (Adiyaman Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8f644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Adnan Menderes University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2a6e2b6b-a1ff-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Afyon Kocatepe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "67979136-d88a-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Ahmet Yesevi Universty (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "1a654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Akdeniz University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "f3f66de0-b814-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Akdeniz University - Antalya - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "46c8b103-2124-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "AKSARAY ÜNİVERSİTESİ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0d801eb8-7f02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Alanya Alaaddin Keykubat Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0696c525-c5e5-e711-80fa-000d3af41938",
+		"OrganizationName": "Altınbaş Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b729af14-7dbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Amasya Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "90644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Anadolu Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8463a041-169b-df11-ad8b-0030487d8897",
+		"OrganizationName": "Ankara University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0c15a9c7-4f5b-e711-80f0-000d3af41938",
+		"OrganizationName": "Ankara Yıldırım Beyazıt Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "09e1aacb-b0a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Antalya International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "00d007e3-de7b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Antalya International University - Antalya - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "533566ca-cafd-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "Ardahan Universitesi - Ardahan - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9d82363a-58a3-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Arel Egitim Kurumlari - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "44059183-a738-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Artvin Çoruh Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "fcc1e6b4-7e84-df11-bc53-0030487d8897",
+		"OrganizationName": "Ataturk University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8451685b-d815-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Atilim University - Ankara - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "aea3a50c-230e-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Aydın Fen Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "adfe7baf-0f94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Bahcesehir Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2c5ec743-5d54-e811-8105-000d3af41938",
+		"OrganizationName": "Bahçeşehir Üniversitesi - Bahcesehir University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8d56d468-dfad-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Balikesir University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "41589253-504a-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Balıkesir University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "98ba9b46-48f2-e711-80fb-000d3af41938",
+		"OrganizationName": "Bandirma Onyedi Eylul University - Engineering - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d7e91cba-982d-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Bartin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "becb50a7-a6c7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Başkent Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7f068ad7-1ecc-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Batman Üniversitesi - Batman - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7b816311-05fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Beykent Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9dd402b5-d47b-e811-8106-000d3af41938",
+		"OrganizationName": "Bilecik Seyh Edebalik Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "88624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Bilgi University Istanbul",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d5bfcb27-77a1-de11-886d-0030487d8897",
+		"OrganizationName": "Bilkent University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "fc9af694-949c-e811-8109-000d3af41938",
+		"OrganizationName": "Biruni University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "212192b4-a7a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Boğaziçi Üniversitesi - Fizik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0a644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Bogazici University - Turkey",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a20b3779-b7cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Bogazici Univesitesi Bilgisaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "487f1545-bee0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Bülent Ecevit Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "18c02259-058e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "BÜLENT ECEVİT ÜNİVERSİTESİ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "fa049331-f3d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Bülent Ecevit University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c9ca8b93-cea2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Bursa Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2d178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Çanakkale Onsekiz Mart Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d653edfe-649e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Canakkale Onsekiz Mart University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "21691011-3792-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Çankaya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c78d0f61-926d-df11-b841-0030487d8897",
+		"OrganizationName": "Çankaya University - Ankara - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "52a5d8db-83ad-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Çankırı Karatekin Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9eaf87d2-a744-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Celal Bayar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "48ee2510-3e8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "City University of Istanbul",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c9b1a148-78e9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Cukurova University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "fa5f8a35-ed55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Cumhuriyet University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2a178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "delete or reuse +_)(",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "cb935a20-4201-e811-80fc-000d3af41938",
+		"OrganizationName": "Dicle Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "5bec30c2-7766-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Dicle Üniversitesi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "cc217d47-9b28-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Doğa Koleji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "48d2cb91-22a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Doğuş University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "38654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Dokuz Eylul University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "30178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "DPE Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "955d859a-5b61-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Duzce University (Düzce Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4be6f835-fae1-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Eastern Mediterraenan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ca984915-6884-df11-bc53-0030487d8897",
+		"OrganizationName": "Eastern Mediterranean University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b57cb916-7e84-df11-bc53-0030487d8897",
+		"OrganizationName": "Ege University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ed529d8e-811c-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Erciyes University (Erciyes Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b9cb4381-9d41-e811-8103-000d3af41938",
+		"OrganizationName": "Erzurum Teknik Üniversitesi (Erzurum Technical University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "5757e15c-e26f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Eskisehir Osmangazi Universitesi - Turkey",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "480708b6-2f1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Eyuboglu egitim kurumlari a.s.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "12287343-4dee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Fatih Sultan Mehmet Waqf University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "f3130c1a-8495-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Fatih University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "01f6e84f-5db8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Fırat Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "643321e6-0e55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Galatasaray Üniversitesi (Galatasaray University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "33178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "GAZİ TEKNİK VE ENDÜSTRİ MESLEK LİSESİ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "13642bbb-1196-e111-981b-f04da23e67f6",
+		"OrganizationName": "Gazi Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c3953709-496f-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Gazi Üniversitesi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "72462707-f27f-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Gaziantep University (Gaziantep Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "405eb0b7-3b32-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Gaziosmanpasa Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a8992365-12d2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Gaziosmanpaşa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "51644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Gebze Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "977bded6-28cf-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "GEBZE Technical University (Gebze Teknik Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4911f15b-f8c2-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Gedik Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "cc6568cc-96fe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gediz Üniversitesi (Gediz University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "33f4137e-0b32-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Gelişim Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "63690ee1-f5ce-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gencsen Geleceksin 5.0",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "af58c1e4-5ed2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Girne American University - Karaoglanoglu Girne - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2ea31bb3-4191-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Gulsen Egitim Kurumlari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0e43c5a4-e4ad-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Habitat Kalkinma ve Yönetişim Dernegi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9d644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Hacettepe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9b3255c3-59a6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Haliç Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e7cfe970-c081-e711-80f3-000d3af41938",
+		"OrganizationName": "Harran Universitesi Bilgi Islem Daire Baskanligi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "36178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Harran University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "39178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hasan Kalyoncu University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "5dfafe29-0573-df11-bc53-0030487d8897",
+		"OrganizationName": "Hava Harp Okulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a3de7ff6-22c0-e811-810a-000d3af41938",
+		"OrganizationName": "HİSAR OKULLARI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "cbd533a8-0ebc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Hitit University (Hitit Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "35c16874-032e-e811-8101-000d3af41938",
+		"OrganizationName": "Ihlas College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ceac0ab0-6c33-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ihsan Dogramaci Bilkent University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b9358745-a6bc-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Inonu University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "537ea363-4a18-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Isik Okullari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3cf3495b-bbe4-e711-80fa-000d3af41938",
+		"OrganizationName": "ISIK Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c9b3ae9d-adc7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Işık Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d0e46596-4720-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Isik University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "86193e5e-2f40-e911-8113-000d3af41938",
+		"OrganizationName": "Isparta University of Applied Sciences (Isparta Uygulamalı Bilimler Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c1efed73-858e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istanbul Aydın University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e160ed07-7d39-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Istanbul Esenyurt Üniversitesi (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "32dcdfc6-a2a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Istanbul Kemerburgaz Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3c178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istanbul Kultur University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "11ee87f4-ff22-e811-8101-000d3af41938",
+		"OrganizationName": "Istanbul Medeniyet University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a96b0b7a-26e0-e211-9000-f04da23fc520",
+		"OrganizationName": "Istanbul Medipol University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "47a3e9ae-d436-e911-8111-000d3af41938",
+		"OrganizationName": "Istanbul Rumeli University (İstanbul Rumeli Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7733e383-9a23-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Istanbul Sabahattin Zaim University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "49624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Istanbul Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3f178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istanbul Ticaret Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "55654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Istanbul University (İstanbul Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "560911a6-e6cb-e811-810b-000d3af41938",
+		"OrganizationName": "Istinye University (İstinye Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "42178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "IT Academy Türkiye",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3567320d-5b60-e911-8115-000d3af41938",
+		"OrganizationName": "İzmir Bakırçay Üniversitesi (Izmir Bakircay University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "227915c9-65e4-e811-810c-000d3af41938",
+		"OrganizationName": "İzmir Demokrasi Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "df07a73c-3b73-df11-bc53-0030487d8897",
+		"OrganizationName": "İzmir Ekonomi Üniversitesi - Izmir University of Economics (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "6ec4bdd5-1c96-e111-981b-f04da23e67f6",
+		"OrganizationName": "Izmir Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "77438517-704f-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "İzmir Katip Çelebi Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "45178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "İzmir Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0311a121-95a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "IZMIR YUKSEK TEKNOLOJİ ENSTITUSU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "53a58a94-e308-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kadıköy Anadolu Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "48178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kadir Has University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b2b7f215-b7ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Kahramanmaraş Sütçü İmam Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c35c8eb9-affa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Karabük Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ceb3d58e-0dbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Karabük University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e6644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Karadeniz Teknik Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "ddbc5d6c-731d-e811-80fe-000d3af41938",
+		"OrganizationName": "Karamanoğlu Mehmetbey University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a792bebb-a14e-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Kastamonu Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c0567fb0-4703-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kilis 7 Aralık University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d2b630b0-10f7-e711-80fc-000d3af41938",
+		"OrganizationName": "Kırıkkale Meslek Yüksekokulu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "eb644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "KIRIKKALE UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "6c30444b-0cc5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "KIRKLARELİ ÜNİVERSİTESİ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e095f5c8-c50b-ea11-8124-000d3af41938",
+		"OrganizationName": "Kirklareli University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a11ac65b-9703-e011-bed1-0030487d8897",
+		"OrganizationName": "Koc University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3f09d023-9970-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Koç University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c6cbcd01-db8e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Kocaeli University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a75ce80c-9b32-e211-aed3-f04da23e67f6",
+		"OrganizationName": "KTO Karatay University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3e5cbb08-ae02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kutahya Dumlupınar Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c1bfea52-c6d4-e811-810b-000d3af41938",
+		"OrganizationName": "Lokman Hekim University (Lokman Hekim Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "f3f324ba-0f9a-e711-80f6-000d3af41938",
+		"OrganizationName": "Lycée Français Saint Benoît Istanbul",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a0c3ac5f-040b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Maltepe Anadolu Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "567b0cfd-3146-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Maltepe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e0029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Manisa Celal Bayar Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a3624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Marmara University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b742f92e-0334-e711-80ef-000d3af41938",
+		"OrganizationName": "MEF University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4f260903-bb26-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Mehmet Akif Ersoy University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "33db45a6-9ba0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Meliksah University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7b4f153f-cff3-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Mersin Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "05ffd373-ebf2-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Mevlana University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "df887f92-58f6-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Microsoft Turkey Summer School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d0634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Middle East Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4b178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Middle East Technical University Northern Cyprus Campus - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4d1a66ab-6aee-e811-810c-000d3af41938",
+		"OrganizationName": "Milli Savunma Universitesi - Bilgi İşlem Daire Başkanlığı",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c2404838-37ef-e811-810c-000d3af41938",
+		"OrganizationName": "Milli Savunma Universitesi - Computer Engineering - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3e26b8f1-6c0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Mimar Sinan Güzel Sanatlar Üniversitesi (Mimar Sinan Fine Arts University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "62c486fb-74e6-e711-80fa-000d3af41938",
+		"OrganizationName": "Mugla Sitki Kocman Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "a4a71386-6dda-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Muğla Sıtkı Koçman Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "0ff6a2d0-7f1f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Mugla University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9b8ceb10-d33b-e711-80ef-000d3af41938",
+		"OrganizationName": "Munzur University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "11134141-6d5d-e911-8115-000d3af41938",
+		"OrganizationName": "Muş Alparslan Üniversitesi (Mus Alparslan University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2317aec9-e0cd-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Mustafa Kemal Anadolu Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "06d434dc-709d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Namik Kemal Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "12404b46-ed44-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Namik Kemal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "93378ed2-3b27-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Necmettin Erbakan Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "03a68492-6ec6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Nigde University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e5bd214f-4249-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Okan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "6fef8877-4982-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Ondokuz Mayis Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "61b01fac-f46b-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Orta Dogu Teknik Universitesi - Ankara - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "f8644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Osmangazi University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "f7ff92ee-e6c7-e811-810a-000d3af41938",
+		"OrganizationName": "Osmaniye Korkut Ata Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "540708b6-2f1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "OZEL ISTANBUL FATIH ANADOLU LISESI. OZEL ISTANBUL FATIH ILKOGRETIM OKULU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4e0708b6-2f1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ozel Saint-Michel Fransiz Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "600708b6-2f1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "OZEL YILDIZ EGITIM KURUMLARI E.NAFIA KUZUCU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4e178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Özel Yüzyıl Işıl Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4d9bb073-56c1-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Özyeğin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e7ad43a8-a2a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Pamukkale Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "5a0708b6-2f1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Pdi-Er Uluslararasi Egitim Hiz.Tic.A.S",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "c9c0495a-00be-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Piri Reis University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "84c24e15-b0d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Recep Tayyip Erdoğan Üniversitesi - Rize - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e8e05ddf-04fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Robert College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7165965d-8118-de11-9c12-0030485a8df0",
+		"OrganizationName": "Sabanci University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e6cd689c-5003-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Saglik Bilimleri Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7baeab3a-fcf9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Saglik Bilimleri Üniversitesi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "826ea0fd-775f-df11-b841-0030487d8897",
+		"OrganizationName": "Sakarya University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "2d13cf7a-1f4c-ea11-8127-000d3af41938",
+		"OrganizationName": "Sehit Cengiz Polat IHO High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "e629a676-a8ce-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Selahaddin  Eyyubi Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "dde21a17-e4c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Selcuk University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8dddb7ba-214a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Sinop Üniversitesi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4dcf0ac9-1a94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Suleyman Demirel Universitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "eb828c84-1c4a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Suleyman Shah University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "72e1742e-63be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "T.C. ISTANBUL AREL UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "46cb0e65-e5a2-e211-88b7-f04da23e67f4",
+		"OrganizationName": "TC Istanbul Kültür University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3473d12f-888c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Ted Antalya Koleji - Antalya - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "43e3934f-017e-e711-80f3-000d3af41938",
+		"OrganizationName": "TED Rönesans Koleji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "4a9c597e-264a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "TED University (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "52178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tirebolu Mehmet Bayrak Vocational School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "12936226-bc54-e011-bd14-0030487d8897",
+		"OrganizationName": "TOBB Economy and Technology University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "fb0da845-6616-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Tokat Ticaret Meslek Lisesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "bfdd67c1-2a00-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Toros University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b44950f9-7eca-df11-859b-0030487d8897",
+		"OrganizationName": "Trakya Universitesi (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "574b4115-855a-e711-80f0-000d3af41938",
+		"OrganizationName": "Türk-Alman Üniversitesi - Türkisch-Deutsche Universität",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "3edb6bf0-e79c-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "TURKIYE DIYANET VAKFi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "1fee2df9-f1c6-e211-be21-f04da23e67f4",
+		"OrganizationName": "ufuk üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "77634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Uludag University - Bursa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "55178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Uluslararasi Kibris Universite",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "90a2196e-6350-de11-b696-0030485a8df0",
+		"OrganizationName": "University of Cukurova Design & Manuf. Division (Turkey)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "58178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Turkish Aeronautical Association",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8ed8f452-3aee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "University of Yüzüncü Yıl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "d0c85ee4-4fee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "UŞAK  UNIVERSITY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "883bf831-b1e9-e811-810c-000d3af41938",
+		"OrganizationName": "Uşak Üniversitesi (Usak University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "7898b001-4dc4-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "ÜSKÜDAR ÜNİVERSİTESİ (T.C.Uskudar University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "cb4a3faf-d5e9-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Yakın Doğu Üniversitesi (NEAR EAST UNIVERSITY)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8d31f69b-fb28-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Yalova Üniversitesi Merkez Yerleşkesi (Yalova University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "9d5b6277-1601-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Yamanlar Egitim Kurumlari - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "901b4bfd-abfe-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Yasar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b3817aed-da90-df11-ad8b-0030487d8897",
+		"OrganizationName": "Yeditepe University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "bc8712c4-8979-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "YENI NESIL 2000",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "8048d408-1150-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Yıldırım Beyazıt Üniversitesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "b0b0bc7c-7bc3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Yıldız Teknik Üniversitesi (Yildiz Technical University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "37349099-054f-e911-8113-000d3af41938",
+		"OrganizationName": "Yozgat Bozok University (Bozok Üniversitesi)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "TUR",
+		"InstitutionID": "671063d5-2a75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Zirve University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

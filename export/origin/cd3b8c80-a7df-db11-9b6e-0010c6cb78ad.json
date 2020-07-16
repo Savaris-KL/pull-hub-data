@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "952ccd21-b5d2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Wallace State Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a42ccd21-b5d2-e611-9425-b8ca3a5db7a1",
+		"WebStoreName": "Wallace State Community College - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a42ccd21-b5d2-e611-9425-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "04aba3bf-49e3-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Wallace State Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "11aba3bf-49e3-e611-9425-b8ca3a5db7a1",
+		"WebStoreName": "Wallace State Community College, Hanceville - CIS",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=11aba3bf-49e3-e611-9425-b8ca3a5db7a1"
+	}
+]

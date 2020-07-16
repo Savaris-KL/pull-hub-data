@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "5d96e833-736b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior Dr. Bernardo Houssay - Subdirección Técnica Superior",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "6a96e833-736b-e511-9411-b8ca3a5db7a1",
+		"WebStoreName": "Subdirección Educación Técnica Superior - Informática",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=6a96e833-736b-e511-9411-b8ca3a5db7a1"
+	}
+]

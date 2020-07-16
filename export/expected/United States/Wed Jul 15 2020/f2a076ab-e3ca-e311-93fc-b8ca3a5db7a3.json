@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "f2a076ab-e3ca-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Apollo Group, Inc - HUP",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "fbba8abd-e3ca-e311-93fc-b8ca3a5db7a3",
+		"WebStoreName": "Apollo Group, Inc - HUP",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=fbba8abd-e3ca-e311-93fc-b8ca3a5db7a3"
+	}
+]

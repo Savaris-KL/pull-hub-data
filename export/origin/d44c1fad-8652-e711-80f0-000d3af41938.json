@@ -1,0 +1,62 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d44c1fad-8652-e711-80f0-000d3af41938",
+		"OrganizationName": "Catholic Education Commission of Victoria",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3bf435b9-8652-e711-80f0-000d3af41938",
+		"WebStoreName": "Catholic Education Commission of Victoria",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3bf435b9-8652-e711-80f0-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "35c18193-5602-ea11-8124-000d3af41938",
+		"OrganizationName": "Catholic Education Commission of Victoria",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "994c7e9f-5602-ea11-8124-000d3af41938",
+		"WebStoreName": "Catherine McAuley College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=994c7e9f-5602-ea11-8124-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "fc5a3d55-9534-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Catholic Education Commission of Victoria",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d2502368-9534-e611-941d-b8ca3a5db7a1",
+		"WebStoreName": "De La Salle College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d2502368-9534-e611-941d-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c7cf8a48-61f4-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Catholic Education Commission of Victoria",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "338b1a5b-61f4-e611-9426-b8ca3a5db7a1",
+		"WebStoreName": "St Peter's College, Cranbourne",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=338b1a5b-61f4-e611-9426-b8ca3a5db7a1"
+	}
+]

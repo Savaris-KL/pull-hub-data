@@ -1,0 +1,1138 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db3b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Acaydia School of Aesthetics, L.L.C",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f305638-4d28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Advanced Learning Center - Springville - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13c6bccc-60c6-df11-859b-0030487d8897",
+		"OrganizationName": "Alpine School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bee3c7a-337d-e711-80f3-000d3af41938",
+		"OrganizationName": "American Fork High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfd73522-0503-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "American Heritage",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Leadership Academy",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Provo",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f793f894-92b7-df11-859b-0030487d8897",
+		"OrganizationName": "Bingham High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aafdb854-7e08-e011-bed1-0030487d8897",
+		"OrganizationName": "Bountiful High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1347cd09-4900-e811-80fc-000d3af41938",
+		"OrganizationName": "Box Elder School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bridgerland Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brigham Young University - Provo",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44143944-107d-de11-b7f9-0030487d8896",
+		"OrganizationName": "Brigham Young University - Provo Campus",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48ae9866-a51a-e011-b71d-0030487d8897",
+		"OrganizationName": "Broadview University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa82cadd-00ab-4d98-b825-53965ecdf2cf",
+		"OrganizationName": "Cache County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "555e4c11-888e-df11-ad8b-0030487d8897",
+		"OrganizationName": "Canyons School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69cd1424-a5bf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Career Step",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Career Technical Education Center",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24456c2f-374c-e511-9417-b8ca3a5db7b1",
+		"OrganizationName": "Center for Excellence in Higher Education (College America)",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Eastern Utah",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f129bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Color My Nails School of Nail Technology",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90cf58aa-89d8-df11-bd73-0030487d8897",
+		"OrganizationName": "Davinci Academy of Science and the Arts",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b4186b3-5eb8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Davis Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa1bfffe-3c3c-df11-b4ab-0030487d8897",
+		"OrganizationName": "Davis County Schools",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c31e83f-cf90-de11-8cd1-0030487d8897",
+		"OrganizationName": "Davis School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a12268b7-c0a0-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Desert Hills High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8325ab62-412f-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Discovery Academy",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5f6a0b9-0096-e111-981b-f04da23e67f6",
+		"OrganizationName": "Dixie Applied Technical College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a45be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dixie State College of Utah",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6737a6d-6428-df11-856f-0030487d8897",
+		"OrganizationName": "Dixie State University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0b85212-af16-ea11-8125-000d3af41938",
+		"OrganizationName": "Dixie Technical College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Dual Immersion Academy",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b75be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eagle Gate College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45a2bcf3-fdf8-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "East High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35b37b06-47dc-44ad-ac3a-bb54706680f6",
+		"OrganizationName": "Everest College - UT",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92a0403a-2309-e011-bed1-0030487d8897",
+		"OrganizationName": "Grand County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59a8e42b-1189-df11-ad8b-0030487d8897",
+		"OrganizationName": "Granite School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88f0d072-daa5-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Granite Technical Institute",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a60a36f-327d-e711-80f3-000d3af41938",
+		"OrganizationName": "Great Basin High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cee51518-09df-e911-8120-000d3af41938",
+		"OrganizationName": "Hackensack Meridian Health - Hackensack University Medical Center",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f80214e3-b798-df11-ad8b-0030487d8897",
+		"OrganizationName": "Hawthorn University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20ef960d-ebd9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Herriman High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e93416a-2a8a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Hunter High School - West Valley City - Campus Store",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a42e8d33-bf75-ea11-8129-000d3af41938",
+		"OrganizationName": "Instructure, Inc.",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3617a258-ef44-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Iron County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30f8abc0-b221-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Itineris Early College High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11b6fda6-1689-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Jordan Applied Technology Center - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "326626d7-746a-df11-b841-0030487d8897",
+		"OrganizationName": "Jordan School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ca5cdae-3686-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Juan Diego Catholic High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6b2b45a-00fe-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Judge Memorial Catholic High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f83f6ede-c671-e011-971f-0030487d8897",
+		"OrganizationName": "LDS Business College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36dd571b-27f9-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lone Peak High School - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bf09539-2623-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Malad High School - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Midwives College of Utah",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cdd0af60-7a57-e811-8105-000d3af41938",
+		"OrganizationName": "Morgan School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mountainland Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e62a6a1d-e009-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Murray School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1bc76784-a922-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Nebo School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c21b891-fecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Neumont University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d05ebce1-c1c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Nightingale College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a439b18-2de1-df11-bd73-0030487d8897",
+		"OrganizationName": "Northeastern Utah Educational Services",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76742236-781f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Ogden Preparatory Academy",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0d26913-8ea0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Ogden School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd3349ad-b6ea-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Ogden-Weber Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b6d2b00-cd0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Park City High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "010c6d7c-0f3b-e711-80ef-000d3af41938",
+		"OrganizationName": "Providence Hall",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Provo College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "209be5dc-32d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Rich School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c85b73cc-4655-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Richfield High School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Rocky Mountain University of Health Professions",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e5f3c30-0373-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Roseman University of Health Sciences",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9f39da3-fe72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Rowland Hall",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "466a5b18-9be9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Salt Lake Bible College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9bb647e-e432-e011-b1e1-0030487d8897",
+		"OrganizationName": "Salt Lake City School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d63c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Salt Lake College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbf67efb-94f8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Salt Lake Community College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Salt Lake Tooele Applied Technical College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74085bfd-b9d2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "San Juan School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Snow College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45fcb2b1-5609-e111-a703-f04da23e67f6",
+		"OrganizationName": "South Hills Middle School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Utah University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "449a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southwest Applied Technology College Utah",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5457f98d-f8aa-e811-8109-000d3af41938",
+		"OrganizationName": "The Madeleine Choir School - Campus Store",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Weber School",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d952261e-06f7-e711-80fc-000d3af41938",
+		"OrganizationName": "Thomas Edison Charter School South",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9abd883-cacf-de11-baeb-0030487d8896",
+		"OrganizationName": "Tooele Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "575ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tooele Applied Technoloy College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tooele County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e521cb2-1386-e011-969d-0030487d8897",
+		"OrganizationName": "Tooele School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Uintah Basin Applied Technology College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f8fe3d2-0039-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Uintah High School - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Utah",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17985337-c0c0-df11-859b-0030487d8897",
+		"OrganizationName": "Utah Charter School Purchasing Network",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df99991b-1f58-e111-8056-f04da23e67f6",
+		"OrganizationName": "Utah County Academy of Sciences",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6484b1d4-d4e4-e211-9d05-f04da23e67f4",
+		"OrganizationName": "UTAH K-12 Consortium",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29e5f7ef-589d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Utah State Board of Education, InfoTech - Store",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63822184-838e-df11-ad8b-0030487d8897",
+		"OrganizationName": "Utah State Office of Education",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "160120d1-7132-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Utah State Office of Education - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b63b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Utah State University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b73b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Utah Valley State College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc64f8ca-6049-df11-b56b-0030487d8897",
+		"OrganizationName": "Utah Valley University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f6a242d-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Utah Valley University - Orem Campus",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4c67327-9bc5-df11-859b-0030487d8897",
+		"OrganizationName": "Wasatch academy",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62aa9bc1-6064-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Wasatch County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8389df1-e7e7-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Washington County School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6360a4fe-5ffe-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Wayne  School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a5b90e1-3f12-de11-9c12-0030485a8df0",
+		"OrganizationName": "Weber School District",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Weber State University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72a21f71-8d27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "West High School - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Governors University",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73eaf6a9-febe-e211-be21-f04da23e67f4",
+		"OrganizationName": "Western Governors University - Microsoft Imagine Standard",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4cd2f90-e247-e811-8103-000d3af41938",
+		"OrganizationName": "Westminster College - Salt Lake City - Campus Store",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f93b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westminster College of Salt Lake City",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	}
+]

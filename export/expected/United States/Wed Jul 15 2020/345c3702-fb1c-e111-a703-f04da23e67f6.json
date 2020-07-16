@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "345c3702-fb1c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Lauriston Girls School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://lauriston.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "f6777b20-fb1c-e111-a703-f04da23e67f6",
+		"WebStoreName": "Lauriston Girls School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f6777b20-fb1c-e111-a703-f04da23e67f6"
+	}
+]

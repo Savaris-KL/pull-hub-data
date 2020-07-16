@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "fc428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rio Salado College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://riosalado.onthehub.com/",
+		"ProductMajorVersions": null,
+		"WebStoreID": "02cce61b-16e6-dc11-8873-0030485a6b08",
+		"WebStoreName": "Rio Salado College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=02cce61b-16e6-dc11-8873-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "e73ba221-5082-e011-969d-0030487d8897",
+		"OrganizationName": "Rio Salado College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f33ba221-5082-e011-969d-0030487d8897",
+		"WebStoreName": "Rio Salado College - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f33ba221-5082-e011-969d-0030487d8897"
+	}
+]

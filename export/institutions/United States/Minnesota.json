@@ -1,0 +1,6010 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e6dc67c-a781-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "​Minnetonka Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c00c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4972689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "ACGC Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Achieve Services, Inc.",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5572689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ada-Borup Public School #2854",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f10c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Adler Graduate School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Aitkin Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Albany Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Albert Lea Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Alden-Conger Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93d87db6-0bd1-491c-ae1d-885f47bb55eb",
+		"OrganizationName": "Alexandria Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "742f27d4-0a19-47c3-bfcb-13b9d41cae16",
+		"OrganizationName": "Alexandria Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alfred Adler Institute",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40750f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Indian OIC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7372689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Annandale Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7972689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Anoka Hennepin School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "086933f9-d84b-4a18-90e4-d1d9c95d76fb",
+		"OrganizationName": "Anoka Ramsey Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Anoka Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7563515-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Anoka-Ramsey Community College - Coon Rapids - Campus Store",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9184c7c-8ee9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Arcadia Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "ARCC  (Arrowhead Regional Computing Consortium)",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8572689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Area Special Ed. Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84742727-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Arlington High School - Information Technology - High School AA",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ashby Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b90631b1-20f1-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Association Free Lutheran Bible School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Augsburg College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Austin Catholic Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Austin Housing & Redevelopment",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b371689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Austin Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c83d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "BAD_Argosy University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b971689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Badger Public School # 676",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Bagley Public School #162",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Barnesville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d171689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Barnum Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d771689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Battle Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ce54de8-0f51-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Beacon Preparatory School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Becker Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e371689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Belgrade-Brooten-Elrosa PS",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef71689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Belle Plaine Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f571689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Bemidji Public School #31",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bemidji State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6846a03-2b43-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Bemidji State University - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Benson Alternative Learning Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Benson Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Benton Stearns Ed District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a716f87-9b52-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Bethany Global University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ffe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bethany Lutheran College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bethel College and Seminary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c35de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bethel University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1372689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Big Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Blackduck Public School #32",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb5a4513-935f-e011-971f-0030487d8897",
+		"OrganizationName": "Blake School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Blessed Trinity Catholic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2572689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Blooming Prairie Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Bloomington Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Blue Earth Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "BOLD Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "BOLD Public Schools-Bird Island",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4372689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Braham Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2be7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Brandon Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3d11e94-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Brandon-Evansvile Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb7927a2-3da3-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Breck School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "febe7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Breckenridge Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Brewster Elementary Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Brooklyn Center Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cbf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Browerville Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Brown College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Browns Valley Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Buffalo Lake / Hector  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ebf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Buffalo Lake / Hector Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Buffalo/Hanover/Montrose PS",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Burnsville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Butterfield-Odin Public Sschools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88453bb9-073c-47bd-89ca-1d38045216a2",
+		"OrganizationName": "Byron Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06d21e94-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Caledonia ISD 299",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4cbf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Caledonia Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1923f1e-2177-41c3-99e0-16a61dbec112",
+		"OrganizationName": "Cambridge-Isanti Public Schools ISD 911",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Campbell-Tintah Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Canby  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ebf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Canby Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cannon Falls Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73949907-4374-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capella Education Company",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "473d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Capella University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carleton College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2f467a4-df68-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Carleton College - Microsoft Imagine",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6abf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Carlton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Carver Scott Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e1127d8-dacb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Carver Scott Educational Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cass Lake-Bena Public Schools #115",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cathedral School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cedar Mountain Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1423f96-a2fb-4cb8-a5f7-76314bc8129a",
+		"OrganizationName": "Centennial ISD12",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73e358a8-74ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Central Lakes College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ebf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Central Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77b07da9-b64b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Central Seminary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Century College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "166e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Chanhassen High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Chaska High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Chaska Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9abf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Chatfield Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Chisago Lakes Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f0bd386-d834-40d2-9e76-1a376e01cae1",
+		"OrganizationName": "Chisago Lakes School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Chisholm Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acbf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Chokio-Alberta Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "faa8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christian Hills School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c74e43f8-fd9e-e811-8109-000d3af41938",
+		"OrganizationName": "Christ's Household of Faith School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Clarkfield Area Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bebf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Clearbrook-Gonvick Public School #2311",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cleveland Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cabf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Climax - Shelly Public School  #592",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Clinton/Graceville/Beardsley",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cloquet Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of Saint Benedict & Saint John's University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of St. Scholastica",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6c2620a-d63d-e011-b1e1-0030487d8897",
+		"OrganizationName": "College of Visual Arts",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8bf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Columbia Heights Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21e040b7-2504-4ef7-93e0-e9e9a64ff506",
+		"OrganizationName": "Columbia Heights School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eebf7090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Comfrey Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Concordia College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia College-Moorhead",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia College-St. Paul",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Concordia Creative Learning Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "246e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Convent of the Visitation School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1755bd8c-2b7d-e711-80f3-000d3af41938",
+		"OrganizationName": "Cotter Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Courtland Immanuel Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cretin-Derham Hall",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0cc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cromwell/Wright Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Crookston Public School #593",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d82abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Crossroads College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Crown College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ec07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Cyrus MST Elementary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dakota County Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ac07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dassel-Cokato Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dawson-Boyd Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Deer River Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Delano Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e06c9916-07d3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Denfeld High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dept Children Famalies & Learning",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ec07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dept of Children Families & Learning",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "012549f9-e2a2-de11-886d-0030487d8897",
+		"OrganizationName": "Detroit Lakes High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ac07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Detroit Lakes Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dilworth-Glyndon-Felton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Diocesan Pastoral Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Diocese of Crookston",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c75ba7b-9b22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Discovery Woods Montessori School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad819cce-a74b-4d09-ba23-839f5a790255",
+		"OrganizationName": "District 279",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Dover-Eyota Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a4e1fa4-0da9-e711-80f7-000d3af41938",
+		"OrganizationName": "DREAM Technical Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "759efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Duluth Business University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4a82885-8395-47a0-9d4f-b1c370adb45a",
+		"OrganizationName": "Duluth Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dunwoody College of Technology",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Central Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Central Regional Library",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Grand Forks Public School #595",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aec07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Metro Integration District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c55be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "East Metro OIC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "East Range Academy of Science & Technology",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c37958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Eastern Carver County School District (112)",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f391a3e-dfbc-de11-886d-0030487d8897",
+		"OrganizationName": "Eastern Carver County Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bac07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Echo Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "ECI' Nompa Woonspe",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Eden Prairie Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Eden Prairie School Boar",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5706fad5-7ee9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Eden Prairie Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ccc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Eden Valley-Watkins Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Edgerton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b76c3a6-5f4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Edina Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Edison Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Elk River Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1c07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ellsworth Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fdc07090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Elmore Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ely Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Esko Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Evansville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1bc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Eveleth-Gilbert Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0eb70217-11c5-42b4-8c28-f3e6394fe6b5",
+		"OrganizationName": "Everest Institute - MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4f3943a-1d76-e711-80f1-000d3af41938",
+		"OrganizationName": "Excell Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fairfax Prairie Lutheran Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fairmont ALC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fairmont Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fairmont St John Vianney School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fairmont St Pauls Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Faithful Shepherd School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Faribault Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7acbd3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Farmington Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4bc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Farmington Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fergus Falls Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fertile-Beltrami Public School #599",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fillmore Central Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fisher Public School #600",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Floodwood School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7bc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Foley Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fond du Lac Tribal and Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "FonDuLac School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Forest Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8dc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fosston Public School #601",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Frazee-Vergas Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fridley Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Fulda Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Gaylord Immanuel Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "GFW Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "GHEC East Chain Elementary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "GHEC Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Gibbon St Peters Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Glencoe Silver Lake Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Glencoe-Silver Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Glenville-Emmons Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Global Language Institute at College of St. Scholastica",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b09522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Globe University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Good Thunder St Johns Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Goodhue C. Ed Dist",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Goodhue Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Goodhue Tech Prep Consortium",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9c17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Goodridge Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ffc17090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Grand Meadow Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05c27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Grand Rapids Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0922fcb8-922f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Great River School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11c27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Greenbush-Middle River Public Schools #2683",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17c27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Greenway Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34c27090-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Grygla/Gatzke Public School #447",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gustavus Adolphus College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hamline University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef046996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hancock Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7fe17cb7-0d0d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Hand In Hand Christian Montessori",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5046996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hanska Community School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb046996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Harbor City International School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a35dae4c-fd0f-de11-9c12-0030485a8df0",
+		"OrganizationName": "Harvard University Extension School, Minnesota",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hastings High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hastings Public Schools - ISD 200",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hawley Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hayfield Community Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e96d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Hayfield High School - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hazelden Graduate School of Addiction Studies",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "379622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hennepin County Medical Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hennepin Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Henning Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Herman-Norcross Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hermantown Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Heron Lake - Okabena / SW Star Concept School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Heron Lake-Okabena / SW Star Concept",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hibbing Catholic Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hibbing Comm & Tech College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33489431-e320-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Hibbing Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hibbing Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Highland Catholic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hill City School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hillcrest Lutheran Academy - Fergus Falls",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983b0355-bd23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Hill-Murray School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hills/Beaver Creek  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hills/Beaver Creek Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hinckley-Finlayson Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "History Theatre",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holdingford Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Family Catholic School-Silver Lake",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Redeemer School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Rosary - Detroit Lakes",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Rosary School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Holy Trinity School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1bd55f6-9804-ea11-8124-000d3af41938",
+		"OrganizationName": "Hopkins High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hopkins Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Houston Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Howard Lake-Waverly-Winsted PS",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Hutchinson Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "165601f7-a96f-4465-8c9d-c9372cc15397",
+		"OrganizationName": "Hutchinson Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Immanuel Lutheran School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34a00fd8-721d-e811-80fe-000d3af41938",
+		"OrganizationName": "Independent School District #318",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ee1f33a-7500-4328-ab7e-2bb655ed6b12",
+		"OrganizationName": "Independent School District 191",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3335e39a-1f56-4721-a3fd-8d8d1f93b0d9",
+		"OrganizationName": "Independent School District 196",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a3b4bbe-3dfe-4ef5-9d76-5c0f2561bba8",
+		"OrganizationName": "Independent School District 535",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute of Production and Recording",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Intermediate District 287",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Intermediate District 917",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "International Falls Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Inver Grove Heights Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Inver Hills Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88532200-0602-e811-80fc-000d3af41938",
+		"OrganizationName": "Iron Range Engineering - Iron Range Engineering - Departmental Store",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "ISD 739",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Isle Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Itasca Community College - Grand Rapids - Campus Store",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Jackson County Central Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe056996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Janesville Trinity Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "John Ireland School - St Peter",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Jordan Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "JWP Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kasson-Mantorville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kelliher Public School #36",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kenyon-Wanamingo Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kimball Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kingsland Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Kittson Central Public School #2171",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "K-M-S Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f9a0140-9e46-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "La Crescent High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lac qui Parle Valley Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LaCrescent Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lafayette Public Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Benton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake City Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Crystal Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6d8a504-62ed-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Lake Crystal Wellcome Memorial",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake of Woods Public School  #390",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Park/Audubon Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4bbad9b-39b3-41bd-99a3-8170a46cd0ab",
+		"OrganizationName": "Lake Park-Audubon Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lake Superior College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Superior Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lakes Area Charter School - Osakis",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lakeview Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lakeville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lancaster Public School #356",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lanesboro Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Laporte Public School #306",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7dd5273-9907-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Laura Jeffrey Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LCWM Area Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lecenter Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LecenterPublic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Leech Lake Tribal College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LeRoy-Ostrander Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lester Prairie Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lesuer Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LeSuer St Annes School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "LeSueur-Henderson Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lewiston Altura Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb066996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lincoln Hi  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lincoln HI Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "719850a1-1c04-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lionsgate Academy - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Little Crow Special Ed Service Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53f1d519-7995-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Little Falls Community Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Littlefork School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Littlefork-Big Falls School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f03cc70-ed9d-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Lourdes High School - Campus Store",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Luther Seminary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8306100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lutheran Brethren Seminary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Luverne Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Lyle Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mabel-Canton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Macalester College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MACCRAY  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MACCRAY Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Madelia Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "49076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Madelia St Mary's School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Madison Lake All Saints School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mahnomen Public School #432",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mahtomedi Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Management Information Systems Club Minnesota State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Area Catholic Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Dakota Meadows Middle School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Dist. 77 Special Education",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Eagle Lake Elementary School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Holy Rosary School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato Mount Olive Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato SS Peter Paul School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato St Joseph-St John School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mankato State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato-Immanuel Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MankatoPublic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mankato-St Marks Evang Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Maple Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Maple River Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Maple River West Middle School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "459cd7e7-443b-4288-a646-d371ac9e1bc6",
+		"OrganizationName": "Maranatha Christian Academy Living Word Christian Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Marquette School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Marshall Co. Central Public School #441",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Marshall Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Marshall School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Martin Luther College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1728f43c-a909-de11-9c12-0030485a8df0",
+		"OrganizationName": "Mayer Lutheran High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "435e4d8a-5004-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Mayer Lutheran High School - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "McGregor Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mcleod West Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "McLeod West Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "753b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "McNally Smith College of Music",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MCW Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc076996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Medford Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Meeker & Wright Special Ed Coop",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Melrose Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Menahga Public School #821",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mesabi Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mesabi East Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mesabi Range Comm & Tech Colleges",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mesabi Range Community and Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Metro Deaf School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "999722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Metro State",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5861c40f-0a72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Metropolitan State University, Metropolitan Campus",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Metropolitan State University, Minnesota",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Milroy Charter School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d69722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Minneapolis Business College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Minneapolis College of Art & Design",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a127cbcc-f9dc-e211-9000-f04da23fc520",
+		"OrganizationName": "Minneapolis College of Art and Design",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "074fd5c3-c56c-44f3-a8d4-ba74d4dd7481",
+		"OrganizationName": "Minneapolis Community and Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbd38b3f-a683-45d4-8c7b-9c9dc3393fc2",
+		"OrganizationName": "Minneapolis Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Minneota Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb1e8e57-0744-df11-b56b-0030487d8897",
+		"OrganizationName": "Minnesota Association of Charter Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Minnesota Bible College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e34875b-e425-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Minnesota Internship Center Charter High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5337179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Minnesota Math & Science Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Minnesota North Star Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6dc7272-eebc-de11-886d-0030487d8897",
+		"OrganizationName": "Minnesota School of Business",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efdd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Minnesota State",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29791708-7a98-4730-96a7-8bef87f199a6",
+		"OrganizationName": "Minnesota State College SE Technical",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95bb7924-18f2-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Minnesota State Colleges and Universities",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a784b6c3-f1aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Minnesota State Colleges and Universities System",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Minnesota State Community and Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "574e49f7-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Minnesota State Community and Technical College - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d23c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Minnesota State University - Moorhead Campus",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Minnesota State University Mankato",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e42d8905-3518-e011-b71d-0030487d8897",
+		"OrganizationName": "Minnesota Valley Lutheran High School (New Ulm, MN) - High School AA",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ab6f761-c07a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Minnesota West Community & Technical College - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0f998f5-5a64-e011-971f-0030487d8897",
+		"OrganizationName": "Minnesota West Community and Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Minnetonka Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Minnewaska # 2149",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "396e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Minnewaska Area School District 2149",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MN Council # 65 AFSCME",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MN New Country School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MN State University - Mankato",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MN State University - Moorhead",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MN Valley Education District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Montevideo Area Special Ed Service Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Montevideo Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Montgomery - Lonsdale Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Monticello Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Moorhead Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Moorhead State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Moose Lake Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mora Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Morning Son Christian School - Fergus Falls",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89b9b6b0-ead3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Morris Area School District 769",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Morris Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b37179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Mounds Park Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef2b67fb-6d55-4396-b386-2965269f2c9c",
+		"OrganizationName": "Mounds View Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad37179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Mount Olive Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mountain Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MSCTC- Detroit Lakes",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MSCTC- Fergus Falls",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MSCTC- Moorhead",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MSCTC- Perham",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "MSCTC- Wadena",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Mt Iron-Buhl Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Murray County Central Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Nashwauk-Keewatin School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "NE Intermediate District 916",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Nett Lake Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3d3e020-326c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Network Training Institute - Saint Paul - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3086996-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Nevis Public School #308",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New London / Spicer Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0eef032-9e2c-4391-9e8b-0be60ee80829",
+		"OrganizationName": "New London-Spicer Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a372689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Prague Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a972689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Testament Christian School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Ulm Area Catholic Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b572689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Ulm Holy Trinity Middle School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Ulm Publuc Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Ulm St Pauls Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New Ulm-MN Valley Lutheran High School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "New York Mills Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d372689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Nicollet Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d972689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Nicollet Trinity Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7838179a-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Norman County East ISD #2215",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Norman County East Public School #2215",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e572689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Norman County West Public School #2527",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Normandale Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0219f1a-9dd2-4803-b1f6-b43da1c3acf0",
+		"OrganizationName": "North Branch Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "North Branch Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Central Bible College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b83c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Central University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1095bd76-21cd-e111-971c-f04da23e67f6",
+		"OrganizationName": "North Dakota Department of Career & Technical Education",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df3e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Hennepin Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f172689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "North Shore Community School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f772689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "North St Paul - Maplewood - Oakdale Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd72689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Northeast Alliance for Telecommunications",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6830a6ed-ca87-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Northeast Metro 916 Career and Technical",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4c0e026-b187-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Northeast Metro 916 Career and Technical - White Bear Lake - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1bb8b53-945c-e911-8115-000d3af41938",
+		"OrganizationName": "Northeast Metro Intermediate School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c9aed40-6075-df11-bc53-0030487d8897",
+		"OrganizationName": "Northeast Service Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Northfield Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fc56a1c-7d8b-df11-ad8b-0030487d8897",
+		"OrganizationName": "Northland Community and Technical College - Thief River Falls Campus",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Northland Learning Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "943f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwest Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwestern College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "796ab053-5750-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Northwestern Health Sciences University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1573689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Norwood St Johns Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "NRHEG Ellendale Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2173689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "NRHEG Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02e303cd-9760-e011-971f-0030487d8897",
+		"OrganizationName": "Ogilvie High School (Ogilvie, MN) - High School AA",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ogilvie Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Oklee Public School #627",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Orono Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4573689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ortonville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Osakis Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5173689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Osseo Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5773689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Our Lady of Victory - Fergus Falls",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Owatonna Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Park Christian School - Moorhead",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "406e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Park Rapids Area School District 309",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Park Rapids Public School #309",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Parkers Prairie Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "279b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Parkers Prairie Public Schools - ISD 547",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7573689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Paynesville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pelican Rapids Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8173689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Perham-Dent # 549",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pillsbury Baptist Bible College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8773689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pine City Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pine Island Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pine Point Public School #25",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b376f1c1-748f-e811-8108-000d3af41938",
+		"OrganizationName": "Pine Point School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c898c284-a7a7-de11-886d-0030487d8897",
+		"OrganizationName": "Pine Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pipestone Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pipestone Area Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pipestone Area Special Ed Service Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b173689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Plainview-Elgin-Millville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Pope John Paul II School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Princeton School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d573689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Prior Lake-Savage Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Proctor Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e173689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Queen of Peace School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e773689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Randolph Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a55fcc62-f770-e011-971f-0030487d8897",
+		"OrganizationName": "Rasmussen College - WAH",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f373689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Lake County Central School #628",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f973689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Lake Falls Public School #630",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff73689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Lake Public School #38",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0574689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Rock Central  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Rock Ridge School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1174689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Rock Ridge Special Ed Service Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1774689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Red Wing Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2374689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Renville County West Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05357400-74da-4180-8b31-f9d1a7242757",
+		"OrganizationName": "Richfield Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c3d189f1-d093-4f8e-8f76-a75c5cad920e",
+		"OrganizationName": "Ridgewater College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2974689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Riverbend Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Riverbend Education District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "303f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Riverland Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "915e2f2b-f332-44bc-a257-66ee12c83138",
+		"OrganizationName": "Robbinsdale Area Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3574689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Robinsdale Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2276822-5abb-44f0-8db2-255793f6457f",
+		"OrganizationName": "Rochester Catholic Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rochester Community and Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "476e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rochester Public Schools - Indepenedent School District #535",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3daff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rochester Public Schools - ISD 535",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4174689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rockford Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4774689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rocori Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Roseau Public School #682",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5374689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rosemount-Apple Valley-Eagan Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bb4d900-acbc-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Roseville Area High School - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5974689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Roseville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6574689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rothsay Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Round Lake/Brewster Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7174689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "R-T-R  Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7774689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "R-T-R Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rum River Special Ed Coop",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8374689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rush City Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8974689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Rushford-Peterson Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "S. Kooch./Rainy River Public School #363",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sacred Heart School - Waseca",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9574689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sacred Heart School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "453a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Mary's University of Minnesota",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "483a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Olaf College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f508802-b6bd-4a3d-9e56-9d54c0b5b436",
+		"OrganizationName": "Saint Paul College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6abe0c6-db59-e811-8105-000d3af41938",
+		"OrganizationName": "Saint Paul Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cee81fcf-9ddb-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Saint Peter School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a174689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Samuel Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a774689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sartell/St Stephens Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sauk Centre Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b374689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sauk Rapids-Rice Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b974689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Schoolcraft Learning Community #4058",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "399d19d0-3efe-4e41-99ff-59af10e8347f",
+		"OrganizationName": "Shakopee Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sherburne/Wright Co Sp Ed Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c574689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sibley East Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d774689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Skills for Tomorrow School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sleepy Eye Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e374689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sleepy Eye St Mary's  School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea74689c-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Sleepy Eye St. John's Evang Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acecef6b-729e-e011-969d-0030487d8897",
+		"OrganizationName": "South Central College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "283aeb6f-c7f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "South Central College - Microsoft Imagine Standard",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "041425a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "South Central Service Coop",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4406aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "South Central Service Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa406aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "South Central Technical College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f272f9d4-c950-4502-8de6-8406eb34d4a8",
+		"OrganizationName": "South Washington County Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Southern Plains Ed Coop",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Southern Valley Ed Cooperative",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Southland Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "257e4a58-2262-403f-ace3-a40e1b2046c0",
+		"OrganizationName": "Southland Public Schools ISD 500",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "843a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southwest State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "583fab02-d216-e111-a703-f04da23e67f6",
+		"OrganizationName": "Spectrum High school (Elk River, MN) - High School AA",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Spring Grove Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Spring Lake Park Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58f4007d-aa8e-e811-8108-000d3af41938",
+		"OrganizationName": "Spring Lake Park Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Springfield Public Schools in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Casimir's School- Wells",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Clair Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Cloud Christian School-Elem.",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Cloud Christian School-Middle",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Cloud Diocesan Offices",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Croix River Education District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Francis Xavier-Buffalo",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St James Lutheran School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St James Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Johns Lutheran School - St James",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Johns Lutheran School - Vernon Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Michael-Albertville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Paul Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Pauls Evang Lutheran School- St James",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Pauls Lutheran School - Truman",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St Peter Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Anthony-New Brighton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Bernard's School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Catherine University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Charles Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Cloud Area School District 742",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ab272f2-b859-de11-9e9c-0030485a8df0",
+		"OrganizationName": "St. Cloud School District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Cloud State University - KVC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce396853-41bf-df11-859b-0030487d8897",
+		"OrganizationName": "St. Cloud Technical and Community College - Saint Cloud Campus",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Edward School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Francis of the Lakes Catholic",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Francis Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Henry's - Perham",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. James School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. John's School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Joseph's Church",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Joseph's Moorhead",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Joseph's School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Louis County Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Louis Park Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd096c3f-840d-de11-9c12-0030485a8df0",
+		"OrganizationName": "St. Mary’s Mission School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's - Breckenridge",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's - Morris",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc416aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's - Owatonna",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's Catholic School- Alexandria",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's Mission",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Mary's School in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Michael's Lakeside School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Michael's School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bbfa98b-0361-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "St. Paul Academy and Summit School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Paul Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Paul's Lutheran School - Perham",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "413a5ea3-28a0-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "St. Peter Catholic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Philips School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Rose School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Stephen Catholic School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Thomas Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "St. Thomas Aquinas School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d250fe22-d52d-de11-a497-0030485a8df0",
+		"OrganizationName": "State of Minnesota, Department of Administration",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stearns History Museum",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e81325a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Stephen/Argyle Central Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stephen/Argyle Public School #2856",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "50426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stewartville Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Stride Academy ISD 4142",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b11689da-da02-e811-80fc-000d3af41938",
+		"OrganizationName": "Swenson College of Science and Engineering - Information Technology - Departmental Store",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "The Phoenix Residence, Inc.",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Thief River Falls Public School #564",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cfdab4e5-7e33-4381-b8b3-ce0d82353049",
+		"OrganizationName": "TIES K-12 Minnesota",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Tracy Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Trek North Public School #4601",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Tri-County Public Schools #2358",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Trinity Lutheran School - Fergus Falls",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Triton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Truman Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Ulen-Hitterdal Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Underwood Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70c0e42e-4f99-e711-80f6-000d3af41938",
+		"OrganizationName": "United Theological Seminary of the Twin Cities",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Minnesota - Carlson School of Management",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "493b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Minnesota - Duluth",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3111837b-2893-4e1f-9340-4c8570fbe8c6",
+		"OrganizationName": "University of Minnesota - Minneapolis Campus - KVC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8b542e6-e6b6-e811-810a-000d3af41938",
+		"OrganizationName": "University of Minnesota - Minneapolis Campus (Departments) - KVC",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcfe665b-6c5a-e211-b607-f04da23e67f6",
+		"OrganizationName": "University of Minnesota (import)",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0bc11b3-950e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "University of Minnesota Duluth",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f95ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Minnesota Minneapolis",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "483b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Minnesota, Crookston",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35f602c7-7924-de11-a497-0030485a8df0",
+		"OrganizationName": "University of Minnesota, Minneapolis - VMAP Campus",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Minnesota, Morris",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Minnesota, Twin Cities",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d554521a-bb94-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "University of Northwestern – St. Paul",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "University of St Thomas in MN",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2fd7628-b800-44dc-ae15-2e5271ce0769",
+		"OrganizationName": "University of St. Thomas",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e09631e4-e8cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University of St. Thomas (Minnesota)",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acb728ff-dd81-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Upsala Area Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "USC Middle School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "USC Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Vermilion Community College",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Virginia Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Virginia Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "938e286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Visitation School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Voyageurs Expeditionary",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wabasha-Kellogg Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wabasso Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "WALA - Worthington Area Language Academy",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Walden University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8426aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Walker-Hackensack-Akeley Public School #113",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Walnut Grove Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Warren/Alvarado/Oslo Public Schools #2176",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Warroad Public School #690",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Waseca Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Watertown-Mayer Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Waubun/Ogema/White Earth Public School #435",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1c1f184-d06c-4958-aa3a-41f0ecdd5dbd",
+		"OrganizationName": "Wayzata Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "WEM Morristown",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "WEM PublicSchools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "West Central Area # 2342",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "West Central Education District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "West Metro Education Program",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "West St. Paul - Mendota Heights - Eagan Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Westbrook Walnut Grove Public Schools #2898",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Westonka Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wheaton Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82436aa2-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "White Bear Lake Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "073c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "William Mitchell College of Law",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d78662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Willmar Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd8662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Willmar Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e98662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Willow River Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef8662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Willow River Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Willow River Schools ISD #577",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb8662a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Windom Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "018762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Win-E-Mac Public School #2609",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "401425a0-e207-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Win-E-Mac School #2609",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4854e1d-d429-de11-a497-0030485a8df0",
+		"OrganizationName": "Winona Area Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "078762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Winona Diocese",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d8762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Winona Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Winona State University",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "198762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Worthington Adult Learning Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7166ef3d-b41c-49c3-9bbc-4ffd495fda21",
+		"OrganizationName": "Worthington Independent School District 518",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f8762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Worthington Public School",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "258762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wrenshall Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b8762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Wright Technical Center",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "318762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Yellow Medicine East Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "378762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Zumbro Ed District",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d8762a8-8379-df11-bc53-0030487d8897",
+		"OrganizationName": "Zumbrota-Mazeppa Public Schools",
+		"ProvinceCode": "MN",
+		"SubsectorCode": "education_k_12"
+	}
+]

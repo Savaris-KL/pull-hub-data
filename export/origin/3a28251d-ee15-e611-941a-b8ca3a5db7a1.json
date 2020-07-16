@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "b0a868b6-ce13-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Río Cuarto",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "bea868b6-ce13-e611-941a-b8ca3a5db7a1",
+		"WebStoreName": "Universidad Nacional de Río Cuarto - Departamento de Computación",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=bea868b6-ce13-e611-941a-b8ca3a5db7a1"
+	}
+]

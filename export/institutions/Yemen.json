@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "YEM",
+		"InstitutionID": "0e198f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Balfakih Computers Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "YEM",
+		"InstitutionID": "e35c90f2-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Balfakih Computers Institute - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "YEM",
+		"InstitutionID": "d61acfb8-7cc5-e811-810a-000d3af41938",
+		"OrganizationName": "University of Aden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "YEM",
+		"InstitutionID": "435569ad-2856-e911-8113-000d3af41938",
+		"OrganizationName": "University of Science and Technology (Yemen)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

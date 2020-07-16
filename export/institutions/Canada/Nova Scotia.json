@@ -1,0 +1,234 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "da418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Academy of Learning College - Nova Scotia",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "80368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Acadia University",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bf036810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Atlantic School of Theology",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "445f0645-276a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Bridgeway Academy",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "97368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Canadian Coast Guard College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cape Breton University - Sydney - Campus Store",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "78368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dalhousie University",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "27301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Eastern College (Halifax)",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "67046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Gaelic College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9d052d79-193c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Halifax Regional School Board",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "King's - Edgehill School",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7a046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Kingston Bible College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "96046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Mactech Distance Education",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "81368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Saint Vincent",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c6046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "National HomeED",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b7368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nova Scotia Agricultural College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2a3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nova Scotia College of Art & Design",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2f3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nova Scotia Community College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ff3fcebf-1f2e-df11-b4ab-0030487d8897",
+		"OrganizationName": "Nova Scotia Community College - Institute of Technology Campus",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f5046810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "NSCAD University",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "83368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Mary's University",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0bbbb50c-d00b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "South Shore Regional School District",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "82368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Francis Xavier University",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "36056810-fb66-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Success College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cb368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Technical University of Nova Scotia",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2d3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Université Sainte-Anne",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3d3f5dd8-611f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "University of King's College",
+		"ProvinceCode": "NS",
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "5c894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Institut Universitaire de la Réunion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "5f894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lycée Amiral Bouvet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "34dfeccf-0fce-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Lycée de Bras Fusil (Reunion)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "62894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lycée Pierre Poivre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "65894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lycée Polyvalent Bellepierre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "809787d6-5c93-df11-ad8b-0030487d8897",
+		"OrganizationName": "Université de la Réunion - Saint-Denis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "REU",
+		"InstitutionID": "50a77533-f4ff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Université de la Réunion - Saint-Pierre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "33a5a962-90cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Endeavour College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://endeavoursa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "889ed0ee-93cd-e211-9d05-f04da23e67f4",
+		"WebStoreName": "Endeavour College, South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=889ed0ee-93cd-e211-9d05-f04da23e67f4"
+	}
+]

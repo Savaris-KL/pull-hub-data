@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "ca11c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "North Coast TAFE Institute (Australia)",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e18b1c4b-aa8b-e011-969d-0030487d8897",
+		"WebStoreName": "North Coast Institute TAFE - ITF",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e18b1c4b-aa8b-e011-969d-0030487d8897"
+	}
+]

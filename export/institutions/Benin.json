@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BEN",
+		"InstitutionID": "54fa172c-d993-e711-80f6-000d3af41938",
+		"OrganizationName": "Institut de Mathématiques et de Sciences Physiques",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BEN",
+		"InstitutionID": "0a4eeccc-b0fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Pigier Benin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

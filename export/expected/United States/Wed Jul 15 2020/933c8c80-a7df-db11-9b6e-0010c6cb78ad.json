@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://phoenix.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "f2f60c3e-dfe6-dc11-8873-0030485a6b08",
+		"WebStoreName": "University of Phoenix",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f2f60c3e-dfe6-dc11-8873-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "db0f0c68-5995-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Phoenix",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ef8e2699-5995-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "University of Phoenix",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ef8e2699-5995-e611-9422-b8ca3a5db7a1"
+	}
+]

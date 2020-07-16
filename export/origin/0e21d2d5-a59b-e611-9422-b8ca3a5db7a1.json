@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "833a3e98-47fd-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Box Hill Senior Secondary College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5d438dbd-47fd-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "The State of Victoria through the Department of Education and Training",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5d438dbd-47fd-e311-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "0e21d2d5-a59b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Box Hill Senior Secondary College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e93df2fa-a59b-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "Box Hill Senior Secondary College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e93df2fa-a59b-e611-9422-b8ca3a5db7a1"
+	}
+]

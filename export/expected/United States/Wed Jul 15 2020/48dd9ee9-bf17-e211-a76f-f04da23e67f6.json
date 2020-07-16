@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "48dd9ee9-bf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mt Barker Waldorf School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "83b71047-8865-e511-9410-b8ca3a5db7a1",
+		"WebStoreName": "Mt Barker Waldorf School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=83b71047-8865-e511-9410-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c1bd84e4-41b9-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Mt Barker Waldorf School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d6e5fd96-48b9-e111-ad8d-f04da23e67f6",
+		"WebStoreName": "Elementary and High School Teacher Discounts on Microsoft Office and Windows",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d6e5fd96-48b9-e111-ad8d-f04da23e67f6"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "295bc6cc-98be-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Mt Barker Waldorf School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://aissa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "61a26612-99be-e011-bb5b-f04da23e67f6",
+		"WebStoreName": "Association of Independent Schools of South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=61a26612-99be-e011-bb5b-f04da23e67f6"
+	}
+]

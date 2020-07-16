@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "e74f60d3-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Calhoun Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "17c8f94a-e69b-e011-969d-0030487d8897",
+		"WebStoreName": "Calhoun Community College - Computer Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=17c8f94a-e69b-e011-969d-0030487d8897"
+	}
+]

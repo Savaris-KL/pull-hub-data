@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "c652cfa1-1618-4c88-afbf-d53591c2b352",
+		"OrganizationName": "Trenholm State Technical College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://trenholm.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "b58c13bb-4668-dc11-ac48-0030485a6b08",
+		"WebStoreName": "Trenholm State Technical College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b58c13bb-4668-dc11-ac48-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "7ab0f4f5-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Trenholm State Technical College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "de4e520b-f89b-e011-969d-0030487d8897",
+		"WebStoreName": "Trenholm State Technical College - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=de4e520b-f89b-e011-969d-0030487d8897"
+	}
+]

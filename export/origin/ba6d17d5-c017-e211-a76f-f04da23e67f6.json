@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "ba6d17d5-c017-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Golden Grove Lutheran Primary School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "7128b50d-b8ea-e511-9417-b8ca3a5db7a1",
+		"WebStoreName": "Golden Grove Lutheran Primary School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=7128b50d-b8ea-e511-9417-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c1bd84e4-41b9-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Golden Grove Lutheran Primary School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d6e5fd96-48b9-e111-ad8d-f04da23e67f6",
+		"WebStoreName": "Elementary and High School Teacher Discounts on Microsoft Office and Windows",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d6e5fd96-48b9-e111-ad8d-f04da23e67f6"
+	}
+]

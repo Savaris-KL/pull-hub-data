@@ -1,0 +1,27 @@
+https://onthehub.com/download/free-software/office-home-business-2019-for-mac
+
+
+step 1:
+  -> open chrome browser
+  -> get the cookie
+
+step 2:
+  -> https://e5webservices.onthehub.com/data/v3/countries?callback=angular.callbacks._0 to get countries list
+  -> https://e5webservices.onthehub.com/data/v3/provinces?countryCode=USA&callback=angular.callbacks._1 to get provinces list
+  -> https://e5webservices.onthehub.com/data/v3/institutions?countryCode=USA&provinceCode=AK&callback=angular.callbacks._7 to get institutions list
+  -> https://e5webservices.onthehub.com/data/v3/webstores/4d24c779-2c56-e011-bd14-0030487d8897/productmajorversions?countryCode=USA&ProgramCode=&UserGroupCode=STUDENTS,FACULTY,STAFF&callback=angular.callbacks._3q to get major versions
+
+step 3:
+  -> do filter action, for finding both hasWebStore And hasOffice are true
+
+country | province | school | department | hasWebStore | hasOffice
+....                                     | true        | 
+
+=> filter => is our expected data
+
+----------------------------------------------------------------------
+
+const expectedData = [{}, {}, {}....] // step1
+const excelData = excelParser(expectedData) // step2
+
+regex

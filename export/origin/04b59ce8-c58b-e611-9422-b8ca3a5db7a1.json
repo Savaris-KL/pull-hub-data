@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AM",
+		"CountryIsoAlpha3Code": "ARM",
+		"CountryName": "Armenia",
+		"InstitutionID": "04b59ce8-c58b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Yerevan State University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "153ab82b-c68b-e611-9422-b8ca3a5db7a1",
+		"WebStoreName": "Yerevan State University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=153ab82b-c68b-e611-9422-b8ca3a5db7a1"
+	}
+]

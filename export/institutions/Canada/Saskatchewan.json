@@ -1,0 +1,642 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "eb1e06aa-2f27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Aberdeen Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7f15d9fd-808c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Learning College - Saskatoon",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4ac83b19-3227-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Allan Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "6c6b7db3-3227-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Blaine Lake Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9173ef27-3e27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Borden",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "84e65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Briercrest College Seminary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9df60c94-daa4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Campbell Collegiate",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0f8e69be-86bf-ea11-812d-000d3af41938",
+		"OrganizationName": "Carlton Trail College",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cb7f8a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CDI Education Corp",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8f7ae880-f907-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Chinook School Division",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "65e8655d-8e92-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Christ The Teacher Catholic Schools",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fa85b7be-5027-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Clavet Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7108f693-5127-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Colonsay",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d0994c8f-acd9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Creighton Community School - Creighton - Campus Store",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "8256175e-134e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Creighton SD 111",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "5152705b-7688-df11-ad8b-0030487d8897",
+		"OrganizationName": "Cumberland College - SASK",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "74709129-5327-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Dalmeny High",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "76a52dbe-5127-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Delisle Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "2b931dae-5227-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Delisle Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "59b2bbbf-5d27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Dundurn Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "386a3cc9-50a9-df11-ad57-0030487d8897",
+		"OrganizationName": "First Nations University of Canada",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d7f7a0eb-6127-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hague Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "eb9ea912-6327-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hague High",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "48f269bf-5e27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hanley Composite",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ae40a68e-6127-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hepburn",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "16adb0ec-144e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Holy Family RCSSD 140",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a837d62e-6527-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Laird",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "88f1e124-6827-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Langham Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3b9d8fab-6627-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Leask Community",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1046a8cb-63c1-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Lillian Osborne High School",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e89d87e4-1f4e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Living Sky SD 202",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7da64a4f-6627-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Lord Asquith",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "69771023-3e7d-e711-80f3-000d3af41938",
+		"OrganizationName": "Luther College High School",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f5de7c84-6527-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Martensville High",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "37759696-1586-e011-969d-0030487d8897",
+		"OrganizationName": "Millar College of the Bible",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f49589b1-184e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Northern Lights SD 113",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0852c141-5f85-ea11-812a-000d3af41938",
+		"OrganizationName": "Northlands College, Saskatchewan",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7f54193d-144e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Northwest SD 203",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c4853449-6827-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Osler",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "98e65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Parkland Regional College",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "dfa5e20b-6927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Perdue",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e60ef043-6927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Pike Lake",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f7a16180-a617-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Prairie South School Division No. 210 - Moose Jaw - Campus Store",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fa4c7156-160d-e011-bed1-0030487d8897",
+		"OrganizationName": "Prairie Spirit School Division No. 206",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "f9cd9b24-8622-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Prairie Spirit School Division, SK",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d1e575d3-63c0-49ee-bb71-6cdbd83c5bb7",
+		"OrganizationName": "Prairie Valley School Division - School Division #208",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "e66f7a7a-6927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Prairie View Elementary, SK",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9332965f-124e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Regina SD 4",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ec39c59e-6927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Rosthern Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "50559fd5-6927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Rosthern High",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a445e3e9-dd47-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Saskatchewan Educational Technology Association",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4dfba1e8-ce5d-e711-80f0-000d3af41938",
+		"OrganizationName": "Saskatchewan Indian Institute of Technologies",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "be368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saskatchewan Institute of Applied Science & Technology",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "3f301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saskatchewan Institute of Applied Science & Technology- Palliser Campus",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "cbf05056-0dd2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saskatchewan Ministry of Education",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9c392241-ea37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Saskatchewan Ministry of Education - Microsoft Imagine Standard",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "1445132f-9904-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Saskatchewan Polytechnic - Saskatoon Campus - Store",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "69234016-7d4d-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Saskatchewan Rivers SD 119",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ed60eae6-cebc-e211-be21-f04da23e67f4",
+		"OrganizationName": "Saskatoon Business College",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "49521be0-2ed8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saskatoon Public Library",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d912f7b3-124e-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Saskatoon SD 13",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "66e65c2d-f1a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "SIAST Kelsey Campus",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "48f299a5-6a27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "South Corman Park",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "129d7180-cc71-e011-971f-0030487d8897",
+		"OrganizationName": "Southeast Cornerstone School Division #209",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "0ecdfcc3-6a27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Stobart Community School",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "85489b61-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Sun West Distance Learning Centre - Campus Store",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "727730a8-7c4d-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Sun West SD 207",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "bc3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Regina",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "233f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Saskatchewan",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "27257a78-f827-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Valley Christian Academy, SK",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a82aa0cf-f827-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Valley Manor Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "01701ce3-6a27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Vanscoy",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "fc7b759e-f827-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Venture Heights Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "76846a5e-f927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Waldheim",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "d0b2cf31-fa27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Walter W. Brown",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "7693e2a9-f927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Warman Community Middle",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "84ec6aee-f927-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Warman Elementary",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c3cc2101-fa27-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Warman High",
+		"ProvinceCode": "SK",
+		"SubsectorCode": "education_k_12"
+	}
+]

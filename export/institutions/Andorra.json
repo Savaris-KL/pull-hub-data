@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AND",
+		"InstitutionID": "0d49b344-d299-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Govern d'Andorra - Àrea de Desenvolupament Tecnològic Educatiu - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AND",
+		"InstitutionID": "b8f56a5d-4ee2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Is La Salle Open University - ANDORRA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AND",
+		"InstitutionID": "819f4816-8e6e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Universitat d'Andorra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,778 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b347ac01-aff7-e711-80fc-000d3af41938",
+		"OrganizationName": "Academia Nacional de Estudios Políticos y Estratégicos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "4c88a151-9f7c-e011-969d-0030487d8897",
+		"OrganizationName": "Bradford School (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a00a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "British Royal School S. A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a60a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Apoquindo Masculino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9a0a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Coyancura S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "940a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio de los Sagrados Corazones Providencia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a258d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Santa Úrsula de Vitacura‹CSUV",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ac58d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "COLEGIO SANTA URSULA MAIPU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "d058d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegios Mayores S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ff58d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "CORPORACION COLEGIO ALEMAN DE VALPARAISO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9458d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporacion Educacional Bradford",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b558d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporacion Educacional Francesa de Valparaiso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "0759d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporacion Scuola Italiana Vittorio Montiglio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "c518024e-0eb1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "CRECIC Educación",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "6a6057c6-4ac0-e911-811e-000d3af41938",
+		"OrganizationName": "Escuela básica piloto 1° Luis Pardo Villalón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ac0a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fudacion Educacional del Liceo Aleman del Verbo Divino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "8a2d72df-c7de-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Ceduc UCN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a9073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fundación Instituto Profesional Duoc UC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "35b12f07-36f7-df11-9c87-0030487d8897",
+		"OrganizationName": "Fundación Instituto Profesional Duoc UC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b20a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion San Jose",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "6bc8bf11-0d0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "INACAP - Universidad Tecnológica de Chile | Instituto Profesional | Centro de Formación Técnica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ac073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto de Ciencias Tecnológicas CIISA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "e758d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto de Estudios Bancarios Guillermo Subercaseaux",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a6073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Profesional AIEP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "578a8c2a-4cea-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Profesional de Chile(IPCHILE) - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ec031fed-b806-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Profesional Latinoamericano de Comercio Exterior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "e63d20c3-c6ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Profesional Providencia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "6f0a3c2a-66ea-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Instituto Profesional Providencia - Santiago - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "03a4efdc-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Instituto Profesional Virginio Gomez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "c24d039d-b6d6-e711-80f9-000d3af41938",
+		"OrganizationName": "International School Nido De Aguilas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "8dbead02-e697-e711-80f6-000d3af41938",
+		"OrganizationName": "International School Nido de Águilas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "26235188-3101-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Junta Nacional de Jardines Infantiles",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "55a323d5-0f7f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Bicentenario Oscar Castro Zuniga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "2c800011-1b26-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Manpower Centro de Formacion Tecnica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "2d235188-3101-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ministerio de Educación",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "1f20ca90-eb82-df11-bc53-0030487d8897",
+		"OrganizationName": "Pontificia Universidad Católica de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "79644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Pontificia Universidad Católica de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "7faa99f2-8a99-e711-80f6-000d3af41938",
+		"OrganizationName": "Pontificia Universidad Catolica de Valparaiso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "23f490ca-266f-df11-b841-0030487d8897",
+		"OrganizationName": "Pontificia Universidad Católica de Valparaíso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "3e634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Pontificia Universidad Catolica Madre y Maestra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "e4bef0d8-301a-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Saint Joseph School (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "880a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Scuola Italiana \"Alcide De Gasperi\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "d958d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Scuola Italiana di La Serena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "bbd7ba3c-acc7-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Seminario Teológico Presbiteriano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "c858d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sociedad Colegio Aleman de Los Angeles",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "8e0a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sociedad Educacional Loyola S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b80a233c-fc19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "St. Paul School Soc. Ltda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ef58d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "The Mayflower School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "f758d0d8-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "The Newland School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9360e237-209b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Adolfo Ibañez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9f62020c-8784-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad Adolfo Ibáñez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "bc7c562e-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Adolfo Ibañez - Santiago - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "3114aa68-8f2b-e711-80ee-000d3af41938",
+		"OrganizationName": "UNIVERSIDAD ALBERTO HURTADO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "0736c4b7-5e54-df11-b56b-0030487d8897",
+		"OrganizationName": "Universidad Andrés Bello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "be21f2c4-be84-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Andrés Bello - Campus República of Santiago - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "96d13515-0277-e711-80f1-000d3af41938",
+		"OrganizationName": "Universidad Arturo Prat (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "7714a4b0-2c6f-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Austral de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "8cbf0c57-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Austral de Chile - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "5e939b4b-767e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Autónoma de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "e18dbbab-6c71-e711-80f1-000d3af41938",
+		"OrganizationName": "Universidad Bernardo O'Higgins",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "af073879-cec4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Católica de la Santísima Concepción",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "4a072148-856d-df11-b841-0030487d8897",
+		"OrganizationName": "Universidad Catolica de Temuco (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "f71192a4-086b-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica del Maule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "041e2e3b-0477-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica del Norte (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "871c5355-db37-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica Silva Henríquez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "f519f8cf-aeb1-e111-b575-f04da23e67f6",
+		"OrganizationName": "Universidad Central de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "22f6bc26-f39f-df11-ad57-0030487d8897",
+		"OrganizationName": "Universidad de Antofagasta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "85ac389b-c3d6-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad de Artes, Ciencias y Comunicación",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9c639358-1a61-e911-8115-000d3af41938",
+		"OrganizationName": "Universidad de Atacama",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "2cb7de66-1b86-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "565c9b5a-2b0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Universidad de Concepción (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "906306f9-fd9b-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad de La Frontera",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "9ae46c15-74ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Universidad de la Serena Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "13568a40-19ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Universidad de las Americas (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "929e9b9a-722f-e711-80ee-000d3af41938",
+		"OrganizationName": "Universidad de los Andes - Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "df5f03d1-2f14-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Los Lagos (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "75c87eb9-3e7e-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad de Magallanes (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b30f8a53-f0b8-de11-886d-0030487d8897",
+		"OrganizationName": "Universidad de Santiago de Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "153d51a6-b0bf-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Universidad De Talca - Talca - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "29ea3d07-5832-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universidad de Tarapaca (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "f6b0f075-0777-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Tarapacá (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "aa210706-8769-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Universidad de Valparaíso (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "c6eb6b21-ec82-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad del Bio Bio (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "5f96ce74-aafe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad del Desarrollo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "aa0db79e-a4c7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Universidad del Pacífico, Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a8661987-aa8d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Diego Portales (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "97a0da6f-423a-e911-8111-000d3af41938",
+		"OrganizationName": "Universidad Finis Terrae University (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "d79ccf3e-f6c0-df11-859b-0030487d8897",
+		"OrganizationName": "Universidad Gabriela Mistral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "fbce2f3d-49ae-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Universidad Mayor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "e47ecfeb-c05c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidad San Sebastian",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b7c17807-ae38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad Santo Tomas - Chile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "b4d978ba-1601-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad Santo Tomas - Chile - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "d15ce293-5842-df11-b56b-0030487d8897",
+		"OrganizationName": "Universidad Tecnica Federico Santa Maria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "a32c41d4-2f00-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnológica Metropolitana - UTEM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "d7781139-761d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Viña del Mar (Chile)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "624f031e-6b3f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Univesidad de Valparaiso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHL",
+		"InstitutionID": "ad5b4440-a5a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Villalba Aceros",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

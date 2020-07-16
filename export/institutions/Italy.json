@@ -1,0 +1,4610 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4c40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Academic Club",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "82aa1388-5f9e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Accademia Alfonsiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ac283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Accademia Della Crusca,ITA,5793081",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b3d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti di Bologna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b8d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti di Brera - Milano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4640c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti di Macerata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bdd148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti di Napoli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c2d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti di Verona",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c8d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia di Belle Arti Firenze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cdd148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Accademia Nazionale d'Arte Drammatica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "36795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Agenzia formazione orientamento lavoro Monza e Brianza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "387a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Agenzia Formazione Orientamento Lavoro Nord-Ovest Milano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5140c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "AIESEC Italy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d2d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "American University of Rome",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c042c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Assocam Scuola Camerana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c4795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Associazione Centro Nazionale Opere Salesiane- Formazione e Aggiornamento Professionale - CNOS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cb795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Associazione La Nostra Famiglia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1dda3b71-7e72-e911-8119-000d3af41938",
+		"OrganizationName": "ATS Sardegna, Azienda Tutela Salute, ASSL Cagliari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b73037cd-663f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Autonome Provinz Bozen - Deutsches Bildungsressort",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e76c0816-b361-df11-b841-0030487d8897",
+		"OrganizationName": "Autonome Provinz Bozen Sudtirol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9d795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Azienda Ospedaliera Policlinico Di Modena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "63283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Azienda Speciale Consortile Consorzio Desio-Brianza\",ITA,4816540",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "467a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Benvenuti a ECIPAR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f2cbbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "CASPUR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e740c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Centro Formativo Provinciale Giuseppe Zanardelli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4d0476da-fd82-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Centro Produttività Veneto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8f795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro Salesiano Don Bosco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d60464f1-8d49-e011-bd14-0030487d8897",
+		"OrganizationName": "Centro Universitario, Unieuro (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f7cbbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "CILEA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fccbbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "CINECA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "55795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "CIOFS FP ER",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8b13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "CIOFS-FP SICILIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e2283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CIOFS-FP TOSCANA,ITA,5284155",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5d795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Cles S.r.l.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3d795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Collegio Arcivescovile Ballerini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "574dbedb-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Collegio San Giuseppe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c1c16c82-6613-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Collegio Villoresi San Giuseppe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3a5e44a6-a783-e811-8108-000d3af41938",
+		"OrganizationName": "Comprehensive Institute of Val Nervia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "57283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Comune di Milano - Centro di Formazione di Informatica e Terziario per il Lavoro,ITA,5445540",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7f556ce1-c3dc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "CONSERVATORIO DI MUSICA \"Luigi Canepa\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f6283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Conservatorio Di Musica G.Tartini,ITA,8384139",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d7d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Conservatorio E.F. Dall'Abaco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "01ccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Consiglio Nazionale delle Ricerche",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "956ab633-2593-e711-80f6-000d3af41938",
+		"OrganizationName": "Consorzio Pegaso - Ikaros Foundation - Bergamo - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ac42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Consorzio Proplast",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b9b3c6da-349e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Consorzio Universitario di Pordenone",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "91fdd16b-a039-e711-80ef-000d3af41938",
+		"OrganizationName": "Convitto Nazionale Statale Domenico Cirillo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "81795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Coop. Soc. Pier Giorgio Frassati Scuola Media Inf.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6d3b837c-a387-e011-969d-0030487d8897",
+		"OrganizationName": "Dial Informatica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1dfb1946-950e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Dipartimento di Economia Marco Biagi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "089eb4ba-75cf-e111-971c-f04da23e67f6",
+		"OrganizationName": "Distretto Ligure delle Tecnologie Marine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "dcd148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Domus Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d071c4e3-9b22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Don Bosco Salesian College Tolmezzo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4b283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ecipar Soc. Cons.a r. L.,ITA,5478412",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "96795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ENGIM EMILIA ROMAGNA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1641c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Ente Acli Istruzione Professionale MESSINA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1041c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Ente Nazionale per l'Addestramento e l'istruzione dei Lavoratori",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cc8c3d2b-2f7d-e711-80f3-000d3af41938",
+		"OrganizationName": "European School, Varese",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e6d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "European University Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "64f64a20-c19d-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Facoltà Teologica dell'Emilia-Romagna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9e0e737a-5075-e811-8106-000d3af41938",
+		"OrganizationName": "Facoltà Teologica dell'Italia Settentrionale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7f283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "FBC FONDAZIONE BELLELLI CONTARELLI Istituti Scolastici S.Tomaso D'Aquino,ITA,9140301",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b9e8ab75-a740-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Florence Design Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ebd148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fondazione Collegio Europeo di Parma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f0d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fondazione CUOA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0b3266df-e5d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Fondazione Don Gnocchi (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "55df6789-01b0-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Fondazione Instituto Tecnico Superiore Tecnologie Industrie Creative",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3c843b87-ffaf-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Fondazione Instituto Tecnico Superiore Tecnologie Industrie Creative - Cesena - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1b293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fondazione Italiana Per La Ricerca Sul Cancro,ITA,7077170",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e3795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fondazione Sacro Cuore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "33293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fondazione Scuola Montessori di Bergamo,ITA,8493884",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "74a03294-5aca-de11-baeb-0030487d8896",
+		"OrganizationName": "Free University of Bolzano - Bolzano Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "15bc8eda-a709-de11-9c12-0030485a8df0",
+		"OrganizationName": "Free University of Bozen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "06ccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "GARR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c84be6fe-2852-e811-8105-000d3af41938",
+		"OrganizationName": "Gran Sasso Science Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "22910372-94fc-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Gruppo Otologico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9017bd4e-50e4-e811-810c-000d3af41938",
+		"OrganizationName": "Humanitas University (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "10df106c-9cdd-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "I. I. S. S. E. MATTEI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "57f13e57-090f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "I.I.S E.Usuelli Ruzza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d4945296-49b3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "I.I.S. BELLUZZI - FIORAVANTI (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9cc8f328-5c76-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "I.I.S. GUIDO PARODI (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "38bb3e8f-c47a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "I.I.S. Mattei - San Donato Milanese - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a4367483-0bb1-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "I.I.S.S. (Istituto di Istruzione Secondaria Superiore) Archimede",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7f42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "I.P.S.I.A. F. Lampertico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "567b95ac-8f07-e811-80fc-000d3af41938",
+		"OrganizationName": "I.P.S.I.A. F.lli Taddia - Istituto d'Istruzione Superiore F.lli TADDIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7b41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "I.p.s.i.a. Odero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3a293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "I.S.I.S 'E.Mattei',ITA,4913974",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5c91ebad-cdc0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "I.T.C.G. 'Istituto Tecnico \"G. MARCHETTI\" GEMONA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e041c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "I.T.I.G \"O. Belluzzi - L. da Vinci - Il sito Internet dell'Istituto Tecnico Industriale di Rimini - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "326afdb0-b8b8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "I.T.I.S. Evangelista Torricelli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e293746c-32e0-e711-80fa-000d3af41938",
+		"OrganizationName": "I.T.S. UMBRIA MADE IN ITALY",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a4795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ICS - UNIDO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5d283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ICS - UNIDO AREA DI RICERCA,ITA,6744546",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6ab979be-1c77-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "IES Pazo da Mercé",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8c507334-1790-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "IES Veles e Vents",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ab795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "IFOA - Sapere utile",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "65f42ee3-90d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "IIS ETTORE BOLISANI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a0283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IIS EUCLIDE,ITA,7319881",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1bb3fe99-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "IIS F. Alberghetti - Imola - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "56121bbc-3c8a-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "IIS Gae Aulenti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8761f038-73c1-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "IIS Leonardo da Vinci - Carate Brianza - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "01929762-4216-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "IIS Majorana Rossano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4164d4fe-a702-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "IIS Ramacca Palagonia (CT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "24c9e107-d438-e211-aed3-f04da23e67f6",
+		"OrganizationName": "IIS SPINELLI (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d8ad5a4c-1d7f-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "IIS Tecnico Industriale Geometri - Terni - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ce54a10b-cbaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "IIS Viola Marchesini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "28e24761-7ca6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "IISS Primo Levi Quartu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ad40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Insituto Superiore Statale Ernesto Guala di Bra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b142c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Insituto Superiore Statale G.D. Romagnosi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b940c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Insituto Superiore Statale M . Montessori",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b240c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Insituto Superiore Statale Primo Levi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "dd40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Insituto Superiore Statale V. Capirola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5833ed21-5a64-e011-971f-0030487d8897",
+		"OrganizationName": "Instituto Pontificio Biblico de Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b7767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto tecnico per geometri \"Guarino Guarini\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f5d148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Intercollegiate Center for Classical Studies in Rome",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fad148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "International University College of Turin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4a15ce01-704a-e011-bd14-0030487d8897",
+		"OrganizationName": "IOStudio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2c867005-fc72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "IRCCS Ospedale Oncologico di Bari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ffd148a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "ISIA di Faenza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "04d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "ISIA di Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "09d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "ISIA Firenze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d5c2e10e-77b6-e211-be21-f04da23e67f4",
+		"OrganizationName": "ISIS Alberto Parolini (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8a41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "ISIS Einaudi di Dalmime",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "aa09b58c-b765-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "ISIS Enrico FERMI (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8f13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ISIS GIORDANO BRUNO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c42b8134-6fd4-e711-80f9-000d3af41938",
+		"OrganizationName": "ISIS Guglielmo Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "87c3c592-aed3-e711-80f9-000d3af41938",
+		"OrganizationName": "ISIS I. CANKAR (LINGUA SLOVENA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ed33961a-9c32-e811-8101-000d3af41938",
+		"OrganizationName": "ISIS Magrini Marchetti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7792d2a2-4171-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Isis Segato-Brustolon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "53654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Isis- Solari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e732dc0a-bece-e211-9d05-f04da23e67f4",
+		"OrganizationName": "ISISS Antonio SANT'ELIA (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c108f032-1bcd-e111-971c-f04da23e67f6",
+		"OrganizationName": "ISISS Antonio Scarpa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "54bea9d0-4d9e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "ISISS Antonio Scarpa Motta di Livenza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "684d5b3b-6d78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Isiss  Margarotto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fd283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ist. Comprensivo A. Manzoni Capriate San Gervasio,ITA,7321708",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "51283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituti Di Istruzione Superiore Aldini Valeriani Siriani,ITA,7689045",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f2795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ISTITUTI SCOLASTICI PARITARI S. TOMASO CORREGGIO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e541c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Amedeo Avogadro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a8b805a8-4cf5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Cavour  Vercelli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fec85676-d3bb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo Albert Schweitzer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "21293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Comprensivo Di Bagnolo Piemonte,ITA,8010531",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e9283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Comprensivo Di Dogliani,ITA,5301055",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9213848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Comprensivo di Primiero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0f293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ISTITUTO COMPRENSIVO DI VIA ADUA,ITA,8338875",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ddc6ed62-4dc4-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo Eleonora Duse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "521087bd-240e-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo F.lli Trillini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b42b742d-53f5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo Figline Valdarno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "40293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Comprensivo Giovanni XXIII Saliceto,ITA,8233624",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b19f5482-3d00-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo Leonardo da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2d293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto comprensivo Statale F. P. Michetti,ITA,6723738",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c54305e9-2104-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Comprensivo Trento 6",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5640c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto de Istruzione Superiore F. Alberghetti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9540c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto de Istruzione Superiore Statale Ettore Bolisani",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5241c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Formazione Professionale di Roma e del Lazio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6940c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di genomica applicata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c542c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Aldo Moro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7542c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Carlo Emilio Gadda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "73f1283a-6225-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione La Rosa Bianca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b628f3c5-fd86-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione Secondaria Superiore Nicola Garrone",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "493de7e3-8299-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione Superiore - 8 Marzo – K. Lorenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b87f6404-1947-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "ISTITUTO DI ISTRUZIONE SUPERIORE \"A. MERLONI - MILIANI\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6440c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Ala Ponzone Cimino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "98bb86bb-6a84-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione Superiore Benedetto Castelli (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "df21a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Contardo Ferrini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8942c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Cossatese e Valle Strona",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0641c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Deambrosis Natta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3ee5f69f-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto di Istruzione Superiore Deambrosis Natta - Sestri Levante - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e90896ff-d070-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione Superiore Eugenio Bona (I.I.S. \"E. Bona\")",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5c41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Ferraris-Brunelleschi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a2fbb0ce-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto di Istruzione Superiore Ferraris-Brunelleschi - Empoli Campus - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e0d72b8a-cf4c-e911-8113-000d3af41938",
+		"OrganizationName": "Istituto di Istruzione Superiore Fortunato Fedele",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "de42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore G. B. Vaccarini Catania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e221a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore G. Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d6283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ISTITUTO DI ISTRUZIONE SUPERIORE GANDHI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4341c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Gastaldi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9513848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto di Istruzione Superiore Marie Curie Pergine Valsugana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e521a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Newton",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e70904fc-05bf-e711-80f7-000d3af41938",
+		"OrganizationName": "ISTITUTO DI ISTRUZIONE SUPERIORE PAOLINI CASSIANO, Imola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e921a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Paolo Baffi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b642c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Roncalli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a140c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto di Istruzione Superiore Statale Caterina da Siena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9ff5472f-827d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Istituto di Istruzione Superiore via Salvini 24 - Roma - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8640c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto d'Istruzione Secondaria Superiore Alessandro Greppi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bc41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto d'Istruzione Secondaria Superiore E. de Nicola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bb42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto d'Istruzione Secondaria Superiore G Salvemini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "140a8101-6fc6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto d'Istruzione Secondaria Superiore Michelangelo Bartolo Pachino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b0735571-82d1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Istituto d'Istruzione Secondaria Superiore Righi (IISS Righi) - Taranto - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "76933443-1179-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Istituto d'Istruzione Superiore Francesco Ferrara Mazara del Vallo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1357de32-e429-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Istituto d'Istruzione Superiore Gastaldi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4e973179-c2a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Istituto d'Istruzione Superiore Jean Monnet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f0283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto d'Istruzione Superiore N. Machiavelli,ITA,7388860",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d14841e8-aac1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto d'Istruzione Superiore Statale Einaudi Casaregis Galilei (IISS)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "04a3e152-e020-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Istituto Europeo di Design",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fa9e1c40-29a1-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Europeo di Design Spa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "88795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Femminile Don Bosco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1f2cd2a4-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Galileo Ferraris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "03293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ISTITUTO ISTRUZIONE SUP. G.CIGNA - F.GARELLI,ITA,5535087",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ac37c37e-a677-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Istituto Istruzione Superiore \"G.Vallauri\" (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7345c258-e78f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Amaldi - Sraffa Orbassano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c9347b18-7197-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Euganeo - Este - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c04ad418-4592-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Evangelista Torricelli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ec21a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Istruzione Superiore Galileo Ferraris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9813848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Istruzione Superiore Grottaglie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "945cb80e-aea3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Istituto Istruzione Superiore Grottaglie - Grottaglie - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "140f8c4c-ef07-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Stata - Latina - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fd562ddf-54fb-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Statale Marco Polo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9f63b2a2-536b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Statale Marco Polo - Colico - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ab39756a-7a90-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Istruzione Superiore Statale Pietro Verri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b5ac8384-689d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore Vendramin Corner",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "37755ccb-c484-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Istruzione Superiore(IIS) Ettore Majorana Cesano Maderno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6641c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Italiano di Tecnologia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9a40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Italo Calvino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8e42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Lunardi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f67ce23e-f57e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Marangoni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "09293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Maria Ausiliatrice,ITA,4831426",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f054ab21-f268-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Massimiliano Massimo (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "455ebdf8-db49-ea11-8127-000d3af41938",
+		"OrganizationName": "Istituto musicale Luigi Boccherini, Lucca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6b41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Nazionale Astrofisica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0bccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Istituto Nazionale di Astrofisica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "10ccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Istituto Nazionale di Fisica Nucleare",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "20ccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Istituto nazionale di statistica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "429e1b0b-2901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Nazionale Di Statistica (Istat)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b5795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Omnicomprensivo D'Istruzione Secondaria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0ed248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Istituto per gli Studi di Politica Internazionale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d340c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Prof. per i Servizi Comm (I.P.S.C.) Giovanni Caboto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "88e019d1-159b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Professionale di Stato Giuseppe Medici",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8041c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Professionale di Stato per l'Industria e l'Artigianato Antonio Pacinotti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "82b5c9b0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Professionale di Stato per l'Industria e l'Artigianato Antonio Pacinotti - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7541c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Professionale di Stato per l'Industria e l'Artigianato Moretto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7041c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Professionale Margaritone",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "70283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Salesiano Don Bosco,ITA,5949032",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "aba6a314-6606-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Istituto Salesiano G. Bearzi (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a16270e8-0086-e811-8108-000d3af41938",
+		"OrganizationName": "ISTITUTO SECONDARIO DI I GRADO - GIOVANNI SCOTTI ISCHIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "15dcbeb4-0110-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Secondario Superiore Statale - Edoardo Firpo - Michelangelo Buonarroti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "20d55ad9-179b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Secondario Superiore Statale Savona - Mazzini da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0aff78be-b292-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Sociale dei Padri Gesuiti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "137a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Sperimentale Statale ''Maffeo Vegio''",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8e40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale d'Arte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2e41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Enrico Fermi Frascati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5741c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Europa Unita",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2442c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria J. F. Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f121a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria J.M. Keynes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f421a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria L.Calabrese",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "be40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Superiore (I.S.I.S.S.) Antonio Sant' Elia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3b3e188b-bca5-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Superiore della Piana est di Lucca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8140c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Superiore Gobetti De Gasperi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f721a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Secondaria Vittorio Veneto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7958fb4c-c5c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Statale di Istruzione Superiore “A. Gramsci - J. M. Keynes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bc8ff5e2-89c5-e711-80f9-000d3af41938",
+		"OrganizationName": "Istituto Statale di Istruzione Superiore Raimondo d'Aronco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fc21a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Statale di Istruzione Tenica Einaudi Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b22bd2a4-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Statale di Istruzione Tenica Einaudi Marconi - Staranzano - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e420f9e7-c198-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Statale D'Istruzione Superiore - Galilei Gorizia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bc795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Statale d'Istruzione Superiore di NEWTON Varese",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9b13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Statale d'Istruzione Superiore Vittorio Veneto Città Della Vittoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ff21a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore Carlo Denina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "896d9317-33b2-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Superiore Denina (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8541c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore di Istruzione Industriale G. Marconi Piacenza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "dda6b7bc-257e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Superiore di Scienze Religiose S.Apollinare (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0322a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore d'Istruzione Sandro Pertini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bc283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore E. Majorana - G. Marconi,ITA,5173534",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f240c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore Francesco Ciusa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "27293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore G.Vallauri,ITA,8899902",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a640c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Superiore Silvio D'Arzo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a5767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Superiore Statale PITAGORA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1e36ead6-93d1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Superiore Vilfredo Federico Pareto Milano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b64d072e-0a2a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Carlo Antonio Pilati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6141c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b741c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale A. Capriotti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0622a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale A. Majorana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b0b5c9b0-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Tecnico Commerciale A. Majorana - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a841c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Aldo Pasoli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7c40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Blaise Pascal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0a22a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Bonelli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0d22a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale C.A. Dalla Chiesa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ad41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Domenico Romanazzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9441c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale e per Geometri (I.T.C.G.) Fermi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "64795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale e per Geometri Alessio Tramello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9d42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale e per Geometri Mario Rapisardi Caltanissetta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8f41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale e per Geometri Medaglia d'Oro  Cassino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2a7a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale E Per Il Turismo Michele Laporta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9e41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale F. Ferrara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ca42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale I.T.P.A.C.L.E.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8442c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Leonardo Da VInci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c840c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale M. Arena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2673dcb7-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Tecnico Commerciale M. Arena - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e240c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto tecnico Commerciale per Geometri e per il Turismo G.B.Carducci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b241c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commerciale Salvatore Satta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "77795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ISTITUTO TECNICO COMMERCIALE STATALE E PER IL TURISMO MICHELE LAPORTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d80d357a-446b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Commerciale Statale Paolo Savi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0bd9e08a-e5d9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "ISTITUTO TECNICO COMMERCIALE TANNOIA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ce40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Commercieale Aeronautico Statale Fabio Besta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6834ecf6-908c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Economico Battisti di Fano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "97a3da05-1d9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Economico e Tecnologico ca Pilati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a242c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Economico of Mossotti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a8767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Economico Statale (V.Emanule II Perugia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a341c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Economico Statale A. OLIVETTI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ab767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Economico Statale Gaetano Filangieri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ae767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Economico Vitale Giordano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3941c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Felice e Gregorio Fontana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1f6ba82b-c08a-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico G. Galilei - Canicattì",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1122a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Giuseppe Marchetti Gemona del Friuli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6142c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7040c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Artigianell Piamarta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2241c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico industriale E.Fermi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2e42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Ettore Majorana di Grugliasco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c141c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale G.M. Angioy Sassari - Sassari - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3441c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto tecnico industriale Galileo Ferraris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d9c3c6cf-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto tecnico industriale Galileo Ferraris - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1422a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Galileo Galilei Viareggio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e3828559-16ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Industriale Leonardo da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4d41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Ls F. Giordani",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d041c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale OMAR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d840c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale S.Cannizzaro di Catania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5142c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale A. Rossi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1d7a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale A. Volta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4c42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Augusto Righi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3d42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Biagio Pascal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fe41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Blaise Pascal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e342c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Carlo Zuccante",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f441c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Cartesio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f941c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Castelli Brescia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5d40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale E. Amaldi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0b41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale E. Divini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cb41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale E. Medi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3842c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Enea Mattei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "91c3c6cf-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Enea Mattei - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2942c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Enrico Mattei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0d42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Euganeo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ea41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Eugenio Barsanti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1722a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Falanto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2741c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Fermi Bassano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0342c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Fermo Corni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5642c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale G. C. Faccio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ed40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale G. Chilesoti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c641c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale G. Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1d41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale G.fauser",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d541c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Galileo Galilei Arezzo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3e41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Galileo Galilei Livorno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1f42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Giua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b1767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Heinrich Hertz Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7a42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale J.C. Maxwell",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fc40c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale L. Cobianchi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9342c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Magistri Cumancini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0842c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Mario Delpozzo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "14c46149-e105-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Mattei San Donato Milanese (ITIS MATTEI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d3138685-2b9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Molinari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4742c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Nullo Baldini Ravenna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4242c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Pininfarina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "db41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Quintino Sella",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ef41c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale S. Cannizzaro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1342c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Severi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3342c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale V. E. Marzotto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5b42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Viola Rovigo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c340c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Industriale Statale Volterra – Elia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b76f269d-0210-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Industriale Statele \"Enrico Fermi\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "55df19f2-c56e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Industriale V.E. III - Palermo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a742c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Luca Pacioli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9842c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Marconi Rovereto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cf42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Settore Tecnologico (IS Sobrero)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6b795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Statale Commerciale e per Geometri 'Cesare Battisti'",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9941c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Statale di Chiavari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4841c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Statale Girolamo Caruso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9457f12b-cb44-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Statale Istruzione Superiore J.F.Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a4931089-94a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Statale Superimentale Ordinamento Speciale \"Marie Curie\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9e13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Superiore J.F.Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "112bf91a-3b05-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Technologico Statale Alessandro Volta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "76720ae4-3905-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Technologico Statale Alessandro Volta - Perugia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2290983e-0c8b-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tecnico Tecnologico \"G. E M. Montani\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b4767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Istituto Tecnico Tecnologico Michelangelo Buonarroti(Trento)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1a42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Istituto Tecnico Tecnologico Statale Silvano Fedi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c9ee217c-96a4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Istituto Tenico del Settore Economico Aldo Capitini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "03444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Istituto universitario \"Suor Orsola Benincasa\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e4444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Istituto Universitario di Architettura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "13d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Istituto Universitario di Studi Superiori di Pavia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e43d76ae-cd19-e111-a703-f04da23e67f6",
+		"OrganizationName": "Istituzione Scolastica Italiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1a4fdec4-ad1e-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "ITCG Antinori",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a9b15d4b-93d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "ITCG Cassino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "99f417fa-3bed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "ITI (Istituto Tecnico Industriale) Leonardo Da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f1de9ba9-d83b-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "ITI Galilei Viareggio - Viareggio - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "78e35767-e9d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "ITI Leonardo Da Vinci Carpi - Informatica - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6642c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "ITIGS Leonardo da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b8e4a268-2eb2-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "ITIGS Leonardo da Vinci - Viterbo - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ba767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Itis Basilio Focaccia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "af5b6eed-3b74-e111-a407-f04da23e67f6",
+		"OrganizationName": "ITIS E.Fermi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b07d8350-5183-ea11-812a-000d3af41938",
+		"OrganizationName": "ITIS Jannuzzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2cfd5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "ITIS Leonardo Da Vinci - Portogruaro - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "970ddb43-4e07-e811-80fc-000d3af41938",
+		"OrganizationName": "ITS Apulia Digital Maker",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9030848c-719d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "ITST J.F. Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4b48531d-a8d9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "ITTL Nautico San Giorgio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9e535032-3ced-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "ITTS (Istituto Tecnico Tecnologico Statale Rimini) O. Belluzzi - Leonardo Da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c1767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ITTS A. VOLTA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "21444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "IUSM- Istituto Universitario di Scienze Motorie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6ed4b88a-4b3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "JADE - Tommaso Piazzi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "26444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "John Cabot University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "18d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "John Felice Rome Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7540c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Landesberufsschule für Handwerk  Industrie Bozen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1dd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Libera Accademia Belle Arti -  Firenze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "22d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Libera Accademia di Belle Arti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2b444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Libera universita degli studi \"San Pio V\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "27d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Libera Università degli Studi Maria SS. Assunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f4fc5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Libera Università di Bolzano - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9ae27312-7436-e711-80ef-000d3af41938",
+		"OrganizationName": "Libera Università Internazionale degli Studi Sociali Guido Carli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "62444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Libere universita di lingue e comunicazione",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c4767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Artistico M. Guggenheim",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "df04d00e-c3f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Liceo Artistico M. Guggenheim - Venezia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4e39a320-1c70-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Artistico Statale Aldo Passoni (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5368f0de-db56-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "LICEO CLASSICO SOCRATE SOCRATE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c5283296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Liceo Classico Statale 'Francesco Petrarca',ITA,6235473",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d35b6eed-3b74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Liceo F. Testa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "439604a3-ad32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "LICEO GINNASIO STATALE CORNELIO TACIT (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3a6ea14a-26eb-e711-80fa-000d3af41938",
+		"OrganizationName": "Liceo Ginnasio Statale Francesco Vivona Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "882fc37a-b995-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Ginnasio Statale Luigi Galvani (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c7767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Giordano Bruno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bd36c0c3-a18a-e811-8108-000d3af41938",
+		"OrganizationName": "Liceo Scientifico A. Messedaglia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "136be16f-8f8c-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Scientifico A. Tassoni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8d4cc6a3-fa81-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Liceo Scientifico Boggio Lera - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5d9e062e-a54f-e811-8103-000d3af41938",
+		"OrganizationName": "Liceo Scientifico E. Fermi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ca767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Scientifico G.B.Benedetti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "be767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Scientifico L. Respighi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "73917738-efad-e711-80f7-000d3af41938",
+		"OrganizationName": "Liceo Scientifico Linguistico Imman - Melito di Napoli - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "81990d51-9493-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Scientifico Niccolò Rodolico - Firenze - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "be34c40f-b652-e711-80f0-000d3af41938",
+		"OrganizationName": "Liceo Scientifico Paolo Frisi (Monza, Milan, Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c49b2290-93b3-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Scientifico Stanislao Cannizzaro (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9a9d15ea-04b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Liceo Scientifico Statale \"Leonardo Da Vinci\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cd767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Scientifico Statale Alessandro Volta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d0767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Liceo Scientifico Statale G. Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2b5e914c-8462-e711-80f1-000d3af41938",
+		"OrganizationName": "Liceo Scientifico Statale Lorenzo Masche",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9eca8792-c770-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Scientifico Statale Piero Gobetti (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a2b60110-0d39-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Scientifico Vittorio Veneto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3c31be40-71b6-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Liceo Statale Galileo Galilei",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2cd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Link Campus University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7042c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "L'Istituto Statale Einaudi Scarpa - Montebelluna - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "dad60bc5-f813-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "l'Istituto Tecnico Economico Luciano Raveggi - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "30444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "LUISS Libera Universita Internazionale degli Studi Sociali",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "99444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "LUM - Libera Universita Mediterranea \"Jean Monnet\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3a444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "LUMSA Libera Universita Maria Santissima Assunta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "31d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "MIB School of Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e266755e-bc2a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Ministero dell'Istruzione, dell'Università e della Ricerca (IT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "17a2ebd9-4899-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ministry of Education (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "36d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "NABA – Nuova Accademia di Belle Arti Milano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6b42c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Nautico  S.Giorgio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3bd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "NYU Florence",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9bf6f4e9-8b75-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Oberschulzentrum Fallmerayer Brixen (TFO Brixen)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "24e6c87e-a566-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Oficina Impresa Sociale Srl (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9a59da1b-241d-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Piazza dei Mestieri - Torino - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a2a94309-a487-e011-969d-0030487d8897",
+		"OrganizationName": "Pico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9e444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Politecnico di Bari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4a9e1b0b-2901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Politecnico di Milano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ab731337-1277-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Polo Scientifico Tecnologico Professionale \"Fermi-Giorgi\" - Lucca - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3f444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Pontificia Universita Antonianum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "44444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Pontificia Universita della Santa Croce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "49444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Pontificia Universita Gregoriana - Pontifical Gregorian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4e444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Pontificia Universita Lateranense",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4dae49f9-7c00-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Pontificia Università San Tommaso d'Aquino (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9bb84a69-a154-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Pontificia Università Urbaniana (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "169e2981-48f6-e711-80fc-000d3af41938",
+		"OrganizationName": "Pontificio Istituto Biblico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0c45e521-b097-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "PONTIFICIO ISTITUTO ORIENTALE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8032a61a-303c-e911-8111-000d3af41938",
+		"OrganizationName": "Pontificio Istituto Teologico Giovanni Paolo II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "93f0bed2-7cc3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Portale Università della Calabria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4e795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Provincia Autonoma di Bolzano Ripartizione lavoro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "93f34b0e-b578-e811-8106-000d3af41938",
+		"OrganizationName": "Queensland Department of Education Schools - Brisbane - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2c795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ripartizione 20 Provincia Autonoma di Bolzano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "45795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ripartizione 9.7 Provincia Autonoma di Bolzano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f1820d25-07e5-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Sant'Anselmo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1f7ce6d2-f8e3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Sapienza University of Rome (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1b22a768-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Scuola delle Trasmissioni e Informatica dell'Esercito Italiano - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "40d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Scuola IMT - Istituzioni -  Mercati -  Tecnologie - Alti Studi - Lucca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "45d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Scuola Lorenzo de' Medici",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "db8ea2b8-1691-e711-80f6-000d3af41938",
+		"OrganizationName": "Scuola Media Michelangelo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "15293296-071a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Scuola Paritaria Lasalle,ITA,6124579",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "facaf951-7757-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Scuola Politecnica di Design SPD (Italia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "029ef7d8-d3c9-e811-810a-000d3af41938",
+		"OrganizationName": "Scuola Secondaria Tomaso Albinoni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "bc444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Scuola Superiore di Studi Universitari e di Perfezionamento Sant'Anna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d304430d-199f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Scuola Superiore Sant'Anna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e3273487-79d7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Scuola Superiore Sant'Anna - Istituto TeCIP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "42767490-0898-de11-8cd1-0030487d8897",
+		"OrganizationName": "Scuola Universitaria Professionale della Svizzera Italiana (ITALIA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e28ba400-efb4-e711-80f7-000d3af41938",
+		"OrganizationName": "Scuole Alle Stimate",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0141c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Scuole annesse al Convitto Colombo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b2e0651e-b4b2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "SDA Bocconi School of Management (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "445149cd-5407-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Section16.5 of the Autonomous Province of Bolzano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ffc12ca8-c3f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Setti Carraro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ff795dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "SIR JAMES HENDERSON SCHOOL SRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "1c444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "SISSA- Scuola Internazionale Superiore di Studi Avanzati",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c4444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "SNS - Scuola Normale Superiore",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b5b0a186-a487-e011-969d-0030487d8897",
+		"OrganizationName": "Spaggiari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "077a5dbd-d0f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "St George's British International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "4cd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "St. John International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "cd604435-c891-e011-969d-0030487d8897",
+		"OrganizationName": "Stato Maggiore dell’Esercito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "53d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "The Bologna Center Johns Hopkins University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "afb60a58-447d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "The English International School of Padua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "17e4d6b2-6f14-e111-a703-f04da23e67f6",
+		"OrganizationName": "Toshiba Italy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5ad248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Touro University -  Rome",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d942c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "United Nations System Staff College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "35444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Università Campus Bio-Medico di Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "67444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita Carlo Cattaneo - LIUC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "09644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università Commerciale Luigi Bocconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3d73dcb7-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Università degli studi  di Brescia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "63d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università degli Studi del Molise",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0d444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi del Sannio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ee601a8f-ba69-e011-971f-0030487d8897",
+		"OrganizationName": "Universita degli Studi della Basilicata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "274662e6-e9b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Università degli studi della Calabria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "53444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi della Tuscia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "54a763dd-0d73-df11-bc53-0030487d8897",
+		"OrganizationName": "Università degli Studi dell'Insubria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fd624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli Studi di Bergamo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6c444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Brescia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7b444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Camerino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "58444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi di Cassino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fe624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli Studi di Catania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "de171d8f-d8d5-de11-baeb-0030487d8896",
+		"OrganizationName": "Università degli studi di Chieti Gabriele D'Annunzio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b2444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Università degli Studi di Enna Kore (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "2adfa85a-51e0-df11-bd73-0030487d8897",
+		"OrganizationName": "Universita degli studi di Ferrara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e1b8c3d5-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Università degli Studi di Ferrara - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3d644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universitá degli studi di Firenze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "527e2956-009e-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Università degli Studi di Firenze",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a3444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Foggia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a8444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Lecce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "80444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Macerata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b7444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Messina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d6d2d6f6-5f4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Università degli studi di Modena a Reggio Emilia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d442c38d-c67d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Università degli Studi di Modena e Reggio Emilia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "12444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi di Napoli \"L'Orientale\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "17444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi di Napoli \"Parthenope\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "86c9914b-f04b-e011-bd14-0030487d8897",
+		"OrganizationName": "Universita degli Studi di Palermo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b4fb260d-19ef-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli Studi di Parma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3f644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli Studi di Pisa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "f9434d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi di Reggio Calabria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "01634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli Studi di Roma Tor Vergata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "0a18d240-1159-df11-b841-0030487d8897",
+		"OrganizationName": "Università degli Studi di Sassari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ca444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Siena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "af527b1b-5cff-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Universita degli studi di Teramo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e3b1fe37-0f94-df11-ad8b-0030487d8897",
+		"OrganizationName": "Università degli studi di Torino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "14634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli studi di Trieste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "76634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università degli studi di Udine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "85444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli Studi di Urbino Carlo Bo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "66a4e7c5-345c-df11-b841-0030487d8897",
+		"OrganizationName": "Universita Degli Studi ecampus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5d444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi europea di Roma",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5aa2af51-0be6-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Università degli studi Guglielmo Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "fe434d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita degli studi Magna Graecia di Catanzaro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "93bea1a7-f66c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Università degli Studi Niccolò Cusano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c5288e49-ef1d-de11-9c12-0030485a8df0",
+		"OrganizationName": "Università degli Studi Roma 3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "57b3a819-304a-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Università degli Studi Roma Tre (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8f444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita del Piemonte Orientale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "df444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita della Valle d'Aosta - Universite de la Vallee d'Aoste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "aa634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università di Bologna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "5837f8c3-6b63-df11-b841-0030487d8897",
+		"OrganizationName": "Universita di Bologna - Polo Scientifico-Didattico di Forli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "ad444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Università di Cagliari",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "edb836d3-c3fb-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Università di Modena e Reggio Emilia - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "94444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita di Scienze Gastronomiche",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e2072ae2-a3c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Università di Trento",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "19047919-1bb5-df11-ad57-0030487d8897",
+		"OrganizationName": "Universita iuav di Venezia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "02634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università IULM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6fd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università per Stranieri Dante Alighieri di Reggio Calabria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "da444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita per Stranieri di Perugia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "d0444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita per Stranieri di Siena",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8a444d1d-f8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Universita Politecnica delle Marche",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "27ca06ca-f768-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Università Pontificia Salesiana, Italy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "99a191a4-e8b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Università Telematica \"LEONARDO da VINCI\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "90d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica delle Scienze Umane - UNISU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "76d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica E-Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "7dd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Giustino Fortunato",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "95d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Guglielmo Marconi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "8074c6c8-816e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Università Telematica Internazionale San Raffaele (Italy)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "9cd248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Internazionale UNINETTUNO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "82d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Italian University Line - IUL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a3d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Pegaso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a8d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica TEL.M.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "89d248a1-8364-e111-8056-f04da23e67f6",
+		"OrganizationName": "Università Telematica Universitas Mercatorum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "e4777e39-f639-e011-b1e1-0030487d8897",
+		"OrganizationName": "Universita Vita-Salute San Raffaele",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "a42fb105-5d93-df11-ad8b-0030487d8897",
+		"OrganizationName": "Universitas Mercatorum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "3de5c212-346c-e011-971f-0030487d8897",
+		"OrganizationName": "University of Basilicata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "c0634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Padua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "88b5d42e-6545-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Pavia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "52615d82-ee74-e011-969d-0030487d8897",
+		"OrganizationName": "University of Torino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "561d83f3-2042-e711-80ef-000d3af41938",
+		"OrganizationName": "University of Udine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "6f411321-7b62-df11-b841-0030487d8897",
+		"OrganizationName": "University of Venice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ITA",
+		"InstitutionID": "b6d7bd2e-07bd-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Vodafone Italy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

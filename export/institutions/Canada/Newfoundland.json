@@ -1,0 +1,90 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "363c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "CDI College of Business & Technology",
+		"ProvinceCode": "BC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "a2368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern College of Applied Arts, Technology and Continuing Education",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "00ae5130-5a24-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Fisheries and Marine Institute of Memorial University of Newfoundland",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "353c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Keyin College - Store",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "ddd9a836-73e7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Marine Institute (Memorial University)",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "b2368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marine Institute St. John's",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "84368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Memorial University of Newfoundland",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "4290538f-2ecd-de11-baeb-0030487d8896",
+		"OrganizationName": "Meritus University",
+		"ProvinceCode": "NB",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "c6368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sir Wilfred Grenfell College",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "10808a62-f8a4-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Western College",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CAN",
+		"InstitutionID": "9f8626b9-bf7a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Western College - Microsoft Imagine",
+		"ProvinceCode": "NL",
+		"SubsectorCode": "education_college_university"
+	}
+]

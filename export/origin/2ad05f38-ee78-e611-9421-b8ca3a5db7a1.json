@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "2ad05f38-ee78-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "North Slope Borough S.D.",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2cd05f38-ee78-e611-9421-b8ca3a5db7a1",
+		"WebStoreName": "North Slope Borough S.D.",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2cd05f38-ee78-e611-9421-b8ca3a5db7a1"
+	}
+]

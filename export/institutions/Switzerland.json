@@ -1,0 +1,2994 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "48d2719b-a649-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "ABB Technikerschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "bda2e40d-928f-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Akademie St. Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "168d2608-6569-e111-a407-f04da23e67f6",
+		"OrganizationName": "Alta Scuola Pedagogica Ticin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "415d5a45-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Band-Genossenschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "62e20f90-13ce-e811-810b-000d3af41938",
+		"OrganizationName": "BBZ Schaffhausen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "87da98b6-270e-ea11-8124-000d3af41938",
+		"OrganizationName": "Bénédict school in Lucerne (Benedict-Schule Luzern)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "81644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Berner Fachhochschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ba5d5c8e-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Berner Fachhochschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "89695857-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Beruf Zug",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b2f49ebb-bcd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Berufsbildung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9a90524b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsbildung Baden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6b92524b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsbildungsschule Winterthur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6dc0f3da-b953-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Berufsbildungsschule Winterthur - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a3ea246b-f39e-e711-80f6-000d3af41938",
+		"OrganizationName": "Berufsbildungszentrum BBZ Biel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "eeb1a07b-f3f2-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Berufsbildungszentrum IDM (formally Schlossbergschule - Spiez)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7594524b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsbildungszentrum Weinfelden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "85e78b75-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsbildungszentrum WIT Sursee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a46b5857-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsfachschule Langenthal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "93675857-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsfachschule Oberwallis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e8081687-4dc4-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Berufsfachschule Uster",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "300f9c04-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Berufskolleg des Oberwallis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6f9c505d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsschule Aarau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c16d7bd6-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Berufsschule fuer Gestaltung Zurich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5951d3c5-1f94-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bezirksschule Fahrwangen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fb092828-f586-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "BFB - Bildung Formation Biel-Bienne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7909a6a8-18e1-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Bildungsdepartement des Kanton St.Gallen - St. Gallen Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "392b841c-7974-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Bildungsdepartement Luzern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dd92c4ec-3593-df11-ad8b-0030487d8897",
+		"OrganizationName": "Bildungsdirektion Kanton Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2a9e505d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bildungszentrum für Technik Frauenfeld",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4b1d10f8-bb7d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Bildungszentrum für Wirtschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f85b040e-48b9-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Bildungszentrum Interlaken bzi - Interlaken - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0e3d3b90-9984-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Bildungszentrum kvBL (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1b2aeab8-2992-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Brüggli (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ce0701c2-24b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Bundesamt für Sport BASPO (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2e24f985-5db3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Business School Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "af11356b-baaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "bzb Weiterbildung Berufs- und Weiterbildungszentrum Buchs SG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e6c4cdf6-9a01-ea11-8124-000d3af41938",
+		"OrganizationName": "Campus Muristalden AG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "74011652-5507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cantonal School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1f0b3cb8-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Centre de formation IDEC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4e7d91a5-5eaf-e711-80f7-000d3af41938",
+		"OrganizationName": "Centre de formation professionnelle Berne francophone",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5f975842-5db3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Centre de Formation Professionnelle Santé et Social (CFPS)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4863e18d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Centre de Formation Professionnelle Technique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9144f3c4-c4b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Centre Interrégional de Formation des Montagnes Neuchâteloises (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dfb2fe83-4f91-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Centre Professionnel du Littoral Neuchât",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c1a589ca-f76b-de11-b7f9-0030487d8896",
+		"OrganizationName": "Centre Professionnel du Nord Vaudois (CPNV), Informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fe426e69-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Centre Professionnele du Nord Vaudois",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d444b958-ea15-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Centre Romand de Formation Continue",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7db4360a-6f5b-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Centre Suisse d'Electronique et Microtechnique SA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "66d34863-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "CERN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1c071db8-5524-e211-a76f-f04da23e67f6",
+		"OrganizationName": "César Ritz Colleges Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cccf2955-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "CFPT- Ecoled'informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8990db0e-d1c9-e111-971c-f04da23e67f6",
+		"OrganizationName": "CHUV - University Hospital Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0dd54863-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "CIFOM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b3de0dfc-8302-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Collège de Bagnes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3cd38f5b-fbe5-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Collège du Renard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "42dfdde6-e925-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Come-2-IT AG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d3c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Conservatorio della Svizzera italiana -  Lugano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "99d14863-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "CPAI-JB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "03415002-fc3b-e811-8103-000d3af41938",
+		"OrganizationName": "CREA Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "70894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Crypto AG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9db3dc88-3793-df11-ad8b-0030487d8897",
+		"OrganizationName": "Département de I'instruction publique Service Ecole-Médias SEM-Logistique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3826d984-ec7c-e111-981b-f04da23e67f6",
+		"OrganizationName": "Division Technique du CEJEF - Service Informatique de la DIVTEC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "64b0936f-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "DIVTEC EST",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1131e15b-531d-df11-856f-0030487d8897",
+		"OrganizationName": "DO NOT USE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "acd6da6b-416b-e011-971f-0030487d8897",
+		"OrganizationName": "EAWAG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f2b3936f-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "EB Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b0da3658-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "EB Zürich - Informatik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3bb2936f-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "EBZ Effretikon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e62da536-a42b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Ardévaz - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e462e2b7-f8ce-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ecole cantonale d’art de Lausanne - ECAL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d8c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ecole cantonale d'art du Valais -  Sierre ECAV",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cfcf2955-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole des métiers de Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "37e98b75-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole des Métiers du Valais",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "129effc4-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "École d'ingénieurs de Changins",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1115e099-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole d'ingénieurs de Genève HES-SO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5f19b38f-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "École d'ingénieurs et d'architectes de Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "98cc6655-8e69-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Hoteliere de Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3d654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ecole Hoteliere de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fff4314e-0cbd-df11-859b-0030487d8897",
+		"OrganizationName": "École Hôtelière de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e9d8eac3-fe80-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Ecole Internationale de Genève - Campus de La Grande Boissière",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "44624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Ecole Polytechnique Fédérale de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "78bfcc2d-7bd4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Ecole Primaire de Saillon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d2cf2955-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole professionnelle artisanale et industrielle de Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "29eb8b75-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Professionnelle Commerciale de Nyon- EPCN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "43a18d7b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Professionnelle Epsic",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9eed6d88-477d-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Professionnelle Technique et des Métiers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "37d46c2d-dfcb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ecole Secondaire du Bas de la Vallée - Malleray",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0b92a405-e93c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Ecole secondaire Malleray",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c84134be-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Supérieure d’Informatique de Gestion",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f104d5f4-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Superieure du Canton de Neuchatel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "01e19881-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Technique de la Vallée de Joux",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fca48d7b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ecole Technique Des Métiers de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7ff7c4a6-e780-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Ecoles professionnelles - DIP Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4b75ca5d-3690-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "educa.ch - Schweizer Medieninstitut für Bildung und Kultur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "32e961dc-19b5-df11-ad57-0030487d8897",
+		"OrganizationName": "Eidg. Forschungsanstalt WSL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "81b2fe99-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Eidgenössische Forschungsanstalt für Wald - Birmensdorf - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2cfaf931-2880-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Eidgenössische Hochschule für Sport Magglingen EHSM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ddc0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Eidgenössische Technische Hochschule Zürich ETHZ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1965b1fc-e3ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Eidgenössisches Hochschulinstitut für Berufsbildung EHB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "41654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Eldgenoassische Technische Hocnschule Zurich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2c60c0e8-4438-e011-b1e1-0030487d8897",
+		"OrganizationName": "EMPA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1ca38d7b-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "ERACOM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "efa59566-580e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Erziehungsdirektion des Kanton Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "31870119-3693-df11-ad8b-0030487d8897",
+		"OrganizationName": "Etat de Neuchâtel Département de L'Instruction Publique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "60b88a35-3693-df11-ad8b-0030487d8897",
+		"OrganizationName": "Etat de Vaud - UID - DFJ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "421d4cda-873d-df11-b4ab-0030487d8897",
+		"OrganizationName": "ETH Informatk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0e644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "ETH Zurich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "70c259a3-7c6c-e111-a407-f04da23e67f6",
+		"OrganizationName": "ETH Zurich - ETH Zentrum and Hoenggerberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ece29881-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "European University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d89044e3-2365-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Evangelische Mittelschule Schiers",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "450d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Fachhochschule Nordwestschweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e2c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Nordwestschweiz, FHNW",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3f0d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Fachhochschule Ostschweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e7c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Fachhochschule Ostschweiz -  FHO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ecc0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Facoltà di Teologia di Lugano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f3681c43-e620-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Fernfachhochschule Schweiz (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "265fe18d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "FHS St. Gallen Hochschule für Angewandte Wissenschaften",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e8250417-0197-e711-80f6-000d3af41938",
+		"OrganizationName": "FÖRDERSCHULE FISCHINGEN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4e141290-3f85-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Formation et Emploi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c2caf900-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Formation universitaire à distance- Suisse",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f1c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Franklin College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "432ee47f-8d7b-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Friedrich Miescher Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dd9939ac-09da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Gemeindeschule Engelberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "47a7f40c-5624-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Geneva School of Diplomacy and International Relations (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c893d993-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gewerblich Industrielle Berufsschule Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6a96d993-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gewerblich Industrielle Berufsschule THUN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5b98d993-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gewerblich Industrielle Bildungszentrum Zug",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "53644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Gewerblich Industrielle Bildungszentrum Zug",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3661e18d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gewerbliche Berufsschule Chur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7152e4eb-4667-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Gewerbliche Berufsschule Wetzikon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9942dd71-4277-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Gewerbliche und Industrielle Berufsfachschule GIBS -  Fribourg - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e5714127-c123-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "da06d5f4-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gewerblich-industrielle Berufsfachschule Muttenz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8abba6a1-0572-de11-b7f9-0030487d8896",
+		"OrganizationName": "Glion Institute of Higher Education (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f6c0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Graduate Institute of International and Development Studies -  Geneva -  IHEID",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "57c388d5-a13c-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Gymnasium Biel-Seeland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "82ca1306-d473-df11-bc53-0030487d8897",
+		"OrganizationName": "Haute École Arc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "83e43e45-ebbc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école Arc - Arts appliqués, La Chaux-de-Fonds",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "09a00091-f2bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école Arc - Economie, Neuchâtel - Delémont",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a6576b4f-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école Arc - Ingénierie, St-Imier - Le Locle - Porrentruy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "67906464-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école Arc - Santé, Delémont - Neuchâtel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9be9cef6-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école d'art et de design, Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4a55a753-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école d'art et de design, Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fbc0d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école d'art et de design -  Lausanne ECAL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "00c1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école d'arts et de design -  Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "96ff4b16-f4bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de gestion - Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5f572ea9-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de gestion Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a26bdf9f-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute école de gestion Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f5f4cdae-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute Ecole de Musique du Canton de Vaud Conservatoire de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "05c1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école de musique de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "87154452-f4bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de musique, Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5a3a30b7-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de santé Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cf6ddf9f-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute école de santé Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "16dc5569-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute Ecole de Santé Vaud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0a1fb729-f4bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de santé, Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d33a4e9a-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de travail social et de la santé, Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0c088f3e-f4bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école de travail social, Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d1ee9d40-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5013e099-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b9f12aa6-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute École Du Paysage d'Ingenierie Et d'Architecture De Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b16d55db-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école du paysage, d’ingénierie et d’architecture de Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8e2cd8ce-f3bc-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école fribourgeoise de travail social, Givisiez",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "81d802d4-45dc-e711-80fa-000d3af41938",
+		"OrganizationName": "Haute Ecole Pedagogique Berne-Jura-Neuchatel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0ac1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école pédagogique des cantons de Berne -  du Jura et de Neuchâtel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1b8d2608-6569-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute école pédagogique du canton de Vaud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0fc1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école pédagogique du Valais",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "14c1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haute école pédagogique fribourgeoise",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "da644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Haute Ecole Specialisée de Suisse Occidentale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f08625ac-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haute Ecole Valaisanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cd55d905-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Haute école valaisanne, Sion - Sierre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f1ee3c37-00ff-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "HEIG-VD",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8fadf4fb-6309-e211-bd05-f04da23e67f6",
+		"OrganizationName": "HEIG-VD - HEIG-VD",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3c4ddfa1-2bbf-df11-859b-0030487d8897",
+		"OrganizationName": "HEIG-VD Haute Ecole d'Ingenierie et de gestion du Canton de Vaud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a68b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "HES-SO - Haute école spécialisée de Suisse occidentale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4dd796a1-9679-e111-a407-f04da23e67f6",
+		"OrganizationName": "HES-SO Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5611e099-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "HES-SO Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f0ff668a-2bbf-df11-859b-0030487d8897",
+		"OrganizationName": "HES-SO Fribourg Service Informatique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "11a0505d-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "HFU-Sekretariat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "19c1d13a-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hochschule der Künste Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "12e495de-f130-df11-b4ab-0030487d8897",
+		"OrganizationName": "Hochschule Deutschschweiz DA Universitydesk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "908b35b2-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hochschule fuer Technik und Wirtschaft Chur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fd55cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hochschule für Gestaltung und Kunst -  Basel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "bb8a25ac-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hochschule Für Technik Rapperswil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c722ab4b-bf5e-e011-971f-0030487d8897",
+		"OrganizationName": "Hochschule fur Technik Rapperswil (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7a8c25ac-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hochschule für Technik Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "570d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Hochschule Liechtenstein",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2d0d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Hochschule Luzern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0256cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Hochschule Luzern -  HSLU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c2fc5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Hochschule Luzern - Luzern Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e6fbfd27-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Hochschule Wallis, Sitten - Siders",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "145445d0-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Höhere Fachschule für Technik (Informatik)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7fd0406a-f173-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Höhere Fachschule Uster (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8c90db0e-d1c9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Hôpitaux Universitaires de Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "049346d4-9a29-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Hotel Institute Montreux",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b365277f-883d-df11-b4ab-0030487d8897",
+		"OrganizationName": "HSR Hochschule für Technik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6521e481-41fd-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "HSR Hochschule für Technik Rapperswil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f330048a-2f2a-e011-b71d-0030487d8897",
+		"OrganizationName": "HWZ University of Applied Sciences in Business Administration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "438d35b2-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "ibW Höhere Fachschule Südostschweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9c073cb8-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "IBZ Schulen für Technik Informatik Wirtschaft",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "406cbdec-33a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "ICT Berufsfachschulen Kanton Thurgau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d841cf1f-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "IDEC École supérieure d'informatique - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "af8b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "IDIAP - Idiap Research Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "73894305-81c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "IFA Weiterbildung AG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1f0f9c04-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "IMD",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e13c34be-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "IMD International",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dad6bd5e-26a1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "IMD International",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "75093cb8-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Informatik Berufsbildung Schweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6547f71b-0b53-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Insel Gruppe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b48b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Inselspital - Universitätsspital Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0756cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Institut de hautes études en administration publique -  Lausanne -  IDHEAP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "217ba859-883d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Institut de hautes études internationales",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e2644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Institut Economie & Tourisme",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "07408480-0bbd-df11-859b-0030487d8897",
+		"OrganizationName": "Institut et Haute Ecole de La Santé La Source",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3db3acf0-2a2a-e011-b71d-0030487d8897",
+		"OrganizationName": "Institut fur Gemeindebau und Weltmission",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ab3d9be1-bd1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Institut für Kinder-, Jugendlichen- und Familientherapie Luzern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0c56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Institut Universitaire Kurt Bösch -  Sion -  IUKB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "bd3f34be-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute of Information Management (University of St.Gallen)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1156cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Interkantonale Hochschule für Heilpädagogik Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "579e1bfe-a4cb-e711-80f9-000d3af41938",
+		"OrganizationName": "International Management Institute Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7f382467-51bb-e711-80f7-000d3af41938",
+		"OrganizationName": "Juventus Gruppe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ae886eba-c28c-de11-8cd1-0030487d8897",
+		"OrganizationName": "Kalaidos Bildungsgruppe Schweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4b0d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Kalaidos Fachhochschule Schweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8cc7d9e7-acb8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Kanton St.Gallen - Bildungsdepartement",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "219833c4-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kantonale Maturitätsschule für Erwachsene Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "19550e02-2064-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Kantonale Mittelschule Uri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e49933c4-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kantonsschule am Brühl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "489633c4-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kantonsschule Buelrain",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a7d63eca-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kantonsschule Hottingen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6bd994ba-b190-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Kantonsschule Kreuzlingen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "095ee053-1270-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Kantonsschule Olten (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a7e08e7e-fe93-e711-80f6-000d3af41938",
+		"OrganizationName": "Kantonsschule Rychenberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3c7f8f1e-14da-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Kantonsschule Solothurn (Switzerland) - KVC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7194296a-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Kantonsschule St Gallen - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5b992c9a-96fc-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Kantonsschule Trogen - Inactive",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "23bc33c9-db18-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Kantonsschule Wil (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f4a47739-900d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kantonsschule Zug",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "809607d9-af90-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Kinderspital Zürich - Eleonorenstiftung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fa90e449-cec0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kollegium St. Michael - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2f328a80-6275-e811-8106-000d3af41938",
+		"OrganizationName": "Le Rosey",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d27efa05-ee6f-df11-b841-0030487d8897",
+		"OrganizationName": "L'Ecole de Changins",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "510d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Les Roches Gruyere",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "082fed2b-a3b6-df11-ad57-0030487d8897",
+		"OrganizationName": "Les Roches International school of hotel management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "280f9c04-25f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Leysin American School SA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ad00f206-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Libera Università Delgi Studi Di Scienze Umane E Tecnologiche",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1656cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lucerne School of Art and Design",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1b56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Lucerne School of Music",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9614e3ff-bcd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Lugnetgymnasiet Falu Kommun",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e7cf2955-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lycée technique Baptiste Savoye",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "06b534b5-ec81-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "MSW-Winterthur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2256cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Musikakademie Hochschule für Musik Basel und Schola Cantorum Basiliensis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ce137490-3377-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "MUTUELLE D'ETUDES SECONDAIRES (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f8a2faca-b34c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Neue Mittelschule Mooskirchen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "de4650a2-7f28-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "NMS Bern (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b7a8d5ee-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "NTB Hochschule für Technik Buchs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b665d7f2-a83e-e011-b1e1-0030487d8897",
+		"OrganizationName": "NTB Interstate University of Applied Sciences of Technology (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ee3a991d-65c5-e711-80f9-000d3af41938",
+		"OrganizationName": "Oberstufe Weesen-Amden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "525502d0-d796-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Oberstufe-Primarstufe Trimmis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2956cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f2aad5ee-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule des Kantons St.Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2e56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Graubünden",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9eac61ac-d3dd-e211-9000-f04da23fc520",
+		"OrganizationName": "Pädagogische Hochschule Luzern (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3556cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Nordwestschweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3c56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Schaffhausen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6d1268f3-d1c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Pädagogische Hochschule St.Gallen - Campus of  St.Gallen - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4356cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Thurgau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4856cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Zentralschweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a5320883-50c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Pädagogische Hochschule Zug",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c37b5d26-9772-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Pädagogische Hochschule Zug - Zug - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4f56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pädagogische Hochschule Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b98b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Paul Scherrer Institut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "4de47ef5-14bc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "PHTG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "29122f8f-ef14-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Primarschule Attinghausen - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9c65287b-0256-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Primarschule Lommis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "af775873-ec18-e011-b71d-0030487d8897",
+		"OrganizationName": "Robert Kennedy College (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "08d02955-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Roche Diagnostics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cdca7435-38c9-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "SAE Institute Genève",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "849064f7-823a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Satom IT & Learning Solutions (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ce9501fb-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "SBS Swiss Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "2f01f83b-3775-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Schule Altstätten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "48227efc-bab9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Schule Erstfeld",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b18c7f0c-e5e9-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Schule Hasle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "b11e64e5-82c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Schule Letten (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c4ffc6e4-32d2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Schule Nottwil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6ba2e73c-ff93-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Schule Sargans",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0509f4ee-2f0c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Schule Stans - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "88552acf-99ca-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Schule Uzwil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ea5f59d7-b24c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Schulen Gemeinde Pfäffikon ZH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "551316b2-37ca-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Schulen Gommiswald",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c5cf2cb2-72c0-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Schulen Hünenberg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ec5a53e0-5eb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Schulen LEDO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "de91b92c-78b3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Schulen Schächental - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "cdebb3c5-fa10-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Schulgemeinde Emmetten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ae9fa2bf-3aca-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Schulgemeinde Meilen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5d0d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Schweizer Hochschule fur Logopadie Rorschach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5656cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Schweizer Hochschule für Logopädie Rorschach SHLR",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "78d60762-67ea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Schweizerische Technische Fachschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "be8b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Schweizerischer Nationalfonds",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "106bdb08-381a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Schweizerisches Netzwerk fur Bildungsinnovation (SNBI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a6ba3f0b-ce8c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Schweizerisches Rotes Kreuz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dbe58b75-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Scuola Superiore di Informatica di Gestione",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5d56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Scuola Teatro Dimitri -  Verscio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "330d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Scuola universitaria professionale della Svizzera italiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c38b1227-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Scuola universitaria professionale della Svizzera italiana (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3d052a00-22de-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Seeland Gymnasium Biel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "1df9f11a-9a60-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Sekundarschule Andelfingen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "35bf5c7d-8191-e711-80f6-000d3af41938",
+		"OrganizationName": "Sekundarschule Birmensdorf-Aesch",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "28eaaeaf-3319-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Sekundarschule Dübendorf-Schwerzenbach",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "31a67fa1-beda-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "SEM-Logistique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3722f30a-d796-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Stadt Chur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "e67db446-31ce-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Stadt St. Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d1ee8261-d99d-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "STH Basel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3d519a40-4e56-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Stiftsschule Einsiedeln",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c599cfe0-4504-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Stiftung Albisbrunn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6656cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Stiftung Universitäre Fernstudien Schweiz -  Brig",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f62ee712-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stiftung Wirtschaftsinformatikschule Schweiz WISS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a1948cf4-537f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Stiftung WISS - Wirtschaftsinformatikschule Schweiz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "05b2d2da-a326-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Strickhof",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6d56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Swiss Federal Institute for Vocational Education and Training -  SFIVET",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0333d60a-377e-df11-bc53-0030487d8897",
+		"OrganizationName": "Swiss Management Centre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f78f529e-5e3b-e011-b1e1-0030487d8897",
+		"OrganizationName": "Swiss National Science Foundation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "75e75106-1a85-e811-8108-000d3af41938",
+		"OrganizationName": "TASIS The American School in Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d1b31b2f-e78b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Technikerschule HF Zürich (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c39701fb-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technische Berufsschule Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "eb5545d0-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technische Fachschule Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d5d53977-75df-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Technische Fachschule Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8f9901fb-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "TEKO Schweizerische Fachschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7656cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Theologische Hochschule Chur (THC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "26925bdc-e429-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Theresianum Ingenbohl (Swizerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5e3a0845-f23e-e211-ad71-f04da23e67f6",
+		"OrganizationName": "UGSM - Monarch Business School Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3e644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Università della Svizzera Italiana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ee38bc38-883d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Universität Basel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "74abc6b6-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universität Basel - Basel - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "61bff176-0210-de11-9c12-0030485a8df0",
+		"OrganizationName": "Universität Bern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d2b37cc5-4bbb-df11-859b-0030487d8897",
+		"OrganizationName": "Universitat Bern - Institut fur Geologie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "87644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universität Freiburg - CH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7fccf900-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universität Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7f56cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universität Luzern",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "88644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universitat St. Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "7282c7fb-2ea8-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universität St.Gallen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c1644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universität Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "967875fa-4320-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universitatsspital Basel (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8f90db0e-d1c9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Universitätsspital Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "21e6461b-883d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Université de Fribourg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f9634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Université de Genève - Genève 4 - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "30cef900-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Université de Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "9a634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Université de Neuchâtel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "168925ac-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "University Lucerne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a7634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Applied Sciences (SUPSI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "309d36e5-6b30-df11-b4ab-0030487d8897",
+		"OrganizationName": "University of Applied Sciences Northwestern Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "80f32aa6-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Applied Sciences Western Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "61cd5231-d07f-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Applied Sciences, Western Switzerland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "fe634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Basel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "27a7aa15-464d-df11-b56b-0030487d8897",
+		"OrganizationName": "University of Geneva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f4634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Lausanne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a5945ffe-d57f-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Lugano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3ea0088e-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of Zurich - Zurich Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "aec41507-856d-df11-b841-0030487d8897",
+		"OrganizationName": "University of Zurich (Switzerland)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "d802f206-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Zurich Brain Research Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "a77cf936-6e0e-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Verein Brüggli - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "31a50ab0-bbd6-e711-80f9-000d3af41938",
+		"OrganizationName": "Verein Zuger Berufsbildungs-Verbund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "5af8ee0c-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Verein zur Förderung von Elektronik- und Informatik-Berufen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "57519522-6dbe-e711-80f7-000d3af41938",
+		"OrganizationName": "Volksschulgemeinde Amriswil-Hefenhofen-Sommeri",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c8faee0c-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "VSRT- Berufsbildungszentrum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "dae49881-7e7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "WZ Hochschule für Wirtschaft Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "0f175085-55c9-e711-80f9-000d3af41938",
+		"OrganizationName": "ZAG - Zentrum für Ausbildung im Gesundheitswesen Kanton Zürich",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "ac30e712-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Zentrum für berufliche Weiterbildung",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "390d5794-c8c4-df11-859b-0030487d8897",
+		"OrganizationName": "Zürcher Fachhochschule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "8656cc40-8164-e111-8056-f04da23e67f6",
+		"OrganizationName": "Zürcher Hochschule der Künste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f8185a1e-f330-df11-b4ab-0030487d8897",
+		"OrganizationName": "Zürcher Hochschule für Angewandte Wissenschaften",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "6e32e712-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Zürcher Hochschule für Angewandte Wissenschaften",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "f886e618-7f7a-e111-a407-f04da23e67f6",
+		"OrganizationName": "Zürcher Lehrbetriebsverband ICT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3fa601b8-f68f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Zürcher Lehrbetriebsverband ICT - Ausbildungszentrum - VMAP Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "c7b6386b-0356-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Zurich International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CHE",
+		"InstitutionID": "3c624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Zurich University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

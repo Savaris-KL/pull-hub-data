@@ -1,0 +1,2858 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "11787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Aalesund University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "50779656-6842-e811-8103-000d3af41938",
+		"OrganizationName": "Akademiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "15eea2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Akershus Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "08dbb94e-6047-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Akershus Fylkeskommune Utdanning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9ceea2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ålesund videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a6a7a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Alta kommune Barne- og ungesektoren",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e03af268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alta Kristne Grunnskole BA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2aefa2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Andebu kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "89645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Ansgar Teologiske Høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9a3af268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "AOF NORGE, AVD ROMERIKE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b5efa2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Årdal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "96645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Arkitektur- og designhøgskolen i Oslo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ea6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Arkitektur- og designhøgskolen i Oslo - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9b645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Arkivakademiet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "546361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ås videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "35f0a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Åseral Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a92a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Asker kommune barnehage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9ef0a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Askvoll Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5a6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Åssiden Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a0645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Atlantis medisinske høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c3f49041-f643-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Aust-Agder Fylkeskommune (Møglestu Videregående Skole)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f8d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Austrheim Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0ff1a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Averøy kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a139f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Balsfjord kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "606361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bamble Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a5645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Barratt Due musikkinstitutt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d5d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Båtsfjord kommunale videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "aa645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Bergen Arkitekt Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "334266dc-5507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bergen Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a828d600-d418-e011-b71d-0030487d8897",
+		"OrganizationName": "Bergen Kommune - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e0b2dbbc-df57-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Bergen Tekniske Fagskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9d7bbd41-ba5e-e011-971f-0030487d8897",
+		"OrganizationName": "Bergen University College (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bc151735-c694-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bergsbygda Montessoriskole (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "89f1a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Berlevåg Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "af645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Betanien diakonale høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "693b5943-7b23-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "BI Norwegian Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "92644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "BI Norwegian School of Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0d51193d-eb1e-de11-9c12-0030485a8df0",
+		"OrganizationName": "Bioforsk Norwegian Institute for Agricultural and Environmental Research",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b5645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Bjørknes Høyskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "656361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bleiker Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c8648719-e5aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Bleiker Videregående Skole - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e41574c5-6e74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bodin VGS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3c01e09c-fc51-e711-80f0-000d3af41938",
+		"OrganizationName": "Borgund Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "706361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Breivika Tekniske Fagskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dda7a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bremanger Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d2bf6ef3-2930-df11-b4ab-0030487d8897",
+		"OrganizationName": "Buskerud Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6b339d06-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Buskerud Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e8f1a2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bygland Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ba645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Campus Kristiania",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4ca7a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Chr. Michelsen Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9e02a018-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "DDØ - Vegårshei Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bf645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Den norske Eurytmihøyskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c4645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Det teologiske Menighetsfakultet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c9645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Diakonhjemmet Høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "756361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Dokka videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7caba4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Drammen Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6b908f05-a50f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Drømtorp Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ffe29ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Dronning Mauds Minne Høgskolen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "beaba4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Eid kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "1ca8a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Elverum Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "39aca4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Elvetun skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "531695eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fagskolen i Alesund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4e9421fe-faa5-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Fagskolen Innlandet (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7a4a6cfd-0218-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Fagskulen i Sogn og Fjordane (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b52a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Farsund Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "83aca4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fauske kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c96438c6-3e63-df11-b841-0030487d8897",
+		"OrganizationName": "Finnmark fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9d2a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Flekkefjord kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "21c195ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Flora Vidaregåande Skule - Floro - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "be3af268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Folkehøgskolen Sørlandet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ce645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Forsvaret",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "35fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Forsvarets Logistikkorganisasjon /IKT - kategori 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "407c3910-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Forsvarets Logistikkorganisasjon IKT - kategori 1",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e7aca4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fosnes kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7a6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gand Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "50ada4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "GJEMNES KOMMUNE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "856361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gjesdal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8b6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gjøvik University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a4ada4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Gjøvik videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ecada4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Granvin barne- og ungdomsskule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "906361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Grefsen videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "956361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Greveskogen Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "eaf8a493-0f06-df11-85a5-0030487d8897",
+		"OrganizationName": "Greveskogen Videregående Skole - IT-Department",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2daea4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "HADSEL KOMMUNE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dd7a6f94-1948-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Hafstad vidaregåande skule (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "14787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Hamar katedralskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d3645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Haraldsplass Diakonale Høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9e9bf762-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hardbakke Skule/ Solund Ungdomsskule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "71aea4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hareid kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9a6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Haugaland videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ca4d897a-bea9-ea11-812c-000d3af41938",
+		"OrganizationName": "Haugesund kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4bfd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hedmark Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3a7c3910-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hedmark IKT Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0bc25af3-c7ec-df11-9c87-0030487d8897",
+		"OrganizationName": "Hedmark University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "65ea37cc-9b85-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Herøy vidaregåande skule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9f6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hetland Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dbd38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Hof kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d8645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Ålesund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a46361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Høgskolen I Bergen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dd645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Buskerud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e2645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Finnmark",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e7645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Gjøvik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ee645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Harstad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f3645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Hedmark",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2d72b9c2-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Høgskolen i Hedmark - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fa645d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Lillehammer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "01655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Molde",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "08655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Narvik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0f655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Nesna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "16655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Nord-Trøndelag - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "1b655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Oslo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "96195df9-5bbe-e211-be21-f04da23e67f4",
+		"OrganizationName": "Høgskolen I Oslo Akershus (OsloMet - Oslo Metropolitan University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "22655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Oslo og Akershus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ae6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hogskolen i Sor-Trondelag",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "29655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Sør-Trøndelag",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "30655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Vestfold",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "35655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen i Østfold",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3c655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskolen Stord/Haugesund",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "43655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskulen i Sogn og Fjordane",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4b655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høgskulen i Volda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e2683e92-18d8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Høgskulen på Vestlandet - VMAP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8e6b950c-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hordaland Fylkeskommune - Service og samferdsel og IKT-VG3 Sluttopplæring i skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "abaea4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Horten Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "52655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Høyskolen for Ledelse og Teologi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "eaaea4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Hyllestad kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "82f10d31-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IKOMM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b99fda84-4c63-df11-b841-0030487d8897",
+		"OrganizationName": "IKT Aust-Agder Fylkskommune - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3cafa4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "IKT Valdres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a4dc9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "IKT-Agder",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e8dc9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Inderøy kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "132b2850-6011-ea11-8124-000d3af41938",
+		"OrganizationName": "Inland Norway University of Applied Sciences (Høgskolen i Innlandet)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "45fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Innherred Samkommune EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b07527fb-7407-de11-9c12-0030485a8df0",
+		"OrganizationName": "institutt for biomedeisin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b36361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "IT-Akademiet E-LÆRING",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3ffd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Karasjok Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b86361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Karmsund Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ab39f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kokelv Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bd6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kompetansehuset Imente AS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f836f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kompetansehuset Imente Sør as",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "18787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kongsberg videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "59655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Krigsskolen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ecaaa4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kriminalomsorgens It-Tjenester",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c26361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kristen Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4301a018-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kristiansand kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "69a8a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kristiansund Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "70b62fb4-0850-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Krokeide videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "21dd9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "KS - Alstahaug Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "467c3910-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KS - IKT Fjellregionen IKS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "599cf762-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "KS-Berg kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5e655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kunsthøgskolen i Oslo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "63655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kunstøgskolen i Bergen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e82a0227-200c-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Kvadraturen Skolesenter",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ac55edb4-fd81-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Kvadraturen Skolesenter - KRISTIANSAND - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "1b787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kvadraturen videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7add9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kvalsund Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b6dd9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Kvinnherad kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fcdd9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "KVS Lyngdal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3ade9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lærdal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8cde9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Larvik Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c4de9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Larvik Kommune Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0b5ef6dc-4cfd-df11-9c87-0030487d8897",
+		"OrganizationName": "Lillehammer University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "1e787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lista videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "21787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lister videregående skole Studiested Lista",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c76361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lødingen videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e6c095ec-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Lødingen videregående skole - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9af10d31-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Longyearbyen Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "04df9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Lovisenberg diakonale høgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "68655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Luftkrigsskolens Værnes Mil",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "cc6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lundehaugen Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "69fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lyngen Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "217fd866-9a58-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Mailand Videregående skole - Lørenskog - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a2a8a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Mandal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8b2a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Marnardal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3adf9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Måsøy Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "625785d3-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Mehamn Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "441895eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Melhus Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d26361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Melsom videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5dfd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Meråker Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "24787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mesna Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "77df9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Midtre Namdal samkommune barnehage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b536f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Midtre Namdal samkommune, barnehage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6d655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Misjonshøgskolen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "96aaa4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Molde Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d76361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Næringsakademiet Oslo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0ca9a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Namsos kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dc6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Nannestad Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e66361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Narvik Videregaaende skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ef6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Narvik Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b9624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Nes videregående skole - Norway",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b4df9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nesseby Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "852a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Nesset kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "176ddf61-9179-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "NKI Nettstudier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "507c3910-6e1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "NKS - Ernt G. Mortensen Stiftelsen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "eadf9ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "NKS Nettstudier",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "72655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "NLA Høgskolen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7a35111b-298f-e711-80f4-000d3af41938",
+		"OrganizationName": "Nord universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "21e09ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Norddal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fa6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Nord-Gudbrandsdal VGS avd Otta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "58e09ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Nordisk Institutt For Scene-Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "87c7f0f9-e15e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Nordland Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6a6361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "NordlandFylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bc624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Nord-Norsk Pensjonistskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4c04a018-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Nord-Trøndelag Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "77655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Noregs musikkhøgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7c655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Norges Dansehøyskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bd624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Norges Handelshøyskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "81655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Norges Idrettshøgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "036461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Norges Informasjonsteknologiske Høgskole Oslo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a6307db4-369c-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Norges Kreative Høyskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bde09ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Norges Musikkhøgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0d6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Norges Teknisk-Naturvitenskapelige Universitet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a96361ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Norges teknisk-naturvitenskapelige universitet (NTNU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "86655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Norges veterinærhøgskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c79bf762-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Noroff AS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c96bc677-f1ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Noroff Education - Kristiansand - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "734269e0-ac5f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Noroff University College - Kristiansand - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "93d6b2ad-9f4c-df11-b56b-0030487d8897",
+		"OrganizationName": "Norway Counties",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "176461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Norwegian School Of Economics Business Administration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2b634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Norwegian School of Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "59634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Norwegian University of Life Sciences, NMBU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "de58479b-ac86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Norwegian University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "206461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Notodden Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fde09ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Odda Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "256461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ole Vig Vgs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "50a9a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Oppdal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ae1995eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Oppegard kommune Barnehage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "49e19ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Oppland fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a3e19ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ørsta Vidaregåande Skule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "eee19ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "OSEN KOMMUNE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "cc3c103c-5736-e711-80ef-000d3af41938",
+		"OrganizationName": "Oslo by steinerskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e64066dc-5507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oslo Kommune UDE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8e0cb3a7-bc8d-df11-ad8b-0030487d8897",
+		"OrganizationName": "Oslo Kommune Utdanningsetaten",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "31634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Oslo University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "cfd38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Osterøy kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2c6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ostfold College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bde45df5-1098-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Østfold fagskole (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4fe29ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Østfold Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "336461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Øvrebyen Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8236f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Øyatun skule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "386461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Polarsirkelen Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8b655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Politihøgskolen",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "972a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Porsanger Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2ac7042c-2783-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Raelingen Videregaende Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3d6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Rælingen videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "426461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Randaberg Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8ae39ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Raufoss VGS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "94a9a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Re Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bad38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Regionrådet for Hallingdal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "eee39ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Rennebu kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "45e49ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Rennesøy Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c6d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Rindal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d31795eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ringerike Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "1d1995eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Rissa Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9de49ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Roan Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d6a98300-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rogaland Fylkeskommune EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "dc36f268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rognan Ungdomskole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "476461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Romsdal Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "90655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Royal Norwegian Air Force Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4c6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Royal Norwegian Naval Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "191895eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Royken Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "27787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Røyken videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fa19c13e-74bd-e211-be21-f04da23e67f4",
+		"OrganizationName": "Røyken videregående skole - RØYKEN - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "546461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Rud videregaaende skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9a2f531d-aba7-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Rudolf Steiner University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9ee29ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ryfylke IKS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "67e59ce5-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sæbø Skule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ea22b5b2-431a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Saga Innovation AS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "733af268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sameskolen i Hattfjelldal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "95655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sámi University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f0d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Samisk videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e31195eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sande Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e5349d06-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sandefjord Kommune Skole-IKT IT-avd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "481795eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sandefjord Municipality School IKT IT dept",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fc11a46a-fb72-df11-bc53-0030487d8897",
+		"OrganizationName": "Sandefjord Videregaende Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "611295eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sandnes Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2dcda712-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sandnes Kommune EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "596461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sandnes Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d4fb9a14-e794-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Sandvika videregående skole (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a4f99c1e-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sarpsborg Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "636461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Senter for internasjonalisering av utdanning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2a787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sentrum videregående skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "04d48acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Setesdal IKT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "572c2076-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Setesdal Vidaregåande Skule - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5e6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Simula Research Laboratory",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2c7a6146-c6c3-e711-80f9-000d3af41938",
+		"OrganizationName": "SINTEF - Forskning, teknologi og innovasjon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8af10d31-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sirdal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e11295eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Skedsmo Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5e1495eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Skolene i Hole Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "8ca9362d-b6dc-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Skoleskipet Gann (Unge sjømenns kristelige forening)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e2d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Smøla kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0d3bf268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Smyrna Bibelinstitutt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "686461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sogn Videregaende skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6d6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sonans Utdanning",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "6ffd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Sortland VGS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "45369d06-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Sør-Trøndelag Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3c08f2b2-5b1a-e011-b71d-0030487d8897",
+		"OrganizationName": "Sor-Trondelag Fylkeskommune - Sør-Trøndelag Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "cfa9a4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sørum kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "726461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "St. Olav Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "481395eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Statped Nord",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "35735ee2-5507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Stavanger Kommune EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "97eda2d9-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Steinerskoleforbundet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "921795eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stjørdal Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "111595eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stjørdal kommune barnehager",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "20aaa4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Stokke Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4d23343a-1201-df11-85a5-0030487d8897",
+		"OrganizationName": "Strømmen upper secondary school (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "776461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Strommen vgs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "57aaa4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sunndal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7c6461ce-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sunndal Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "533af268-af17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sunnfjord Folkehøgskule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "fc1395eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Surnadal kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "3caba4df-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tana Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "51fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Telemark Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bcf74aeb-eef9-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Telemark University College (TUC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0470805c-71e8-e011-b09a-f04da23e67f6",
+		"OrganizationName": "The Norwegian School of Sport Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "70a00e25-5e00-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Time vidaregåande Skole (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "912a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tingvoll Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f7cf91e2-343a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tomb Videregående Skol",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ca1495eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Treider Fagskoler",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "e4fa9c1e-5607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Troms Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "00c51920-f967-df11-b841-0030487d8897",
+		"OrganizationName": "Troms Fylkeskommune - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bb2a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tromso kommune Barnehage",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "57fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Tromso Kommune EES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "43f9bd84-14fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Tryggheim skular (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "b91895eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tysvær Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5d2df1bc-8eb3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "UiT The Arctic University of Norway",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2fa8a60e-1937-e711-80ef-000d3af41938",
+		"OrganizationName": "Ullern Upper Secondary School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "92f10d31-651f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ulstein High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "af2a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Ulstein kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "2d787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ulstein Videregående Skole",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0073dcb7-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Ulstein Videregående Skole - Ulsteinvik - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9a655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universitetet i Agder",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "9f655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universitetet i Nordland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a4655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universitetet i Stavanger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "aa655d9e-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universitetet i Tromsø",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ad9ebcf8-dbd9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University Centre in Svalbard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "0aa55204-6bff-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "University College of Southeast Norway (Høgskolen i Sørøst-Norge)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "47b89d21-ab0a-df11-85a5-0030487d8897",
+		"OrganizationName": "University of Agder (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "ff634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Bergen - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "bf634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Oslo (Universitetet i Oslo)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "07654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Stavanger",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "286d1f6b-1828-e111-8d82-f04da23e67f6",
+		"OrganizationName": "University of Tromso (Norway)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "63fd9abb-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Vadsø Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "77cfcb89-4d76-e811-8106-000d3af41938",
+		"OrganizationName": "Val Videregående Skole - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a32a90c7-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Våler kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "5e1595eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vanylven kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f41595eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vardø kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "c0d38acd-5333-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Verran Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "4b7bf913-2930-df11-b4ab-0030487d8897",
+		"OrganizationName": "Vest-Agder Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "837c25a9-b04b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Vestfold Fylkeskommune - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f8acadd7-d26f-df11-b841-0030487d8897",
+		"OrganizationName": "Vestfold og Telemark Fylkeskommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "a928106a-aee3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Vestfold University College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "159759d4-2874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Videregående skoler i Oppland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "551995eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Vindafjord Kommune",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "d91695eb-94f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Voss kommune pedagogiske tjenester",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "7268cb1a-2c74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Waagbo.com",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "f903a58b-3656-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Westerdals Oslo ACT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "NOR",
+		"InstitutionID": "025b22d9-87d6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Western Norway University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

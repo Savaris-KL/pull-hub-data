@@ -1,0 +1,106 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "de3d116a-ed56-e911-8113-000d3af41938",
+		"OrganizationName": "Al Musanna College of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "8066994c-0ec3-e211-be21-f04da23e67f4",
+		"OrganizationName": "Alrazi School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "31787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "College of Applied Sciences Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "8dfe3af1-4507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Colleges of Applied Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "0ad6442c-f394-e811-8108-000d3af41938",
+		"OrganizationName": "Dhofar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "8b274637-e886-e911-811a-000d3af41938",
+		"OrganizationName": "German University of Technology in Oman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "cfcf8b6a-0c4f-e911-8113-000d3af41938",
+		"OrganizationName": "Indian School Salalah (Sultanate of Oman)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "982399a3-9d92-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Majan College - Muscat - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "7fdedf01-f0a9-e711-80f7-000d3af41938",
+		"OrganizationName": "Middle East College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "99ec267b-5bc6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Salalah College of Technology (Oman)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "498c4356-031e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Sohar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "8f438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sultan Qaboos University (Oman)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "OMN",
+		"InstitutionID": "5f60e609-9069-e211-a88c-f04da23e67f4",
+		"OrganizationName": "University of Nizwa (Oman)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "a3acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fairbanks North Star School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "dcf91e28-9d8e-e311-93fa-b8ca3a5db7a1",
+		"WebStoreName": "Fairbanks North Star School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=dcf91e28-9d8e-e311-93fa-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "c1bd84e4-41b9-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Fairbanks North Star School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d6e5fd96-48b9-e111-ad8d-f04da23e67f6",
+		"WebStoreName": "Elementary and High School Teacher Discounts on Microsoft Office and Windows",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d6e5fd96-48b9-e111-ad8d-f04da23e67f6"
+	}
+]

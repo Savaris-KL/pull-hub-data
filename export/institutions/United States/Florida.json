@@ -1,0 +1,4642 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "347ecc17-bd16-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "A Beka Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa845086-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "A. Crawford Mosley High School - Technology - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Academy At The Lakes",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67832c39-1623-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Academy for Five Element Acupuncture",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca0c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy for Practical Nursing and Health Occupations",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa8f91b7-ac32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Lakes",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dffb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Academy of the Holy Names",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5603058d-9b20-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Admiral Farragut Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f3f1744-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Advanced Technical Centers",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f719f483-6f52-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "AdventHealth University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a914e3e-90c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Adventure Christian Academy - Tavares - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6040bcb-4708-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Alachua County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b8e74f9-de37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "All Saints Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66581bed-da7a-4fed-bf22-bdb26be64d7a",
+		"OrganizationName": "All Souls Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Allied Health Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed3b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Alpha Institute of the Treasure Coast",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Advanced Technicians Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6b39d5f-75ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "American Heritage School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20a440f7-a24c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "American International School Riyadh - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Medical Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66140541-ffa2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "American Meridian University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d298af9b-313a-4345-ad26-8605a591ba7c",
+		"OrganizationName": "Annunciation Catholic Directory",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f01de47-fc12-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Annunciation Catholic School (FL)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Anthem College - Orlando",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b5644f8-b559-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Anthem Education",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e156a7e-e211-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Coleman Carroll High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2d85803-5f79-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Archimedean Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Argosy University - Sarasota",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80585102-c6c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Arvida Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e82ad80-4f13-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Asa Philip Randolph Academies of Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3761a64-8d38-49b2-955c-b41c86c12c68",
+		"OrganizationName": "Ascension Catholic School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "ATI Enterprises, Inc.",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f16b0409-a788-e011-969d-0030487d8897",
+		"OrganizationName": "Atlantic Coast High School (Jacksonville, FL) - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5490e9fb-754d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Atlantic Institute of Oriental Medicine",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae1005de-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Atlantic Tech Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9fbec62-8f22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Atlantis University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d0b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ave Maria School of Law",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3218a6b9-a5fc-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Ave Maria University - Florida campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "900b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute St. Petersburg and Tallahasse",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58f9f64c-8102-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Aventura City of Excellence School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a40b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aviator College of Aeronautical Science & Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66bb0f82-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Barron Collier High School (Naples, FL) - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Barry University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83c026ef-31d9-e811-810b-000d3af41938",
+		"OrganizationName": "Bartram Trail High School - VMware IT Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d3f4a37-ac58-40dd-afdf-163ed98d2023",
+		"OrganizationName": "Basilica School of St. Paul",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aee937a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bay District Schools- Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef29f908-a740-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Beacon College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "600ee7da-8aaa-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "BELEN JESUIT PREPARATORY SCHOOL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bell Shoals Baptist Church",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fec8675-5fb4-467c-9bc0-6944f9d95227",
+		"OrganizationName": "Berkeley Preparatory School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ffe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bethel Ministries",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd3d30f1-92cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Bethune Cookman University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bethune-Cookman College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d376de65-a241-449f-b706-03bb49c87f32",
+		"OrganizationName": "Bethune-Cookman University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbe1e447-267d-e711-80f3-000d3af41938",
+		"OrganizationName": "Bishop John J. Snyder High Schoo",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e2ed22c-3f42-466a-b5f0-776f2ebb94a9",
+		"OrganizationName": "Bishop Moore High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecf6513a-083a-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bishop Verot High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5024f260-bd95-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Bradenton Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb9344d5-8a02-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Breakfast Point Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e60e6472-89ef-4406-9530-d060fa3a3005",
+		"OrganizationName": "Brevard Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Brevard Community College - Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Brevard County Libraries",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "623c1a4d-e43a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Brevard County Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9ee92a5-8562-df11-b841-0030487d8897",
+		"OrganizationName": "Brevard Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0cff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brewster Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bristow Academy (formerly Helicopter Adventures Inc- HAI)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b93c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Broward College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85b1389a-63b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Broward County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9afd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Calvary Christian High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9864396e-c032-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Canterbury School of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cardinal Mooney Catholic High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carlos Albizu University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dac10291-f874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Carlos Albizu University - Miami Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcb995d0-4dad-4bc6-ad8d-021c9f8bd1be",
+		"OrganizationName": "Carrollton School of the Sacred Heart",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c0c6ec6-1402-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "CBT College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c233f61-47ac-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Center for Information Dominance",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b68c2a8e-00e4-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Center for Information Dominance - Florida Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Center for Technology Training",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e88ce176-bf1f-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Center of Cinematography, Arts and Television",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Florida Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e792c95a-b34d-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Charles W Flanagan High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "139625e5-f440-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Charlotte County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a59614c-5db5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Chi Institute of Traditional Chinese Veterinary Medicine",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ccbdd86-b845-4a89-9600-de3dd1a99b82",
+		"OrganizationName": "Chipola College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8588286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Christ The King Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christian Academy of Guatamala",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad6f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christopher Columbus High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "City of Pembroke Pines Charter Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aeaaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Clay County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clearwater Christian College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51ffb1d2-f281-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Clewiston High School - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba50ba0e-6abe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "College of Business and Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ece7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "College of Business Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c573856-ffe4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "College of Central Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "College of Journalism Communications the University of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edfb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Collier County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f276e6c-fe92-4d09-950d-e87688a66c2c",
+		"OrganizationName": "Colonial Christian School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a8324ab-acae-4c06-8de2-d51144c98e24",
+		"OrganizationName": "Community School of Naples - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "382abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Compu-Med Vocational Careers Corp",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5f413a6-d442-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Corbett Preparatory School of IDS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c87aea92-71d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Countryside High School - Clearwater - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acf599c8-5925-403f-b64c-3dc488efd1b3",
+		"OrganizationName": "Creative Learning Academy - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60923238-0adb-e011-b09a-f04da23e67f6",
+		"OrganizationName": "David Lawrence Jr. K-8 Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb58d9ff-31d8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "David Posnack Jewish Day School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "681f03e3-f69d-e111-9b64-f04da23e67f6",
+		"OrganizationName": "David Posnack Jewish Day School - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Daytona Beach Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ef873d6-89b2-de11-886d-0030487d8897",
+		"OrganizationName": "Daytona State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11e2fc61-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Defense Equal Opportunity Management Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e99acf5-ed6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "DeVry University Orlando",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb303e07-50e7-de11-a13b-0030487d8897",
+		"OrganizationName": "Digital Media Arts College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2837b8a-3dbc-df11-859b-0030487d8897",
+		"OrganizationName": "District School Board of Collier County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b871a31-7615-4430-835c-4815360996e5",
+		"OrganizationName": "Divine Mercy Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6565a5b4-9e6f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Dolphin Research Center Training Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c87c76c-c532-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Dreams are Free Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a571965-a42a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Dunbar High School - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7198fec3-e2f2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Duval Charter School at Mandarin",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d5f4aa5-76d2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Duval County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Duwayne E. Keller & Associates, Inc. Dale Carnegie Training",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07f8076b-371f-e011-b71d-0030487d8897",
+		"OrganizationName": "East Lake High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "005abc8a-f142-e211-ad71-f04da23e67f6",
+		"OrganizationName": "East Ridge High School - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f9efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "East West College of Natural Medicine",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2293cea7-ce91-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Eastern Florida State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20f9253c-316a-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Eastern Florida State College - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eckerd College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Eckerd Youth Alternatives Inc",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Edison College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3804e488-34ad-de11-886d-0030487d8897",
+		"OrganizationName": "Edison Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ee1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Edison State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a79812ec-359e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Education Training Corporation",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Edward Waters College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7aa89007-9493-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Embry Riddle Aeronautical University - Daytona Beach - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65d1f501-4766-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Embry Riddle Aeronautical University - Prescott Campus - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5579dce3-acd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Embry Riddle Aeronautical University - Worldwide Campus - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Embry-Riddle Aeronautical University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a85e06c-89b3-df11-ad57-0030487d8897",
+		"OrganizationName": "Embry-Riddle Aeronautical University - SO & WAH",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ebd728f-bd8f-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Embry-Riddle Aeronautical University MSSA / AIT Bookstore",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13a1c690-456c-e011-971f-0030487d8897",
+		"OrganizationName": "Emerald Cove Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34e20101-46db-4de2-a1db-82a80705768a",
+		"OrganizationName": "Episcopal High School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73e13032-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "Episcopal School of Jacksonville - Technology - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8392388-d88e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Erwin Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc927c76-62d6-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Escambia County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "574e6498-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Eustis High School - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16ca59ff-c0e6-4141-bfcd-3851e888cceb",
+		"OrganizationName": "Everest College Online - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2b8141f-caeb-4b0f-a885-f440ae0bea20",
+		"OrganizationName": "Everest Institute - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1663e65-3bbf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Everest University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae76c5ba-3eac-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Everest University - Brandon",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86f6e7d2-39f9-4770-9ed1-1d4b6344941f",
+		"OrganizationName": "Everest University - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6befcce7-2d1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Everest University - Tampa - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Everglades University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cdff5b66-abd2-4850-8e61-e9a38fb26d65",
+		"OrganizationName": "First Coast Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "First Coast Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "First Coast Technical Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "FL Homeschoolers",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Flagler College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aeabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Flagler County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "FlightSafety Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Agricultural & Mechanical University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Atlantic University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aafc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Florida Bible Church",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "399522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida Career College - Irvine - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Christian College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7697a4e9-febe-e711-80f7-000d3af41938",
+		"OrganizationName": "Florida Christian University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8781865a-6064-e011-971f-0030487d8897",
+		"OrganizationName": "Florida Coastal School of Law",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c6f82ef-5e9b-473a-aa9b-0db2a629197b",
+		"OrganizationName": "Florida College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida College of Integrative Medicine",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Florida Community College Jacksonville",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d7c7013-3f5a-4b6c-87ad-471534a09f47",
+		"OrganizationName": "Florida Community College System",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "130726e5-2a52-df11-b56b-0030487d8897",
+		"OrganizationName": "Florida Consortium of Public Charter Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ef96304-669e-e011-969d-0030487d8897",
+		"OrganizationName": "Florida Costal School of Law",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Florida Department of Education",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Florida Department of Education Vocational Rehabilitation",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "719ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida Education Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01e49daf-d53d-e011-b1e1-0030487d8897",
+		"OrganizationName": "Florida Gateway College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Gulf Coast University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92b1be5a-ad86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Florida Hospital College of Health Sciences",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Institute of Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida Institute of Ultrasound",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida International University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ee5eb2a-f922-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Florida International University - Miami Campus - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Keys Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "769ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida Medical Training Institute - Coral Springs",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Memorial University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Metropolitan University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida National College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a20714f7-da13-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Florida National University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27a4fcec-65c0-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Florida Panhandle Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3859c4cb-786b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Florida Polytechnic University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "809ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida School of Traditional Midwifery",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida Southern College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2be17d78-6221-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Florida SouthWestern State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d3d8c96-432d-df11-b4ab-0030487d8897",
+		"OrganizationName": "Florida State College at Jacksonville",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2203e8b9-29ac-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Florida State University - KVC",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Florida State University - W@H",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "439522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida State University Tallahassee",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Florida State University, Panama City",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1cc612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Florida Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f87725d-4c35-e011-b1e1-0030487d8897",
+		"OrganizationName": "Florida Virtual School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3816ee-0502-e811-80fc-000d3af41938",
+		"OrganizationName": "Florida Vocational Institute - Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Folkner Training Associates, Inc. Dale Carnegie Training",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d07b3a92-c088-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Folsom Elementary School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b29d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Forest Lake Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fd0060f-1f9b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fort Myers Institute Of Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ed6066b-3c25-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Foundation Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d70c075b-3441-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Freedom High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea476500-33d3-4be4-98cb-cf6d9118bec6",
+		"OrganizationName": "Full Sail University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Future Tech Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d99ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Galiano Career Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f524815-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "George Stone Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "George T Baker Aviation School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12c38136-0ab1-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Gibbs High School - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f779f613-0024-e911-8110-000d3af41938",
+		"OrganizationName": "Goliath Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "894e0d90-2c27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "GUARDIAN ANGELS CATHOLIC SCHOOL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cdd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Gulf Coast Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8583bd40-edb8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Gulf Coast High School - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72ad9fd6-79c3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Gulf Coast State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46d872a8-b808-415d-bf73-770f4ac15bf6",
+		"OrganizationName": "Gulf Stream School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7aced66a-4abe-de11-886d-0030487d8897",
+		"OrganizationName": "Gulliver Preparatory School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e44a9726-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Hagerty High School - Technology - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ff3e491-6fb1-e111-b575-f04da23e67f6",
+		"OrganizationName": "Hardee County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d32e73d-d895-e011-969d-0030487d8897",
+		"OrganizationName": "Harmony High School (Harmony, FL) - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d4ad703-07a3-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Health career institute (Florida)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hendricks Day School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "196aa066-6005-4f26-92be-84bec8af7812",
+		"OrganizationName": "Hendricks Day School of Jacksonville - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06d4eec2-7484-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Hernando County School Board",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "509622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Herzing University - Orlando",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "769a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Highlands Christian Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "123d3381-747a-462d-9695-ed5bed2aa82d",
+		"OrganizationName": "Hillsborough Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bede73ad-f77a-de11-b7f9-0030487d8896",
+		"OrganizationName": "Hillsborough County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hobe Sound Bible College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7b86a9b-93ec-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Hodges University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8be1149-d2dd-4694-a9bb-ed00bcbe0134",
+		"OrganizationName": "Hodges University*",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e155947-faea-4905-a408-034062079085",
+		"OrganizationName": "Holy Family Catholic School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "58bd2a3d-fae8-4b8f-8c64-4304b9c6acb1",
+		"OrganizationName": "Holy Redeemer Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65d88cad-ffe5-4566-80ea-f2ebc5111b8b",
+		"OrganizationName": "Holy Trinity Episcopal Academy, Inc",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4fb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Holy Trinity Espiscopal Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4be15079-7f4c-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Hope Rural School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c5acda5-6a90-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Horizon Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5b95ff9-7c0b-e811-80fe-000d3af41938",
+		"OrganizationName": "Hosanna College of Health",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee236c7a-a34f-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Howard W. Bishop Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df63f870-23c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Humboldt International University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53c0d5f8-fb3c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "IDEAL and Dream School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "341fc565-de37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Immaculata-La Salle High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Immokalee Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f665daf0-f90c-423e-8d01-edcbb234cae7",
+		"OrganizationName": "Independent Colleges and Universities of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edc0e5ea-a9bb-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Indian River Charter High School - Vero Beach - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bfc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Indian River County Public Library",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a6c0388-ce73-df11-bc53-0030487d8897",
+		"OrganizationName": "Indian River State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbfb9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Indian Rocks Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60e9f7b7-a6a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "International Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f3568a2-b027-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "iTech @ Thomas A. Edison Educational Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2dcb119d-51dc-4ba5-9cb6-a2f097fe2312",
+		"OrganizationName": "Jacksonville Country Day School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jacksonville University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65c78d14-8a9a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Jacobson Sinai Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jensen Beach High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3414432f-696e-e811-8106-000d3af41938",
+		"OrganizationName": "Jesuit High School (Tampa, Florida)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34d825ee-c6bb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "John I. Leonard High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9b7b527-9a62-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "John Paul II Catholic High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jones College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8430ec5d-2ecd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Jose Maria Vargas University - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "395ae839-36a9-de11-886d-0030487d8897",
+		"OrganizationName": "Jupiter Community High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4435f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Keiser Career College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4630c23-bf48-df11-b56b-0030487d8897",
+		"OrganizationName": "Keiser University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5f2da53-c8bc-e211-be21-f04da23e67f4",
+		"OrganizationName": "Keiser University - Lakeland Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a4dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Keiser University Fort Lauderdale",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Keiser University Melbourne",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aedd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Keiser University Sarasota",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Keiser University Tallahassee",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfc604c7-bb2f-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Kesher L.D.",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5935f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Knox Theological Seminary",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab5d43dc-534e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "La Salle Computer Learning",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2573b8b0-ee6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Lake City Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lake County School Board",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90824354-f724-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Lake County School District (Florida)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f75956f1-ce73-df11-bc53-0030487d8897",
+		"OrganizationName": "Lake Erie College of Osteopathic Medicine & School of Pharmacy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1ffcf278-6f12-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Lake Forrest Preparatory School - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbce9ed9-c666-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Lake Gibson High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dea67ec0-0f6f-df11-b841-0030487d8897",
+		"OrganizationName": "Lake Highland Prep",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c742727-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Lake Highland Preparatory School - Computer Science - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa8e3728-1090-df11-ad8b-0030487d8897",
+		"OrganizationName": "Lake Sumter Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lake Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1694b0d-baa1-e911-811c-000d3af41938",
+		"OrganizationName": "Lake Wales Charter Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97bbee19-ca99-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Lakeland Highlands Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99272b4b-4766-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Lake-Sumter Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "214d1bdf-7158-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Lake-Sumter State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3960b662-d3ef-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Larkin Health Sciences Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dd3f174-b24d-ea11-8127-000d3af41938",
+		"OrganizationName": "Larkin University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d91d9de-36a2-de11-886d-0030487d8897",
+		"OrganizationName": "LaSalle Computer Learning Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35fab74a-872f-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Laureate Walden Student Portal",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b535f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Learey Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lee County High Tech Center Central",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e94c02b6-9fe2-df11-bd73-0030487d8897",
+		"OrganizationName": "Lee County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83e633d6-814e-e011-bd14-0030487d8897",
+		"OrganizationName": "Leon County Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b764c2ae-e764-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Life Christian University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1094fb4b-ab4a-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Limestone Creek Elementary",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b0a4d07-aef2-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Lively Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c988059d-4ba9-df11-ad57-0030487d8897",
+		"OrganizationName": "Logos Christian College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lorenzo Walker Institute of Technology",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "666587b6-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Lyman High School - Technology - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lynn University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f16eaf8d-f815-41de-a188-2ed892eb5dc3",
+		"OrganizationName": "Maclay School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Manatee Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "343b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Manatee Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51420a30-19c6-4c82-b648-1316bd490af4",
+		"OrganizationName": "Mandarin Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "813fa0b7-1541-e011-b1e1-0030487d8897",
+		"OrganizationName": "Mandarin Lakes Academy (Homestead, FL) - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Marion County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "060e3b0d-0b76-e711-80f1-000d3af41938",
+		"OrganizationName": "Mater Lakes Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c33c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mayo Clinic",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e98a9745-5fda-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "McFatter Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0c1f821-43f6-df11-9c87-0030487d8897",
+		"OrganizationName": "McKeel Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1c17d3c-5938-e011-b1e1-0030487d8897",
+		"OrganizationName": "McNair Magnet School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5701befa-7a7b-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Meadowbrook Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea34a48c-dab5-df11-ad57-0030487d8897",
+		"OrganizationName": "Miami Country Day School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbe62a01-916d-df11-b841-0030487d8897",
+		"OrganizationName": "Miami Dade College - Miami Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Miami Dade College CIS Kendall Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Miami Dade College CIS North Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eadd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Miami Dade College CIS Wolfson Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Miami Dade College InterAmerican Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4206100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Miami International University of Art and Design",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cd83032-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "Miami Lakes Educational Center - Business Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "164289c7-88c7-4d06-9f22-90c0490e7e98",
+		"OrganizationName": "Miami-Dade County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96bdb667-3901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Miami-Dade County, The School Board of",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f2c6847-c8ec-df11-9c87-0030487d8897",
+		"OrganizationName": "Mid Florida Tech",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56551e39-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Midlands Technical College - West Columbia - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f068b28-07b9-48cf-b5ed-7eedfd75888a",
+		"OrganizationName": "Mid-South Independent School Business Officers - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "523b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Millennia Atlantic University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3594c6b-6b0a-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Moffitt Cancer Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ecf562a-6c51-4dcf-ae60-ee91a9c89eba",
+		"OrganizationName": "Montverde Academy - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "National Aviation Academy A & P School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00c95cd3-7218-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Massage Therapy Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ac5656b-c1b0-4a5d-a1b4-f953d1126a1a",
+		"OrganizationName": "National-Louis University - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c83b6aa3-5eea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Nemours",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "New College of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a19f673e-b7a1-e011-98e6-f04da23e67f6",
+		"OrganizationName": "New River Middle",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "973f283c-cb37-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Nicklaus Children's Hospital",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7cd18f0-3cda-4484-b141-203a2889d965",
+		"OrganizationName": "North Florida Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d577281-e590-df11-ad8b-0030487d8897",
+		"OrganizationName": "Northwest Florida State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "643c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northwood University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "379823db-b12a-e711-80ee-000d3af41938",
+		"OrganizationName": "Notre Dame Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nova Southeastern University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1615f98d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oak Hall School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34aebe38-b68b-e011-969d-0030487d8897",
+		"OrganizationName": "Oasis Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4c8491f-c1dd-444f-b4f5-f31a42fe2e32",
+		"OrganizationName": "Office Of Catholic Schools Diocese of Orlando",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "599d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Office of the State Superintendent of Education (OSSE)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90dd6e06-2857-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Okaloosa County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Okaloosa-Walton College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6baef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Orange County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Orange County Schools -FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5228995-9f65-e711-80f1-000d3af41938",
+		"OrganizationName": "Orange Technical College Mid Florida Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e9b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Orange Technical College, Winter Park Tech",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "131a9ff0-a0b9-e211-be21-f04da23e67f4",
+		"OrganizationName": "Orlando Tech - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "912d89f9-4f66-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "OSCD, Crestview High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Osceola County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac1e3d7f-83cb-e111-971c-f04da23e67f6",
+		"OrganizationName": "Osceola Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "792a10ee-26e4-4b7f-82bc-8e811daed413",
+		"OrganizationName": "Our Lady of Lourdes - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b400a808-ff84-4be8-b8d8-b6a7d51a7232",
+		"OrganizationName": "Our Saviour's Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a910c20-aab3-42de-8be3-3c46047e2fd9",
+		"OrganizationName": "Out-of-Door Academy - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e37389ec-3ce6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Oviedo High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b8a5cd1-3359-e811-8105-000d3af41938",
+		"OrganizationName": "Oviedo High School - Sanford - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1fbab39a-8124-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Oxbridge Academy Palm Beach",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88f4ced5-bf23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Oxbridge Academy Palm Beach - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Palm Beach Atlantic University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Palm Beach Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c80bb1e4-ba69-e011-971f-0030487d8897",
+		"OrganizationName": "PALM BEACH COUNTY SCHOOL DISTRICT",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bdace9e-954c-df11-b56b-0030487d8897",
+		"OrganizationName": "Palm Beach State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe0b1651-8720-45f1-ab20-815c64136d83",
+		"OrganizationName": "Palmer Trinity School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dfc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Panhandle Area Educational Consortium",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f317bed-4c03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Paradise Christian School - Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "884fed71-254e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Pasco County Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Pasco-Hernando State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "PC Professor Florida Atlantic University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "239922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "PC Professor Technical Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f714d3e3-33e9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Pensacola Christian Academy (Pensacola, FL) - High School AA",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5eb5bbc7-3ca9-de11-886d-0030487d8897",
+		"OrganizationName": "Pensacola Christian College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pensacola Junior College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "407b549a-6f9e-e011-969d-0030487d8897",
+		"OrganizationName": "Pensacola State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "478f42eb-426d-436b-ace4-bfb3e29ed33c",
+		"OrganizationName": "Pine Crest Preparatory School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8432af94-0041-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Pine crest school",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a006bf10-0c32-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Pinellas County Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c20017e8-d532-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Pinellas Preparatory Academy, Inc. - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "469922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pinellas Technical Education Centers",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82539804-d6d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Plantation High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d238f261-2309-e011-bed1-0030487d8897",
+		"OrganizationName": "Plantation Key School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c53f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Polk Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "116940ed-e38a-e111-981b-f04da23e67f6",
+		"OrganizationName": "Polk County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "509922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Polk State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46a368b4-4b78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Polk State College - Winter Haven Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1f8168f-70e6-e711-80fa-000d3af41938",
+		"OrganizationName": "Ponte Vedra High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f57da40-dd0e-4227-b820-faa76e377172",
+		"OrganizationName": "Princeton Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a74d756c-affe-e211-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Providence School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67048b04-58b1-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Purdue University (FL) - Faculty and Staff - KVC",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Purdue University Global - Students Site (FL) - KVC",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2425a6b-4824-4f27-b4a4-e2844c33656d",
+		"OrganizationName": "Ransom Everglades - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6dadd06-360b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Redland Christian Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcdeee65-5c27-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Reformation Bible College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e7f2a21-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Remington College - Tampa Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "895f95c1-a636-e811-8103-000d3af41938",
+		"OrganizationName": "Ridgeview Global Studies Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "919922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Riviera Beach Maritime Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e51e6af-bf90-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Riviera Schools - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Rocky Bayou Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "213a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rollins College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6b31ad4-c885-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Rosenstiel School of Marine and Atmospheric Science, University of Miami",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9e76b98-2d1d-e111-a703-f04da23e67f6",
+		"OrganizationName": "Ruth K. Broad Bay Harbor K-8 Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12be160f-1aa1-4fc1-bc50-2f3feeb75a45",
+		"OrganizationName": "Sacred Heart Catholic School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a375ad27-3ab3-4ccb-8ead-9b3e69b91dc6",
+		"OrganizationName": "Saint Andrew Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9681314e-6bcf-438e-987a-638bd9fc5196",
+		"OrganizationName": "Saint Andrew's School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c44ada9b-ba9e-47df-808e-88d41dadfdf4",
+		"OrganizationName": "Saint Brendan Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1bfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Cecelia Interparochial School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9154b29-6b38-47b1-ab9d-aee4405b8bdb",
+		"OrganizationName": "Saint Charles Borromeo Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6989cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Edwards School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a26cd53-a6b9-4792-a05e-317f2256a88a",
+		"OrganizationName": "Saint Edward's School Inc",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe5da324-ebf2-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Saint John Paul II Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7140e0ed-ee6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Saint John Vianney College Seminary",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "039eff62-0dc2-4e1a-93e7-71cc910c165d",
+		"OrganizationName": "Saint John Vianney School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f368f7c6-15b7-414f-ab75-0ea4bebd373c",
+		"OrganizationName": "Saint Johns Country Day School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Saint Johns River Community College - Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7badad0b-83b3-4ecd-b358-31a7e0bc3bf9",
+		"OrganizationName": "Saint Joseph Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95ad6d5a-de52-4dfd-ac1d-edf6aacf82ce",
+		"OrganizationName": "Saint Josephs School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a8aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Lucie County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcf0f382-7bb2-e711-80f7-000d3af41938",
+		"OrganizationName": "Saint Lucie Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d473e7b-d86a-4009-abaa-49cfa870384e",
+		"OrganizationName": "Saint Margaret Mary School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b462472-63b6-4d38-9baa-eb3c747bafd8",
+		"OrganizationName": "Saint Mary Magdalen Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33f7b67e-69c4-4776-b691-0191705bd34c",
+		"OrganizationName": "Saint Paul's Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75ad95ed-114e-48b9-95f9-17c6d41e75cf",
+		"OrganizationName": "Saint Peter Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c7acfff-6354-4fac-8993-8f43a9848989",
+		"OrganizationName": "Saint Teresa Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4501b1e-ef6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Saint Thomas University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed647738-3d56-4d9f-8c99-2518447f088d",
+		"OrganizationName": "San Jose Episcopal Day School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89bbab7b-b2c9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Sandalwood High School - Jacksonville - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0df31a56-bba6-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Sanford Burnham Prebys Medical Discovery Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0e0a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Sanford-Brown College - Jacksonville",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f57987c3-20be-4f95-94b9-6ffe9a96650a",
+		"OrganizationName": "Santa fe Catholic High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d06d29f8-a8ea-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Santa Fe College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "583c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Santa Fe Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2f9bc17-0bb5-df11-ad57-0030487d8897",
+		"OrganizationName": "Sarasota County School Board",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "351dfb7c-7312-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "School Board of Levy County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1cb8857-3a53-4227-be77-4798dea89443",
+		"OrganizationName": "School District of Clay County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a07323c-6724-e211-a76f-f04da23e67f6",
+		"OrganizationName": "School District of Clay County - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed84560e-1a0c-e111-a703-f04da23e67f6",
+		"OrganizationName": "School district of Hillsborough County, Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "School District of Indian River County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57b3094c-4d11-4cc8-b281-84de21a0dbd5",
+		"OrganizationName": "School District of Leon County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "School District of Manatee County-Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8bba4da-f97a-de11-b7f9-0030487d8896",
+		"OrganizationName": "School District of Osceola County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3da74023-b4df-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Seminole County Public Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Seminole State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76ef86a4-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Seminole State College - Altamonte Springs - School of Arts and Sciences - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "afb188aa-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Seminole State College - Oviedo - Engineering - Departmental Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61ca0bf8-e980-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Seminole State College - Sanford Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "103f6399-d273-df11-bc53-0030487d8897",
+		"OrganizationName": "Seminole State College of Florida - Sanford/Lake Mary - Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e2a416e-f929-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Sheridan Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83c9adbc-6334-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Sheridan Technical College and High School - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78c37aee-c536-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Shorecrest Preparatory School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "South Florida Bible College & Theological Seminary",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84abf5cc-0fde-df11-bd73-0030487d8897",
+		"OrganizationName": "South Florida State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8b5d079b-932a-de11-a497-0030485a8df0",
+		"OrganizationName": "South University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9765f6ca-c86f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Southeastern College - Microsoft Imagine Standard",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeastern College of the Assemblies of God",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "723a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeastern University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "972f8936-1116-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Southern Technical College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "499a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Southwest Florida College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e13a83eb-6400-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Southwest Middle School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01877273-87c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Spring Hill Christian Academy - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9546f205-8ba4-de11-886d-0030487d8897",
+		"OrganizationName": "St Petersburg College - SO",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbb10d13-6267-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "St. Barnabas Episcopal School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ab00835-547c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "St. John Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4aa9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. John Vianney Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "228ff379-9ac5-df11-859b-0030487d8897",
+		"OrganizationName": "St. Johns County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd205dda-bc28-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Johns River State College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa83caf4-c02d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "St. Johns River State College - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Leo University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aff557a3-cc36-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "St. Martha Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "729a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "St. Pertersburg College (BAD)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8aaa270d-2202-e011-bed1-0030487d8897",
+		"OrganizationName": "St. Pete High",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c08ab262-8468-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "St. Peter Claver Catholic School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5bc008d4-1618-e011-b71d-0030487d8897",
+		"OrganizationName": "St. Peteresburg College (BAD)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Petersburg College - WAH",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "St. Petersburg College (BAD)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "St. Thomas Aquinas HS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Thomas University - Miami Gardens - Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "baec1d0e-e281-e211-bf66-f04da23e67f4",
+		"OrganizationName": "St. Vincent de Paul Regional Seminary",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93074052-8784-df11-bc53-0030487d8897",
+		"OrganizationName": "State College of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a83a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Stetson University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32ba4ef1-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Stetson University - DeLand - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7e58f14-e8b8-de11-886d-0030487d8897",
+		"OrganizationName": "Strayer University - King of Prussia",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f689be0-f0f6-e711-80fc-000d3af41938",
+		"OrganizationName": "Suncoast Technical College - Business - Microsoft Imagine Premium",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca98fc3e-b73f-e711-80ef-000d3af41938",
+		"OrganizationName": "Synapse Science & Technology Learning - Orlando - Campus Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tallahassee Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b653d82b-4374-e111-a407-f04da23e67f6",
+		"OrganizationName": "Tallahasssee Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "168523ff-be6e-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Tampa Catholic High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Technical Education Center Osceola",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "165ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Technological University of America",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0741a1e-46a3-e011-98e6-f04da23e67f6",
+		"OrganizationName": "The Art Institute of Fort Lauderdale",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "866e4c3c-ef6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "The Baptist College of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad518d0a-8ca4-df11-ad57-0030487d8897",
+		"OrganizationName": "The Benjamin School - Florida Campus",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "533aa4e5-6cac-de11-886d-0030487d8897",
+		"OrganizationName": "The Bolles School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2952db31-2f6c-e911-8117-000d3af41938",
+		"OrganizationName": "The Christ School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4aeee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "The Community School of Naples",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fca796f1-3002-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "The Conrad Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Cushman School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e82ad6c-544e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "The Dave School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Kabbalah Centre International",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c9dac85-c7d8-4d88-ae59-f0a2678a6450",
+		"OrganizationName": "The master's academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72a2c7e2-26f1-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "The mission of Community Technical and Adult Education",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fa64bb3-cfe5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "The Montessori Foundation",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f2f9655-eb3f-de11-b696-0030485a8df0",
+		"OrganizationName": "The Pendleton School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1cf3527-34c4-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "The Praxis Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8efc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Sagemont School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "881f457d-e2a2-de11-886d-0030487d8897",
+		"OrganizationName": "The School Board of Polk County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9daef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "The School District of Palm Beach County",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The Scripps Research Institute",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d0189af-c7ec-df11-9c87-0030487d8897",
+		"OrganizationName": "The Villages Charter School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e286382-68d6-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Trinity Baptist College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d7d382e-fe0e-4330-adbf-d8f40da31b57",
+		"OrganizationName": "Trinity Catholic High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d43a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Trinity College of Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dfa095d-346e-4908-b675-fb6ef2f2b0a6",
+		"OrganizationName": "Trinity preparatory School of Florida - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6db62ca-0588-46af-a7b6-65533f4f188e",
+		"OrganizationName": "Tropical Christian School - FIS",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63966b95-6a5f-df11-b841-0030487d8897",
+		"OrganizationName": "Ultimate Medical Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c503f7b-8b73-e711-80f1-000d3af41938",
+		"OrganizationName": "Universidad  San Ignacio de Loyola",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Central Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e2a63ae-58fe-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "University of Florida - KVC",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Florida - MED",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "71fa4f30-b8fb-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "University of Florida - Store",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c35ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Florida Children's Oncology Group",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "223b83e8-8261-e111-8056-f04da23e67f6",
+		"OrganizationName": "University of Miami",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Miami - Miller School of Medicine",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "663b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "325de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of South Florida Polytechnic",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e45ab27-8a2b-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "University of South Florida Sarasota-Manatee",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "254f43d9-9766-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "University of South Florida St. Petersburg",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "384e3bbe-46d0-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "University of South Florida, Main Campus - VMware",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84aa757a-37f0-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "University of South Florida, Tampa Campus - VMAP",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of St. Augustine for Health Sciences",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Tampa",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a43b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of West Florida",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7f98ce4-12c2-e111-9902-f04da23fc522",
+		"OrganizationName": "Valencia College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Valencia Community College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Volusia County Schools",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Walton County School District",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13fdb714-af3a-e011-b1e1-0030487d8897",
+		"OrganizationName": "Wando High School (FL)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Warner University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d41d4fb1-2218-df11-856f-0030487d8897",
+		"OrganizationName": "Warrington College of Business Administration",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f59a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Washington-Holmes Technical Center",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Webber College",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab193eec-ef6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Webber International University",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "91991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Wellington Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b2b34cd-cd55-e711-80f0-000d3af41938",
+		"OrganizationName": "Western Academy Charter School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1a8be9b-b427-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Westlake Christian School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b48e286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Westminster Academy",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "761dc1ac-6969-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Westminster Christian School (Florida)",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28c7f758-e4ab-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Windemere Preparatory School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Winter Springs High School",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Wyotech",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d73699a-8caa-433a-bfd9-ca787a05480e",
+		"OrganizationName": "WyoTech - FL",
+		"ProvinceCode": "FL",
+		"SubsectorCode": "education_college_university"
+	}
+]

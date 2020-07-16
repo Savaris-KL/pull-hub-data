@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "98beb63d-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Hunter Institute TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "048f7018-b28b-e011-969d-0030487d8897",
+		"WebStoreName": "Hunter Institute - Business and Computing/Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=048f7018-b28b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "8971fc04-b42d-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Hunter Institute TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9a71fc04-b42d-e611-941b-b8ca3a5db7a1",
+		"WebStoreName": "Tafe New South Wales - Faculty of Business & Creative Industries",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9a71fc04-b42d-e611-941b-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "54675f1f-6e87-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Hunter Institute TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "60675f1f-6e87-e211-87e9-f04da23e67f4",
+		"WebStoreName": "Hunter Institute TAFE - Maitland Campus - Faculty of Business and Computing",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=60675f1f-6e87-e211-87e9-f04da23e67f4"
+	}
+]

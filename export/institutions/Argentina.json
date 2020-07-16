@@ -1,0 +1,1578 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e607dcd2-07ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Academia Argnello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b1fd4edb-bbf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Academia Argüello - Argnello Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "102e0ec3-fece-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Asociacion Civil Colegio San Marcos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8abcd61d-ffff-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Asociacion Civil Colegio San Marcos - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "04bee72f-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Asociacion Escuelas Lincoln",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8b4c2772-d57d-e711-80f3-000d3af41938",
+		"OrganizationName": "Asociación ORT Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8dd46a16-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Asociación ORT Argentina (SUB)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cbc0d94e-c6f6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Bet Am Palermo - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "22a1a20e-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Buenos Aires English High School S.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "7531d6e9-dc24-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "CEDIE Conicet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "99fc5df9-ca71-e011-971f-0030487d8897",
+		"OrganizationName": "Centro Cientifico Tecnologico CONICET Bahia Blanca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2457f8c1-2917-e811-80fe-000d3af41938",
+		"OrganizationName": "Centro de Formación Profesional N° 3",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2ea247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Centro Regional Universitario Cordobe IUA (Instituto Universitario Aeronáutico)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "10bb8939-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Colegio Canada - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "95713590-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Champagnat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "5e217f2d-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Colegio de Buenos Aires - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "80314dcd-b5ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio del Pilar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "393ce24b-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Colegio Misericordia - Flores - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "49f3ea72-3a96-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Colegio Monseñor Scalabrini - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "34c99beb-14ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Parroquial Santa Teresa del Niño Jesus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "102b1748-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Santa Catalina - Tucuman Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "17af6ccf-13ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Colegio Santa Ethnea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "fc3c3949-3f5c-e711-80f0-000d3af41938",
+		"OrganizationName": "Colegio superior no. 50 \"General Don José de San Martín\" (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "13a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Colegio Universitario IES Siglo 21",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "40d8d6b3-cc03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Consejo Argentino de Oftalmología",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "7b73f3cf-200f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Consejo Nacional de Investigaciones Científicas y Técnicas CONICET",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "d7666cdf-22e7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Consejo Nacional de Investigaciones Científicas y Tecnológicas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0d91d721-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cooperativa de Trabajo Manuel Belgrano Ltda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "5893e661-11ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Del Viso Day School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e4726b87-af56-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Del Viso Day School - Del Viso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e3cb9203-1719-e911-8110-000d3af41938",
+		"OrganizationName": "EETNo2 - Escuela de educación secundaria técnica #No2",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "16a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Escuela Da Vinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a7cd74b7-cb65-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Escuela de Educación Técnica N°7 de Lomas de Zamora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2bd9dd4a-4061-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Industrial Domingo Faustino Sarmiento",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cf5d1f82-37dc-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Escuela Integral Profesor Jaim Weitzman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c4a92a9e-bea3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Tecnica 37 Hogar Naval Stella Maris",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "bd8a3ee2-e36b-e711-80f1-000d3af41938",
+		"OrganizationName": "Escuela Técnica N°28 D.E. 10 \"República Francesa\",",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "55343658-c171-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Técnica Nº 01 D.E. 04 \"Ing. Otto Krause\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "078214bd-1a4b-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Técnica Nº 3 DE 09 María Sánchez de Thompson",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ee821702-984a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Técnica Roberto Rocca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "19a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Facultad de Ciencias Exactas y Naturales y Agrimensura (Universidad Nacional del Nordeste)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4b6cd8ef-8424-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Facultad de Ciencias Veterinarias (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "93fe09bd-3a4a-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "FLACSO Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "7a394096-c0c8-e811-810a-000d3af41938",
+		"OrganizationName": "Francesco Faà Di Bruno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3dbc34e1-70d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Fuerza Aérea Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0691d721-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Argeninta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4f66949a-f7f5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Argeninta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ae602055-9ee6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Fundación CIJUSO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1a91d721-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacion Colegio Michael Ham",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "9877e74a-7b78-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Fundación de Altos Estudios en Ciencias Comerciales (Argentina )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "08b973a2-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Escuelas San Juan \"St. John's School\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "aaceab1d-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacion Proydesa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "97a27b4f-ada0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fundación Renault Instituto Técnico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a671d532-07b5-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Fundacion Universidad de Morón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "904673d5-8382-e711-80f3-000d3af41938",
+		"OrganizationName": "IAE Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1fa247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "IAE-Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "22b5e520-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "IAE-Business School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "22a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Image Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f27e2356-61be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "INSPT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "236c1349-bf95-e811-8108-000d3af41938",
+		"OrganizationName": "Instituto Balseiro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b043901a-df76-e711-80f1-000d3af41938",
+		"OrganizationName": "Instituto de Educación Superior N°9-009 \"TUPUNGATO\"",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "9e1ce8a0-da7c-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instituto de Educación Superior No. 28 Olga Cossettini",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "42665ee0-7eea-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Instituto de Investigaciones en Ingenieria Genetica y Biologia Molecular",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1e765bab-c96b-e711-80f1-000d3af41938",
+		"OrganizationName": "Instituto de Tecnología ORT (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1a5cf988-138f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instituto Don Orione",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "5f77756a-7c8d-e111-981b-f04da23e67f6",
+		"OrganizationName": "Instituto Don Orione - Presidencia Roque Saenz Pena - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "bfbfa327-2be8-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Dr. Manuel Lucero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8fa4f304-16ea-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Escuela Superior Brigadier Alvarado Lugano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0789800b-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Griego Antenagoras I - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1731ad73-f834-e711-80ef-000d3af41938",
+		"OrganizationName": "Instituto Industrial Luis A. Huergo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a4d21d78-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Leloir",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "64266bd9-78a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Instituto Maria Reina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "642caed8-bcf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Nuestra Senora de la Consolacion - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "16bea2ef-a986-e811-8108-000d3af41938",
+		"OrganizationName": "Instituto Nuestra Señora del Sagrado Corazón A-23",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e3f95936-0718-e811-80fe-000d3af41938",
+		"OrganizationName": "Instituto Politécnico Modelo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "dd2639c3-f18c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Instituto Remedios de Escalada de San Martin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "608c9a4e-b456-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Instituto San Miguel",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "26a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Santa María Josefa Rosello",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3cec6bc6-9a2d-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior de Comercio Exterior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "39ec465f-fdb0-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Instituto Superior de Informática Cod. 1206 - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3f9bbf9b-986b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior Dr. Bernardo Houssay - Subdirección Técnica Superior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1391d721-f819-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Superior N 4021 ICOP Sante Fe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ef8dcc1a-7515-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior San Agustín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "29a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Superior Santo Domingo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "5d008879-e634-e711-80ef-000d3af41938",
+		"OrganizationName": "Instituto Superior Tecnológico Empresarial - ISTEA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "879b0589-97c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Instituto Tecnológico Argentino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3ea2b630-03d9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnológico Argentino - CABA - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "49be0993-b42f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Tecnológico Beltrán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cd59f52d-9ad3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Instituto Tecnologico de Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2e09ff05-cf3f-e711-80ef-000d3af41938",
+		"OrganizationName": "Instituto Universitario de la Policía Federal Argentina (IUPFA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4e4368ce-d982-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Universitario del Hospital Italiano (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b8e75c6b-b12f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Universitario Escuela Argentina de Negocios",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "255ec6c9-b987-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Integral - Taller de Arquitectura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "359478b2-4c9a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Litoral National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "9b50b7f3-bea3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Mariano Moreno de Chivilcoy (E.E.S.T. N° 1)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0692f077-d375-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Ministerio de Educación y Deportes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "484e9218-c360-e711-80f1-000d3af41938",
+		"OrganizationName": "National University of Chilecito",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "de6655e3-9421-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "National University of Cordoba (Argentine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ee88692c-46ee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "National University of Quilmes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3198126e-ebbe-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Northlands School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2d428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pontifical Catholic University of Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1d44bca5-5dbe-e711-80f7-000d3af41938",
+		"OrganizationName": "Saint Mary of the Hills",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4a323f33-159b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "San Judas Tadeo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "83cf8113-7fbe-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sociedad Damas de la Misericordia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f8538539-69be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sociedad Educativa Santa Margarita",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "d00c1d86-d0f3-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Sociedad Odontologica de La Plata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4bf84a10-2d36-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Sucath David Programs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e3066aff-bbf6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tea y Deportea - Campus Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "259d47cf-91d8-e811-810b-000d3af41938",
+		"OrganizationName": "The Global School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "609e76d9-513c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "UBA - Facultad de Farmacia y Bioquímica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e78d01ed-a01c-e811-80fe-000d3af41938",
+		"OrganizationName": "UdeMM Universidad Privada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "562415ec-a6db-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "UMSA - Universidad del Museo Social Argentino",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f530bd9e-e959-e811-8105-000d3af41938",
+		"OrganizationName": "Unilatina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "503f4fd8-5f19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Universidad Abierta Interamericana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f9afc5cf-5634-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Adventista del Plata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ad0ecfa7-0a9a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Universidad Argentina de la Empresa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "32a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Argentina John F. Kennedy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4539e157-2930-e711-80ee-000d3af41938",
+		"OrganizationName": "Universidad Atlántida Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8a428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Austral - Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "35a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Blas Pascal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2b754746-230f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Universidad CAECE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f1b548a8-231d-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Córdoba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cf5bcbc4-3294-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "UNIVERSIDAD CATÓLICA DE LA PLATA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0b677856-afc7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Universidad Catolica de la Plata - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b5a6de84-4fd4-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Católica de Salta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "38a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Católica de Santa Fe",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b62f494f-9306-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica de Santiago del Estero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "eb3b621c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Católica de Santiago del Estero - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ccc281a7-0973-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidad de Belgrano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ab20d970-4834-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad de Bolonia - Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "565dbec5-779d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ab3d08e5-7bd7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Universidad de Ciencias Empresariales y Sociales, UCES",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "420a1af9-7b65-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Congreso",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "5d94fe9d-9e23-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Flores (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3ea247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de la Cuenca del Plata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0c9ecb24-f00c-e811-80fe-000d3af41938",
+		"OrganizationName": "Universidad de la Defensa Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "41a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad de la Punta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cdf972f6-43cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Mendoza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "d196b718-0b2a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Universidad de Morón",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "8c438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad de Palermo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "86b115aa-7821-e811-8101-000d3af41938",
+		"OrganizationName": "Universidad de San Andrés",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "7643a63a-c595-e011-969d-0030487d8897",
+		"OrganizationName": "Universidad de San Pablo - CEU",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a5ff61d5-bd2e-de11-a497-0030485a8df0",
+		"OrganizationName": "Universidad del CEMA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "fc607871-8bf8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Centro Educativo Latinoamericano (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "93a5c2d1-b256-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Universidad del Cine - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "bcedd217-a82d-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Universidad del Salvador",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "de99853b-de25-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Gastón Dachary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "0b58c1da-3129-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Gastón Dachary (Gastón Dachary University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ecf2628c-373c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Maimónides (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e5c98bf1-a15b-e911-8115-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Avellaneda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "993f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Nacional de Cuyo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "44a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de Jujuy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "47a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de La Matanza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a774f992-5534-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Nacional de La Pampa - National University of La Pampa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "7c3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Nacional de la Patagonia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b8418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Nacional de La Plata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ec182540-9729-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de La Rioja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "d0ecd606-5a45-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Lanús",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "021cd215-457f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Lomas de Zamora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "d81dad35-af9c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Luján",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e7f4492f-98ae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Universidad Nacional De Mar Del Plata",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3ca2ad75-580e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Misiones",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "ef445ad5-1c05-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Moreno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "96634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Nacional de Rio Cuarto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "3a28251d-ee15-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Río Cuarto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f62e6031-1d05-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Rio Negro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f53f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Nacional de Rosario",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cdd69c1e-50d4-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Salta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4d247d78-3e20-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional de San Agustin (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4aa247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de San Juan",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4f0dcfb3-4934-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Nacional de San Luis - National University of San Luis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c95b6eed-3b74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional de San Martín",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e091486e-1604-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "e223b9f0-f14f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Tres Febrero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "97634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidad Nacional de Tucumán",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "4da247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "29e67c55-4934-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Nacional del Chaco Austral - National University of the Chaco Austral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c0fd6f60-bf50-e911-8113-000d3af41938",
+		"OrganizationName": "Universidad Nacional del Comahue",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c578b131-2f96-e111-981b-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional del Litoral",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "44b292ff-a5e8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Universidad Nacional del Nordeste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "f9bb0185-4bb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional del Sur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "cadd3988-059f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidad San Pablo - Argentina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "538981bc-2880-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Universidad Siglo 21",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "51a247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Tecnológica Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "b53f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Universidad Tecnológica Nacional - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1a4f13a5-aaf3-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnologica Nacional - Facultad Regional Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2184ac32-2305-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnológica Nacional - Facultad Regional Buenos Aires (Argentina)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2259661e-83cd-df11-bd73-0030487d8897",
+		"OrganizationName": "Universidad Tecnologica Nacional - Facultad Regional Cordoba",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "1ca247e8-c7c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Tecnológica Nacional - Facultad Regional Mendoza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c4342881-1629-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Tecnológica Nacional - FACULTAD REGIONAL ROSARIO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c67f0694-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Tecnológica Nacional - Facultad Regional Santa Fé",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "15bfffa4-61be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Tecnologica Nacional (UTN)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "67527307-e022-e811-8101-000d3af41938",
+		"OrganizationName": "Universidad Torcuato Di Tella",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "2e3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Buenos Aires",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "a21cf60b-4211-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "UNO - Universidad Nacional del Oeste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "c642571c-52c9-e711-80f9-000d3af41938",
+		"OrganizationName": "UNTREF - National University of Tres de Febrero",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ARG",
+		"InstitutionID": "bd287351-1f81-e711-80f3-000d3af41938",
+		"OrganizationName": "Unversidad Nacional Guillermo Brown",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

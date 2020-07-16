@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "dc6fe9fe-f0f6-e711-80fc-000d3af41938",
+		"OrganizationName": "Central Arizona College - Apache Junction - Campus Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ea6fe9fe-f0f6-e711-80fc-000d3af41938",
+		"WebStoreName": "Central Arizona College - Business",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ea6fe9fe-f0f6-e711-80fc-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "1be6d4e9-acd6-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Central Arizona College - Apache Junction - Campus Store",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "29e6d4e9-acd6-e611-9425-b8ca3a5db7a1",
+		"WebStoreName": "Central Arizona College - Apache Junction",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=29e6d4e9-acd6-e611-9425-b8ca3a5db7a1"
+	}
+]

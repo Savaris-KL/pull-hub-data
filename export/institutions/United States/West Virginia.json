@@ -1,0 +1,906 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf0c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy of Careers and Technology",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alderson-Broaddus College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcd9eb7e-c914-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alderson-Broaddus College - Philippi",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7fd763c2-8f50-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "American Public University System - Campus Store",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Appalachian Bible College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f17ba3b-994f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Berkeley County Schools",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c9e56e3-9ccf-e711-80f9-000d3af41938",
+		"OrganizationName": "Bethany College - West Virginia",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdfe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Blue Ridge Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bluefield State College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4dce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Blueridge Community Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Bridgemont CTC",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e182e4b6-a1cd-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Bridgeport High School",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0924157-4556-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "BridgeValley Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cabell County Career Technology Center",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "842fd15b-eb19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Cabell School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "079538df-e050-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Clay County Schools",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of West Virginia",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concord College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c471d67-3c7b-e011-969d-0030487d8897",
+		"OrganizationName": "Confidence Elementary School",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Davis & Elkins College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f849b3af-ea19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Doddridge School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a79efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastern West Virginia Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "620b5590-8469-4ec0-a624-525f6c3a55bb",
+		"OrganizationName": "Everest Institute - WV",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fairmont State College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "469ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fairmont State Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3068256f-41da-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Fairmont State University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ad76ff8-e219-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Fayette School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "674e7f9a-4f78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fred W Eberle Technical Center",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d49ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Future Generations Graduate School",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Glenville State College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a32035ab-de19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Greenbrier County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a48c1fd-e119-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Hancock School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aca0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Harpers Ferry Job Corps Civilian Conservation Center",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Harrison County Board of Education",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "efc17c13-dd19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Harrison County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Huntington Junior College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3cbcfca-4f78-e111-a407-f04da23e67f6",
+		"OrganizationName": "James Rumsey Technical Institute",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e94ae42-ef30-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "John Marshall High School - Microsoft Imagine Standard",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86c93ca8-141d-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kanawha Valley Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55d7b78a-b619-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Logan County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "769722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Marshall Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "663d47a1-e019-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Marshall School District - West Virginia",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marshall University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c0f6392-42d8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Marshall University - Microsoft Imagine Standard",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "becbc9b0-304c-e511-9417-b8ca3a5db7b1",
+		"OrganizationName": "McDowell County Schools",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "986cce35-f0ad-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Mid-Ohio Valley Technical Institute",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2b90b5d-c619-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Monongalia County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "239822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mountwest Community Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c555c6e-76b5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "New River Community and Technical College - West Virginia - Campus Store",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio Valley College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Ohio Valley University - Vienna - Microsoft Imagine Standard",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "072b0984-d950-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Pierpont Community & Technical College - Campus Fairmont - Campus Store",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2923011-6c07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pierpont Community and Technical College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3921ba0f-78c3-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Potomac State College of West Virginia University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1176864-5555-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Preston County Schools",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc5a81a9-0619-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Putnam County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08c7d14b-a7e3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Salem International University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "603a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Shepherd College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Shepherd University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c05d1a75-f8c1-e111-9902-f04da23fc522",
+		"OrganizationName": "Sissonville High School",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa69ada9-65d4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Southern West Virginia Community and Technical College - Microsoft Imagine Standard",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Taylor County Board of Education",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fec3f36-bb19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Taylor County School District - West Virginia",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Charleston",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab3c716f-e04c-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Upshur County Schools",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e63b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Liberty State College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf0f7098-97b6-df11-ad57-0030487d8897",
+		"OrganizationName": "West Liberty University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dba4ef1-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "West Liberty University - College of Business - Departmental Store",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f794d364-0f3f-e211-ad71-f04da23e67f6",
+		"OrganizationName": "West Virginia Department of Education",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "803c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia Institute of Technology",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26311cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "West Virginia Junior College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03d1c59d-85a4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "West Virginia Junior College - Morgantown",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ece7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "West Virginia Northern Community College - Weeling - Campus Store",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5981e987-b919-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "West Virginia School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d09bf720-390b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "West Virginia School of Osteopathic Medicine",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e73b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia State University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e83b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia University at Parkersburg",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e93b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia University Institute of Technology",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "West Virginia Wesleyan College",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wheeling Jesuit University",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47b50329-c019-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Wirt County School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "429b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "WVU-Parkersburg (West Virginia University at Parkersburg)",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb1a1acb-df19-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Wyoming School District",
+		"ProvinceCode": "WV",
+		"SubsectorCode": "education_k_12"
+	}
+]

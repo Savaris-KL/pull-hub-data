@@ -1,0 +1,458 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e0d441a2-ad90-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Astangu Kutserehabilitatsiooni Keskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "c66d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Avinurme Keskkool - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e012848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Estonia Aviation Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ec159b80-2139-e911-8111-000d3af41938",
+		"OrganizationName": "Estonian Academy of Arts (Eesti Kunstiakadeemia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "a8f174d0-4372-df11-bc53-0030487d8897",
+		"OrganizationName": "Estonian Business school",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "6f442a47-757b-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Estonian Entrepreneurship University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ca7bcf68-0589-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Estonian University of Life Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "1ccc3da8-d597-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Informaatika ja Arvutustehnika Instituud - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "12231363-09c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Kehtna Kutsehariduskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f58e22d3-6316-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Kehtna Majandus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "c86d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Kehtna Majandus- ja Tehnoloogiakool - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "cb6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Kuusalu Keskkool - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "89f609ae-165f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Lääne-Viru Rakenduskõrgkooli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "0c9600f3-6133-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Lüganuse Keskkool - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e312848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mainori Kõrgkool (Mainor Business School)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ee589ff4-95f2-e811-810c-000d3af41938",
+		"OrganizationName": "Miina Härma Gümnaasium (Tartu, Estonia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e612848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "MTÜ Lapikud - Tallinn University of Technology Software Developement Club Lapikud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "0548e5be-8362-e711-80f1-000d3af41938",
+		"OrganizationName": "MTÜ MUG Estonia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e912848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "MUG.ee",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "c46d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Mustvee Vene Gümnaasium - Veebistuudium - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "d08daa70-0dbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Narva Kutseõppekeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ed12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "NICPB",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "18728697-04cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Pärnu Vene Gümnaasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "7d85daaf-bbc9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Pärnu Vocational Training Center (Pärnumaa Kutsehariduskeskus)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "e56d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Pelgulinna Gümnaasium - Graphic Design - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "8d3d582c-9772-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Rakvere Ametikool - Rakvere - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "bd0d0566-992e-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Sillamäe Gümnaasium - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "943fc257-7c89-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Tallinn French Lyceum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "706e3061-b669-df11-b841-0030487d8897",
+		"OrganizationName": "Tallinn University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "366c6563-617e-ea11-812a-000d3af41938",
+		"OrganizationName": "Tallinn University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f4df4bd4-ded9-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Tallinn University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "158aba1f-407c-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Tallinn University of Technology Virumaa College (Estonia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "c76d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tallinna 21. Kooli - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ca6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tallinna Kristiine Gümnaasium - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "47939c4f-87cc-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tallinna Õismäe Gümnaasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f012848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tallinna Polütehnikumi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "d76c828b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tallinna Tehnikakõrgkool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "1f6e52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tallinna Tõnismäe Reaalkool - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "2a94e5f9-8bde-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Tallinna Tööstushariduskeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f312848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tallinna Transpordikool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "81c7c51d-d7cb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tartu Jaan Poska Gümnaasium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "63739be6-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tartu Kutsehariduskeskus - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f612848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tartu Kutsehariduskeskus - Tartu Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "de6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tartu Kutsehariduskeskus - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "ecb91657-4420-e111-8d82-f04da23e67f6",
+		"OrganizationName": "The Estonian Information Technology College (Estonia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "fb12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "TTÜ Robotiklubi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "700333a5-0cd2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "TTÜ Virumaa Kolledz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "f218afd8-c237-e111-8d82-f04da23e67f6",
+		"OrganizationName": "TTÜ Virumaa Kolledz - Veebistuudium - IT - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "0b654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Tartu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "33461e5a-d7cb-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Väike-Maarja Õppekeskus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "50976c12-4cde-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Väike-Maarja Õppekeskus - Arvutid ja arvutivõrgud kutseõpetaja Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "c16d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Viimsi Keskkool - Veebistuudium - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "fe12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Viljandi Ühendatud Kutsekeskkool",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "814dbedb-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Viljandi Ühendatud Kutsekeskkool - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "1d31919e-1a0f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Vinni-Pajusti Gümnaasium - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "1b6e52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Võru County Vocational Training Center - Information Technology Systems - Designer AA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EST",
+		"InstitutionID": "98518a90-fc1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Võru Kreutzwaldi Gümnaasium - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

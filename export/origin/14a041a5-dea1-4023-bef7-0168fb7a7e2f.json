@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "bf749c08-f455-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Estrella Mountain Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "cb749c08-f455-de11-9e9c-0030485a8df0",
+		"WebStoreName": "Estrella Mountain Community College - Instructional Computing",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=cb749c08-f455-de11-9e9c-0030485a8df0"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "6a551e39-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Estrella Mountain Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4d67996a-d09b-e011-969d-0030487d8897",
+		"WebStoreName": "***No longer supported*** Estrella Mountain Community College - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4d67996a-d09b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "5606100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Estrella Mountain Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "0c2cda19-c327-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Maricopa Community Colleges",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0c2cda19-c327-e411-9403-b8ca3a5db7a1"
+	}
+]

@@ -1,0 +1,138 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "a1dcb2ae-4e03-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Adama Science and Technology University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "83552a77-fd75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Addis Ababa Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "0cecbc77-f985-e811-8108-000d3af41938",
+		"OrganizationName": "Addis Ababa Science and Technology University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "c297fbbc-4292-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Addis Ababa University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "afffd1b4-cd1b-e811-80fe-000d3af41938",
+		"OrganizationName": "Arba Minch University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "17bddf6b-b083-e811-8108-000d3af41938",
+		"OrganizationName": "Arba Minch University - ICT",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "05a7dd23-2d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Debreberhan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "cd72d2c7-3fa0-ea11-812b-000d3af41938",
+		"OrganizationName": "Jigjiga University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "87252631-e89a-ea11-812b-000d3af41938",
+		"OrganizationName": "Jimma Institute of technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "674f7404-2d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Jimma University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "c83bad0c-319b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mekelle University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "f6287d55-2d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ministry of Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "2c97a00c-e84c-ea11-8127-000d3af41938",
+		"OrganizationName": "University of Gondar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "b6d86e94-2d8c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Wachamo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "6decf31f-ed92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Wachemo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "ab5a78b4-198c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Wolaita Sodo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ETH",
+		"InstitutionID": "02ecd0ac-e89a-ea11-812b-000d3af41938",
+		"OrganizationName": "Wolkite University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

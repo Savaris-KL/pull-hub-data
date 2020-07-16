@@ -1,0 +1,498 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "5daff816-3548-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "American University in Kosovo - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "4b9a325c-47f6-e711-80fc-000d3af41938",
+		"OrganizationName": "BB EDUCATION (BB IZOBRAŽEVANJE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "4d797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Beogradska Poslovna Skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c470d17f-a3a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Državni univerzitet u Novom Pazaru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "259a1042-7ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Ekonomski Fakultet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "f07b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Faculty of Electronic Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c3c5eb83-bb54-e011-bd14-0030487d8897",
+		"OrganizationName": "Fakultet Informacionih Tehnologija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "50797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakultet Organizacionih Nauka Belgrade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "53797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakultet Tehnickih Nauka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "56797c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakultet tehnickih nauka KM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "5bc3585d-3f64-e811-8105-000d3af41938",
+		"OrganizationName": "Fakultet za Primenjeni Menadzment - Information technologies - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "bb6fb02d-d16c-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "ICT College of Vocational Studies - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "eb735f1a-38a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Iliria College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "07f4219b-20ee-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "International School of Belgrade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "f37b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "International University of Novi Pazar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "144bd778-5af2-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Kolegji Riinvest - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "dcd7255e-79b3-de11-886d-0030487d8897",
+		"OrganizationName": "Libertas Business College Zagreb (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "b57b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Masinski Fakultet Kragujevac",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "ba7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Pedagoski fakultet u Somboru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "bd7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Prirodno-Matematicki Fakultet Nis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "2465deed-9857-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Prishtina High School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c07b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Project Management College Belgrade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c37b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Računarski Fakultet Beograd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c67b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Rudarsko-Geološki Fakultet Srbija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c97b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Saobraćajni Fakultet",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "b0d4f0cc-9509-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Srednja Skola za informacione tehnologije - Belgrade - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "4143b7f6-998d-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Srednja Skola Za Informacione Tehnologije (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "cc7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Subotica Tech",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "cf7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Technical Studies Cacak",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "337f7a8a-c2c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tehnicka skola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "d37b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tehnicki fakultet Mihajlo Pupin",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "e00f3c6d-110d-e911-810e-000d3af41938",
+		"OrganizationName": "Teoloski Fakultet Beograd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "95e2615a-3200-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "The Faculty of Sports and Tourism – Tims",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "69130b91-3b37-e711-80ef-000d3af41938",
+		"OrganizationName": "The Mathematical Institute of the Serbian Academy of Sciences and Arts (MISANU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "44ecaa2e-5ef3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "University for Business and Technology (UBT)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "cab743ff-0673-df11-bc53-0030487d8897",
+		"OrganizationName": "University of Belgrad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "2342d596-880a-de11-9c12-0030485a8df0",
+		"OrganizationName": "University of Belgrade (Univerzitet u Beogradu)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "d67b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Belgrade School of Electrical Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "d97b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Kragujevac",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "d50e318b-4c18-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "University of Nis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "b0fc3b3c-ed3c-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "University of Nis - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "03a10dbe-48be-e211-be21-f04da23e67f4",
+		"OrganizationName": "University of Novi Sad (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "8236d2c2-cf17-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Universum College - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "dc7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Univerzitet Metropolitan Beograd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "df7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Univerzitet Singidunum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "87315385-54f9-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Univerzitet u Novom Pazaru (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "e27b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Univerzitet u Novom Sadu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "0bfd5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Univerzitet u Novom Sadu - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "6891e10f-ad4b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Univerzitet Union",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "68e501d0-32f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Veljko Petrovic High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "70a0908f-8fc1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Visoka poslovna škola strukovnih studija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "f3e2cd7d-b829-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Visoka Poslovna Skola Strukovnih Studija Valjevo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "e67b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Visoka skola elektrotehnike i racunarstva strukovnih studija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "f9f04e12-62a2-e911-811c-000d3af41938",
+		"OrganizationName": "Visoka škola modernog biznisa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "c0de7368-2175-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Visoka škola strukovnih studija za informacione tehnologije (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "e97b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Visoka Tehnicka Skola Nis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "7220201c-1d77-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Visoka Tehnička škola Strukovnih Studija u Kragujevcu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "4ccc0d2d-65ef-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Visoka Tehnička škola Strukovnih Studija u Novom Sadu - Novi Sad - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "348d28a3-7e5e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Visoka Tehnička škola Strukovnih Studija u Novom Sadu (Serbia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "ec7b7c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Visoke Tehničke Škole Strukovnih Studija U Zrenjaninu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "48db44c3-65be-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "VTPS Uzice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SRB",
+		"InstitutionID": "7a8924dc-28e4-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Висока школа електротехнике и рачунарства струковних студија",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

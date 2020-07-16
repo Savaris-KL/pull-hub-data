@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "a1e7572b-790c-e011-bed1-0030487d8897",
+		"OrganizationName": "NSW Department of Education",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://det.nsw.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "5bae579a-7c0c-e011-bed1-0030487d8897",
+		"WebStoreName": "NSW Department of Education WAH",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5bae579a-7c0c-e011-bed1-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4856aba2-7b41-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "NSW Department of Education",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5e35d9ba-7b41-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "NSW Students WebStore",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5e35d9ba-7b41-e311-93f6-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "6fd57f31-0663-e111-8056-f04da23e67f6",
+		"OrganizationName": "NSW Department of Education",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://nsw.dec.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "9d31134a-0663-e111-8056-f04da23e67f6",
+		"WebStoreName": "NSW DEC Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9d31134a-0663-e111-8056-f04da23e67f6"
+	}
+]

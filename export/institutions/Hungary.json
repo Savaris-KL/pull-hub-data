@@ -1,0 +1,1370 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d52a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "A Tan Kapuja Buddhista Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "6c2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Adventista Teologiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "cbb5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Adventista Teológiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "eb2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Altalanos Vallalkozasi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d0b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Általános Vállalkozási Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "402b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Andrassy Gyula Budapesti Nemet Nyelvu Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f52b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Apor Vilmos Katolikus Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "c03f707b-9320-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Athéné Szakközépiskola - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "df2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Baptista Teologiai Akademia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d5b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Baptista Teológiai Akadémia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "52f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Belvárosi Tiszk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d2e1407e-a8b3-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Berzsenyi Dániel Evangélikus (Líceum) Gimnázium (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "ee2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Bhaktivedanta Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "dbb5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Bhaktivedanta Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "58f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bródy Imre Gimnázium És Szakközépiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "5df7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Budapest Business School CFA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "762b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Budapest Kortarstanc Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e0b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Budapest Kortárstánc Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "22d934f2-72b6-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Budapest Metropolitan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a4512032-a6c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Budapest University of Technology & Economics - Networked Systems and Services",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "1b06bf87-974c-df11-b56b-0030487d8897",
+		"OrganizationName": "Budapest University of Technology and Economics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "7b2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Budapesti Corvinus Egyetem - Corvinus University of Budapest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "bc2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Budapesti Gazdasagi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e5b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Budapesti Gazdasági Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "c32b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Budapesti Kommunikacios es Uzleti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "eab5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Budapesti Kommunikációs és Üzleti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "b72a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Budapesti Muszaki es Gazdasagtudomanyi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "8e624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Budapesti Müszaki és Gazdaságtudományi Egyetem (BME) Mérnöktovábbképzo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "50ee9ec6-d8d5-de11-baeb-0030487d8896",
+		"OrganizationName": "Central European University (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a2f86b38-7b39-e711-80ef-000d3af41938",
+		"OrganizationName": "Centre for Economic and Regional Studies of the Hungarian Academy of Sciences (MTA KRTK)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "2cf74f81-abc1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "College Of Nyiregyhaza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f062358a-3c71-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Corvinus University of Budapest - Közgáz Campus - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a32a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Debreceni Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0b2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Debreceni Reformatus Hittudomanyi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "efb5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Debreceni Reform��tus Hittudományi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "737a5709-8fd4-4e64-bdaa-02f8faa67074",
+		"OrganizationName": "Dexter Ltd. Hungary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d22b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Dunaujvarosi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f4b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Dunaújvárosi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "fa2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "EDUTUS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "312b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Egri Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f9b5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Egri Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "042c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Eotvos Jozsef Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "feb5c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Eötvös József Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a82a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Eotvos Lorand Tudomanyegyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "73624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Eötvös Loránd University (Eötvös Loránd Tudományegyetem)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0413848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Erkel Ferenc Gimnázium és Informatikai Szakképző",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "5a2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Esztergomi Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "04b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Esztergomi Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "b32b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Eszterhazy Karoly Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "09b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Eszterházy Károly Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "1c56e03b-6463-4044-a363-2c866061d74a",
+		"OrganizationName": "EuroOne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "62f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Európai Üzleti Polytechnikum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "3b2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Evangelikus Hittudomanyi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0eb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Evangélikus Hittudományi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "09f39401-1265-e011-971f-0030487d8897",
+		"OrganizationName": "Fakultet elektrotehnike i racunarstva",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "eb1982e4-cff6-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Felnottkepzok Szovetsege",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f02b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Gabor Denes Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "13b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gábor Dénes Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "da2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Gal Ferenc Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "19b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gál Ferenc Hittudományi Foiskola -  Szeged",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "4b2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Golgota Teologiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "1fb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Golgota Teológiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "102b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Gyori Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "26b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Gyori Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0a2c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Harsanyi Janos Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "2bb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Harsányi János Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "4fdee158-2e34-e711-80ef-000d3af41938",
+		"OrganizationName": "Hungarian Academy of Sciences (MTA)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "278f374a-9587-4f14-97ba-d9355dcaeb74",
+		"OrganizationName": "Information Bureau for Primary and Secondary Education Hungary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "05c681a7-e120-e111-8d82-f04da23e67f6",
+		"OrganizationName": "International Business School Budapest (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "495f4840-f61d-e211-a76f-f04da23e67f6",
+		"OrganizationName": "International Christian School of Budapest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d26fe8f8-c035-e711-80ef-000d3af41938",
+		"OrganizationName": "Jedlik Ányos Gimnázium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e62b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kaposvari Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "30b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kaposvári Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "cd2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Karoli Gaspar Reformatus Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "35b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Károli Gáspár Református Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a42b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Karoly Robert Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "41b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Károly Róbert Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "c82b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kecskemeti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "47b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kecskeméti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "be2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kodolanyi Janos Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "4cb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kodolányi János Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "312c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kolcsey Ferenc Reformatus Tanitokepzo Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "51b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kölcsey Ferenc Református Tanítóképzo Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "19aa0055-09e9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Kormanyzati Informatikai Fejlesztesi Ugynokseg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "df101968-2801-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kormányzati Informatikai Fejlesztési Ügynökség",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "cb2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Kozep-europai Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "56b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Közép-európai Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "67f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Liska József Erosáramú Szakközépiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "2c2c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Liszt Ferenc Zenemuveszeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "362c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Magyar Kepzomuveszeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "5bb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Magyar Képzomuvészeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "c12a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Magyar Tancmuveszeti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "60b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Magyar Táncmuvészeti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d7101968-2801-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Magyar Tudományos Akadémia Létesítménygazdálkodási Központ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "902b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Miskolci Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "65b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Modern Üzleti Tudományok Foiskolája",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "152c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Moholy-Nagy Muveszeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "6cb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Mozgássérültek Peto András Neveloképzo és Nevelo Intézete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e42a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Mozgasserultek Peto Andras Nevelokepzo es Nevelointezete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "63864790-eac9-e111-971c-f04da23e67f6",
+		"OrganizationName": "MTA SZTAKI",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "3b2c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Nemzetkozi Uzleti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "b82b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Nyiregyhazi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "edb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Nyíregyházi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "892b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Nyugat-magyarorszagi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f3b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Nyugat-magyarországi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "9a2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Obudai Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f8b6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Óbudai Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "feb6c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Országos Rabbiképzo - Zsidó Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "152b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Orszagos Rabbikepzo ? Zsido Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a92b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Pannon Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "70dd6605-4574-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Pannon Egyetem Nagykanizsai Kampusz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "712b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Papai Reformatus Teologiai Akademia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "03b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pápai Református Teológiai Akadémia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "6cf7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pataky István Fovárosi Gyakorló Híradásipari és Informatikai Szakközépiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "ae2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Pazmany Peter Katolikus Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "08b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pázmány Péter Katolikus Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "502b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Pecsi Puspoki Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0fb7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pécsi Püspöki Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "ad2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Pécsi Tudományegyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "71f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Petrik Lajos Vocational School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "8404e8c0-90a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Polytechnic of Zagreb",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "662b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Punkosdi Teologiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "27b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Pünkösdi Teológiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "ff2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Rendortiszti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d02a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Sapientia Szerzetesi Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "362b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Sarospataki Reformatus Teologiai Akademia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "55b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sárospataki Református Teológiai Akadémia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "b100e1f1-affe-4ef8-a16b-ab300eda8d71",
+		"OrganizationName": "SDA Studio Ltd. Hungary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "952b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Semmelweis Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "748b0be2-293f-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Semmelweis University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "5ab7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Sola Scriptura Lelkészképzo és Teológiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "f32a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Sola Scriptura Teologiai Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "78f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Somogyi TISZK Mathiász János Középiskolája",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "725c9af1-5403-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Soproni Egyetem - University of West Hungary",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "9f2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szechenyi Istvan Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "61b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Széchenyi István Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "b22a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szegedi Tudomanyegyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "68b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Szegedi Tudományegyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "452b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szent Atanaz Gorog Katolikus Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "6fb7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Szent Atanáz Görög Katolikus Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "74b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Szent Bernát Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "832b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szent Istvan Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "7bb7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Szent István Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d5624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Szent Istvan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0713848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Szent László Gimnázium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "7df7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "Szent László Szakképzo Iskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "402c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szent Pal Akademia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "82b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Szent Pál Akadémia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "89b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Színház- és Filmmuvészeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e92a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szinhaz-es Filmmuveszeti Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "7061364a-f3ef-e711-80fa-000d3af41938",
+		"OrganizationName": "SZMSZC NÁDASD TAMÁS SZKI, CSEPREG",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "e12b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Szolnoki Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "df28b0bc-ccf4-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Tisztaszoftver Program - SO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "0f2c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Tomori Pal Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "8eb7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Tomori Pál Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "82f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Miskolc",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "87f7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Pannonia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "322c2076-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of Pécs - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "64b94114-c9dd-e211-9000-f04da23fc520",
+		"OrganizationName": "University of Pécs (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "8cf7c4ce-dd72-e111-a407-f04da23e67f6",
+		"OrganizationName": "University Of Szeged",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "2e043554-6bdc-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Városmajori Gimnázium (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "fb2a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Veszpremi erseki Hittudomanyi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "95b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Veszprémi Érseki Hittudományi Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "c62a922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Wekerle Sandor Uzleti Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "272c922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Wesley Janos Lelkeszkepzo Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "9ab7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Wesley János Lelkészképzo Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "dddd667b-e3b3-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Westungarische Universität (Hungary)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "dc2b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Zrinyi Miklos Nemzetvedelmi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a1b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Zrínyi Miklós Nemzetvédelmi Egyetem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "d72b922a-ea0a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Zsigmond Kiraly Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "HUN",
+		"InstitutionID": "a8b7c984-7e64-e111-8056-f04da23e67f6",
+		"OrganizationName": "Zsigmond Király Foiskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

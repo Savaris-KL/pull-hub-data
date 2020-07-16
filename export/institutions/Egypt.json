@@ -1,0 +1,826 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d358d114-6c2c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Advanced Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "b024be31-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ahram Canadian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "20ba0e49-b613-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ain Shams University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "55d7dc4a-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Akhbar El Youm University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "fde0c1e0-2392-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Al Azhar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "846c29a7-d1a8-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Al-Azhar University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "b6fb0d38-d155-e711-80f0-000d3af41938",
+		"OrganizationName": "Alexandria Higher Institute of Engineering and Technology (AIET)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "20ac3dff-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Alexandria House of English",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d1dfc40a-e26f-df11-b841-0030487d8897",
+		"OrganizationName": "Alexandria University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "fefcc533-274a-e811-8103-000d3af41938",
+		"OrganizationName": "Alexandria University - Faculty of Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "5a624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "American University in Cairo - Egypt - KVC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "1f654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Arab Academy for Science and Technology and Maritime Transport - Microsoft Imagine Premium",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "6a3ce23a-391b-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "Arab Open University - Egypt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "61624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Assiut University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "3541f562-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Aswan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "9f5aedf6-5ed2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Badr University - Badr - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "1b91357c-2692-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "bahira high inistitute for engineerng and technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "e501cc59-8acf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Benha University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "8272f1df-6264-ea11-8129-000d3af41938",
+		"OrganizationName": "Benha University, Faculty of Computers & Artificial Intelligence - Computer Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "8da099c0-a107-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Beni Suef University (Egypt)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "bf12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Beni Sweif University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2a1b4f73-e376-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Beni-Suef University, Faculty of Veterinary Medicine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "9f5bf4ca-190f-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cairo Higher Institute - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "6df8528e-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Cairo Higher Institute for Engineering, Computer Sciences and Management",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "5a6e5e18-4fd9-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Cairo University - Faculty of Pharmacy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d4232b7e-be56-e711-80f0-000d3af41938",
+		"OrganizationName": "Cairo University-Faculty of Economics & Political Science",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "065ee2dc-c02a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Canadian International College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c4855407-6bda-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Damietta University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "3a55f24a-895c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Deraya University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "f47337e1-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Dover American International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "98241047-1ce0-e711-80fa-000d3af41938",
+		"OrganizationName": "Egyptian Russian University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "575830c8-def9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "E-JUST Egypt-Japan University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c1a7ca48-ce76-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "EL Motatawera Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "0de3c0ab-8096-e811-8108-000d3af41938",
+		"OrganizationName": "El Shorouk Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "cacd71fb-be64-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Elgazeera Higher Institute For Trade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "32d31ca4-cb01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "El-Shorouk Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "fbe6f7df-850b-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Eslsca Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "986349f7-e772-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Fayoum University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "adf18fb1-158c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Future Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2761b11c-64c5-e711-80f9-000d3af41938",
+		"OrganizationName": "Giza Engineering Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "4b8232c8-969c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Helwan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c523e50e-ed72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Higher Technological Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c212848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Information Technology Institu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c512848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Information Technology Institute (ITI)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "89063b17-021a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "International Schools of Egypt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "c812848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kafr El-Sheikh University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "81e3caf6-e0f9-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Kafrelsheikh University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2c8f93d6-4992-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Madina Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "f69a16ad-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Mansoura University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "3ff059c5-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Medrar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "cb12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Menia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "6552a146-3b03-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Menofia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "0bd651a8-db55-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Menoufia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2e69ecd7-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Minia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d95f51f2-3403-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Ministry of Education (Egypt)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "a8aecddf-5c50-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Misr International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "89ae3dff-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Misr Language Schools - French Division",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2fce965a-f832-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "Misr University for Science & Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "781c99ea-188c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Modern Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "789cd16c-e4be-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Modern Education Schools - Cairo - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "5866ada8-6e76-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Modern Greek School - Port Said - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "aa2bc013-168c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Modern Sciences and Arts University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "aed23d5c-dfae-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Modern University for Technology and Information",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "ce12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Modern University for Technology Information",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "80730bc1-00cf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "MS Tech Club",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "ce5b200d-0058-ea11-8127-000d3af41938",
+		"OrganizationName": "National Academy of IT for Persons with Disabilities (NAID)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "0caf1d5f-c039-e811-8103-000d3af41938",
+		"OrganizationName": "National Education Network - 6th October City - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "589c8da9-178c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "New Cairo Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "b56cf648-f7e1-e811-810c-000d3af41938",
+		"OrganizationName": "New Ramses College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "a8333c42-da90-df11-ad8b-0030487d8897",
+		"OrganizationName": "Nile University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "376bb0fb-65b0-df11-ad57-0030487d8897",
+		"OrganizationName": "October 6 University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "1a8c540f-eeaa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Oubour Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "bd202b03-198c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Pharos University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "4dfc2edb-4c92-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Port Said University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d412848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Port Said university - Port Said - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "dd6326cf-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Riada American School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2df820d5-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Riyada Language School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "f2156513-c3c9-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Sadat Academy for Management Sciences(SAMS)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "42c476db-7de4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Sinai University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2c7a45f9-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Smart International School in Egypt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d712848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sohag University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "ffd210e2-70da-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Sohag University - Sohag - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "da12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "South Valley University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "dd12848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "South Valley University Aswan Faculty of Engineering",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "6c228090-264a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Suez Canal University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "abdcd14f-ba59-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Suez University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "44c63e1b-198c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Tanta University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "a27c2ea5-2d7f-e111-981b-f04da23e67f6",
+		"OrganizationName": "Tanta University - Tanta - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "6f8448f3-011a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The American International School Egypt - West Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "f66eff5b-67d4-e711-80f9-000d3af41938",
+		"OrganizationName": "The American University in Cairo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "186c5977-1bc6-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "The British University in Egypt",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "d585ed4f-3ce0-e711-80fa-000d3af41938",
+		"OrganizationName": "The Egyptian Chinese University ( ECU ) - Cairo - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "7b8abdf7-f9e3-e711-80fa-000d3af41938",
+		"OrganizationName": "The Egyptian Chinese University (ECU)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "05782efd-cb71-e011-971f-0030487d8897",
+		"OrganizationName": "The German University in Cairo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "2a3553af-f2e1-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "The National Egyptian E-Learning University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "4a9fd9de-2092-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The Pharaohs Medical Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "8e8d663a-198c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Thebes University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "19cb5053-198c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "University of Misa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "02bd8ad1-3b06-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "University of Sadat City",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "0f4e9a4e-220b-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "University of Sadat City - Sadat City - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "afb71983-d29a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Zagazig University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "1db420d6-70da-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Zagazig University - Zagazig - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "EGY",
+		"InstitutionID": "f38b8dc0-ebdb-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Zewail University of Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "27b462f7-a881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Maricopa High School - Maricopa - Microsoft Imagine Standard",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "36b462f7-a881-e511-9412-b8ca3a5db7a1",
+		"WebStoreName": "Maricopa High School - Career and Technical Education",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=36b462f7-a881-e511-9412-b8ca3a5db7a1"
+	}
+]

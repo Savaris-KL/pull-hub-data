@@ -1,0 +1,98 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "f254a24b-cd39-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Academy of Public Administration under the aegis of the   President of the Republic of Belarus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "0784a5ec-ebf9-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Baranovichi State University (Belarus)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "1cdf4115-9ea5-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Belarusian State Technological University (Belarus)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "bf98a103-ab62-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Belarusian State University (Belarus)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "ce67b367-df77-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Belarusian State University of Informatics and Radioelectronics",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "c60f71de-de35-e911-8111-000d3af41938",
+		"OrganizationName": "BEROC - Educational Programs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "559ba4b4-c534-e711-80ef-000d3af41938",
+		"OrganizationName": "Brest State University named after A.S. Pushkin (Брестский государственный университет имени А.С. Пушкина)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "f059f89b-3851-e711-80f0-000d3af41938",
+		"OrganizationName": "Francisk Skorina Gomel State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "5412848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gomel state Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "aa842369-2845-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Gomel State Technical University - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "b2dfbc00-d9c3-e711-80f9-000d3af41938",
+		"OrganizationName": "International University - MITSO",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BLR",
+		"InstitutionID": "caeb49dd-429e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Yanka Kupala State University of Grodno",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

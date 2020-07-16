@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "4de47727-3c73-df11-bc53-0030487d8897",
+		"OrganizationName": "Southwest College of Naturopathic Medicine",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://scnm.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "88958037-7fe8-e111-8e3e-f04da23e67f6",
+		"WebStoreName": "Southwest College of Naturopathic Medicine",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=88958037-7fe8-e111-8e3e-f04da23e67f6"
+	}
+]

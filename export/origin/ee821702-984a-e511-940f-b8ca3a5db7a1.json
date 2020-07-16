@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "7ccf8ad7-944a-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Escuela Técnica Roberto Rocca",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8acf8ad7-944a-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Escuela Técnica Roberto Rocca - Sistemas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8acf8ad7-944a-e511-940f-b8ca3a5db7a1"
+	}
+]

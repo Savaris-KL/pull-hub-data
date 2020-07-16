@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "1d60be52-3b00-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Athens City Schools",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://acs-k12.onthehub.com/",
+		"ProductMajorVersions": null,
+		"WebStoreID": "3c412a6b-3b00-e311-93f3-b8ca3a5db7a1",
+		"WebStoreName": "Athens City Schools",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3c412a6b-3b00-e311-93f3-b8ca3a5db7a1"
+	}
+]

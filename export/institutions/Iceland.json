@@ -1,0 +1,666 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "58624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Agricultural University of Iceland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "698a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Akureyrarbær íþrótta og tómstundasvið",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "338826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Akureyrarbær Leikskólar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "d021047e-929b-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Bifröst University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "0f8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Borgarbyggð",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "d68c26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Djúpavogshreppur Grunnskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "dc8c26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fangelsið Litla-Hrauni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "598b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Farskóli Norðurlands Vestra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "098826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fjallabyggð skolar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "b18a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fjarðabyggð - Leikskólar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "518826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fjölbraustarskóli Norðurlands Vestra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "2d8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fjolbrautaskoli Snaefellinga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "398a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fljótsdalshérað Leikskólar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "938a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Floaskoli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "2f8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fræðslumiðstöð Vestfjarða",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "218a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Framhaldsskólinn á Laugum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "bb8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Framhaldsskólinn í Austur Skaftafellssýslu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "358b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Framhaldsskólinn í Mosfellsbæ",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "c18826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Framhaldsskólinn í Vestmannaeyjum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "818a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grenivíkurskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "b58826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskóli Bláskógabyggðar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "0b8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskóli Bolungarvíkur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "9f8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskóli Fáskrúðsfjarðar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "708826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskóli Grundarfjarðar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "3f8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskóli Húnaþings vestra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "6b8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskoli Langanesbyggoar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "bd8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskoli Myrdalshrepps",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "128b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskolinn a Blonduosi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "968826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskólinn á Hellu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "458826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskólinn í Borgarnesi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "e88c26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskólinn í Breiðdalshreppi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "648826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskólinn í Grindavík",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "588826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskólinn í Sandgerði",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "298b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Grunnskolinn Strandabyggo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "3b8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hafralækjarskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "758a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Heidarskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "458a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hólaskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "898826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Hótel- og matvælaskólinn við MK",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "1d8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Húnavallaskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "2bb3eeb2-2024-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Icelandic Institute of Natural History",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "6a8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IÐAN Fræðslusetur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "a28826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Jardhitaskoli Sameinuduthjodanna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "0a13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Keilir Atlantic Center of Excellence",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "1b8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Krabbameinsfélagið",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "658b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Krikaskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "908826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Landgræðsla Ríkisins",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "718b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Laugargerðisskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "4d8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Leik- og Tónlistarskóli Dalvíkurbyggðar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "398826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Listahaskoli Islands",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "238b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ljósaborg",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "7c8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lögregluskóli Ríkisins",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "218826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Menntamálaráðuneytið",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "5e8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Menntaskólinn á Egilsstöðum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "9c8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Menntaskólinn að Laugarvatni",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "d08c26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Menntaskólinn Hraðbraut",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "7c8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Miðstöð símenntunar á Suðurnesjum",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "5d8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Mosfellsbær Leikskolar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "c78826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "National Archives of Iceland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "828826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rafiðnaðarskólinn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "2d8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Rauði kross Íslands",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "5f8b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Reykjahlíðarskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "61ae9e35-4ced-dd11-9772-0030485a8df0",
+		"OrganizationName": "Reykjavik University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "518a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Seyðisfjarðarskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "e28c26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Skólaskrifstofa Austurlands",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "d58826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Starfsþjálfun fatlaðra Hringsjá",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "cf8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Stykkisholmsbaer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "b78a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Styrktarfélag Vangefinna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "278826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sveitarfélagið Álftanes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "768826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sveitarfélagið Árborg - Leikskólar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "158826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sveitarfélagið Hornafjörður",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "0d13848d-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Taekniskolinn",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "9e0ff3ad-89bd-e711-80f7-000d3af41938",
+		"OrganizationName": "Technical College Reykjavik",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "9c503684-9efe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "The University Centre of the Westfjords",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "8d8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Þelamerkurskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "538b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Þjórsárskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "ab8a26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tonlistarskoli FÍH",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "478b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tónlistaskóli Akraness",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "1bfe334e-129a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of Akureyi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "b7634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Iceland",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "a88826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Varmalandsskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "4b8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Varmárskóli",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "ae8826cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Verkmenntaskóli Austurlands",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ISL",
+		"InstitutionID": "418b26cc-051a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Viska - fræðslu og símenntunarmiðstöð",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

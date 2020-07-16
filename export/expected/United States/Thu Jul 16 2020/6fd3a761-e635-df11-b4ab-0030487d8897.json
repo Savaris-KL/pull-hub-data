@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "14a21a45-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "National Park College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "4cc9e63f-d69b-e011-969d-0030487d8897",
+		"WebStoreName": "National Park College - Business",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=4cc9e63f-d69b-e011-969d-0030487d8897"
+	}
+]

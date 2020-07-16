@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "7262abf9-f1ad-e711-80f7-000d3af41938",
+		"OrganizationName": "Arizona Western College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8062abf9-f1ad-e711-80f7-000d3af41938",
+		"WebStoreName": "Arizona Western College - Computer Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8062abf9-f1ad-e711-80f7-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "821593f0-5ccf-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Arizona Western College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8e1593f0-5ccf-e011-ae14-f04da23e67f6",
+		"WebStoreName": "AWC",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8e1593f0-5ccf-e011-ae14-f04da23e67f6"
+	}
+]

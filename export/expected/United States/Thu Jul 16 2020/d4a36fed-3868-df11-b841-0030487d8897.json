@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "d4a36fed-3868-df11-b841-0030487d8897",
+		"OrganizationName": "Sessions College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://sessionscollege.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "cdd303fb-3868-df11-b841-0030487d8897",
+		"WebStoreName": "Sessions College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=cdd303fb-3868-df11-b841-0030487d8897"
+	}
+]

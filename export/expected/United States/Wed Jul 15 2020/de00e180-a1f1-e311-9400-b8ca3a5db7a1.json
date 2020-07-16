@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "de00e180-a1f1-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Chambers County School District",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5bf2f586-a1f1-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "Chambers County School District",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5bf2f586-a1f1-e311-9400-b8ca3a5db7a1"
+	}
+]

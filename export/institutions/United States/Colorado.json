@@ -1,0 +1,2306 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d600e963-a624-e011-b71d-0030487d8897",
+		"OrganizationName": "12 Five Star Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d60c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Academy of Natural Therapy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cba9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Academy School District Twenty",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0837e071-0e28-e011-b71d-0030487d8897",
+		"OrganizationName": "Adams County School District 14",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0bb7208b-d79f-df11-ad57-0030487d8897",
+		"OrganizationName": "Adams County School District 50",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Adams State University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03ab35fe-1793-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Adams State University -",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "906303db-2a1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Adams State University - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db622de3-7c4e-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "After School University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Aims Community College - Aims Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2164dcfb-5bc6-e711-80f9-000d3af41938",
+		"OrganizationName": "Aims Community College - Greeley Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6849e96-43a8-de11-886d-0030487d8897",
+		"OrganizationName": "Air Academy High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d20875da-feb9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "American Academy Charter School - CO",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Pathways University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2ba01f2-f454-de11-9e9c-0030485a8df0",
+		"OrganizationName": "American Sentinel University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9b1bf93-8960-e011-971f-0030487d8897",
+		"OrganizationName": "Anthem College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b13c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Arapahoe Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "924a1b3f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Arapahoe Community College - Littleton Campus - Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Archuleta School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "628ba56a-77a1-de11-886d-0030487d8897",
+		"OrganizationName": "Argosy University Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d71e502-ac24-e011-b71d-0030487d8897",
+		"OrganizationName": "Arriba - Flagler Consolidated School District 20",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Arriba Flagler Consolidated School District 20",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23b6f298-c905-df11-85a5-0030487d8897",
+		"OrganizationName": "Aspen School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "500e61eb-7bea-de11-a13b-0030487d8897",
+		"OrganizationName": "Aspen University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5aa9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "atlas preparatory school",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f46b0c02-d324-e011-b71d-0030487d8897",
+		"OrganizationName": "Aurora SD",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "213c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14efe62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bayfield School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e7742ed-7a62-e711-80f1-000d3af41938",
+		"OrganizationName": "Bear Valley Bible Institute",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27c26d82-b9d5-e111-9c76-f04da23fc522",
+		"OrganizationName": "Berthoud High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bethlehem Lutheran School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4e438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Boulder College of Massage Therapy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f33dbb3f-8365-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Boulder Country Day School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "161a7ea0-4cff-4f3c-aac1-8dd083bdab09",
+		"OrganizationName": "Boulder Valley School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Brighton School District 27J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bueana Vista School District R-31",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dacad3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Buena Vista School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e516292a-8845-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Byers Public Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bcf07ea-cc24-e011-b71d-0030487d8897",
+		"OrganizationName": "Canon City RE-1 School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Canon City School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "029522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Career Education Corporation - Colorado Technical University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e82729ca-0122-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Casey Middle School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1386dbd-b63e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Cherry Creek School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8caaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cherry Creek School District #5",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "079a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cheyenne County School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "471f38d1-dc24-e011-b71d-0030487d8897",
+		"OrganizationName": "Clear Creek School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f82bc82a-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Collbran Job Corps Center - Networking Academy - Departmental Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "College for Financial Planning",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d829bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "College of International Esthetics",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec29bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "CollegeAmerica",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72363aa6-a9a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "CollegeAmerica - Colorado Springs",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36450b56-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Colorado Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f629bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Colorado Academy of Veterinary Technology",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02e3912b-d59f-df11-ad57-0030487d8897",
+		"OrganizationName": "Colorado BOCES",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Christian University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99db5c94-4c96-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Colorado Christian University - Lakewood - Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d52a643-3764-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Colorado Community College Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5dc0e2e1-233e-47b2-85fc-f9f37545ae5c",
+		"OrganizationName": "Colorado Community College System",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a8d88d4-2db8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Colorado Community College System Office - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99d69360-1205-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Colorado Early Colleges Fort Collins - Fort Collins - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc29bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Colorado Heights University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c6fd853-d766-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Colorado Mesa University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78fbbb28-6086-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Colorado Mesa University - Grand Junction - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Mountain College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab85d9e7-cfe6-4d77-9ab7-b4ca60109f10",
+		"OrganizationName": "Colorado Northwestern Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "012abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Colorado School of Healing Arts",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado School of Mines - Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ffb60d4-ad6d-e811-8106-000d3af41938",
+		"OrganizationName": "Colorado School of Mines - Departmental Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado School of Professional Psychology",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d450b56-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Colorado Springs Christian Schools - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32726b39-fc66-437b-a090-60eabd70e95a",
+		"OrganizationName": "Colorado Springs School District #11",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado State University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Colorado State University Fort Collins",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado State University-Pueblo",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "373f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Community College of Aurora",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a52ff7b-4ceb-4359-80f5-f407143e0933",
+		"OrganizationName": "Community College of Denver - Denver Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a2dac60-c8a4-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Dawson School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64ec47a4-dd24-e011-b71d-0030487d8897",
+		"OrganizationName": "Deer Trail School District 26J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63df14c9-5c4d-df11-b56b-0030487d8897",
+		"OrganizationName": "Delta-Montrose Technical College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94e67ad4-1a97-e711-80f6-000d3af41938",
+		"OrganizationName": "Denver Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcbee63a-e8d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Denver Public Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ed67592-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Denver School of Nursing",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7439517-fe1a-df11-856f-0030487d8897",
+		"OrganizationName": "Denver Seminary",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28237d04-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Douglas County High School - Castle Rock - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "831f50b0-d324-e011-b71d-0030487d8897",
+		"OrganizationName": "Douglas County School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcb6cde7-dd24-e011-b71d-0030487d8897",
+		"OrganizationName": "Eagle County Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8a3d509-dc37-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Eagleview Middle School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a49a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "East Central BOCES",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6040c6d-a467-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Eaton School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b95b1f19-d0f8-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Emilly Griffith Technical College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac017580-cef8-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Emily Griffith Oportunity School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9029a5e2-6ac9-e711-80f9-000d3af41938",
+		"OrganizationName": "Emily Griffith Technical College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c9d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Englewood Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fafd7fd3-6a34-44e4-ac34-4f9a74628617",
+		"OrganizationName": "Everest College - CO",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a17dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fairmount Elementary",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1419220d-3818-e011-b71d-0030487d8897",
+		"OrganizationName": "Fairview High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fort Lewis College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf8820c4-dec3-de11-886d-0030487d8897",
+		"OrganizationName": "Fossil Ridge High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef2e436c-543f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Fountain-Fort Carson High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0bff40e1-a567-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Fowler School District R4J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66c7a5ba-6e25-e011-b71d-0030487d8897",
+		"OrganizationName": "Fremont RE-2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "340dc032-5ec6-df11-859b-0030487d8897",
+		"OrganizationName": "Fremont School District RE-2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a11a984e-dfab-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Front Range Christian School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Front Range Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e892da79-6e25-e011-b71d-0030487d8897",
+		"OrganizationName": "Genoa-Hugo School District C-113",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "79aa57c0-b709-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Gradview High School - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44450b56-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Graland Country Day School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba3df8cf-2ebe-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Greeley Central High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "deb0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Harrison School District #2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hartford Institute for Religion Research",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98402c36-6e25-e011-b71d-0030487d8897",
+		"OrganizationName": "Hayden School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19ef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Heritage College and Heritage Institute",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2e7de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "High Plains Library District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc4fed92-22de-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Highlands Ranch High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5feaf1e2-e3dc-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hoehne - Hoehne - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Holmes Institute",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b5d19261-8c02-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Holy Family Catholic School - CO",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14cfbc51-a23a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Holy Family High School - Broomfield - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c12d266-84a4-df11-ad57-0030487d8897",
+		"OrganizationName": "Hope Online Learning Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30bf14fa-0502-e811-80fc-000d3af41938",
+		"OrganizationName": "IBMC College - Technology - Departmental Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Ignacio School District 11 jt",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aca1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Iliff School of Theology",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6eef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute of Business & Medical Careers (IBMC)",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a69622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "IntelliTec Colleges",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eaa1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "IntelliTec Medical Institute",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0653e36-e721-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "International Education Corporation",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "International University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Jeffco Public Schools (High school)",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86bdb667-3901-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Joint School District No. 28J of the Counties of Adams and Arapahoe Colorado",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a74bec2d-e359-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Jones International University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kaplan higher Education",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Kaplan University (IA)",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9884e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kent Denver Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2cfc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "La Veta High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdec5799-6d25-e011-b71d-0030487d8897",
+		"OrganizationName": "La Veta School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35d9a866-6d25-e011-b71d-0030487d8897",
+		"OrganizationName": "Lake County School District R-1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b450b56-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lake County School District RE-1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dca117fa-7a8b-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Lakewood High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f98e3ca-fe96-40e0-87ad-5038a12233d9",
+		"OrganizationName": "Lamar Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c69e5a52-396f-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Lamar Community College - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "acac76b2-3b5f-4231-98c8-d3b1b3118bf3",
+		"OrganizationName": "Lewis-Palmer School District #38",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa767627-85a4-df11-ad57-0030487d8897",
+		"OrganizationName": "Limon Public Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f5c821b-6d25-e011-b71d-0030487d8897",
+		"OrganizationName": "Littleton Public Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "369f1f0a-a08a-e811-8108-000d3af41938",
+		"OrganizationName": "Mackintosh Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "703b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "McKinley College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cec3ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Meeker School District RE-1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f0e6496-7aa3-45d1-a687-38621f81a0b9",
+		"OrganizationName": "Mesa County Valley School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0eabf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mesa County Valley School District 51",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mesa State College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Metropolitan State College of Denver - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51cb05ad-3d0b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Metropolitan State University of Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1850c87-83be-e711-80f7-000d3af41938",
+		"OrganizationName": "Metropolitan State University of Denver - VMAP Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a75679d-9b34-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Metropolitan State University of Denver, Auraria",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd57b0df-6c25-e011-b71d-0030487d8897",
+		"OrganizationName": "Moffat County School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Moffat County School District RE-1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Montessori Casa International",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Montessori Education Center of the Rockies",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Montessori School of Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebee506a-fdfb-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Montessori School of Evergreen",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32e84db7-8c32-48f8-a227-9aca60935f00",
+		"OrganizationName": "Morgan Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0e67fd4-31b4-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Morgan County School District Re-3",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11fb54dc-8daf-df11-ad57-0030487d8897",
+		"OrganizationName": "Naropa University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "National Technological University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nazarene Bible College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcfc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Park School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fc0cc81-6c25-e011-b71d-0030487d8897",
+		"OrganizationName": "North Park School District R-1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfcb90d0-ed1f-438a-9246-ba668446291a",
+		"OrganizationName": "Northeastern Junior College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31da0f41-6c25-e011-b71d-0030487d8897",
+		"OrganizationName": "Northwest Colorado BOCES",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb3e0cad-ab67-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Omar D. Blair Charter School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "919ff450-0c89-47b9-bc70-7f29e27a09d5",
+		"OrganizationName": "Otero Junior College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea77261a-6c25-e011-b71d-0030487d8897",
+		"OrganizationName": "Otis School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbba0b88-e23d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady Help of Christians Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd8e1e9d-244c-e511-9417-b8ca3a5db7b1",
+		"OrganizationName": "Park County School District RE-2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d4ac44b-1a9c-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Pickens Technical College - Electronics - Departmental Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "146c732d-9296-4d55-8c7d-94850924530e",
+		"OrganizationName": "Pikes Peak Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b9559fe-a1d3-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Pine Creek High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d015b2a8-f58b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Platt College, Colorado",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e919c763-83eb-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Poudre School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d770af80-dfd9-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Provost Academy Colorado",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53c3bce0-1894-df11-ad8b-0030487d8897",
+		"OrganizationName": "Pueblo City Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pueblo Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06b2f5bc-6b25-e011-b71d-0030487d8897",
+		"OrganizationName": "Pueblo County School District 70",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edaef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pueblo School District No. 60",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2608c4d3-2102-e011-bed1-0030487d8897",
+		"OrganizationName": "Rampart High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4604b145-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Rampart High School (Colorado Springs, CO) - High School AA",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbf6e217-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rangely School District RE-4",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f43a406c-8141-df11-b56b-0030487d8897",
+		"OrganizationName": "Rangeview High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Red Rocks Community College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2fe1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Redstone College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2111bad9-0e7f-df11-bc53-0030487d8897",
+		"OrganizationName": "Regis Jesuit High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Regis University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06861a5f-0192-e011-969d-0030487d8897",
+		"OrganizationName": "Regis University - School of Management - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5bfb288-3ff1-dd11-bf04-0030485a8df0",
+		"OrganizationName": "Remington College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d46daf3-6f1f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Rocky Mountain College of Art & Design - KVC",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5948a549-439a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Rocky Vista University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32f0e46e-6b25-e011-b71d-0030487d8897",
+		"OrganizationName": "San Luis Valley BOCS",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b6b8d6c-d924-e011-b71d-0030487d8897",
+		"OrganizationName": "Sanford School District 6J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4ec75a0-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Shrine of St Anne School (Arvada, CO) - High School AA",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a80536fa-d824-e011-b71d-0030487d8897",
+		"OrganizationName": "South Conejos School District RE-10",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00784159-d824-e011-b71d-0030487d8897",
+		"OrganizationName": "South Routt School District RE-3",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb8410b1-61f1-4d72-bf9c-161862a8def9",
+		"OrganizationName": "Southeastern BOCES",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0119fa84-c012-ea11-8124-000d3af41938",
+		"OrganizationName": "St. Catherine of Siena Catholic School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd5aa40c-e70b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "St. Mary's Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e591ccf6-8dc9-de11-baeb-0030487d8896",
+		"OrganizationName": "St. Vrain Valley School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1310e9c3-286a-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Stargate Charter School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14b73d43-1394-df11-ad8b-0030487d8897",
+		"OrganizationName": "Steamboat Springs School District RE-2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5fa6a9c-0884-e111-981b-f04da23e67f6",
+		"OrganizationName": "Strum",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38786c86-587e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Sturm College of Law",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d63b7b8-f12d-df11-b4ab-0030487d8897",
+		"OrganizationName": "TC00-IUV",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c719e29-aeae-e711-80f7-000d3af41938",
+		"OrganizationName": "Temple Grandin School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ce5e7c56-cd14-e211-a76f-f04da23e67f6",
+		"OrganizationName": "The Academy - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c8dc3032-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "The Frederick S. Pardee Center for International Futures - Technology - Departmental Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "880db235-a76f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "The Peak School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d1ebf01-568f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Thompson School District - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e43e01c-3ca6-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Thomson School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2308ccd-2304-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "ThornCreek Christian School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a9624ad-d724-e011-b71d-0030487d8897",
+		"OrganizationName": "Trinidad School District #1",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95133aee-4652-41c7-a774-a434391bd4ba",
+		"OrganizationName": "Trinidad State Junior College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "830de0d1-6c3f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "U.S. Career Institute",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "715ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "UC Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e33a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "United States Air Force Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "697dc357-82bc-4164-baf9-a6b52705acec",
+		"OrganizationName": "University Corporation for Atmospheric Research",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "043b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Colorado - Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2508cb4d-0c38-de11-b696-0030485a8df0",
+		"OrganizationName": "University of Colorado - Denver - School of Medicine",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e56a5a4-f7ce-de11-baeb-0030487d8896",
+		"OrganizationName": "University of Colorado (Executive Programs)",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74fdbb6b-957e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "University of Colorado Boulder",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59a389ce-df69-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "University of Colorado Boulder - Boulder - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4f733f6-bdff-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "University of Colorado Denver Anschutz Medical Center",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be5ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Colorado Denver School of Pharmacy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81b85510-f3ad-de11-886d-0030487d8897",
+		"OrganizationName": "University of Colorado System",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "023b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Colorado, Boulder",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "033b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Colorado, Colorado Springs",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f2e0249-adae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "University of Colorado, Denver - Anschutz Medical Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "053b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Colorado, Denver and Aurora Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "093b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Denver",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Northern Colorado - Greeley Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9523de27-12ae-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University of Science, Arts and Technology, Montserrat",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "883b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Southern Colorado",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb48d37e-e330-de11-a497-0030485a8df0",
+		"OrganizationName": "University of the Rockies",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "193e289d-7b10-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "University Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2dd323d-7b55-e011-bd14-0030487d8897",
+		"OrganizationName": "Valor Christian High School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1598cbba-1c82-e011-969d-0030487d8897",
+		"OrganizationName": "Vikan Middle school",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f0e67c1-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "WarrenTech - Lakewood - Campus Store",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6c06437-17ac-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Weld County School District #6",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0bb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Weld County School District RE3J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b013fa9-600e-de11-9c12-0030485a8df0",
+		"OrganizationName": "Weld Re-9 School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb1ffc4b-d724-e011-b71d-0030487d8897",
+		"OrganizationName": "West Grand School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f94cca1f-9f67-ea11-8129-000d3af41938",
+		"OrganizationName": "Western Colorado University",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f63b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western State College",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Westgate Community School",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b87dd4e3-9168-e711-80f1-000d3af41938",
+		"OrganizationName": "Westminster Public Schools",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0256271-3bd5-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Westwood College - CO",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Westwood College On Line",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "edb3fba1-af67-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Wiggins RE-50J",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "869c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Woodland Park School District RE-2",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b294702b-d841-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Woodrow Wilson Academy",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b851aa2c-d524-e011-b71d-0030487d8897",
+		"OrganizationName": "Wray School District",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_k_12"
+	}
+]

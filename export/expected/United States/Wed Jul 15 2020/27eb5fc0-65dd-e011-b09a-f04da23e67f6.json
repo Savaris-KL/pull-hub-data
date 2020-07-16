@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "27eb5fc0-65dd-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Geelong Grammar School",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://ggs.vic.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "67037869-6f2e-e211-aed3-f04da23e67f6",
+		"WebStoreName": "Geelong Grammar School",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=67037869-6f2e-e211-aed3-f04da23e67f6"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MDA",
+		"InstitutionID": "92b31421-5342-e811-8103-000d3af41938",
+		"OrganizationName": "“Ion Creangă” State Pedagogical University of Chisinau",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MDA",
+		"InstitutionID": "02895386-057a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Technical University of Moldova - Chisinau Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MDA",
+		"InstitutionID": "e600acfb-486a-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Universitatea de Stat din Moldova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MDA",
+		"InstitutionID": "0da01802-62e0-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Universitatea de Stat din Moldova (Moldova State University)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

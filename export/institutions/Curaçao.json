@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CUW",
+		"InstitutionID": "9599c80d-2e40-e911-8113-000d3af41938",
+		"OrganizationName": "Inter-Continental University of the Caribbean (ICUC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CUW",
+		"InstitutionID": "c5b03a05-4a2e-e911-8111-000d3af41938",
+		"OrganizationName": "University of Curacao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

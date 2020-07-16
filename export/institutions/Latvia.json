@@ -1,0 +1,274 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "f7767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "~!@#$ - Can be delete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "6f95d32d-f24a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "BA School of Business and Finance",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "7aa1f9a3-ac90-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Daugavpils University (Daugavpils Universitāte)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "280ae323-09ad-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Information Systems Management Institute - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "ce766c49-ef10-e811-80fe-000d3af41938",
+		"OrganizationName": "Jaunogres vidusskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "3d670780-8980-e011-969d-0030487d8897",
+		"OrganizationName": "Jāzepa Vītola Latvijas Mūzikas Akadēmija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "e28efb7c-fd71-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Jelgavas novada pašvaldība - DPA - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "ea767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Latvia University Of Agriculture",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "52ab5488-7fee-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Latvian Maritime Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "9028a4c5-fb7b-e011-969d-0030487d8897",
+		"OrganizationName": "Latvian Ministry of Culture - Higher Ed",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "256ac6c3-8980-e011-969d-0030487d8897",
+		"OrganizationName": "Latvijas Kultūras Akadēmija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "c322b8cb-fa40-e011-b1e1-0030487d8897",
+		"OrganizationName": "Latvijas Universitate",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "afbf2d38-5a45-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Liepaja University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "ed767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "LU Matemātikas un informātikas institūta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "51271c6e-e98c-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Rezeknes Augstskola - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "52f5f63e-f7c1-e111-9902-f04da23fc522",
+		"OrganizationName": "Riga Business College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "bc7cb59f-2750-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Riga City Council",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "899f8b16-e348-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Riga Stradins University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "9626f77e-ea1c-e111-a703-f04da23e67f6",
+		"OrganizationName": "Riga Teacher Training and Educational Management Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "45634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Riga Technical University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "f0767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Rigas Starptautiska Ekonomikas Un Biznesa Administracijas Augstskola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "b683edbe-2c09-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Rīgas Stradiņa universitāte (Latvia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "87ef34a7-7da8-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "SIA Alberta koledža",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "32ba32e1-fb68-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "SIA Alberta koledža - Riga - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "dfd6eda1-314f-e011-bd14-0030487d8897",
+		"OrganizationName": "Stockholm School of Economics in Riga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "ec50634a-455b-e711-80f0-000d3af41938",
+		"OrganizationName": "Transport and Telecommunication Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "f3767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Transport Telecommunication Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "4e85a8da-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Turiba University - Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "773e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Latvia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "9812d74f-3c82-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "University of Latvia (Latvijas Universitāte)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "924037a1-88a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Ventspils Digitalais centrs",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "fa767c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ventspils University of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "4279dde0-31b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Vidzemes Augstskola - DPA - Prepaid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "LVA",
+		"InstitutionID": "304986f9-9850-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Vidzemes Augstskola University of Applied Science - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

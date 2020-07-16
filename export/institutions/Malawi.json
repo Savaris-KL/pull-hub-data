@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MWI",
+		"InstitutionID": "8a17d3eb-2fd6-e911-8120-000d3af41938",
+		"OrganizationName": "DMI - St. John the Baptist University - Magochi Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MWI",
+		"InstitutionID": "d8196709-bf5b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Saint Andrew's International High School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MWI",
+		"InstitutionID": "8240a7c0-1b8a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "St Andrew's International High School - Blantyre - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

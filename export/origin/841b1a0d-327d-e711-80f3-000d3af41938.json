@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alaska",
+		"InstitutionID": "4eca0f51-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Dimond High School",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AK",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "93e48233-da9b-e011-969d-0030487d8897",
+		"WebStoreName": "Dimond High School - Career and Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=93e48233-da9b-e011-969d-0030487d8897"
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d464204f-8ec4-de11-886d-0030487d8897",
+		"OrganizationName": "Murdoch University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ef64204f-8ec4-de11-886d-0030487d8897",
+		"WebStoreName": "Murdoch University - Discipline of IT, Mathematics & Statistics - VMware",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ef64204f-8ec4-de11-886d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "fbf7c625-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Murdoch University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "9b7dc99b-a78b-e011-969d-0030487d8897",
+		"WebStoreName": "Murdoch University - Information Technology",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9b7dc99b-a78b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d1634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Murdoch University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a2408373-8047-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Murdoch University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a2408373-8047-e511-940f-b8ca3a5db7a1"
+	}
+]

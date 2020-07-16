@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "e63b621c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad Nacional del Sur",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "31d99a07-719b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad Nacional del Sur",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=31d99a07-719b-e011-969d-0030487d8897"
+	}
+]

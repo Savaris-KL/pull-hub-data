@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "aea87033-5eb3-e711-80f7-000d3af41938",
+		"OrganizationName": "BHAK/BHAS Bregenz",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "bea87033-5eb3-e711-80f7-000d3af41938",
+		"WebStoreName": "BHAK/BHAS Bregenz - Engineering",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=bea87033-5eb3-e711-80f7-000d3af41938"
+	}
+]

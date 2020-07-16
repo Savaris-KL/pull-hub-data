@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "ddb6c253-816f-4250-90ee-e7f724c61157",
+		"OrganizationName": "Phoenix School of Law",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://phoenixlaw.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "ce5fc750-d545-dc11-a62f-0030485a6b08",
+		"WebStoreName": "Phoenix School of Law",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ce5fc750-d545-dc11-a62f-0030485a6b08"
+	}
+]

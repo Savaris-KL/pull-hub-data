@@ -1,0 +1,42 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AGO",
+		"InstitutionID": "945a7464-6131-ea11-8126-000d3af41938",
+		"OrganizationName": "ICT School of C.P",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AGO",
+		"InstitutionID": "e960e0bc-cc14-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Ciências de Educaçäo de Benguela - ISCED",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AGO",
+		"InstitutionID": "5ef5aefa-a3bb-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Instituto Superior de Tecnologias de Informação e Comunicação (ISUTIC)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AGO",
+		"InstitutionID": "887f7d58-ae86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Unitel S.A.R.L",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AGO",
+		"InstitutionID": "731f9583-4e66-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Unitel S.A.R.L - Unitel Academy",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

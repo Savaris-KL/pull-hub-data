@@ -1,0 +1,26 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GLP",
+		"InstitutionID": "ff5c7a27-51c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Les Persévérants Collège et Lycée",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GLP",
+		"InstitutionID": "34e1fe85-c5a8-e111-9b64-f04da23e67f6",
+		"OrganizationName": "LGT Baimbridge - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "GLP",
+		"InstitutionID": "e061c5a0-74cf-e111-971c-f04da23e67f6",
+		"OrganizationName": "Lycée Général et Technologique Baimbridge",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,994 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "3e87ba97-34bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Academia IEC Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "176ac6c1-0340-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Academic and Research Network - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c26537c3-8b61-e711-80f1-000d3af41938",
+		"OrganizationName": "Alma Mater Europaea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "0f178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "B2 d.o.o. visja strokovna sola - ljubljana - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "8ab9cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Biotehniški izobraževalni center Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "36b9cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Centre IRIS",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "73739be6-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "DOBA - EPISIT - Maribor Campus - Microsoft Imagine",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "408151c9-2293-e211-87e9-f04da23e67f4",
+		"OrganizationName": "DOBA Faculty of Applied Business and Social Studies Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "bbd87c7d-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "Druga Osnovna sola Slovenj gradec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "55168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dvojezicna Srednja Sola Lendav",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "b1b9cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Ekonomska gimnazija in srednja šola Radovljica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "5b168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ekonomska Sola Murska Sobota",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "58168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ekonomska šola Murska Sobota",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "5e168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ERSŠG Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "25c0e32a-4fee-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Faculty of Commercial and Business Sciences (Slovenia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "61168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Faculty of Information Studies in Novo mesto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "aac0f241-3abf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakulteta za Arhitekturo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "571df1e5-31bf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Fakulteta za Kemijo in Kemijsk",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f1ac931a-496b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Fakulteta za Upravo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "26729ed3-13d8-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "FIŠ Novo Mesto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f6193e49-8daf-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "GEA College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "64168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gimnazija Bezigrad",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "9f987cae-6592-e711-80f6-000d3af41938",
+		"OrganizationName": "Gimnazija Franca Miklošiča Ljutomer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "67168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gimnazija in ekonomska srednja šola Trbovlje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "baf74023-3737-e811-8103-000d3af41938",
+		"OrganizationName": "Gimnazija in srednja šola Kočevje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "2769a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazija Jožeta Plečnika Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f46aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazija Jurija Vege Idrija",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "6a168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Gimnazija Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "ea69a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazija Moste",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d8fea788-be6b-e711-80f1-000d3af41938",
+		"OrganizationName": "Gimnazija Ormož",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "0269a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazija Ptuj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "7068a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Gimnazija Šentvid",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "6d168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "GimTeam Skupina",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "70168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Inštitut in akademija za multimedije",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "dd168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Jozef Stefan Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "6eaf6c01-6222-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Jožef Stefan Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f013768e-7a5e-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Lesarska šola Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "8d44fc6d-2239-e011-b1e1-0030487d8897",
+		"OrganizationName": "Mednarodna fakulteta za druzbene in poslovne studije",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "257c5f6a-2d01-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Minister za izobraževanje, znanost, kulturo in šport",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d5f076a8-3bbf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Naravoslovnotehniska fakulteta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "216aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Antona Aškerca Velenje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "73b8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "OŠ Antona Globočnika Postojna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "b46aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ bratov Polančičev Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "2e6ba7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Dolenjske Toplice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "21638477-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Elvire Vatovec Prade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "126ba7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Ferda Vesela, Šentvid pri Stični",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "0cdab513-5f41-e711-80ef-000d3af41938",
+		"OrganizationName": "OŠ in vrtec Sv. Trojica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "4969a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Ivana Groharja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "a869a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Koroški jeklarji",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "45638477-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Lenart",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c20f78ec-a582-e711-80f3-000d3af41938",
+		"OrganizationName": "OŠ Nove Jarše",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "066aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Polhov Gradec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "8d638477-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Preserje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "b168a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "OŠ Prule",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "1c73ae19-b994-e711-80f6-000d3af41938",
+		"OrganizationName": "OŠ Spodnja Šiška",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "12e81341-2ab4-e711-80f7-000d3af41938",
+		"OrganizationName": "OŠ Spodnja Šiška Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d2785e29-3742-e711-80ef-000d3af41938",
+		"OrganizationName": "OŠ Toma Brejca",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "1497b45c-03ca-e711-80f9-000d3af41938",
+		"OrganizationName": "OŠ Valentina Vodnika",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "8eb8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "OŠ Vrhovci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "69638477-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna sola Beltinci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "00638477-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Brusnice",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "996aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Cankova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f2bb5f57-b882-e711-80f3-000d3af41938",
+		"OrganizationName": "Osnovna šola Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d66aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna sola dr. Jozeta Toporisica Dobova",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e1b8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Osnovna Šola Dragomelj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "746aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Dravlje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "de029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Osnovna šola F. S. Finžgarja Lesce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c6b8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Osnovna šola Franca Rozmana Staneta, Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "1fd97c7d-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola in vrtec Apače",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "7b69a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Jožeta Gorjupa Kostanjevica na Krki",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c769a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Miklavž na Dravskem polju",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d88eec7a-e8b8-e711-80f7-000d3af41938",
+		"OrganizationName": "Osnovna šola narodnega heroja Maksa Pečarja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "56b8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Osnovna sola Ormoz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "6090a861-345c-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Oskarja Kovačiča Škofije",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e2d87c7d-4f50-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Pier Paolo Vergerio il Vecchio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "9109555d-7bdb-e711-80fa-000d3af41938",
+		"OrganizationName": "Osnovna sola Podgora Kutezevo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "a9b8cd03-4442-e711-80ef-000d3af41938",
+		"OrganizationName": "Osnovna šola Primoža Trubarja Velike Lašče",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "cf029773-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Osnovna šola prof. dr. Josipa Plemlja Bled",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "596aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Radenci",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "ba7ac27b-caa2-e711-80f6-000d3af41938",
+		"OrganizationName": "Osnovna šola Šenčur",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "9568a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Sladki Vrh",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c211c72b-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Osnovna sola Smarje pri Kopru",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "d78c7315-c06b-e711-80f1-000d3af41938",
+		"OrganizationName": "Osnovna šola Šmarjeta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "7abcc258-1213-e811-80fe-000d3af41938",
+		"OrganizationName": "Osnovna šola Toneta Čufarja",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "cc68a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Osnovna šola Trebnje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e768a7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "s|š|o|f Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "27520e88-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "SERŠ Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "bd6d52e5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Sola Prihodnosti Maribor - CENTER - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e1168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Solski Center Celje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e71644bf-7241-e711-80ef-000d3af41938",
+		"OrganizationName": "Šolski center Kranj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e4168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Šolski center Krško-Sevnica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "79da1372-940e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Solski Center Novo Mesto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "e7168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Šolski center Postojna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "ea168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Solski Center Rudolfa Maistra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "ed168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Šolski Center Škofja Loka",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "ce5bebb2-bc35-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Šolski Center Škofja Loka - Skofja Loka - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f0168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Solski center Slovenj Gradec",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f4168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Solski Center Velenje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "2bf86764-bd97-e711-80f6-000d3af41938",
+		"OrganizationName": "Srednja ekonomsko-poslovna šola Koper",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "f7168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Srednja pokicna in tehniska Šola",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "95eefe6c-45dc-e711-80fa-000d3af41938",
+		"OrganizationName": "Srednja sola Crnomelj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "08ca5011-4ac9-e711-80f9-000d3af41938",
+		"OrganizationName": "Srednja šola Josipa Jurčiča Ivančna Gorica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "fa168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Srednja sola Ravne",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "fd168f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Srednja šola tehniških strok Šiška",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "1e709220-f972-e811-8106-000d3af41938",
+		"OrganizationName": "Srednja šola za farmacijo, kozmetiko in zdravstvo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "0e5fbcc5-c948-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Srednja šola za oblikovanje Maribor (Slovenia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "00178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Srednja Tehniška In Poklicna Šola Trbovl",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "03178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Srednja Tehniska Šola Koper",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "03829027-ddca-e711-80f9-000d3af41938",
+		"OrganizationName": "Srednja zdravstvena šola Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "af44a891-e29a-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Tehniski Solski Center Kranj",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "06178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Tehniski Solski Center Nova Gorica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "bc634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Ljubljana - Ljubljana - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "15ee1d93-af2a-e711-80ee-000d3af41938",
+		"OrganizationName": "University of Ljubljana (Univerza v Ljubljani)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "c9bcf42b-de4a-de11-b696-0030485a8df0",
+		"OrganizationName": "University of Ljubljani (Slovenia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "cd644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "University of Maribor",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "09178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Nova Gorica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "6a852d71-e820-e111-8d82-f04da23e67f6",
+		"OrganizationName": "University of Primorska (Slovenia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "0c178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Univerza na Primorskem",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "76953871-5f96-e811-8108-000d3af41938",
+		"OrganizationName": "Univerzita Veterinárskeho Lekárstva A Farmácie",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "fdffe160-fc75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Visoka šola za storitve",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "3e6aa7e6-b54b-e711-80f0-000d3af41938",
+		"OrganizationName": "Vrtec Trbovlje",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "12178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Zavod Antona Martina Slomška",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "b8decbe7-989f-e711-80f6-000d3af41938",
+		"OrganizationName": "ZGN Ljubljana",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "SVN",
+		"InstitutionID": "15178f99-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "ZVEZA ZA TEHNICNO KULTURO SLOV",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

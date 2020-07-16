@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "22b7536f-ad35-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Auburn University at Montgomery",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "30b7536f-ad35-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "Auburn University Montgomery - College of Business - Information Systems and Decision Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=30b7536f-ad35-e311-93f6-b8ca3a5db7a1"
+	}
+]

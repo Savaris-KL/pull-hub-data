@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "457980ea-8448-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Sylacauga City Schools",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://sylacauga.al.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "0735751b-8548-e211-ad71-f04da23e67f6",
+		"WebStoreName": "Sylacauga City Schools",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0735751b-8548-e211-ad71-f04da23e67f6"
+	}
+]

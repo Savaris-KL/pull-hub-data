@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "58fb5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "Chandler Gilbert Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d5d18101-ad6f-e011-971f-0030487d8897",
+		"WebStoreName": "Chandler-Gilbert Community College - Business & Computing Studies",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d5d18101-ad6f-e011-971f-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "5606100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Chandler Gilbert Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "0c2cda19-c327-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Maricopa Community Colleges",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=0c2cda19-c327-e411-9403-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "0a4508a0-36a7-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Chandler Gilbert Community College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "174508a0-36a7-e011-98e6-f04da23e67f6",
+		"WebStoreName": "Chandler-Gilbert Community College - Business and Computing Studies",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=174508a0-36a7-e011-98e6-f04da23e67f6"
+	}
+]

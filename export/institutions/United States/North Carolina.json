@@ -1,0 +1,2938 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "815de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "!%@#; Can be deleted or reused",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1e24b1f-b7f6-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Academy at Central",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05183261-02b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "Alamance Burlington School System",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alamance Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Alamance County Public Libraries",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6dfc3ff-4728-de11-a497-0030485a8df0",
+		"OrganizationName": "Alamance-Burlington School System",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ded8732-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Alexander Central High School - Technology - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Alleghany County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d69a6df0-008e-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Ambassador Baptist College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5750f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Institute of Applied Science",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cce5581-57d1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Apex High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Apex School of Theology",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f5368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Appalachian State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "651d4e56-9c03-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Ashe County High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cae6b62-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Asheboro High School - Technology - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b9447eb-96c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Asheville Buncombe Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "118f0a91-9f68-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Asheville City Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95b5c656-778e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Asheville High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a26e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Asheville-Buncombe Library System",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "915de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Asheville-Buncombe Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "asheville-buncome technical community college",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Association for Computing Machinery",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b3c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Chapel Hill",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "770b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Charlotte",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Barber-Scotia College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Barton College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a75de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Beaufort County Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Belmont Abbey College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6d217f1-b12f-e011-b71d-0030487d8897",
+		"OrganizationName": "Belrose Academy  (Home School)",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bennett College for Women",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bertie County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d558fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Bishop McGuiness Catholic High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e9a1b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bishop McGuinness Catholic High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2fe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bladen Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4776c9d-1d0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Blue Ridge Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92fedc4b-6ab0-df11-ad57-0030487d8897",
+		"OrganizationName": "Blue Ridge Community College - North Carolina",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c967a22-b3c7-de11-baeb-0030487d8896",
+		"OrganizationName": "B'nai Shalom Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbfe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Body Therapy Institute",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e25ed63f-acfa-dc11-89b0-0030485a6b08",
+		"OrganizationName": "Brevard College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cb3d96d-5057-de11-9e9c-0030485a8df0",
+		"OrganizationName": "British Schools of America",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brookstone College of Business",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Brunswick Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8c28835-7463-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Buncombe County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05ee1cd5-89d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Bunn High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0271e5f1-896c-e011-971f-0030487d8897",
+		"OrganizationName": "Burke County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e35ed63f-acfa-dc11-89b0-0030485a6b08",
+		"OrganizationName": "Cabarrus College of Health Sciences",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1de51c42-da02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Cabarrus County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Caldwell Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e59422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Caldwell Community College Technical Institute",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc6f66b3-9918-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camelot Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Campbell University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0de6e7ab-e54a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Campbell University School of Law",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b55c956a-9c6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Campbell University School of Medicine",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "125d956a-9c6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Campbell University School of Osteopathic Medicine",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2915f98d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cape Fear Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec361d37-1c43-df11-b56b-0030487d8897",
+		"OrganizationName": "Cape Fear Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f64b8c5-9d5b-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Cardinal Gibbons High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "222aef39-d925-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Carmel Christian School - North Carolina",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68deaf25-72e8-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Carolina College of Health Sciences",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a96e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Carolina Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87bf7224-b0c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Carolinas Medical Center Residency Program - Carolinas HealthCare System",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "119522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Carteret Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c858fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Cary Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Catawba College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f45ae5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Catawba Valley Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bf801f5-f24b-e011-bd14-0030487d8897",
+		"OrganizationName": "Central Carolina Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Piedmont Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b34abab6-383b-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Central Piedmont Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5704f5a9-a7a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Chapel Hill High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8899bf3-0976-e711-80f1-000d3af41938",
+		"OrganizationName": "Chapel Hill-Carrboro City Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1367daa1-1265-e011-971f-0030487d8897",
+		"OrganizationName": "Charleston School of Law",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "009a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Charlotte Country Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Charlotte Latin School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3f99640-a12e-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Charlotte School of Law",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d203896-5c19-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Charlotte-Mecklenburg Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "94378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chowan University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2ce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Cleveland Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7373567a-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Cleveland Early College High School - Technology - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fa6cd4a-6a1e-e011-b71d-0030487d8897",
+		"OrganizationName": "Coastal Carolina Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of the Albemarle",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2b461ba-3b19-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Columbus County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dda951e-df91-e811-8108-000d3af41938",
+		"OrganizationName": "Community School of Davidson",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32a3bf84-5840-e911-8113-000d3af41938",
+		"OrganizationName": "Concord First Assembly Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a011c6b-f194-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Corvian Community School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec0edb7f-994c-df11-b56b-0030487d8897",
+		"OrganizationName": "Craven Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cb69220-f008-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Craven County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f7aa683-69c0-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Crown Point Elementary School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1315ac51-0066-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Cumberland County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Davidson College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Davidson County Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21ddb683-06fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Davidson County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16764fb5-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Davie County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83f00b60-ee4a-de11-b696-0030485a8df0",
+		"OrganizationName": "Duke University - Durham Campus",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Duke University*",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f585f13-6a42-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Duplin County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b258fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Durham Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a53d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Durham Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "E. J. Taylor Corporation Dale Carnegie Training",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b86bfb32-8f4b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "E.A. Laney High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "East Carolina University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6cc970cc-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "East Mecklenburg High School - Technology - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "557c32b6-1ecd-e111-971c-f04da23e67f6",
+		"OrganizationName": "East Rutherford High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea531907-acbc-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "East Rutherford High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7a68844-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Eastern Guilford High School - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Edgecombe Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Elizabeth City State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cc37ea6-9945-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Elkin City Schools-NC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Elon University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9246cbef-4666-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Emsley A. Laney High School - Wilmington - Campus Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f25be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Equitable Classroom Practices Institute Colleges Inc.",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29efc954-0260-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Eugene Ashley High School - Burgaw - Campus Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c29466fc-cbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Faith Christian School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Fayetteville State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fayetteville Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd82d793-190c-e111-a703-f04da23e67f6",
+		"OrganizationName": "First Flight High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aaebe55b-6e21-df11-856f-0030487d8897",
+		"OrganizationName": "First Flight Middle School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Forsyth Country Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b06e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Forsyth County Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9adc0122-ad86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Forsyth Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e37a0b7-8ed7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Franklin County Early College High",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6623af09-89d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Franklinton High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "929522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Futures Institute CPCC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20f6744a-ee6e-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Gardner Webb University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Gardner-Webb University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f97d3729-2c0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Gaston College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Grace College of Divinity",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Gray Stone Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f35cec7-2249-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Green Hope High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46c0b3bc-2867-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Greensboro Area Health Education Center",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Greensboro College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a358fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Greensboro Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f97d8e47-ed2a-e011-b71d-0030487d8897",
+		"OrganizationName": "Guildford College Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Guilford College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec9522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Guilford County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30e1bc0f-1e38-df11-b4ab-0030487d8897",
+		"OrganizationName": "Guilford Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Halifax Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d06aa80-d4b8-de11-886d-0030487d8897",
+		"OrganizationName": "Haywood Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Haywood County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8bfe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Henderson County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Heritage Bible College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbd3d52f-89be-de11-886d-0030487d8897",
+		"OrganizationName": "Hickory Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "High Point Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9ebfa3e5-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "High Point Christian Academy (High Point, NC) - High School AA",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "High Point University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9b2b253-257d-e711-80f3-000d3af41938",
+		"OrganizationName": "Highland School of Technology",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd62f225-ce4a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Hoggard High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hood Theological Seminary",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a22709e-e00e-e111-a703-f04da23e67f6",
+		"OrganizationName": "Hough High",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61ac8a38-b75f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "IBM Academic Initiative",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Immaculata Catholic School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26f058db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "InovaTech College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b764fb5-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Institute for Advanced Study",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a97ebe3-52b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Isothermal Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25fae164-5826-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "ITT Technical Institute - North Carolina",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "059d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jackson County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c69622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "James Sprunt Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "592ee270-8d49-e011-bd14-0030487d8897",
+		"OrganizationName": "John T Hoggard High school - Career and Technology Education - Microsoft Imagine Premium",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "871670ca-3c9e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "John T Hoggard High School - Wilmington - Campus Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fafbafe9-e64a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Johnson C. Smith University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52b3ec62-2a0c-df11-85a5-0030487d8897",
+		"OrganizationName": "Johnston Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b570b1c-c5b6-e811-810a-000d3af41938",
+		"OrganizationName": "Johnston County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6513bf5c-778e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Joint Communications Unit - Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84120a74-d43d-e011-b1e1-0030487d8897",
+		"OrganizationName": "Joint special Operations Medical Training Centre",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42fe9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kerr-Vance Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7aa284ee-bdde-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Kittrell Job Corps Center",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59e62a30-24ed-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Knightdale High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33e1d151-111f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Lake Norman Charter School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Laurel University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lees-McRae College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d9470bd-9cc5-df11-859b-0030487d8897",
+		"OrganizationName": "Lenoir Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lenoir-Rhyne University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "48f37ba6-247d-e711-80f3-000d3af41938",
+		"OrganizationName": "Lexington Senior High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b76e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lincoln County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11e64bb3-1848-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Living Arts College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Livingstone College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Long Creek",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Louisburg College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8986bec6-88d7-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Louisburg High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "194d1b40-06d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Lucy Ragsdale HS",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "477c4369-a08a-e811-8108-000d3af41938",
+		"OrganizationName": "Macon County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fae2333c-e10e-e111-a703-f04da23e67f6",
+		"OrganizationName": "Mallard Creek High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mars Hill Unviersity",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a5624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Martin Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "469a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Martin County School District",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mayland Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "McDowell County Schools - Marion - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fd657aa-533b-df11-b4ab-0030487d8897",
+		"OrganizationName": "McDowell Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a23b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Medical Arts School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Meredith College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07e2a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Methodist College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Methodist University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "253b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-Atlantic Christian University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54698e26-bb99-4b4f-816e-a1272a489782",
+		"OrganizationName": "Mid-South Independent School Business Officers - NC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6c5ada8-d3a3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Miller Motte Technical College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54c612d0-6ba6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Miller-Motte College Raleigh - Microsoft Imagine",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6f3ba9f-5c93-df11-ad8b-0030487d8897",
+		"OrganizationName": "Miller-Motte Technical School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "732c22b3-2a43-df11-b56b-0030487d8897",
+		"OrganizationName": "Mitchell Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14de8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Montgomery Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "60398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Montreat College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8dc08ad-226c-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Moore County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40e70097-8d49-e011-bd14-0030487d8897",
+		"OrganizationName": "Moss Street Elementary School, Rockingham County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0aa9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mount Zion Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "N.C. Department of Public Instruction",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nash Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "419822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "NC A & T State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "NC Homeschoolers",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19de8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "NCAT State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "194f043f-fd86-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Needham B. Broughton High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Net Dev Group",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c8afcdf-a7e7-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "New Hanover County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac74bcfb-4666-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "New Hanover High School - Wilmington - Campus Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38c0f707-e4fa-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "New Life Theological Seminary",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Carolina A&T State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Carolina Central University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a764fb5-cdc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "North Carolina Department of Public Instruction",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7ad57c9-d3c1-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "North Carolina Division of Non-Public Education - Home Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45857044-9b8d-4918-85ba-680569ab0b86",
+		"OrganizationName": "North Carolina Independent Colleges and Universities",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ad5f063-ef64-e211-a88c-f04da23e67f4",
+		"OrganizationName": "North Carolina School of Science and Mathematics",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Carolina State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "734dfb24-c898-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "North Carolina State University - Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "North Carolina Wesleyan College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a11e12c-4fae-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Northern Nash High",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1567cc7-eb8c-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "On Eagles' Wings Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "03dbabeb-f3c0-df11-859b-0030487d8897",
+		"OrganizationName": "Onslow County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b153b9aa-52d1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Orange County Schools (NC)",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19536498-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Orange High School - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37d08d0e-d1e0-e111-9231-f04da23fc522",
+		"OrganizationName": "Pamlico County High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63ff1d00-9bd9-e511-9416-b8ca3a5db7a1",
+		"OrganizationName": "Paragon Institute - Cary - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Peace College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "566568e0-35ce-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Pender County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Pfeiffer University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19c2a6d6-95d0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Philip J Weaver Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a04296c3-0106-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Phoenix Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "29534006-1994-df11-ad8b-0030487d8897",
+		"OrganizationName": "Piedmont Baptist College and Graduate School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84cd7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Piedmont Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1041d81-7e08-e011-bed1-0030487d8897",
+		"OrganizationName": "Pilot Mountain Middle School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47f91074-8cf8-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Pine Lake Preparatory",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4f85b02-253d-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Pioneer Springs Community School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56dd9861-a4e5-de11-a13b-0030487d8897",
+		"OrganizationName": "Pitt Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e3dc356-43b9-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Pitt Community College - Winterville - Campus Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1dffe578-a50b-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Polk County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21de8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Poole College of Management North Carolina State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebce3596-1c11-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "PowerMFC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "abd6c934-23d3-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "ProTrain",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f58fe9f-dbfc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Providence Day School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f952ca90-0e46-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Public Schools of Robeson County",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96bf905c-7d75-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Public Schools of Robeson County - Lumberton - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "053a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Queens University of Charlotte",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "789922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Randolph Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "894a34d1-2a34-de11-9d57-0030485a8df0",
+		"OrganizationName": "Randolph County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8629c55a-408f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Ravenscroft School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Richmond Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e0790f1-c803-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Richmond County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57c49148-704d-e811-8103-000d3af41938",
+		"OrganizationName": "Roanoke-Chowan Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e4563515-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Robert L. Patton High School - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Robeson Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2faff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Robeson County",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "969922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Rockingham Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca1d0461-359e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Rocky River High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0171641f-1a90-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Rowan-Cabarrus Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc80879e-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Rutherford Early College High School - Career and Technical Education - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "305d956a-9c6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Saint Andrews Presbyterian",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "670c5981-2667-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Saint Augustine's",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "759b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Raphael Catholic School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6b48ef8-5c66-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Salem Academy and College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b79922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Sampson Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f66a7a5b-32c8-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Sandhills Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Shamrock ISD",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Shaw University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db1aa743-87b3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Shepherds Theological Seminary",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "333484c9-90ac-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Silk Hope Academy - Home School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b048e65-3f8f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "South College - Asheville",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "629427b3-92ba-de11-886d-0030487d8897",
+		"OrganizationName": "South Piedmont Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "24182a43-1594-df11-ad8b-0030487d8897",
+		"OrganizationName": "Southeastern Baptist Theological Seminary",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "037c7e95-5a05-e111-8e6c-f04da23e67f6",
+		"OrganizationName": "Southeastern Community College, NC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c79a4cc3-77f4-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Southern Evangelical Seminary",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "08d34058-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Southern Lee High School (Sanford, NC) - High School AA",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f6b00ec-cd38-e211-aed3-f04da23e67f6",
+		"OrganizationName": "SouthLake Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01ca83cc-3a03-e211-bd05-f04da23e67f6",
+		"OrganizationName": "St Paul Catholic School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Andrews University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Augustine's College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "647fd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Mark Catholic School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca468b3b-0d0a-e011-bed1-0030487d8897",
+		"OrganizationName": "Stanly Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "40880042-4be2-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "STEM Early College at N.C. A&T",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "869eb846-08fd-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Surry Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4cd84003-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Surry Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "219247f9-1a9e-de11-886d-0030487d8897",
+		"OrganizationName": "Surry Community College - Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d72eeb03-3edb-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Elon School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "815c911e-a9de-e211-9000-f04da23fc520",
+		"OrganizationName": "The FxFoundation Group, Inc.",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72083538-33fa-e711-80fc-000d3af41938",
+		"OrganizationName": "Tri County Community College - Information Systems - Departmental Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af38515b-f272-e211-bf66-f04da23e67f4",
+		"OrganizationName": "UNC Kenan-Flagler Business School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Union County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Mount Olive",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "407f2a21-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "University of Mount Olive - Store",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "633b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina - Greensboro Campus",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "653b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina - Wilmington",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42e8784c-d49f-df11-ad57-0030487d8897",
+		"OrganizationName": "University of North Carolina Asheville",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "613b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina at Chapel Hill Campus",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8092dc00-a820-df11-856f-0030487d8897",
+		"OrganizationName": "University of North Carolina School of the Arts",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "603b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina, Asheville",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "623b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina, Charlotte",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "643b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of North Carolina, Pembroke",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa6cb47d-2ea0-e111-9b64-f04da23e67f6",
+		"OrganizationName": "University of South Carolina, Beaufort",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b7348bf-0e73-df11-bc53-0030487d8897",
+		"OrganizationName": "Vance-Granville Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6987a964-fa99-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Vandalia Christian School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "399c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Village Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f158832e-486f-e011-971f-0030487d8897",
+		"OrganizationName": "Wake County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wake Forest Baptist Health",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "750a2a83-7712-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Wake Forest High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wake Forest MBA Babcock Graduate School of Management",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wake Forest University, Reynolda Campus",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28014a3a-beca-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Wake Forest University, Reynolda Campus (OLD)",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Wake Technical Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53cf2563-2f95-e111-981b-f04da23e67f6",
+		"OrganizationName": "Warren County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Warren Wilson College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c55f79fa-95fc-df11-9c87-0030487d8897",
+		"OrganizationName": "Wayne Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd7251e4-a528-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Wayne County Public Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16e2b85b-8e22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Wesleyan Christian Academy",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98ba1018-e6eb-e711-80fa-000d3af41938",
+		"OrganizationName": "West Charlotte High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "271eb953-8d7f-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "West Johnston High",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7a08c43-42ee-dd11-9772-0030485a8df0",
+		"OrganizationName": "West Lincoln Middle School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "55ca5cb6-237d-e711-80f3-000d3af41938",
+		"OrganizationName": "West Montgomery High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34a323ad-b898-df11-ad8b-0030487d8897",
+		"OrganizationName": "Western Alamance High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db6c1e5a-6646-df11-b56b-0030487d8897",
+		"OrganizationName": "Western Career College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Carolina University (NC)",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bedd3e6-0d07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Western Carolina University-Cullowhee Campus",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f5e8344-65fa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Western Piedmont Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65b26150-26df-4bc4-9f4e-be3643d001d0",
+		"OrganizationName": "Wilkes Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c42c98d-b69f-e711-80f6-000d3af41938",
+		"OrganizationName": "William Amos Hough High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d2d10a2-1461-e011-971f-0030487d8897",
+		"OrganizationName": "William G. Enloe High School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "205e4129-7866-e211-a88c-f04da23e67f4",
+		"OrganizationName": "William Peace University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "299b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Wilson Community College",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wingate University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "103c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Winston Salem State University",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3d8dc28-8766-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Winston-Salem State University - Information Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecd04af9-5dc1-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Winston-Salem/Forsyth County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb579a88-ccb0-e111-b575-f04da23e67f6",
+		"OrganizationName": "Winter Park Elementary School",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9387f2f1-fc75-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Yancey County Schools",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_k_12"
+	}
+]

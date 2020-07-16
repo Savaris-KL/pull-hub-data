@@ -1,0 +1,98 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "a0707ce4-0a1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sociedad de Enseñanza Superior S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "5543f3e2-90f7-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tecnología y Educación",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "823e14ae-2080-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Americana - Paraguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "b23f2fee-4c95-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Autonoma de Asunción - Asuncion - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "266ae1eb-87b1-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Católica Nuestra Señora de la Asunción",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "b6379b33-c096-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Columbia del Paraguay",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "971e5d3e-df24-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Universidad del Norte (Paraguay)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "2d195a4a-37bc-e811-810a-000d3af41938",
+		"OrganizationName": "Universidad La Paz",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "9976cea7-4ac6-e711-80f9-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Asunción (National University of Asuncion, Paraguay)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "e48f468b-170f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Universidad Nacional de Itapúa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "60195d64-5a45-e711-80ef-000d3af41938",
+		"OrganizationName": "Universidad Nacional de Pilar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRY",
+		"InstitutionID": "ec8a930f-d1c4-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Universidad Nacional de Villarrica del Espíritu Santo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

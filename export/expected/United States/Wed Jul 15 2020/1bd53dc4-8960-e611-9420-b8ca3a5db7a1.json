@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "1bd53dc4-8960-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Kambrya College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "69f068d7-8960-e611-9420-b8ca3a5db7a1",
+		"WebStoreName": "Kambrya College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=69f068d7-8960-e611-9420-b8ca3a5db7a1"
+	}
+]

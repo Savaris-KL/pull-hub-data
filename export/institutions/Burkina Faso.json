@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BFA",
+		"InstitutionID": "d86d5c72-063c-e711-80ef-000d3af41938",
+		"OrganizationName": "Université Aube Nouvelle (Ouagadougou, Burkina Faso)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "BFA",
+		"InstitutionID": "15ffa75f-40d4-e211-9d05-f04da23e67f4",
+		"OrganizationName": "University of Ouagadougou",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "8c9d0f6b-f386-4220-92f3-ffa15b3cc4f0",
+		"OrganizationName": "University of Alabama at Birmingham - Health Systems Group",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://uab.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "beeb7d88-c4d3-db11-bb1a-001372747fc5",
+		"WebStoreName": "University of Alabama at Birmingham",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=beeb7d88-c4d3-db11-bb1a-001372747fc5"
+	}
+]

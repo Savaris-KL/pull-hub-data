@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Everest College - AZ",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://corinthian.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "37c9e04f-6054-dd11-8236-0030485a6b08",
+		"WebStoreName": "Corinthian Colleges",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=37c9e04f-6054-dd11-8236-0030485a6b08"
+	}
+]

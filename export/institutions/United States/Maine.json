@@ -1,0 +1,874 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c20b0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Bangor Theological Seminary",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bates College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a0c0a50-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Beal College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a90e0e4-a0a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Berwick Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Biddeford High School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93fe9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Birthwise Midwifery School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bowdoin College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "880e3581-518b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Brewer School Department",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32a9f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bridgton Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7edb5f12-3b72-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Cape Elizabeth School District",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Technical Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59c176a1-34f0-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Caribou Regional Technology Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Central Maine Christian Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f7e89da-4519-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Central Maine Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colby College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "College of the Atlantic",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea9c7f68-fe6b-de11-b7f9-0030487d8896",
+		"OrganizationName": "Eastern Maine Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc5414a9-5c3f-e011-b1e1-0030487d8897",
+		"OrganizationName": "Falmouth High School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef135c83-344c-ea11-8127-000d3af41938",
+		"OrganizationName": "George Stevens Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hebron Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a2388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Husson College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Husson University",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61c1fd61-c567-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Hyde School - Bath - Campus Store",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Institute for Doctoral Studies in the Visual Arts",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7acf5503-169c-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Islesboro Central School - Islesboro - Microsoft Imagine Standard",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "390fadc1-2651-e211-ad71-f04da23e67f6",
+		"OrganizationName": "John Bapst",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0f2cce3-5072-df11-bc53-0030487d8897",
+		"OrganizationName": "Kennebec Valley Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c6c3ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Kents Hill School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3f3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lake Forest Graduate School Of Management",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e540ed64-9807-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Lake Region School District",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9635f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Landing School of Boat Building and Design",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22b9d3f5-0f80-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Lewiston Regional Technical Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "14398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maine College of Art",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Maine Maritime Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f971054d-f2b9-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Maine School Administrative District #54",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a93e48b8-bd7a-40b7-8873-130bfbc145bb",
+		"OrganizationName": "Maine School Administrative District No 75",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "MId-Coast School of Technology",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-Maine Technical Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "579822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "New England School of Communications",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3f33e30-a922-e211-a76f-f04da23e67f6",
+		"OrganizationName": "North Atlantic Regional High School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a29822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northeast Technical Institute",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5114fca9-b697-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Northern Maine Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67ee33cf-ee23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Northern Penobscot Tech Region 3",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4fed543b-f305-e811-80fc-000d3af41938",
+		"OrganizationName": "Oxford Hills School District - Computer Technology - Departmental Store",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "829922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Region 9 School Of Applied Technology",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e3483f5a-964c-df11-b56b-0030487d8897",
+		"OrganizationName": "Regional School Unit #54",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "016e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "RSU13 - Regional School Unit 13",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81db941b-99cf-e711-80f9-000d3af41938",
+		"OrganizationName": "Saint Dominic Academy",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f50280cb-337d-e711-80f3-000d3af41938",
+		"OrganizationName": "Sanford Regional Technical Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6838840-959c-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Sanford School Department",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "903586a1-2151-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Scarborough Public Schools",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "10708d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "SMCC",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "813f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Main Technical College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Maine Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c3d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Maine Technical College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "393a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "St. Joseph's College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c93a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Thomas College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Thomas College -Waterville - Maine",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2247c96-ac06-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Uinversity of Southern Maine",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e93a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Unity College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0e8fb41-c06d-df11-b841-0030487d8897",
+		"OrganizationName": "University of Maine",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98ee3427-f74d-e211-ad71-f04da23e67f6",
+		"OrganizationName": "University of Maine - Orono Campus - Campus Store",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "393b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine at Augusta",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7e95e0c-0602-e811-80fc-000d3af41938",
+		"OrganizationName": "University of Maine at Augusta - Cybersecurity",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b91f76a5-6612-df11-85a5-0030487d8897",
+		"OrganizationName": "University of Maine System",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53aec650-8e42-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "University of Maine System - Microsoft Imagine Standard",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dcc228d-af3d-e811-8103-000d3af41938",
+		"OrganizationName": "University of Maine, Augusta (VMAP Campus)",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine, Farmington",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine, Fort Kent",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine, Machias",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine, Orono",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Maine, Presque Isle",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of New England",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbe5950d-6f98-4434-978b-4f69f9797b92",
+		"OrganizationName": "University of Southern Maine",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Waldo County Technical Center",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8565a9e6-1c82-e011-969d-0030487d8897",
+		"OrganizationName": "Weymouth High School",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6227e73c-3ebf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Windham Raymond School District RSU 14",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "421f5219-350b-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Windham School Department RSU #14",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c9b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "York County Community College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d53c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "York County Technical College",
+		"ProvinceCode": "ME",
+		"SubsectorCode": "education_college_university"
+	}
+]

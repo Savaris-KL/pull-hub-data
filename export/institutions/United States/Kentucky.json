@@ -1,0 +1,2570 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1612fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Adair County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Alice Lloyd College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Allen Co. Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45d685b2-8f0f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "American National University - Kentucky",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f00049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Anchorage Public School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2312fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Anderson County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Asbury Theological Seminary",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Asbury University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ashland Community and Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Ashland Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8a8d0ba-7489-4dcf-ae62-7bfbe010a1c8",
+		"OrganizationName": "Association of Independent Kentucky Colleges and Universities",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2912fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Augusta Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3312fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Ballard County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3c12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Barbourville Ind.",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4212fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bardstown Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4812fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Barren County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5112fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bath County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5712fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Beechwood Ind Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bell County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bellarmine College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c734e236-453e-4e5a-a105-d2ca4d964158",
+		"OrganizationName": "Bellarmine University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8200049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bellevue Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "28378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Berea College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Berea Independent School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Big Sandy Community Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9add8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Bluegrass Community Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6412fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Boone County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bourbon County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7012fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bowling Green Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4302e817-e2a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Bowling Green Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7612fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Boyd County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Boyle County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8212fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Bracken County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8812fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Breathitt County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Breckinridge County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Brescia University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "41aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bullitt County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9412fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Burgin Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Butler County Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "C.E. McCormick Area Technology Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a012fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Caldwell County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Calloway County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1414e5bb-5b29-e011-b71d-0030487d8897",
+		"OrganizationName": "Camp Ernst Middle School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a612fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Campbell Co. Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "774f9726-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Campbell County ATC - Information Technology - Departmental Store",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Campbellsville Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "12408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Campbellsville University - Campbellsville Campus",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3c10291-f874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Carl D. Perkins Job Corps Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Carlisle County Comets",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Carroll County Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b212fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Carter County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcc89bcc-f81a-de11-9c12-0030485a8df0",
+		"OrganizationName": "Carter County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b812fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Casey County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Caverna Ind. School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Centre College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c412fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Chrisitan County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "837dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Christian Fellowship School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6453278e-d58e-e111-981b-f04da23e67f6",
+		"OrganizationName": "Clark County Area Technology Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Clark County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e11908a-9fcf-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Clear Creek Baptist Bible College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Clinton County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0412fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Cloverport Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cook County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Corbin Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdcd1209-32be-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Covington Catholic High School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1012fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Covington Independent Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8c485070-5359-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Covington Latin",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d012fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Crittenden County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cumberland College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d612fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Cumberland County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cab6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Danville Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Daviess Co Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e212fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Dawson Springs Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2563515-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Daymar College - Bellevue Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78b0f4f5-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Daymar College - Bowling Green - Microsoft Imagine Standard",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "875be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Daymar College - Departmental Store",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e812fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Dayton Indepedent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "809efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Earle C. Clements Job Corps Academy",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "East Bernstadt IND",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Eastern Kentucky University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e15be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastside Technical Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f412fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Edmonson County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "663d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Elizabethtown Community College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa12fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Elizabethtown Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0013fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Elliott County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0613fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Eminence Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a9ffe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Employment Solutions - College for Technical Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0c13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Erlanger-Elsmere Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7a9d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Estill County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1313fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "FAIRVIEW INDEPENDENT SCHOOLS",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fayette County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "39fa4f8c-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "Fern Creek Traditional High School - Computer Science - Departmental Store",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fleming County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2113fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Floyd County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2713fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fort Thomas Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Frankfort Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db36b9cb-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Franklin County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da3490ab-7ac3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Frontier Nursing University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Frontier School of Midwifery and family nursing",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3413fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Fulton Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Galen College of Nursing",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Gallatin County Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4113fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Garrard County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9b1d0b3-c34a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Garrard County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fcce7d97-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Gateway Community Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Georgetown College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4713fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Glasgow Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85ffe973-a35c-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Grant County High School - Dry Ridge - Campus Store",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Grant County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5813fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Graves County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Grayson Co Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Greater Cincinnati Center for Montessori Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b1055987-f282-e011-969d-0030487d8897",
+		"OrganizationName": "Green County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8613fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Greenup Co. Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a513fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hardin County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Harlan County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d013fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Harlan Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e713fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Harrison County Bd. of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2fc27705-c5ee-e911-8122-000d3af41938",
+		"OrganizationName": "Harrison County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe13fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hart County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2a0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hazard Community and Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1414fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hazard Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d18722a-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Henderson Community College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bed1658-27f9-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Henderson Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0951a84b-0807-e011-bed1-0030487d8897",
+		"OrganizationName": "Henderson County High School (Henderson, KY) - High School AA",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2c14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Henderson County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4914fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Hickman Co. School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd5ab7b1-0e62-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Highlands Latin School - Louisville - Campus Store",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "57acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hopkins County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7dcc8e9-7fa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Hopkinsville Community College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b5060d3-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Hughes-Jones Harrodsburg Area Technology Center - Information Technology - High School AA",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5778121b-c6f0-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Immaculata Classical Academy",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5678c1a-e3cd-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "J. Graham Brown School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6114fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Jackson County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Jackson Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Jefferson Community Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jefferson County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a35f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Jefferson Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7114fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Jenkins Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7714fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Jessamine County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Johnson County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fdd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "KCTCS-KATI",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8314fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Kenton County School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kentucky Christian College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc43c72f-1780-416c-9803-ac46ac1120e3",
+		"OrganizationName": "Kentucky Christian University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d13ecef-6809-4862-afde-f95a4eafe62f",
+		"OrganizationName": "Kentucky Community and Technical College System",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3d9d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Kentucky Department for Libraries and Archives",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7db13da-d22e-499c-b845-25d8d3492a38",
+		"OrganizationName": "Kentucky Department of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b74363d2-7355-e911-8113-000d3af41938",
+		"OrganizationName": "Kentucky Department of Education - Office of Education Technology",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kentucky Mountain Bible College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8914fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Kentucky School f/t Blind",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Kentucky School for the Deaf",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kentucky State University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kentucky Wesleyan College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2a07d9a-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "King Middle School (Harrodsburg, KY) - High School AA",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9614fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Knott County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Knox County",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a17ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "LaRue County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "323b60ed-3ac8-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Laurel County School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a514fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lawrence Ky County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Leslie County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b514fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Letcher County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lewis County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fe8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lexington Christian Academy",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c935f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lexington Theological Seminary",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lincoln County Area Technology Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c114fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Lincoln County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lindsey Wilson College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c714fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Livingston County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Logan County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e56f8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lone Oak ISD",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d06100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisville Bible College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "80f4c69a-5f93-e011-969d-0030487d8897",
+		"OrganizationName": "Louisville City School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f515a87b-b43e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Louisville Collegiate School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9206100a-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisville Presbyterian Theological Seminary",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d9722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Louisville Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d314fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Ludlow Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2854ac91-9141-4402-9b2d-48ca9af41614",
+		"OrganizationName": "Madison County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2a3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Madisonville Community College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "389a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Magoffin County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Marion County Schools District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e214fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Marshall County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mason County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f114fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mayfield Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9dd8091-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Maysville Community Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f714fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "McCracken County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd14fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "McCreary County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cbede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "McLean County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0315fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Meade County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0915fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Menifee County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Mercer County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3068b046-254c-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Mercy Academy",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1515fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Metcalfe County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6078df8-bf6f-414a-ae50-fc07c61e42ab",
+		"OrganizationName": "Mid-Continent University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Middlesboro Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Midway University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2415fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Monroe County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4849f193-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Monticello Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "65398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Morehead State University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Morgan County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d04bb10-3bbd-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Mt. Carmel School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3115fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Muhlenberg County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3715fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Murray Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Murray State University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Danville KY",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Florence",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a00e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Lexington",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a10e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Louisville",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a20e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Pikeville",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9d0e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Richmond",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "285499dd-766b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Nelson County Area Technology Center",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4015fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Nelson County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7f152f91-95f2-e811-810c-000d3af41938",
+		"OrganizationName": "Newport Central Catholic High School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4715fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Newport Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Nicholas County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf112056-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Noe Middle School (Louisville, KY) - High School AA",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea3e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northern Kentucky University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5615fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Ohio County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Oldham County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6415fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Owen County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bcfe039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Owen County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95aef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Owensboro Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Owsley County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7015fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Paducah Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7915fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Paintsville Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pendleton County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8315fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Perry County Bd. of Ed.",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8915fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Pike County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ac58a7c-154c-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Pikeville College B",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8f15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Pikeville Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6900049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Pineville Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9515fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Pineville Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62e350fc-c03d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Portland Christian School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "209b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Powell County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pulaski County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9e15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Raceland-Worthington Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a415fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Robertson County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "589b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Rockcastle County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Rowan County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b315fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Russell County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b915fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Russell Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17c4ea11-2f07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Russellville Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c8c286a-3f18-dc11-b8b4-0030485a6b08",
+		"OrganizationName": "Sacred Heart Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "84fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Saint Nicholas Academy",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72b97680-1e4a-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Saints Peter and Paul Regional Catholic School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c215fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Science Hill Indep. School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Scott County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ad0a0da-f0f6-e711-80fc-000d3af41938",
+		"OrganizationName": "Shelby County Area Technology Center - Technology - Microsoft Imagine Premium",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d115fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Shelby County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d715fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Silver Grove Ind School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Simpson County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0125541d-e3a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Somerset Community College - Somerset - Microsoft Imagine Standard",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e315fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Somerset Independent Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a13d8a21-610b-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Southcentral Kentucky Community and Technical College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1affcb91-129b-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Southcentral Kentucky CTC",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "743a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern Baptist Theological Seminary",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4da00c50-0cd2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Southern High School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Southgate Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "893a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Spalding University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b211fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Spencer BOE",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "599a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Spencerian College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2f6520e-e21a-4818-afe1-c43ac7c0ee27",
+		"OrganizationName": "St. Catharine College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Gabriel the Archangel School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52e0e075-b75b-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Sullivan College of Technology and Design - Louisville - Microsoft Imagine Standard",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sullivan University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7c2665bb-0347-41f6-9202-6ccafb868cf2",
+		"OrganizationName": "Sullivan University - FS",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb11fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Taylor County School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Thomas More College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0937962-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "TK Stone Middle School (Elizabethtown, KY) - High School AA",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c111fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Todd county School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d03a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Transylvania University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c711fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Trigg Co Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cd11fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Trimble County High School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e03a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Union College",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54ab9912-63eb-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Union County Public Schools (KY)",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "363b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Kentucky",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "383b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Louisville - KVC",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Pikeville",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa08aa80-f9bb-dd11-b00d-0030485a6b08",
+		"OrganizationName": "University of the Cumberlands",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d411fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Walton-Verona Independent",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da11fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Warren County Public Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Warren National University",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e011fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Washington Co. Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e611fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Wayne County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4cb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Webster County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec11fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "West Point Independent School",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f13b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Western Kentucky University - KVC",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f211fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Whitley County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f811fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Williamsburg Independent School District",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe11fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Williamstown Ind Board of Ed",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f315fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Wolfe County Board of Education",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fc15fd62-558f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Woodford County Schools",
+		"ProvinceCode": "KY",
+		"SubsectorCode": "education_k_12"
+	}
+]

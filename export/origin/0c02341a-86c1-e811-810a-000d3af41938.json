@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "0c02341a-86c1-e811-810a-000d3af41938",
+		"OrganizationName": "Catholic Education Office of Western Australia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "ae83fa27-86c1-e811-810a-000d3af41938",
+		"WebStoreName": "Catholic Education Office of Western Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ae83fa27-86c1-e811-810a-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "f360055b-1a20-ea11-8125-000d3af41938",
+		"OrganizationName": "Catholic Education Office of Western Australia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "abc62361-1a20-ea11-8125-000d3af41938",
+		"WebStoreName": "La Salle College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=abc62361-1a20-ea11-8125-000d3af41938"
+	}
+]

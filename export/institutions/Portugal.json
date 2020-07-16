@@ -1,0 +1,2474 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e66134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "1º Jardim Escola João de Deus,PRT,5940573",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d46134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "2º Jardim Escola João de Deus,PRT,6729690",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "A Escola Internacional de Braga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dfa47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Academia da Força Aérea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7bcc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Academia de Música de Santa Cecília,PRT,7929159",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e4a47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Academia Militar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "aacb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Adeptoliva - Ass. Des.  Ens. Prof. Concelhos Oliveira do Hospital, Tábua e Arganil,PRT,7870445",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5acc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ADLIP - Escola Profissional do Pico,PRT,8374865",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "73c8261a-8f22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Aecanas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "97b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Aemar - Associação para o Estudo e Ensino do Mar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f4cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Aemar - ITN - Ass. de Estudos e de Ensino para o Mar,PRT,5217951",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7d1d82e6-2ae4-e711-80fa-000d3af41938",
+		"OrganizationName": "AESE Business School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3b1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrup. Esc. Carnaxide Valejas - EB 2 3 Ciclos Vieira da Silva,PRT,6895739",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "48b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Agrup.Escolas Mortagua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "601033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas da Alapraia,PRT,8313193",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9fcc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Albufeira,PRT,6772825",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6c1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Algoz,PRT,5749741",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "db6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Ceira,PRT,6765864",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7ff62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de D. Manuel de Faria e Sousa,PRT,6783279",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "721033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Fornos de Algodres,PRT,7108523",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4e1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Monchique,PRT,7304398",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "75130f03-9022-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Agrupamento de Escolas de Nelas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ae6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de Pinheiro,PRT,7263367",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "011033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas de S. Bernardo,PRT,7665694",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7e1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "AGRUPAMENTO DE ESCOLAS DE S. VICENTE DA BEIRA,PRT,7995175",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "51b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Agrupamento De Escolas De Tábua",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5c172399-dace-e711-80f9-000d3af41938",
+		"OrganizationName": "Agrupamento de Escolas Dra Laura Ayres",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "471033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas Finisterra - Febres,PRT,7187909",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "661033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas Foz do Neiva,PRT,9047693",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3ffb53a3-2a1e-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Agrupamento de Escolas Francisco de Holanda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "18758370-a9d4-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Agrupamento de Escolas Leal da Câmara",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "62f62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de escolas Matilde Rosa Araujo,PRT,7098385",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f76134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas Matosinhos Sul,PRT,8975837",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9d6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas Quinta de Marrocos,PRT,6396981",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "596134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento de Escolas Serra da Gardunha,PRT,6781147",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "536134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento e Escolas de Pedrogão Grande,PRT,4739891",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9d5f34f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento Escolas de Canelas,PRT,8927004",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6b6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento Vertical de Escolas da Junqueira,PRT,9173430",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a5cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento Vertical de Escolas Vale do Mouro,PRT,7698421",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "fe6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento Vertical de Jovim e Foz do Sousa,PRT,6304588",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "406134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Agrupamento Vertical Escolas de Lavra,PRT,8145277",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "846134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ancorensis Cooperativa de Ensino, CRL,PRT,4884159",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "476134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ARTEMAVE - Artave - Escola Profissional Artística do Vale do Ave,PRT,5212289",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f2b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Associacao Agostinho Roseta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d4cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associação Escola Francesa do Porto -Marius Latour-,PRT,7598349",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a7b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Associação para a Formação Tecnológica do Litoral Alentejano",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "776134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associação para o Ensino Bento Jesus Caraça,PRT,4777332",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5a1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associacao Percursos - Ensino e Formacao Psicossocial,PRT,8034889",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "30cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associacao Promotora de Ensino Profissional da Cova da Beira,PRT,5992239",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "2b1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associação Promotora do Ensino Profissional para o Alto Tâmega,PRT,5994182",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e2cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Associação Ráúl Dória,PRT,8099187",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a7b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ATEC - Academia de Formação",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d7b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Aula de Comercio Estudos Tecnicos e Profissionais Lda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cfb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Câmara Municipal de Alcochete",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a1b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Câmara Municipal de Ovar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6ef62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Camara Municipal de Sines,PRT,5087424",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "97b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Casa Pia de Lisboa - Ombudsman",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "321033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CEBE,Cooperativa de Ensino de Benfica, CRL,PRT,6565962",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c2313704-fdf5-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Cei - Centro de Educacao Integral  Ltda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b7b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro de Estudos e Formação Aquiles Estaço",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "976134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro de Estudos e Formação Prof. Diogo Dias Melgaz Unipessoal, LDA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "87b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro de Formação Profissional da Indústria Electrónica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8fb8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Centro de Formação Profissional da Indústria Metalúrgica e Metalomecânica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "12b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "CENTRO DE PROMOCAO SOCIAL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "656134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Diocesano De Promoção Social,PRT,8929032",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "75cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Centro Formacao Profissional Industria Calcado,PRT,8983371",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "39d0d6fa-0a5c-de11-9e9c-0030485a8df0",
+		"OrganizationName": "CIBIO - Research Center In Biodiversity and Genetic Resources (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "bfb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "CICCOPN Centro de Formação Profissional da Indústria da Construção Civil Obras Públicas do Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c7b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Cincork - Centro de Formação Profissional da Indústria de Cortiça",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8a1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CIQ,PRT,8563198",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "facb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CLIB - Colegio Luso Internacional de Braga,PRT,4654121",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "53c92f77-6527-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Colegio Campo de Flores",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b66134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colégio Campo de Flores (Brazil)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f8b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colegio Da Imaculada Conceicao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "be2f4b9b-f8c8-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Colégio De Gaia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "efb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colégio de Nossa Senhora da Esperança",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "eecb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "COLÉGIO DINIS DE MELO, SA,PRT,4779380",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e7b6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colégio do Amor de Deus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "12cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Internacional de Vilamoura,PRT,8655867",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e8cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colegio Joao De Barros, SA,PRT,8884124",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "56f62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colégio João Paulo II,PRT,5782320",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dfb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Colégio Luso Internacional do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "06cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Colégio Nossa Senhora da Esperança,PRT,5600663",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "00b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Congregação das Irmãs Dominicanas de",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4dcc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "CONGREGAÇÃO DAS IRMÃS DOMINICANAS DE SANTA CATARINA DE SENA,PRT,7843602",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "59b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Cooperativa De Ensino De V.N. Famalicao CRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6bcb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cooperativa De Ensino De V.N. Famalicao, CRL,PRT,5262190",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "841033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Cooperativa Prod. Agricolas de Fafe - COFAFE CRL,PRT,5431616",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9fb8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Cooptecnica - Gustave Eiffel CRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "08b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Corporativa de Ensino - Escola Profissional Centro Juvenil Campanha CRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a8ba4a5e-bb16-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Deutsche Schule Lissabon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "2a651dff-119e-de11-886d-0030487d8897",
+		"OrganizationName": "EGP University of Porto Business School (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "99cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "EMPRESA MUNICIPAL EDUC.E.CULT.BARCELOS,EM,PRT,7902955",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "10b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Ensinus - Estudos Técnicos e Profissionais SA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8bcb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Ensinus - Estudos Técnicos e Profissionais, SA,PRT,5070892",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5f6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "EPRM - Escola Profissional de Rio Maior, Lda.,PRT,7392377",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6dcc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "EPROMAT-Escola Profisional de Matosinhos, Lda,PRT,8684517",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d2fc3739-3240-e911-8113-000d3af41938",
+		"OrganizationName": "ESAD Matosinhos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4d6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica 2.º e 3.º Ciclos da Gafanha da Nazaré,PRT,6603742",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "975f34f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica dos 2º e 3º Ciclos Dr. Bissaya Barreto,PRT,7413130",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "716134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica dos 2º e 3º Ciclos, Dr. Fernando Peixinho,PRT,6579847",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b0cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica Dr.Abranches Ferrão,PRT,4958789",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "411033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica Integrada 1 2 3 do Carregado,PRT,7088888",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "550d33ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Básica Integrada de Eixo,PRT,5618994",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Das Virtudes-Coop. De Ensino Poliv. e Artistico C R L",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9e1a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola de Novas Tecnologias Dos Acores",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "2ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola de St. Julians",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "906134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "ESCOLA EB 2.3. MARIO DE SA CARNEIRO,PRT,5887909",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "20b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Europeia de Ensino Profissional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cfba7546-ba69-e011-971f-0030487d8897",
+		"OrganizationName": "Escola Nacional Saude Publica (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e9a47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Náutica Infante D. Henrique",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "efa47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Naval",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1a6234f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Professional Monsenhor João Maurício de Amaral Ferreira,PRT,5339868",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7cb8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional Cristovão Colombo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3447a0bf-700d-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Escola Profissional da Lousã",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "81cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Profissional da Nervir,PRT,7672049",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b6cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Alte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cebe9f03-15f7-e711-80fc-000d3af41938",
+		"OrganizationName": "Escola Profissional de Alte, C.I.P.R.L.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "931cc428-6c78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Chaves",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7e06c952-cb78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Chaves - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "366234f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Profissional De Ciencias Geograficas,PRT,7566625",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "02b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ESCOLA PROFISSIONAL DE FAFE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b2b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Matosinhos Ltd",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "bab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Nervi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Tondela CIPRL",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d2b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Vila do Conde Unipessoal Lda.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "becb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Profissional de Vila do Conde, Unipessoal, Lda.,PRT,6939639",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "106234f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Profissional De Viticultura E Enologia Da Beira Litoral,PRT,5053114",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c2b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional do Pico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "aab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Profissional Gil Eanes",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8c34e229-001f-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Escola Secundaria Avelar Brotero (Coimbra)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8b5f34f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária c/ 3º CEB de Oliveira do Bairro,PRT,4973855",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "915f34f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária c/ 3º Ciclo do Ensino Básico Júlio Dinis de Ovar,PRT,5585915",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5b0d33ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundaria D.Pedro V,PRT,5776353",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b40f33ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária da Maia,PRT,7588913",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "70f130d1-6e4a-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Escola Secundária da Ribeira Grande (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1d256e42-7aba-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Escola Secundária de Adolfo Portela (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "de46d9e9-5516-e811-80fe-000d3af41938",
+		"OrganizationName": "Escola Secundária de Alberto Sampaio",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "071033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária De Caldas Das Taipas,PRT,7913492",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "afb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Secundária de Camões",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ec6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundaria de Cascais,PRT,8077353",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5cf62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária de Jácome Ratton,PRT,6410093",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "324c765b-2170-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Escola Secundária de Lagoa (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a36134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escola Secundária Ferreira Dias,PRT,6966794",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f5a47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior Agrária de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "fba47f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior Artística do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "af43fa5f-dbda-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Escola Superior de Artes e Design (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "00a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Educação de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e211328b-fe82-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Escola Superior de Educação de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0f2b1384-6a9e-e011-969d-0030487d8897",
+		"OrganizationName": "Escola Superior de Educaçao e ciências sociais",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "05a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0aa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0fa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "15a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem de S. José de Cluny",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1aa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem de Santa Maria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1fa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "24a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Enfermagem Dr. José Timóteo Montalvão Machado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a41a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Estudios Industriais e de Gestao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6f612949-5f7e-e911-8119-000d3af41938",
+		"OrganizationName": "Escola Superior de Hotelaria e Turismo do Estoril",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "29a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Tecnologia da Saúde de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a91a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Tecnologia de Abrante",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ae1a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Escola Superior de Tecnologia de Setubal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "da81f04b-aa83-e811-8108-000d3af41938",
+		"OrganizationName": "Escola Superior de Tecnologia do Barreiro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "45654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Escola Superior de Tecnologia e Gestão",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ae7baadd-91c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Escola Superior de Tecnologia e Gestão de Felgueiras - Politécnico do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "74624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Escola Superior de Tecnologia e Gestão de Leiria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "fab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Superior Educação Paula Frassinetti",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "2ea57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Superior Gallaecia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "afb8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Tecnologica e Profissional de Sico-Sede",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "62b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Escola Torrejana de Ensino Profissional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "33a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Escola Universitária Vasco da Gama",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b0cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escolas do Município de Vila Real de Santo António,PRT,8068995",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "781033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Escolinha de Famalicao Centro de Educacao e Ensino, Lda.,PRT,4734541",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "18b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Esproser - Escola Profissional S.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cd6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Externato D. Afonso Henriques,PRT,8358110",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "88cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Externato de Nossa Senhora da Paz Província Port. Ir. Stª Doroteia,PRT,5581707",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c26134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Externato de Santa Clara,PRT,8348049",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0d1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Externato Infante D. Henrique,PRT,8449509",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1f1033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Externato Senhora do Carmo,PRT,7281483",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dcb20e91-0107-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Externatos Crisfal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7a10153d-7e29-e011-b71d-0030487d8897",
+		"OrganizationName": "Faculdade de Ciencias Medicas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "28b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fernave - Formação Técnica Psicologia Aplicada e Consultoria em Transportes e Portos S.A.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dccb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fernave - Formação Técnica Psicologia Aplicada e Consultoria em Transportes e Portos, S.A.,PRT,6341795",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9fb6e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Forave - Associação. p/a Educação Profissional do Vale do Ave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "30b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundação Abreu Callado",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "47cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundacao Abreu Callado,PRT,7574866",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b31a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Fundação Champalimaud",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "25ccbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Fundacao Computacao Cientifica Nacional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacao Ensino Profissional Praia Vitoria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "40b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundacao Escola Profissional de Leiria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "38b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Fundação Escola Profissional de Setúbal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1ecc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Fundaçao Escola Profissional de Setubal,PRT,5412627",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d436f937-b3f1-df11-9c87-0030487d8897",
+		"OrganizationName": "Fundação Minerva (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "143376bd-87b3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "GTI - Gestão Tecnologia e Inovação - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "191033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "IESA - Instituto de Estudos Secundarios Atlantico,PRT,4890418",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "89b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Imultimedia - Associacao Portuense",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "61b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "INSIGNARE - Associação de Ensino e Formação",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "52b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Instituto Das Religiosas Do Agrado Coracao De Maria Em Portugal - Colegio Do Rosario",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "38a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto de Artes Visuais -  Design e Marketing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7ecb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Instituto Nossa Senhora da Encarnação - Externato Cooperativo da Benedita,PRT,5012183",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e38f18f9-9b32-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Instituto para o Desenvolvimento e Estudos Económicos, Financeiros e Empresariais, SA",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3da57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Piaget",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "2accbfc3-ccc9-e111-971c-f04da23e67f6",
+		"OrganizationName": "Instituto Polit�cnico de Set�bal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ac41192c-1018-e011-b71d-0030487d8897",
+		"OrganizationName": "Instituto Politécnico da Guarda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "42a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Beja - Beja - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4c654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Instituto Politécnico de Bragança - Portugal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "47a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Castelo Branco",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4ca57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "51a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Leiria",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "57a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5ca57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Portalegre",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "61a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Santarém",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "66a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Setúbal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6ba57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Tomar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "70a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Viana do Castelo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c57eb28a-b0d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Instituto Politecnico de Viana do Castelo (DO NOT USE)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "75a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico de Viseu",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7aa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico do Cávado e do Ave",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7fa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Politécnico do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "84a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior Autónomo de Estudos Politécnicos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "89a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior da Maia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8ea57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Ciências da Administracao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "93a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Ciências da Saúde - Norte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "98a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Ciências Educativas",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "9fa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Ciências Policiais e Segurança Interna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a6a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Contabilidade e administração de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "45f96c94-639e-e011-969d-0030487d8897",
+		"OrganizationName": "Instituto Superior de Economia e Gestão",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ada57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Educação e Ciências",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b4a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Engenharia de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4e654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Instituto Superior de Engenharia de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b81a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Engenharia do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "b9a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Gestão",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c0a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Línguas e Administração",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c5a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior de Psicologia Aplicada",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cca57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior Miguel Torga",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d1a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Superior Politécnico Gaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c0539327-dd77-df11-bc53-0030487d8897",
+		"OrganizationName": "Instituto Superior Tecnico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3a864a60-0b8b-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Instituto Superior Técnico",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "bd1a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Instituto Tecnologias Avançadas Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7f2ce449-d857-e111-8056-f04da23e67f6",
+		"OrganizationName": "Instituto Universitário Militar",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d8a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "IPAM - Instituto Português de Administração de Marketing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "71b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "IPFEL-Instituto Particular Formação e Ensino Línguas Lda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "52654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "ISCTE – Instituto Superior de Ciências do Trabalho e da Empresa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a7b92b39-153f-e211-ad71-f04da23e67f6",
+		"OrganizationName": "ISCTE - Instituto Universitário de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "69b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "ISQ - Instituto da Soldadura e Qualidade",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "79b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Jabra-Associação Juvenil de White (White)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "24cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "JOBRA - ASSOCIAÇÃO DE JOVENS DA BRANCA,PRT,5556486",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "463a22f4-24d5-e711-80f9-000d3af41938",
+		"OrganizationName": "Konkrets - Consultoria e Formação Profissional",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "53cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Lafor, Estabelecimentos de Ensino Particular, Ld.ª,PRT,8259270",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c21a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "LudoCrescer",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "251033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "LUSO -FORMATAR, SA,PRT,5610045",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "286a6a6b-18f0-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Lusófona University of Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "81b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Magensinus-Entidade Promotora de Serviços de Ensino S.A",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "00cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Magensinus-Entidade Promotora de Serviços de Ensino, S.A,PRT,4876938",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "8a6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Miúdos do Amanhã - Formação e Computadores Lda,PRT,5851753",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "91b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Municipio de Olhao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "096234f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "NECI - Núcleo de Educação da Criança Inadaptada,PRT,8684231",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "93cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "NUCLISOL-CENTRAL COMPRAS UNIVERSO PIAGET,PRT,5790639",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "42b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "O Colégio Barros",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "O Colégio Dinis de Melo",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "O Colégio Internacional de Vilamoura",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e2b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "P.P.C.M.C.M.  Colegio Internato Dos Carvalhos",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "131033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Profisousa - Associacao de Ensino Vale do Sousa,PRT,8947130",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "72b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Profissional de Educação Associação de Promoção da Cova da Beira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "396134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Profival Lda,PRT,7975619",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Proinov - Consultoria em Gestão, Formação e Multimédia, Lda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "74f62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Projen-Projecto Ensino, CRL,PRT,5348927",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "236234f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Santa Casa da Misericórdia do Porto,PRT,6543758",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "22b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Santa Cecília Escola de Música",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a4cb39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sao Teotónio - Sociedade de Ensino, Cultura Educacao Crista, S.A.,PRT,6838782",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "eab7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Secretaria Regional da Educação e Formação",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "1ab8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Sociedade Promoção Instituições Educacionais Inc.",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3bcc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sociedade Promotora de Estabelecimentos de Ensino, Lda.,PRT,7020319",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "557ccef5-324a-e811-8103-000d3af41938",
+		"OrganizationName": "St. Dominic's International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "541033ff-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tales - Estabelecimentos de Ensino Particular, S.A,PRT,7429252",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "99b7e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Teatro Nacional D. Maria II",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "4af62ef9-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Tecla Lisboa - Formacao Profissional,Lda,PRT,8970999",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "bc6134f3-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Terciforma - Estudos de Comercio y Servicos, S.A.,PRT,7945961",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "32b8e959-22f8-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Tetrapi - Centro de Actividades Educacionais Lda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "d0d24573-b76f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "the Lisbon MBA (Portugal)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "6d45ef51-cc9a-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "The Oporto International School - Porto - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "7bc29f1c-ddc3-de11-886d-0030487d8897",
+		"OrganizationName": "Universidade Aberta",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "dfa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Atlântica",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e7a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Autónoma de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "eca57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Católica Portuguesa-Centro Regional do Porto",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "eb624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidade da Beira Interior",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f3a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade da Madeira",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "39644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidade de Aveiro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "85644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidade de Coimbra",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f8a57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade de Évora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "51d5b06b-a880-e411-9407-b8ca3a5db7a1",
+		"OrganizationName": "Universidade de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "fbf87593-ebd9-de11-baeb-0030487d8896",
+		"OrganizationName": "Universidade de Lisboa - Lisboa - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "ffa57f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade de Trás-os-Montes e Alto Douro",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "cc972fa2-d973-df11-bc53-0030487d8897",
+		"OrganizationName": "Universidade do Porto - Porto Campus",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f0624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidade dos Açores",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0f5bc293-889d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Universidade Europeia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "06a67f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Fernando Pessoa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "a238ac41-93e6-e811-810c-000d3af41938",
+		"OrganizationName": "Universidade Lusofona",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "0ba67f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Lusófona de Humanidades e Tecnologias",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "55c71f34-cbd1-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Universidade Nova de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f9624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Universidade Nova de Lisboa - Portugal",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "12a67f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Portucalense",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "c71a61f9-b573-e111-a407-f04da23e67f6",
+		"OrganizationName": "Universidade Tecnica de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "19a67f8e-8264-e111-8056-f04da23e67f6",
+		"OrganizationName": "Universidade Técnica de Lisboa",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "f40e26ff-429a-df11-ad8b-0030487d8897",
+		"OrganizationName": "University of Evora",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "e5b52302-6e9e-e011-969d-0030487d8897",
+		"OrganizationName": "University of the Algarve",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "5bb9e187-f2f9-e711-80fc-000d3af41938",
+		"OrganizationName": "Valle Grande",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "3c1615d7-a2f4-e711-80fc-000d3af41938",
+		"OrganizationName": "Zegel Ipae",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PRT",
+		"InstitutionID": "18cc39ed-0b1a-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Zendensino - Cooperativa de Ensino IPRL,PRT,4683904",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	}
+]

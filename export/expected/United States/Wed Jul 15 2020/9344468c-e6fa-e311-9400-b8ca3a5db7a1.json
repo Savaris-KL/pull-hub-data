@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "9567fd33-e3fa-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Federation University Australia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d367fd33-e3fa-e311-9400-b8ca3a5db7a1",
+		"WebStoreName": "Federation University Australia - Fed TAFE IT",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d367fd33-e3fa-e311-9400-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "9344468c-e6fa-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Federation University Australia",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "83a805de-7e03-e411-9400-b8ca3a5db7a1",
+		"WebStoreName": "Federation University Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=83a805de-7e03-e411-9400-b8ca3a5db7a1"
+	}
+]

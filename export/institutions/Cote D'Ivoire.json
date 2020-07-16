@@ -1,0 +1,50 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "d2eaaea7-9f69-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Groupe Ecole d'ingenieur HETEC (École Supérieure des Hautes Etudes Technologiques et Commerciales) - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "0e1999cd-d850-e911-8113-000d3af41938",
+		"OrganizationName": "Groupe Scolaire La Farandole Internationale",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "0fe8e743-19d2-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Institut National Polytechnique Félix Houphouët-Boigny",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "98b2c15c-03d0-e911-8120-000d3af41938",
+		"OrganizationName": "Lycée Francais Blaise Pascal - AGBP",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "cf70de0e-0235-e211-aed3-f04da23e67f6",
+		"OrganizationName": "PIGIER CÔTE D'IVOIRE - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CIV",
+		"InstitutionID": "c0b05ece-47cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Université Catholique de l'Afrique de l'Ouest",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

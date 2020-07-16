@@ -1,0 +1,90 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "fee9b959-a881-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "ADA University - Baku - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "c25ae85c-a7a8-e911-811c-000d3af41938",
+		"OrganizationName": "Azerbaijan Medical University (Azərbaycan Tibb Universiteti)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "12450412-e1ec-e811-810c-000d3af41938",
+		"OrganizationName": "Azerbaijan State University of Economics (Azərbaycan Dövlət İqtisad Universiteti)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "b9901d8c-c300-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Azerbaijan Telecom LLC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "77c87378-4e55-e911-8113-000d3af41938",
+		"OrganizationName": "Baku Engineering University (Bakı Mühəndislik Universiteti)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "2e782771-457f-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Baku State University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "660d310f-4696-e811-8108-000d3af41938",
+		"OrganizationName": "Code MMC",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "790498a9-03af-ea11-812c-000d3af41938",
+		"OrganizationName": "Ministry of Education, Bureau on ICT for Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "bfe433b6-2343-e811-8103-000d3af41938",
+		"OrganizationName": "Nakhchivan University (Naxçıvan Universiteti)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "f9e0b767-f55f-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Qafqaz University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "AZE",
+		"InstitutionID": "2fc2edfb-f4bb-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "THE ACADEMY OF PUBLIC ADMINISTRATION UNDER THE PRESIDENT OF THE REPUBLIC OF AZERBAIJAN",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

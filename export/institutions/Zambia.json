@@ -1,0 +1,50 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "112ccf36-fb68-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "American International School of Lusaka (Zambia )",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "b6ccd03e-fa95-e111-981b-f04da23e67f6",
+		"OrganizationName": "Copperbelt University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "c02f25fe-51c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Northrise University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "edfda6b3-65c6-e811-810a-000d3af41938",
+		"OrganizationName": "The Zambia Catholic University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "d6ec205e-10de-df11-bd73-0030487d8897",
+		"OrganizationName": "University of Zambia (Zambia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "ZMB",
+		"InstitutionID": "c7b811f2-fab5-e811-810a-000d3af41938",
+		"OrganizationName": "Zambia Centre For Accounting Studies",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "4e87d0ed-8d63-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Hope Christian College Inc",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5087d0ed-8d63-e511-9410-b8ca3a5db7a1",
+		"WebStoreName": "Hope Christian College Inc",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5087d0ed-8d63-e511-9410-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "295bc6cc-98be-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Hope Christian College Inc",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://aissa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "61a26612-99be-e011-bb5b-f04da23e67f6",
+		"WebStoreName": "Association of Independent Schools of South Australia",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=61a26612-99be-e011-bb5b-f04da23e67f6"
+	}
+]

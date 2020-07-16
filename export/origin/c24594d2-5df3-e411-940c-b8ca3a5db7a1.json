@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "c24594d2-5df3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Bellarine Secondary College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "65afbdb9-7278-e711-80f1-000d3af41938",
+		"WebStoreName": "Bellarine Secondary College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=65afbdb9-7278-e711-80f1-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "7994c145-5af3-e411-940c-b8ca3a5db7a1",
+		"OrganizationName": "Bellarine Secondary College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2195c145-5af3-e411-940c-b8ca3a5db7a1",
+		"WebStoreName": "Bellarine Secondary College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2195c145-5af3-e411-940c-b8ca3a5db7a1"
+	}
+]

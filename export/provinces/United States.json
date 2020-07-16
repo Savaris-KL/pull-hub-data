@@ -1,0 +1,272 @@
+[
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AL",
+		"ProvinceName": "Alabama"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AK",
+		"ProvinceName": "Alaska"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AZ",
+		"ProvinceName": "Arizona"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AR",
+		"ProvinceName": "Arkansas"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AA",
+		"ProvinceName": "Armed Forces Americas"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AE",
+		"ProvinceName": "Armed Forces Europe"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "AP",
+		"ProvinceName": "Armed Forces Pacific"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "CO",
+		"ProvinceName": "Colorado"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "CT",
+		"ProvinceName": "Connecticut"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "DE",
+		"ProvinceName": "Delaware"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "DC",
+		"ProvinceName": "District of Columbia"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "FL",
+		"ProvinceName": "Florida"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "GA",
+		"ProvinceName": "Georgia"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "HI",
+		"ProvinceName": "Hawaii"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "ID",
+		"ProvinceName": "Idaho"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "IL",
+		"ProvinceName": "Illinois"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "IN",
+		"ProvinceName": "Indiana"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "IA",
+		"ProvinceName": "Iowa"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "KS",
+		"ProvinceName": "Kansas"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "KY",
+		"ProvinceName": "Kentucky"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "LA",
+		"ProvinceName": "Louisiana"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "ME",
+		"ProvinceName": "Maine"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MD",
+		"ProvinceName": "Maryland"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MA",
+		"ProvinceName": "Massachusetts"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MI",
+		"ProvinceName": "Michigan"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MN",
+		"ProvinceName": "Minnesota"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MS",
+		"ProvinceName": "Mississippi"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MO",
+		"ProvinceName": "Missouri"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "MT",
+		"ProvinceName": "Montana"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NE",
+		"ProvinceName": "Nebraska"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NV",
+		"ProvinceName": "Nevada"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NH",
+		"ProvinceName": "New Hampshire"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NJ",
+		"ProvinceName": "New Jersey"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NM",
+		"ProvinceName": "New Mexico"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NY",
+		"ProvinceName": "New York"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "NC",
+		"ProvinceName": "North Carolina"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "ND",
+		"ProvinceName": "North Dakota"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "OH",
+		"ProvinceName": "Ohio"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "OK",
+		"ProvinceName": "Oklahoma"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "OR",
+		"ProvinceName": "Oregon"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "PA",
+		"ProvinceName": "Pennsylvania"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "RI",
+		"ProvinceName": "Rhode Island"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "SC",
+		"ProvinceName": "South Carolina"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "SD",
+		"ProvinceName": "South Dakota"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "TN",
+		"ProvinceName": "Tennessee"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "TX",
+		"ProvinceName": "Texas"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "UT",
+		"ProvinceName": "Utah"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "VT",
+		"ProvinceName": "Vermont"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "VA",
+		"ProvinceName": "Virginia"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "WA",
+		"ProvinceName": "Washington"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "WV",
+		"ProvinceName": "West Virginia"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "WI",
+		"ProvinceName": "Wisconsin"
+	},
+	{
+		"CountryIsoAlpha3Code": "USA",
+		"ProvinceCode": "WY",
+		"ProvinceName": "Wyoming"
+	}
+]

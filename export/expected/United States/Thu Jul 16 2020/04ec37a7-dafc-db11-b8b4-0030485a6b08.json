@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "74c5690a-0fd3-48fb-a50b-7a5270b0e9ad",
+		"OrganizationName": "Northland Pioneer College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://tcpn.texas.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "633e8553-aefc-db11-b8b4-0030485a6b08",
+		"WebStoreName": "The Cooperative Purchasing Network - Texas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=633e8553-aefc-db11-b8b4-0030485a6b08"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "5c61380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Northland Pioneer College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "a24d0910-ac9b-e011-969d-0030487d8897",
+		"WebStoreName": "Northland Pioneer College - Computer Information Systems",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=a24d0910-ac9b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "04ec37a7-dafc-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Northland Pioneer College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e23bacd8-bba0-e311-93fa-b8ca3a5db7a1",
+		"WebStoreName": "Northland Pioneer College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e23bacd8-bba0-e311-93fa-b8ca3a5db7a1"
+	}
+]

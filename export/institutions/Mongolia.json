@@ -1,0 +1,34 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNG",
+		"InstitutionID": "70d75c42-144e-e811-8103-000d3af41938",
+		"OrganizationName": "Graduate University of Mongolia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNG",
+		"InstitutionID": "ab3ff2ce-2809-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Inner Mongolia Agricultural University Graduate School of Business　(内蒙古農業大學)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNG",
+		"InstitutionID": "bafb4147-4ea2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "National University of Mongolia",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "MNG",
+		"InstitutionID": "108251b3-c1aa-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University of the Humanities",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

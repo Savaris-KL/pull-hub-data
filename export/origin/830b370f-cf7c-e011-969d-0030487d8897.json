@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "830b370f-cf7c-e011-969d-0030487d8897",
+		"OrganizationName": "Giant Steps Sydney",
+		"SubsectorCode": "education_k_12",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://giantsteps.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "de526323-cf7c-e011-969d-0030487d8897",
+		"WebStoreName": "Giant Steps Sydney",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=de526323-cf7c-e011-969d-0030487d8897"
+	}
+]

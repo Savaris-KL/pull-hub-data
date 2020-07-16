@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "d53b621c-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad del Salvador",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "d3302437-709b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad del Salvador - Technologies",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d3302437-709b-e011-969d-0030487d8897"
+	}
+]

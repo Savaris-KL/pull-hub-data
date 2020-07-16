@@ -1,0 +1,18 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Arizona",
+		"InstitutionID": "a016b539-a532-df11-b4ab-0030487d8897",
+		"OrganizationName": "Midwestern University - Arizona",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AZ",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://midwesternaz.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "9f270363-a532-df11-b4ab-0030487d8897",
+		"WebStoreName": "Midwestern University - Arizona",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=9f270363-a532-df11-b4ab-0030487d8897"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "DZ",
+		"CountryIsoAlpha3Code": "DZA",
+		"CountryName": "Algeria",
+		"InstitutionID": "4c362d5f-6952-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Ecole Nationale Supérieure D'informatique",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "5b362d5f-6952-e511-940f-b8ca3a5db7a1",
+		"WebStoreName": "Ecole Nationale Supérieure D'informatique - Département des Systèmes d’Information",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=5b362d5f-6952-e511-940f-b8ca3a5db7a1"
+	}
+]

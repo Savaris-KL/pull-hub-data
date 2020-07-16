@@ -1,0 +1,106 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "13b1d2ca-04a2-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "ACERFI Formation",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "c0fb06e7-ca65-e911-8115-000d3af41938",
+		"OrganizationName": "BEE-Learning Vocational Traning Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "45c5bdce-38dd-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Catholic University of Cameroon Bamenda",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "5562680f-32fb-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "CFPC De La Salle",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "4c4ab3d3-d04c-e911-8113-000d3af41938",
+		"OrganizationName": "ECOLE NATIONALE SUPERIEURE POLYTECHNIQUE DE YAOUNDE",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "0bc9d454-16c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "ESCM PIGIER",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "0a38d6c8-99eb-e911-8122-000d3af41938",
+		"OrganizationName": "Institut Saint Jean",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "9f9863ec-ac5f-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Institut Universitaire Catholique de Saint-Jérome - Douala - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "bb732712-19c3-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Institut Universitaire de la Côte",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "949639ba-1345-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "IUES-INSAM",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "33d55ece-d6f4-e911-8122-000d3af41938",
+		"OrganizationName": "Pan African University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "ba60662a-fc57-ea11-8127-000d3af41938",
+		"OrganizationName": "The University Institute of the Tropics (Institute Universitaire IUGET)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "CMR",
+		"InstitutionID": "ce93b48b-2c65-e011-971f-0030487d8897",
+		"OrganizationName": "University of Buea",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "65624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Bond University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://bond.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "ee63baf6-f236-e111-8d82-f04da23e67f6",
+		"WebStoreName": "Bond University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=ee63baf6-f236-e111-8d82-f04da23e67f6"
+	}
+]

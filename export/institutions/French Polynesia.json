@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PYF",
+		"InstitutionID": "b639b356-54b3-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Lycée Aorai (French Polynesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PYF",
+		"InstitutionID": "d7cb8355-1fd1-e711-80f9-000d3af41938",
+		"OrganizationName": "Université de la Polynésie française",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

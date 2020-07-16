@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "6c28e203-b439-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Bendigo TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "14a10210-b439-e311-93f6-b8ca3a5db7a1",
+		"WebStoreName": "Bendigo TAFE",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=14a10210-b439-e311-93f6-b8ca3a5db7a1"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "f8a8d5c9-dfa5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "American River College",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "e3c500a4-30bf-e711-80f7-000d3af41938",
+		"WebStoreName": "American River College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=e3c500a4-30bf-e711-80f7-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceCode": "CA",
+		"ProvinceName": "California",
+		"InstitutionID": "8d9485fe-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "American River College",
+		"SubsectorCode": "education_college_university",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "45905d6b-cd9b-e011-969d-0030487d8897",
+		"WebStoreName": "American River College - Computer Information Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=45905d6b-cd9b-e011-969d-0030487d8897"
+	}
+]

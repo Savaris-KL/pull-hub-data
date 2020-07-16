@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "6f79e9dc-0667-e111-ad7f-f04da23e67f6",
+		"OrganizationName": "Emmanuel College, Qld",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://emmanuel.qld.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "91353051-0767-e111-ad7f-f04da23e67f6",
+		"WebStoreName": "Emmanuel College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=91353051-0767-e111-ad7f-f04da23e67f6"
+	}
+]

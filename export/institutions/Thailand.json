@@ -1,0 +1,938 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "cc8b6865-53d8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Anglo Singapore International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "13cfe167-51d8-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Asian Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "6af854ac-69b0-df11-ad57-0030487d8897",
+		"OrganizationName": "Asia-Pacific International University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "6e849fa9-0576-e711-80f1-000d3af41938",
+		"OrganizationName": "Assumption University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "81143b2a-f249-de11-b696-0030485a8df0",
+		"OrganizationName": "Assumption University of Thailand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "648cf5ed-2abe-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Bangkok Business College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "cc8899f5-037e-e711-80f3-000d3af41938",
+		"OrganizationName": "Bangkok Patana School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "7f67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Bangkok University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "eadb76a2-b478-e811-8106-000d3af41938",
+		"OrganizationName": "Bangkok University - Klongtoey - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "cf89a1b9-9b2d-ea11-8125-000d3af41938",
+		"OrganizationName": "Bangkokthonburi University (มหาวิทยาลัยกรุงเทพธนบุรี)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "182695fa-2645-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Bansomdejchaopraya Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e9d0427d-43f5-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Boromarajonani College of Nursing",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9be993a6-ea40-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "British International School Phuket",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "716e3ecd-ec1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Burapha University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e5ebb322-6109-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Buriram Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e6a19c64-95a0-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Chiang Mai Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "6a624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Chiang Mai university",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "eb5b8bb0-07d2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chiangmai Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8267e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Chiangrai Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "2cb6317a-757c-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Chitralada College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "eff35dc4-9356-e711-80f0-000d3af41938",
+		"OrganizationName": "Chulabhorn Research Institute",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e1b38d86-8784-df11-bc53-0030487d8897",
+		"OrganizationName": "Chulalongkorn University (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "f56f8f3a-c266-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Civil Aviation Training Center",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "3a4e2200-41cc-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Concordian International School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "5b91b823-3896-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Debsirin School - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8567e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Dhurakij Pundit University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "4b85e773-0f02-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Eastern Asia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "2bd99844-b735-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Faculty of Medicine - ChiangMai University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "1ed2505b-9984-e511-9412-b8ca3a5db7a1",
+		"OrganizationName": "Far Eastern University - Thailand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "f3b62f70-235b-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Hatyai University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "668e6a10-bf23-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Huachiew Chalermprakiet University (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "4f9e8ca0-f45a-e011-bd14-0030487d8897",
+		"OrganizationName": "Institute of Management Issues Piwat",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "3f3d54a0-d2a5-ea11-812b-000d3af41938",
+		"OrganizationName": "International School Bangkok",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9255fe32-a302-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Kalasin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8b67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Kamphaeng Phet Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e48d6c0b-1b9d-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Kanchanaburi Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "195311af-5234-e011-b1e1-0030487d8897",
+		"OrganizationName": "Kasetsart University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "bafac954-cb1e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Khon Kaen University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "0d191675-8953-e211-ad71-f04da23e67f6",
+		"OrganizationName": "King Mongkut’s Institute of Technology Ladkrabang (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8e67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "King Mongkut’s University of Technology Ladkrabang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8a428ef8-c1c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "King Mongkut’s University of Technology North Bangkok",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8867e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "King Mongkut's Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "fcfbf1e3-3fe6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "King Mongkut's Institute of Technology Ladkrabang",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "c6153879-9bf0-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "King Mongkut's University of Technology North Bangkok",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "ea644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "King Mongkut's University of Technology Thonburi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "23c5d591-1fcd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "King Mongkut's University of Technology Thonburi (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9267e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mae Fah Luang University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "6b644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Maejo University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "447d4436-c5c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mahanakorn University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "426c35c8-aec7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Mahasarakham University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9f624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Mahidol University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "7e8a47cc-e205-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Mahidol Wittayanusorn School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "bb034428-c27a-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Mahidol Wittayanusorn School - Phutthamonthon - Computer Science - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "c616fc64-3b3f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Nakhon Pathom Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "c40f646e-a3c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Nakhon Ratchasima Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "83c5e7ab-1706-e511-940c-b8ca3a5db7a1",
+		"OrganizationName": "Nakhon Sawan Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "b7401f1b-4119-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Nakhon Si Thammarat Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "043bf731-10fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Naresuan University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "b6155a13-eb92-e111-981b-f04da23e67f6",
+		"OrganizationName": "National Institute of Development Administration",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "North Bangkok University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "29c9b4a5-6661-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Pakchong Commercial and Technological College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "2adbb2d4-704f-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "PanyaDee - The British School of Samui",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9a67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Panyapiwat Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "a138bd67-bda3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Pathumwan Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "3cda99df-f8ab-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Payap University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "6aa586f7-7b7e-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "Payap University (มหาวิทยาลัยพายัพ)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "412078ae-fa32-e611-941d-b8ca3a5db7a1",
+		"OrganizationName": "PCCPL Princess Chulabhorn's College Phitsanulok",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "8bad1ce4-5825-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Phetchabun Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "dd2ba002-d0fa-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Phetchaburi Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "798c22ae-039f-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Phranakhon Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "aeab1dbb-f205-e811-80fc-000d3af41938",
+		"OrganizationName": "Phranakhon Si Ayutthaya Rajabhat University - Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "30dddf89-3259-e811-8105-000d3af41938",
+		"OrganizationName": "Phuket Rajabhat University - Computer - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "40634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Prince of Songkla University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "118eb33b-7fa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Rajabhat Mahasarakham University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "36027033-cc55-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "Rajabhat Rajanagarindra University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "7359d0c9-1f13-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Rajamangala University of Technology - Muang District",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9d67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Rajamangala University of Technology (Lanna)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "b8ec90f4-123b-e711-80ef-000d3af41938",
+		"OrganizationName": "Rajamangala University of Technology Isan - Information Technology - Departmental Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "afef07e9-94b1-e611-9423-b8ca3a5db7a1",
+		"OrganizationName": "Rajamangala University of Technology Lanna",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "f854c859-123b-e711-80ef-000d3af41938",
+		"OrganizationName": "Rajamangala University of Technology Phra Nakhon",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "788de973-2545-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Rajamangala University of Technology Srivijaya",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "88e9d5f8-bc8a-e811-8108-000d3af41938",
+		"OrganizationName": "Rajamangala University of Technology Thanyaburi",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "fd5fb293-a859-e211-b607-f04da23e67f6",
+		"OrganizationName": "Rambhai Barni Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "3332a7c6-a24b-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Ramkhamhaeng University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "f415004c-d1fa-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Rangsit University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "cd02bee0-383b-e711-80ef-000d3af41938",
+		"OrganizationName": "Saint John's for Education",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "7c16b976-2645-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Sakon Nakhon Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "82f968e0-5924-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Sasin Graduate Institute of Business Administration of Chulalongkorn University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "962c5a31-e2d9-e711-80fa-000d3af41938",
+		"OrganizationName": "Selaphum Pittayakom School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "1d9d4379-c405-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Shinawatra University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "5d95a446-79ae-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Silpakorn University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "a935fd7a-95fe-e611-9426-b8ca3a5db7a1",
+		"OrganizationName": "Southeast Asia University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9a31d657-b24d-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Srinakharinrwirot University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "efaa15f5-5328-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Srinakharinwirot University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "a067e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Sripatum University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "bce2625c-686f-e011-971f-0030487d8897",
+		"OrganizationName": "St. Andrews International Schools Thailand",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "a367e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Stamford International University (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "904dc492-c0c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Suan Dusit Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "b368f05d-047e-e711-80f3-000d3af41938",
+		"OrganizationName": "Suan Sunandha Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "c3573427-047e-e711-80f3-000d3af41938",
+		"OrganizationName": "Sukhothai Thammathirat Open University - Nonthaburi - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "a767e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Suranaree University of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "4d54f6e4-5ba6-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Thai - Nichi Institute of Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "7949d40c-85c9-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Thaksin University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "4bd8e7e2-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "Thammasat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "c4dbe81a-e88f-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The Institute for the Promotion of Teaching Science and Technology",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "cd94a530-b4c7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Triam Udom Suska School",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "07f9890d-2645-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Ubon Ratchathani Rajabhat University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "aa67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Ubon Ratchathani University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "9690c9d8-c190-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Ubonrachathani University - Ubon Ratchathani - Campus Store",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "5e574ad2-f15d-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Udon Thani Rajabhat University (Thailand)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "1e58f7f9-c0c0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University of Phayao",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "84916efc-f9b4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University of the Thai Chamber of Commerce",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "39a2b2f4-7ae4-e511-9417-b8ca3a5db7a1",
+		"OrganizationName": "Vocational Education Commission",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "ae67e5a6-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Walailuck University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "e6c429b9-4bbb-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "台灣大學 - 資訊工程學系",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "72f2bd17-3abf-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "台灣大學資訊管理系",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "THA",
+		"InstitutionID": "4f3136ae-0bbc-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "輔仁大學-資訊管理",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

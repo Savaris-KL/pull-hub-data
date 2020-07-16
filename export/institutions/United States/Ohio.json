@@ -1,0 +1,4706 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6409d2e5-e069-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "A+ Arts Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fb950398-8664-e111-8056-f04da23e67f6",
+		"OrganizationName": "Academy of St. Adalbert",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "de3b5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Adult and Continuing Education - Cleveland Extension",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Adult Career and Technical Education Canton City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Air Force Institute of Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cefa6a81-a432-de11-9d57-0030485a8df0",
+		"OrganizationName": "Air Force Institute of Technology - Electrical and Computer Engineering - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "615de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Akron Institute Of Herzing University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5aeee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Alexander Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "00740f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Allegheny Wesleyan College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0750f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Institute of Alternative Medicine",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1e760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American School of Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "American Winds Flight Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec182a82-5825-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Andrews Osborne Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f1368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Antioch College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Antioch University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88cc5ca8-ae86-de11-8cd1-0030487d8897",
+		"OrganizationName": "Antioch University McGregore",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Apollo Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8d177b73-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Arcanum-Butler Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "585bbd37-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Archbishop Alter High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a60ead0a-e569-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Archbishop Moeller",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Art Academy of Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b4760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Art Institute of Ohio - Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ff323c3-1ec6-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "Ashland City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ashland University - Office of Information Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d850d6f8-e5de-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Ashtabula Area City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90d8c278-defc-e511-9419-b8ca3a5db7a1",
+		"OrganizationName": "Ashtabula County Technical & Career Campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2678d47a-469c-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Association of Independent Ohio Colleges and Universities Office",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Athena Career Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7760f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Athenaeum of Ohio/ Mount St. Mary's Seminary",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "11770f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "ATS Institute of Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9bc8941e-4501-e811-80fc-000d3af41938",
+		"OrganizationName": "Auburn Career Center - Information Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "18770f4a-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aultman College of Nursing and Health Sciences",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05b3bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Aurora City School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "243c5168-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Aveda Institute - Columbus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe39cd7b-1cf1-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Avon Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Baldwin-Wallace College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b07ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Balsz Community Education Foundation",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca98e515-b53e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Barnesville Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "525b210a-6ae4-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Bath Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3342d02-a657-df11-b841-0030487d8897",
+		"OrganizationName": "Beaumont School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Beavercreek City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb25090b-7c58-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Beckfield College (Ohio)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e091fc-a0b9-e211-be21-f04da23e67f4",
+		"OrganizationName": "Bedford High School - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3638958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Bellbrook-sugarcreek Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fda41b8b-25c4-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Bellevue City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad5de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Belmont Technical College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea03e7ec-5626-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Belpre City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "BENTON- CARROLL - SALEM SCHOOLS",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9a6a8f-c617-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bexley City Schools District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5b75dab4-e969-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Big Walnut Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6044fe8-e445-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Bio-Med Science Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d2c308a-421d-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Bishop Fenwick High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be177b73-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Bishop Hartley",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e2eb283-e869-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Bishop Ready High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Blanchard Valley Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d32cb4b-4849-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Blanchester Middle School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a47815c-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bloom Carroll High School (Carroll, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b42b7ec-65b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Bloom-Carroll High School - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "103afd6f-7bc3-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Bloom-Carroll Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3bb06fca-cdd9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Blue Ocean Coding",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bluffton College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d947962-7134-e011-b1e1-0030487d8897",
+		"OrganizationName": "Bluffton High School (Bluffton, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05b7f257-89bd-de11-886d-0030487d8897",
+		"OrganizationName": "Bluffton University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "927b7c48-d18f-ea11-812b-000d3af41938",
+		"OrganizationName": "Botkins Local School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dab5bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Bowling Green City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3a378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bowling Green State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "405dd869-9afa-e011-8e6c-f04da23e67f6",
+		"OrganizationName": "Brecksville Broadview Height High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45ff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Brown Aveda Institute",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "771087a7-0608-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Brown Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1099db2d-30b2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Buckeye Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f3177f9-3418-e011-b71d-0030487d8897",
+		"OrganizationName": "Buckeye High School (Medira, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db9422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Butler Tech",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "df177b73-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Butler Technology and Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6999cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Butler Technology and Career Development Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9465d10-b42a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Calumet Christian School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceba7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Canton Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Capital University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13ddc070-2499-e011-969d-0030487d8897",
+		"OrganizationName": "Career and Technical Education Center (Shelby, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63d18be4-28d2-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Career and Technology Education Centers (C-TEC)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73bf53f3-ef69-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Carey Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89b250b8-f269-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Carlisle Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "342b77a9-f874-e111-a407-f04da23e67f6",
+		"OrganizationName": "Carnegie Career College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Case Western Reserve University - KVC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3e698f10-e638-de11-b696-0030485a8df0",
+		"OrganizationName": "Case Western Reserve University - University Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcd521ea-36fb-400e-ac64-c0f461775fdc",
+		"OrganizationName": "Catholic Schools Archdiocese of Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7b378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cedarville University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17bb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Celina City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "59aaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Centerville City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0c7916a-d3b8-de11-886d-0030487d8897",
+		"OrganizationName": "Central Ohio Technical College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "754d5359-ed68-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Chaminade Julienne High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47116ebe-37a9-de11-886d-0030487d8897",
+		"OrganizationName": "Chancellor University (US)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2fdcee2a-4776-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Cincinnati Children’s Hospital Medical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "686118dd-dccb-e811-810b-000d3af41938",
+		"OrganizationName": "Cincinnati Christian Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a63a7cfc-0472-de11-b7f9-0030487d8896",
+		"OrganizationName": "Cincinnati Christian University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eeaaf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cincinnati City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Cincinnati Country Day School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "85c109a5-e13f-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Cincinnati Public Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "403c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cincinnati State Technical and Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe18eec7-8320-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Cincinnati State Technical and Community College - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb87a97b-8207-e811-80fc-000d3af41938",
+		"OrganizationName": "Clark County Educational Service Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4b408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clark State Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37e38bf8-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Clark State Community College - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8521781e-651f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Clermont Northeastern High School (Batavia, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "22654154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Cleveland Clinic Lerner College of Medicine",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e580c75b-c12a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Cleveland Institute of Art",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82253827-5fc6-df11-859b-0030487d8897",
+		"OrganizationName": "Cleveland Institute of Electronics",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a0fb670-a739-41b9-9bcf-363dca18664f",
+		"OrganizationName": "Cleveland Metropolitan School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cleveland State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe653208-4348-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Columbiana County Career & Technical - Ohio - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4abb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Columbiana County Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Columbiana County Vocational School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Columbiana Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e55e97d6-e955-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Columbus City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d9378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbus College of Art and Design",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "280c8708-257d-e711-80f3-000d3af41938",
+		"OrganizationName": "Columbus Downtown",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Columbus Metropolitan Library",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "843f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbus Public School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c7797cb-886a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Columbus School for Girls",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "543c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Columbus State Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "442a45f8-f68a-e011-969d-0030487d8897",
+		"OrganizationName": "Communion of Saints",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "053c42e7-2596-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "Conneaut Area City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "114a931e-8b6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Constallation Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "695c81aa-743b-e011-b1e1-0030487d8897",
+		"OrganizationName": "Constellation Community Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4c38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Constellation Schools LLC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c9c0c0da-c517-e211-a76f-f04da23e67f6",
+		"OrganizationName": "COVENTRY LOCAL SCHOOLS",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c2abb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "Creative Images",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78360fce-25d2-df11-bd73-0030487d8897",
+		"OrganizationName": "C-Tec",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb3e8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Cuyahoga Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a24a50da-526b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Cuyahoga Falls City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "795be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Cuyahoga Valley Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c966e454-6c6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Cuyahoga Valley Career Center - Brecksville - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0afa4b70-5400-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Danbury Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3921fed0-986a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Danville Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef77cf4b-072b-e011-b71d-0030487d8897",
+		"OrganizationName": "Dawson Bryant High School (Coal Grove, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ee9f6b62-9a6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Dayton Public Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dcc3156e-da77-e111-a407-f04da23e67f6",
+		"OrganizationName": "Defense Institute of Security Assistance Management",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fe378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Defiance College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "02388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Denison University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "300cbd22-5e9a-df11-ad8b-0030487d8897",
+		"OrganizationName": "Dover City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d6cf7fa8-073a-e011-b1e1-0030487d8897",
+		"OrganizationName": "Dublin City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82854b0d-0cb4-e011-98e6-f04da23e67f6",
+		"OrganizationName": "e Tech Ohio Commission",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3b0199a-253f-e211-ad71-f04da23e67f6",
+		"OrganizationName": "East Muskingum Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7fb65d92-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "East Palestine High School - Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4670240-3e28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Eastern Gateway Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e119d3cb-d445-e011-b1e1-0030487d8897",
+		"OrganizationName": "Eastern School (Reedsville, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cbb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Eastland Fairfeild Career and Technical School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db5be5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Eastland-Fairfield Career Technical Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1aff039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Eaton Community Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ab00049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Edgerton Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c19efe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Edison State Community College - KVC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "330db98a-f982-e011-969d-0030487d8897",
+		"OrganizationName": "Educational Service Center of Central Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8f444ac-b4b2-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Educational Service Center of Cuyahoga County",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "EHOVE Adult Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a7e713e-95c1-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "EHOVE Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "033ee22c-8bd2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "EHOVE Career Center - Milan - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b4b1b3f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Elder High School - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e1de403c-9d6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Electronic Classroom of Tomorrow",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "659d9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Elida Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e36b9cb-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Elyria City School District Board of Education",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "ESC - East Central Ohio Educational Service Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3e1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "ETI Technical College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52dde01f-f24b-e011-bd14-0030487d8897",
+		"OrganizationName": "ETI Technical College of Niles",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f2c2e3a-92c3-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Euclid City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aebefd6e-a94d-4b4f-af8d-d0e4647b3073",
+		"OrganizationName": "Everest Institute - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d699f759-a112-df11-85a5-0030487d8897",
+		"OrganizationName": "EW4HS trainer (Zanesville, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33d30276-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Fairbanks Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Fairfield City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fa9fc9da-9d49-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Fairfield-Union High School - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ac478488-f8aa-e811-8109-000d3af41938",
+		"OrganizationName": "Fairlawn Local Schools - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "746885c7-2382-e011-969d-0030487d8897",
+		"OrganizationName": "Fairview Park City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc0f422c-4d28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Fayetteville-Perry High School - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Findlay City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d4fdf5a-0932-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Forest Hills School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "839522b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Four County Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Franciscan University of Steubenville",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "52388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Franklin University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61fcfdb1-c740-de11-b696-0030485a8df0",
+		"OrganizationName": "Franklin University - VMAP Campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5682fa68-e5e6-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Gahanna Jefferson Public Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f6c2e47-2376-e711-80f1-000d3af41938",
+		"OrganizationName": "Galion City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b2ca9bd-f9d9-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Gallia County Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7ee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Gallipolis Career College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e122d0bf-30df-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Gallipolis City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88ab2709-64ad-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Garaway Local Schools, Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3203bfd5-b8e3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Garfield Heights City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2015f98d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Gibsonburg Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5a38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Gilmour Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0ca0fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "God's Bible School and College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Good Samaritan College of Nursing and Health Science",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dbb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Grant Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5ef825fd-5c8c-e011-969d-0030487d8897",
+		"OrganizationName": "Granville Christian Academy OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a1b6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Granville Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "62418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Great Oaks Institute of Technology and Career Development",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b299da44-3d39-e011-b1e1-0030487d8897",
+		"OrganizationName": "Green Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbee58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Greene County Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c624591-49be-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "Greenon Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6abf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Groveport Madison Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6138958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Groveport Madison Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "64fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Guardian Angels School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7e9c30b-877f-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Hamilton Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0eacf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Hamilton/Clermont Cooperative Assoc. (HCCA)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46d42b17-6817-e111-a703-f04da23e67f6",
+		"OrganizationName": "Hardin Northern Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7404647e-7445-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Hardin-Houston Local School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b57ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Harvest: Greg Laurie",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c6c6137-0c70-4bfa-a9d3-60b50b821afa",
+		"OrganizationName": "Hawken School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0fef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "Healing Arts Institute",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4d82394-71dd-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Heath City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Heidelberg University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "980ebf7c-297b-e011-969d-0030487d8897",
+		"OrganizationName": "Highland Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ddb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Highland Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7cbbba1-0e65-e011-971f-0030487d8897",
+		"OrganizationName": "Hilliard City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "54b2b756-bb7e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Hilliard Darby High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "93388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hiram College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "61a1fe4d-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hobart Institute of Welding Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f9622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Hocking College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7d8577f-cbdd-e211-9000-f04da23fc520",
+		"OrganizationName": "Holy Family School Stow",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37624ce6-c501-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Hondros College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f31cbc07-4b6a-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Howland High school - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2bb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Hubbard ESD",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b1e33b1-1541-e011-b1e1-0030487d8897",
+		"OrganizationName": "Hubbard High School (Hubbard, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "512c2e44-d895-e011-969d-0030487d8897",
+		"OrganizationName": "Huntington High School (Chillicothe, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6bb7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Immaculate Conception School (Port Clinton)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Indian Hill Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c2ede62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Indian Lake Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "78ef58db-5378-e111-a407-f04da23e67f6",
+		"OrganizationName": "International College of Broadcasting",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1efc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "ISUS",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae1d53d2-7a84-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Jackson City School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f9585fe-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Jackson High School - Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c19622b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "James A. Rhodes State College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99742727-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "James A. Rhodes State College - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9a2a0375-b282-e711-80f3-000d3af41938",
+		"OrganizationName": "Jefferson County Board of Developmental Disabilities",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6fd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jefferson County Educational Service Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9849e9-a66a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Jefferson County Vocational School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "576eeacc-b53e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Jefferson Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6838958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Jefferson Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "John Carroll University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "293e1737-8c87-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Johnstown-Monroe Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfe1a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan College - Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aa617aca-80ab-e211-88b7-f04da23e67f4",
+		"OrganizationName": "Kaplan College - Dayton",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3b56e94-7b22-e611-941a-b8ca3a5db7a1",
+		"OrganizationName": "Kenston Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb88a9a5-7c8e-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "Kent City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Kent State University - Kent Campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d987eebd-8370-e611-9420-b8ca3a5db7a1",
+		"OrganizationName": "Kent State University - Kent Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "45f17bae-ee4a-de11-b696-0030485a8df0",
+		"OrganizationName": "Kent State University - Kent Campus**",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3afd0d87-f276-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kent State University at Ashtabula - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8aeb8606-7053-e111-8056-f04da23e67f6",
+		"OrganizationName": "Kent State University at Geauga - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fdef334-aa7e-e711-80f3-000d3af41938",
+		"OrganizationName": "Kent State University, Tuscarawas",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0378be8c-c91e-e211-a76f-f04da23e67f6",
+		"OrganizationName": "Kettering City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7348847c-428f-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Kettering College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0a77c23-2318-e011-b71d-0030487d8897",
+		"OrganizationName": "Kettering College of Medical Arts",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d839958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Keystone Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17c27f0b-d23b-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "LaBrae High School, (Leavittsburg, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lake Erie College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a56cc2ea-de07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lake Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lakeland Community College - Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "245a83d8-2296-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Lakeview Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "013492db-83cb-e111-971c-f04da23e67f6",
+		"OrganizationName": "Lakewood City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8735f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Lakewood College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8acf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lakota Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5cc5df26-68b8-e011-bb5b-f04da23e67f6",
+		"OrganizationName": "Lakota Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6f38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Lakota Local SD",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3fce3ac4-20de-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Laurel School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7638958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Liberty Benton Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0dbc7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Liberty Center Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "46bc7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Liberty Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "30a2f9cf-e507-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Lima City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lincoln College of Technology Tri County",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ef05a53-ac6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "London City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1c428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lorain County Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0b15306-0602-e811-80fc-000d3af41938",
+		"OrganizationName": "Lorain County Joint Vocational School - Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Lorain County JVS",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "44783b39-eb44-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Lordstown Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "15e1951d-d99c-e011-969d-0030487d8897",
+		"OrganizationName": "Louisville City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Lourdes University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e778b7f-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Loveland City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8638958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mahoning County Career and Technical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Mahoning County Educational Service Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "16398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Malone College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "17a27ebe-04a3-de11-886d-0030487d8897",
+		"OrganizationName": "Malone University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "719722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Maplewood Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9d88c17-36a3-e511-9413-b8ca3a5db7a1",
+		"OrganizationName": "Marburn Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Marietta College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77f053f9-b85e-e011-971f-0030487d8897",
+		"OrganizationName": "Marion Technical College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7cb0f4f5-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Marion Technical College - Marion Campus - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2b8c16a-ae6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Martins Ferry City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4eb43507-f68a-e011-969d-0030487d8897",
+		"OrganizationName": "Mary Queen of Peace - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75adf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Marysville Exempted Village School District - Marysville",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mason City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebcb5f30-bfe3-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Mayfield City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ff91776-6e29-e011-b71d-0030487d8897",
+		"OrganizationName": "McComb High School (McComb, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2b7b9a38-096c-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "McDonald Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9438958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Mechanicsburg Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "MedCentral College of Nursing",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "36398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Medical College of Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "99f3bf22-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Medina County Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ceb5bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Meigs Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a9624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Mentor Highschools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20377129-5c93-df11-ad8b-0030487d8897",
+		"OrganizationName": "Mercy College of Northwest Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0f8d6cde-f672-e211-bf66-f04da23e67f4",
+		"OrganizationName": "Mercy College of Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "563c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Methodist Theological School in Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f2d3d35-4082-e011-969d-0030487d8897",
+		"OrganizationName": "Miami Trace Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd5c88da-817d-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Miami University - Oxford Campus - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Miami University (Ohio)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b29722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Miami University Hamilton Campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6bbc7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Miami Valley Career Tech Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca3b0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Miami-Jacobs Career College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2ecb822-6b1d-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Miamisburg High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "88e3af33-b06a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Mid-Ohio Educational Service Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8707ddc8-de5a-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Midview Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "da9a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Millcreek-West Unity Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a036edf8-267d-e711-80f3-000d3af41938",
+		"OrganizationName": "Millstream Career and Technology Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0709f24b-b26a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Minster Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68c99001-1c00-e711-9426-b8ca3a5db7a1",
+		"OrganizationName": "Monclova Christian Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8cb6bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Monroe Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07afefda-af19-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Montessori High School at University Circle - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Montpelier Exempted Village School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Carmel College of Nursing",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount St. Joseph University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2036fe0-50ef-e411-940b-b8ca3a5db7a1",
+		"OrganizationName": "Mount Vernon Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "74398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Mount Vernon Nazarene College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "13cb0dc9-7818-de11-9c12-0030485a8df0",
+		"OrganizationName": "Mount Vernon Nazarene University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "77398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Muskingum College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fd5adf0-4cf2-e711-80fb-000d3af41938",
+		"OrganizationName": "Muskingum University - Sciences - Microsoft Imagine Premium",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "710fdb48-6aa6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Myers University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "06f9d5ed-ba54-4f4e-aca5-a44eba77ab5c",
+		"OrganizationName": "National College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7261380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "National College - Akron Campus - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a30e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7bebcdc-dfad-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "National College - Cleveland Area - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a40e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Dayton Area - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a50e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Stow",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a60e7596-608d-dc11-aecc-0030485a6b08",
+		"OrganizationName": "National College - Youngstown",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d8c235f7-7134-e511-940e-b8ca3a5db7a1",
+		"OrganizationName": "Nationwide Children's Hospital",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "952649bb-a42b-e811-8101-000d3af41938",
+		"OrganizationName": "Neomin",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70dbefc0-32be-e611-9424-b8ca3a5db7a1",
+		"OrganizationName": "New Albany - Plain Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "939a9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "New Horizons Computer Learning Centers, Inc.",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d812d3e3-33e9-e011-b09a-f04da23e67f6",
+		"OrganizationName": "New Lexington High School (New Lexington, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8084e133-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "New London Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2fbb43b-ee8a-e011-969d-0030487d8897",
+		"OrganizationName": "New Philadelphia City School - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8a9e8f2c-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "New Richmond High School - Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6fd7c74b-025e-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Newton Falls Exempted Village Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9aea5a94-1bf0-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "North Canton City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b38958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "North Central Eagles",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0feaea95-d38d-e311-93fa-b8ca3a5db7a1",
+		"OrganizationName": "North Central State College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f936452a-c971-e011-971f-0030487d8897",
+		"OrganizationName": "North Central State College - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c93df88f-23b8-e211-be21-f04da23e67f4",
+		"OrganizationName": "North Royalton City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c1ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "North Union Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "86d2e322-bd85-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Northeast Ohio Management Information Network - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fac782a6-98a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Northeast Ohio Medical University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a3398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Northeastern Ohio Universities College of Medicine",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0b71ec07-79e9-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Northwest Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf624154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Northwest State Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d05e6296-4b78-e111-a407-f04da23e67f6",
+		"OrganizationName": "Northwest State Community College - Archbold - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0682fa33-b63e-e011-b1e1-0030487d8897",
+		"OrganizationName": "Norton City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8df92f94-f3d6-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Norwayne Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3039fecf-b96a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Notre Dame Academy - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "942610d2-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Notre Dame College - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Notre Dame College (Ohio)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f8ff039b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Oak Hill Union Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Oberlin College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Ohio Business College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "983f9588-bc6d-df11-b841-0030487d8897",
+		"OrganizationName": "Ohio Christian University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6b3aa8f8-654e-e011-bd14-0030487d8897",
+		"OrganizationName": "Ohio College of Podiatric Medicine",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio Dominican College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d6ef1f0-da05-df11-85a5-0030487d8897",
+		"OrganizationName": "Ohio Dominican University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "35aa00ba-c64e-df11-b56b-0030487d8897",
+		"OrganizationName": "Ohio Foundation of Independent Colleges",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b70d4507-bb6a-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Ohio Hi-Point Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio Northern University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3b3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "25e2a3a3-a8a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Ohio Technical College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bd398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio University Software",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6062c7f4-2b7d-e711-80f3-000d3af41938",
+		"OrganizationName": "Ohio University, Lancaster",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "56e671b5-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Ohio Valley Career and Technical Center - West Union - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81aad940-68ca-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Ohio Valley College of Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bc398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ohio Wesleyan University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07dab01b-d2c9-e111-971c-f04da23e67f6",
+		"OrganizationName": "OhioLink",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ecc5f06b-e91e-de11-9c12-0030485a8df0",
+		"OrganizationName": "Old Trail School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1af5aee4-6246-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Olentangy Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c47ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Olmsted Falls City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "27aa3d66-7cd7-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Orange Public Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fa1fb3c-71a9-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Oregon City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b8398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "OSU, Columbus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b9398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "OSU, Lima",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ba398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "OSU, Mansfield",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bb398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "OSU, Marion",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b7c9bf90-4b6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Ottawa Hills Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cb398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Otterbein College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd9822b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Otterbein University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbc7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Ottoville Local Scool District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6703b989-afc2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "Our Lady of the Elms",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f2e95a5a-f18a-e011-969d-0030487d8897",
+		"OrganizationName": "Our Lady of The Lake - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9bc7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Our Lady of Visitation School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d83c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Owens Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e70a024-55cd-e211-9d05-f04da23e67f4",
+		"OrganizationName": "Owens Community College - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3615f98d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Paint Valley Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42a84aef-4d6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Parma City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "97820b8e-2576-e711-80f1-000d3af41938",
+		"OrganizationName": "Paulding High School - Paulding - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3ef6676f-a3d1-e111-971c-f04da23e67f6",
+		"OrganizationName": "Penta Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aca9020e-4d28-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Penta Career Center - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19bd7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Perkins Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51bd7679-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Perry Lake School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "67cb0f3f-dd07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Perry Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19fc036a-8454-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Pickerington Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8e6c8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pike County JVSD",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6e66f971-b083-e811-8108-000d3af41938",
+		"OrganizationName": "Pioneer Career and Technology Center - Information Technology",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c7741d2c-30ee-e111-a77d-f04da23e67f6",
+		"OrganizationName": "Pioneer Career and Technology Center, Shelby",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0ff3c3e-f1c2-e211-be21-f04da23e67f4",
+		"OrganizationName": "Piqua City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb9dda80-556b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Plain Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bbab887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Poland Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f93861a0-2f56-e011-bd14-0030487d8897",
+		"OrganizationName": "Polaris Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "465a87b2-71e8-e011-b09a-f04da23e67f6",
+		"OrganizationName": "Polaris Christian Acadamy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "51bf8ce5-f334-e211-aed3-f04da23e67f6",
+		"OrganizationName": "Polaris Joint Vocational School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "559922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Portage Lakes Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e0bdaeb-f039-e011-b1e1-0030487d8897",
+		"OrganizationName": "Portsmouth West High School (Portsmouth, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4839958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Pressley Ridge",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "01ac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Put In Bay Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ef098deb-3478-e111-a407-f04da23e67f6",
+		"OrganizationName": "Pymatuning Valley Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07deb268-4c82-e011-969d-0030487d8897",
+		"OrganizationName": "R.G. Drage Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7d9922b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Raymond Walters College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b67d3e31-9f51-e011-bd14-0030487d8897",
+		"OrganizationName": "RB Chamberlin Middle School (Twinsburg, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8ccd3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Reading Community Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a9b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Revere Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f6939866-d511-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Reynoldsburg City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rhodes State College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f3eee62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rittman Exempted Village School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f0aff4f5-1583-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Ross High School - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72b7bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Rossford Exempted Village Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8ce4478b-215f-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Saint Barnabas Catholic School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "115f9df9-636b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Saint Ursula Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72237862-9fc2-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Sandy Valley Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9865c9b1-4316-e711-9427-b8ca3a5db7a1",
+		"OrganizationName": "Scioto County Career Technical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6242f53-4e96-e211-87e9-f04da23e67f4",
+		"OrganizationName": "Shaker Heights City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6c8c98bd-1541-e011-b1e1-0030487d8897",
+		"OrganizationName": "Shaker Heights High School (Shaker Heights, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "af8c98bd-1541-e011-b1e1-0030487d8897",
+		"OrganizationName": "Shaker Heights Middle School (Shaker Heights, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dc1cf1fa-656b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Shaker Heights Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Shawnee State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "840ef2a9-0b05-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Sinclair Community College - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Sinclair Community College - OHIO",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d0df9530-7dc7-e111-bbd3-f04da23e67f6",
+		"OrganizationName": "South Euclid-Lyndhurst City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9b57735c-72f5-e711-80fc-000d3af41938",
+		"OrganizationName": "South Range High School - Technology - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26ac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Southeast Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9cc9243c-5eb5-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "Southeastern Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f7ed90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Southern Hills Career & Technical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southern State Community College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fd301cfc-40c6-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "Southwestern College Dayton 048",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6dc1962-1794-df11-ad8b-0030487d8897",
+		"OrganizationName": "Spring Valley Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4f39958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Springboro Community City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d2f2efc9-42c0-df11-859b-0030487d8897",
+		"OrganizationName": "Springfield City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Springfield Clark Career Technology Center - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "63ac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Springfield Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2e185a6c-70a8-e711-80f7-000d3af41938",
+		"OrganizationName": "Springfield-Clark Career Technology - Springfield - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfb926e4-e6c3-e711-80f9-000d3af41938",
+		"OrganizationName": "St. Barbara School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3f9405-b8bf-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "St. Brigid of Kildare Elementary School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d7d71299-87de-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "St. Edward High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "05bf02b5-1eba-e511-9414-b8ca3a5db7a1",
+		"OrganizationName": "St. Francis de Sales School (Ohio)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3226216b-f08a-e011-969d-0030487d8897",
+		"OrganizationName": "St. John of the Cross - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5e12fca8-f68a-e011-969d-0030487d8897",
+		"OrganizationName": "St. Mary Berea - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf0ad17c-ef8a-e011-969d-0030487d8897",
+		"OrganizationName": "St. Thomas Aquinas - St. Philip - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7d33d0f-4e5a-e611-941e-b8ca3a5db7a1",
+		"OrganizationName": "St. Xavier High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d3635f15-4383-4693-bc37-e89dffee8d0a",
+		"OrganizationName": "Stark State College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "869a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Stautzenberger College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "21bbf676-6179-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Stephen T. Badin High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87f58827-6b6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Steubenville City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "69bdc7df-c801-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Stow-Munroe Falls High School - Stow campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f00049b-3607-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Strasburg Franklin Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b0aff847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Summit Academy Management",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "92ac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Summit Country School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23b8537d-1e3b-49ed-9c53-eae4f2b70f85",
+		"OrganizationName": "Sycamore Community Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4a613c19-129f-de11-886d-0030487d8897",
+		"OrganizationName": "Terra State Community College - Fremont - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The College of Wooster",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db90e48a-1608-de11-9c12-0030485a8df0",
+		"OrganizationName": "The Columbus Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f890b1e5-b7ab-e811-8109-000d3af41938",
+		"OrganizationName": "The Dayton Regional STEM School - Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e2f39f48-9e51-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "The Lippman School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6d1b8d6-a6e8-e211-ad17-f04da23e67f4",
+		"OrganizationName": "The Ohio State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4ea0b8f5-7e0e-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "The Ohio State University - Columbus - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "38fb5d36-6d6f-e011-9c77-b8ac6f0ecbe1",
+		"OrganizationName": "The Ohio State University - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5c2e0300-c97f-df11-bc53-0030487d8897",
+		"OrganizationName": "The Ohio State University Medical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "439b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "The Ravenna School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1701e984-7291-e611-9422-b8ca3a5db7a1",
+		"OrganizationName": "The Seven Hills School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "31841ecc-ad76-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "The Taos Institute",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e13a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The Union Institute",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "025ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The University of Akron",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ec3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of Akron - Akron Campus - KVC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "485ce5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "The University of Akron Wayne College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "The University of Findlay",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75c731cf-619f-e111-9b64-f04da23e67f6",
+		"OrganizationName": "The University of Toledo - College of Engineering - Departmental Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2943b981-6a74-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "The Wellington School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "43325327-4ad1-df11-bd73-0030487d8897",
+		"OrganizationName": "Thomas Worthington High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0ac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Three Rivers Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Tiffin University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ebf327fd-4255-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Toledo Public Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dfac887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Tolles Career and Technical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6a11a45-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Tri-County Career Center - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "81a8f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tri-County Computer Services Assoc",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0c2c14d-abfe-e111-bd05-f04da23e67f6",
+		"OrganizationName": "Trinity Lutheran Seminary",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ec70a0b-87ad-e411-9408-b8ca3a5db7a1",
+		"OrganizationName": "Tri-Rivers Career Center - Marion - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1d9c9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Tri-Valley Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3560339f-2ddd-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Triway Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f9a6cb82-ac1a-e111-a703-f04da23e67f6",
+		"OrganizationName": "Troy Christian High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e9b5bfd1-2b07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Troy City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "34377e5d-766b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Trumbull Career and Technology Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "609facdb-dd07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Twinsburg City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "757d3e31-9f51-e011-bd14-0030487d8897",
+		"OrganizationName": "Twinsburg High School (Twinsburg, OH) - High School AA",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ad92dc72-a757-df11-b841-0030487d8897",
+		"OrganizationName": "Union Institute and University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "aaf0ea69-7a6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "United Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66946118-a82a-e211-aed3-f04da23e67f6",
+		"OrganizationName": "United Theological Seminary",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7b4b857-6bd0-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University Hospitals Case Medical Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "013b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Cincinnati",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "073b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Dayton - Dayton Campus",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "73398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Mount Union",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "125de5b2-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "University of Northwestern Ohio",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9c408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Rio Grande",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d53d8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Toledo",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "20ad887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "University School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "611b3975-dfe4-e311-93fd-b8ca3a5db7a3",
+		"OrganizationName": "Upper Valley Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5639958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Upper Valley JVSD",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e5b7bad-4cb4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Urban Community School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b53b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Urbana University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Ursuline College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6a3f2e4c-ca27-e011-b71d-0030487d8897",
+		"OrganizationName": "Valley Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7350126a-bd2c-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Valor Christian College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "07e3560d-bd2c-e611-941b-b8ca3a5db7a1",
+		"OrganizationName": "Valor Christian College - Ohio - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "19ef9c6d-f75d-e411-9405-b8ca3a5db7a1",
+		"OrganizationName": "Vandalia-Butler City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d39958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Vangaurd-Sentinel Career Centers",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6174e2df-a06e-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vanguarg-Sentinel Career and technology Centers",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "66f64a9c-7c6b-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Vanlue Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5669d412-5361-e511-9410-b8ca3a5db7a1",
+		"OrganizationName": "Vantage Career Center - Van Wert - Campus Store",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d4408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Vineyard Leadership Institute",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eef0f740-e844-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Wadsworth City Schools - OH",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0506d8e-6ab0-df11-ad57-0030487d8897",
+		"OrganizationName": "Walsh University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f90c9117-770c-e011-bed1-0030487d8897",
+		"OrganizationName": "Wapakoneta City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c5adfeb3-1e82-e011-969d-0030487d8897",
+		"OrganizationName": "Warren City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75137323-699d-de11-886d-0030487d8897",
+		"OrganizationName": "Warren County Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "26de2d4c-396f-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "Washington County Career Center - Microsoft Imagine Standard",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cadd78c-f849-e211-ad71-f04da23e67f6",
+		"OrganizationName": "Washington County JVS District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "47ad887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Washington Court House City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2d0f4e45-fab4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Wayne County Schools Career Center",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "72ad887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Wayne Trace Local School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bce5233f-6f0c-e011-bed1-0030487d8897",
+		"OrganizationName": "Waynesfield-Goshen Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d33481ec-e284-e611-9421-b8ca3a5db7a1",
+		"OrganizationName": "West Geauga Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc991b03-3007-e211-bd05-f04da23e67f6",
+		"OrganizationName": "West Muskingum Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fad887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Western Reserve Academy",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "53785f20-35df-e211-9000-f04da23fc520",
+		"OrganizationName": "Westerville City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2b0f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Westlake City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a0b1f847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "White Hat Management LLC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6798b896-23b7-e211-be21-f04da23e67f4",
+		"OrganizationName": "Whitmer High School",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "023c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wilberforce University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5f789bbb-ff68-e211-a88c-f04da23e67f4",
+		"OrganizationName": "Willoughby-Eastlake City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c4ad887f-2251-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Wilmington City School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bf438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wilmington College (OH)",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "133c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wittenberg University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7ac5e8d6-7b36-e311-93f6-b8ca3a5db7a1",
+		"OrganizationName": "Wolf Creek Local Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "68e20541-0bb2-e011-98e6-f04da23e67f6",
+		"OrganizationName": "Woodridge Local School District",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6439958a-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Worthington Christian Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "163c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wright State University - KVC",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cc616e57-6900-e411-9400-b8ca3a5db7a1",
+		"OrganizationName": "Wyoming City Schools",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "173c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Xavier University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1b3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Youngstown State University",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "569b22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Zane State College",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "806566c7-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Zane State College - Zanesville",
+		"ProvinceCode": "OH",
+		"SubsectorCode": "education_college_university"
+	}
+]

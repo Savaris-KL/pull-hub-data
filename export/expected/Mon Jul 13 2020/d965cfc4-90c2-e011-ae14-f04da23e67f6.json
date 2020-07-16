@@ -1,0 +1,47 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "cd0de267-ca74-e811-8106-000d3af41938",
+		"OrganizationName": "North Metropolitan TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "f20de267-ca74-e811-8106-000d3af41938",
+		"WebStoreName": "North Metropolitan TAFE - Technology and Digital Media",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=f20de267-ca74-e811-8106-000d3af41938"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "d965cfc4-90c2-e011-ae14-f04da23e67f6",
+		"OrganizationName": "North Metropolitan TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "b5dc8834-257a-e311-93f9-b8ca3a5db7a1",
+		"WebStoreName": "North Metropolitan TAFE",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=b5dc8834-257a-e311-93f9-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "87538b5e-c737-e211-aed3-f04da23e67f6",
+		"OrganizationName": "North Metropolitan TAFE",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "2f548b5e-c737-e211-aed3-f04da23e67f6",
+		"WebStoreName": "North Metropolitan TAFE - Integrated Technologies & Automation - VMware",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=2f548b5e-c737-e211-aed3-f04da23e67f6"
+	}
+]

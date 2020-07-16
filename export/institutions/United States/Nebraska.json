@@ -1,0 +1,850 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea4985d0-db8f-4e1f-8b00-e5ef1dbc7326",
+		"OrganizationName": "Alabama Association of Independent Colleges and Universities",
+		"ProvinceCode": "AL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c33f1744-4f74-e111-a407-f04da23e67f6",
+		"OrganizationName": "Alegent Health School of Radiologic Technology",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "fbf4039a-833f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Amherst Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9fa59004-8a3f-e511-940f-b8ca3a5db7a1",
+		"OrganizationName": "Anselmo-Merna Public School",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bac48ead-0c01-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Aurora Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0a0979ff-3418-e011-b71d-0030487d8897",
+		"OrganizationName": "Bellevue East High School (Bellevue, NE) - High School AA",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1f378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Bellevue University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2f0879ff-3418-e011-b71d-0030487d8897",
+		"OrganizationName": "Bellevue West High School (Bellevue, NE) - High School AA",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "42612066-80b3-de11-886d-0030487d8897",
+		"OrganizationName": "Benson High School",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "23e8de08-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Boys Town",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d623e595-3be3-de11-a13b-0030487d8897",
+		"OrganizationName": "Boystown National Research Hospital",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5d0fb0b4-7b76-e011-969d-0030487d8897",
+		"OrganizationName": "Brownell Talbot",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9f58ff20-d7f7-e311-9400-b8ca3a5db7a1",
+		"OrganizationName": "Bryan College of Health Sciences",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "5eff9803-6d74-e111-a407-f04da23e67f6",
+		"OrganizationName": "BryanLGH College of Health Sciences",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f69422b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Capital Area Career Center",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "76368c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Carnegie Mellon University",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "532d8905-3518-e011-b71d-0030487d8897",
+		"OrganizationName": "Cedar Rapids Public School (Cedar Rapids, NE) - High School AA",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95644154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Central Community College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "90428c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Central Texas College",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "89378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Chadron State College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Clarkson College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dd29bb21-3475-e111-a407-f04da23e67f6",
+		"OrganizationName": "College of Saint Mary",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "8fbaa370-cc61-de11-9e9c-0030485a8df0",
+		"OrganizationName": "Colorado State University Global Campus",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c43f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Colorado Technical University Online",
+		"ProvinceCode": "CO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ca4adf54-8231-ea11-8126-000d3af41938",
+		"OrganizationName": "Computer System Institute",
+		"ProvinceCode": "MA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e0378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Concordia College-Seward",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "32b00d5d-78a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Concordia University Nebraska",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4445f1cc-1a41-40eb-a8c7-e5966c715b93",
+		"OrganizationName": "Corinthian Colleges",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "be6e8d90-11d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Cozad Community Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b2e10c55-34b4-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "Crawford Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Creighton University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bfff6c3f-1cc3-e811-810a-000d3af41938",
+		"OrganizationName": "Cyber center of excellence",
+		"ProvinceCode": "TX",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f7378c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Dana College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "04388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "DeVry University",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "09388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Doane University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "eb0044f0-49d7-e611-9425-b8ca3a5db7a1",
+		"OrganizationName": "Elkhorn Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6ffd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Elm Creek Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c42a6fdf-0b7c-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "ESU 17 - Ainsworth",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e6140531-b600-e611-9419-b8ca3a5db7a1",
+		"OrganizationName": "Gering Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6d388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Grace University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "87388c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Hastings College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a7f2fb6c-1373-de11-b7f9-0030487d8896",
+		"OrganizationName": "Herzing University",
+		"ProvinceCode": "WI",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "bdfd9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Humphrey Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "cf418c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "ITT Technical Institute",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea949ce5-e1a5-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Kaplan Career Institute",
+		"ProvinceCode": "PA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ea61380f-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Kaplan University - Microsoft Imagine Standard",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a66ea7e7-067e-e311-93f9-b8ca3a5db7a1",
+		"OrganizationName": "Kearney Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c0714522-6d6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Laurel Concord Coleridge Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3772531-d059-e211-b607-f04da23e67f6",
+		"OrganizationName": "Le Cordon Bleu College of Culinary Arts",
+		"ProvinceCode": "NJ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "96043239-7946-49b8-9dde-504d93e98f9a",
+		"OrganizationName": "Lincoln Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e235f953-1575-e111-a407-f04da23e67f6",
+		"OrganizationName": "Little Priest Tribal College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5b1bfd7-f017-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Medtech Education",
+		"ProvinceCode": "IN",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ff3f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Metropolitan Community College - Nebraska",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a89722b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Metropolitan Community College Omaha",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f4b1ded6-edad-4f2f-9446-79ffa25cab53",
+		"OrganizationName": "Midland Lutheran College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "068c7301-a9e8-e111-8e3e-f04da23e67f6",
+		"OrganizationName": "Midland University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "6dbf313a-a55c-e111-8056-f04da23e67f6",
+		"OrganizationName": "Mid-Plains Community College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "2ee38bf8-1783-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Mid-Plains Community College - Campus Store",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "293c0810-e176-e111-a407-f04da23e67f6",
+		"OrganizationName": "Mid-Plains Community College - South Campus",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "98fad303-1d65-e411-9406-b8ca3a5db7a1",
+		"OrganizationName": "Milford Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "9dadf847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Millard Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"ProvinceCode": "MO",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "82398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nebraska Christian College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b30c99d8-4435-4e66-8088-cb42ec444560",
+		"OrganizationName": "Nebraska ESU Cooperative Purchasing",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "70d5597b-6d0a-e311-93f3-b8ca3a5db7a1",
+		"OrganizationName": "Nebraska Methodist College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f50b10c7-1786-e011-969d-0030487d8897",
+		"OrganizationName": "Nebraska State College System",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "dbebb1ab-5f46-e311-93f7-b8ca3a5db7a1",
+		"OrganizationName": "Nebraska Unified School District #1",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "83398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Nebraska Wesleyan University",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "faa58302-9c59-e111-8056-f04da23e67f6",
+		"OrganizationName": "New Horizons Computer Learning Center",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8cf2c7c-6b9d-de11-886d-0030487d8897",
+		"OrganizationName": "Northeast Community College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "3cc41961-98c6-e411-940a-b8ca3a5db7a1",
+		"OrganizationName": "Odyssey Charter School",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "adaef847-79da-e111-9c76-f04da23fc522",
+		"OrganizationName": "Papillion LaVista School District",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e5398c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Peru State College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f07a016b-731f-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Porter and Chester Institute",
+		"ProvinceCode": "CT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "4def416c-393f-e411-9403-b8ca3a5db7a1",
+		"OrganizationName": "Prospect Education",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b6408c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rasmussen College",
+		"ProvinceCode": "IL",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e7ccd3dc-60f7-db11-b8b4-0030485a6b08",
+		"OrganizationName": "Ravenna Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0e3a8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Rensselaer Polytechnic Institute",
+		"ProvinceCode": "NY",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "0d1c2819-c552-df11-b56b-0030487d8897",
+		"OrganizationName": "Sessions College of Professional Design",
+		"ProvinceCode": "WA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d44c4e78-00f3-e211-93f2-b8ca3a5db7a1",
+		"OrganizationName": "Southeast Community College - Microsoft Imagine Standard",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c53c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Southeast Community College - Milford Campus",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7e7dd90e-26d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Peter Claver Cristo Rey High School",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "95fc9d69-19d8-e111-9c76-f04da23fc522",
+		"OrganizationName": "St. Thomas More Catholic School",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "75e2907c-3a73-df11-bc53-0030487d8897",
+		"OrganizationName": "Stevens Henager College",
+		"ProvinceCode": "UT",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "f39b9cd5-1dd8-e111-9c76-f04da23fc522",
+		"OrganizationName": "Sutton Public Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "348220e4-611f-e511-940d-b8ca3a5db7a1",
+		"OrganizationName": "University of Nebraska - Kearney Campus",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "593b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nebraska - Omaha Campus",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ed994a3e-c95d-e311-93f8-b8ca3a5db7a1",
+		"OrganizationName": "University of Nebraska College of Medicine",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "37456a6c-88bd-de11-886d-0030487d8897",
+		"OrganizationName": "University of Nebraska Medical Center",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "baf5d3e4-70a8-e211-88b7-f04da23e67f4",
+		"OrganizationName": "UNIVERSITY OF NEBRASKA SYSTEM",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "7be58c1a-ba2a-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "University of Nebraska, Central Administration",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "563b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nebraska, Kearney (inactive)",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "573b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nebraska, Lincoln",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "583b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Nebraska, Medical Center",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "933c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "University of Phoenix",
+		"ProvinceCode": "AZ",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "ae9a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "USC Information Sciences Institute",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d5a42cac-79a6-e111-9b64-f04da23e67f6",
+		"OrganizationName": "Vatterott College",
+		"ProvinceCode": "KS",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "c03b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Virginia Commonwealth University - KVC",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e69a22b9-ea71-e111-a407-f04da23e67f6",
+		"OrganizationName": "Virginia Polytechnic Institute and State University - Campus Store",
+		"ProvinceCode": "VA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "d1ece62d-2e07-e211-bd05-f04da23e67f6",
+		"OrganizationName": "Wayne Community Schools",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "db3b8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Wayne State College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "b3c08283-494c-e111-a1f4-f04da23e67f6",
+		"OrganizationName": "Western Nebraska Community College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "33438c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "Westwood College",
+		"ProvinceCode": "CA",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "a51754f1-4a27-e111-8d82-f04da23e67f6",
+		"OrganizationName": "Winston-Salem State University - KVC",
+		"ProvinceCode": "NC",
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "e8714522-6d6b-e511-9411-b8ca3a5db7a1",
+		"OrganizationName": "Wisner - Pilger Public School",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_k_12"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "USA",
+		"InstitutionID": "1a3c8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "York College",
+		"ProvinceCode": "NE",
+		"SubsectorCode": "education_college_university"
+	}
+]

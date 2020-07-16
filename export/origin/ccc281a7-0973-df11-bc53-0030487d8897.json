@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AR",
+		"CountryIsoAlpha3Code": "ARG",
+		"CountryName": "Argentina",
+		"InstitutionID": "b17c562e-1883-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Universidad de Belgrano",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "cbb05e12-959b-e011-969d-0030487d8897",
+		"WebStoreName": "Universidad de Belgrano - Sistemas",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=cbb05e12-959b-e011-969d-0030487d8897"
+	}
+]

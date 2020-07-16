@@ -1,0 +1,58 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "d4883297-66e0-e911-8120-000d3af41938",
+		"OrganizationName": "Al Azhar University - Gaza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "9ed4e52c-e429-e311-93f4-b8ca3a5db7a1",
+		"OrganizationName": "Al Quds Open University - Microsoft Imagine Standard",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "3cd8e7e2-18ba-e111-ad8d-f04da23e67f6",
+		"OrganizationName": "An Najah National University",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "1fc2ef47-0c09-e411-9401-b8ca3a5db7a1",
+		"OrganizationName": "Birzeit University (Palestine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "5376f8c4-06ef-e211-ad17-f04da23e67f4",
+		"OrganizationName": "Islamic University of Gaza",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "34787c93-66c5-e311-93fc-b8ca3a5db7a3",
+		"OrganizationName": "University College of Applied Sciences",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "PSE",
+		"InstitutionID": "129a18fa-87b3-e311-93fb-b8ca3a5db7a1",
+		"OrganizationName": "University College of Applied Sciences (Palestine)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

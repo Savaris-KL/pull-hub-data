@@ -1,0 +1,18 @@
+[
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FSM",
+		"InstitutionID": "304447a1-ae1a-e111-a703-f04da23e67f6",
+		"OrganizationName": "College of Micronesia (Federated States of Micronesia)",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	},
+	{
+		"City": null,
+		"CountryIsoAlpha3Code": "FSM",
+		"InstitutionID": "7922d770-1694-df11-ad8b-0030487d8897",
+		"OrganizationName": "Northern Marianas College",
+		"ProvinceCode": null,
+		"SubsectorCode": "education_college_university"
+	}
+]

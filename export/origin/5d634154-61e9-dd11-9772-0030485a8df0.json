@@ -1,0 +1,32 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "e1617f91-1683-e011-b380-b8ac6f0ecbe1",
+		"OrganizationName": "Australian National University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "3e54e6df-a38b-e011-969d-0030487d8897",
+		"WebStoreName": "Australian National University - Computer Science",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=3e54e6df-a38b-e011-969d-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "5d634154-61e9-dd11-9772-0030485a8df0",
+		"OrganizationName": "Australian National University",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://anu.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "d796613f-6c43-e011-b1e1-0030487d8897",
+		"WebStoreName": "Australian National University",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d796613f-6c43-e011-b1e1-0030487d8897"
+	}
+]

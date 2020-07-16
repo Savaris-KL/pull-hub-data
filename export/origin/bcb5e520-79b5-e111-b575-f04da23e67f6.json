@@ -1,0 +1,17 @@
+[
+	{
+		"CountryIsoAlpha2Code": "AU",
+		"CountryIsoAlpha3Code": "AUS",
+		"CountryName": "Australia",
+		"InstitutionID": "bcb5e520-79b5-e111-b575-f04da23e67f6",
+		"OrganizationName": "Evocca College",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": null,
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": "http://evoccacollege.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "d43be24b-79b5-e111-b575-f04da23e67f6",
+		"WebStoreName": "Evocca College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d43be24b-79b5-e111-b575-f04da23e67f6"
+	}
+]

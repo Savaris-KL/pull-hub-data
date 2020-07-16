@@ -1,0 +1,50 @@
+[
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "1a21bf9f-2103-e011-bed1-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": true,
+		"FriendlyWebStoreUrl": "http://njpa.onthehub.com",
+		"ProductMajorVersions": null,
+		"WebStoreID": "24b6a2b7-2103-e011-bed1-0030487d8897",
+		"WebStoreName": "National Joint Powers Alliance",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=24b6a2b7-2103-e011-bed1-0030487d8897"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "e13f8c80-a7df-db11-9b6e-0010c6cb78ad",
+		"OrganizationName": "National Joint Powers Alliance",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "8eda3dd3-3140-e411-9403-b8ca3a5db7a1",
+		"WebStoreName": "Southwestern Oregon Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=8eda3dd3-3140-e411-9403-b8ca3a5db7a1"
+	},
+	{
+		"CountryIsoAlpha2Code": "US",
+		"CountryIsoAlpha3Code": "USA",
+		"CountryName": "United States",
+		"ProvinceName": "Alabama",
+		"InstitutionID": "e8cf2c7c-6b9d-de11-886d-0030487d8897",
+		"OrganizationName": "National Joint Powers Alliance",
+		"SubsectorCode": "education_college_university",
+		"ProvinceCode": "AL",
+		"AllowUnauthenticatedBrowsing": false,
+		"FriendlyWebStoreUrl": null,
+		"ProductMajorVersions": null,
+		"WebStoreID": "59ce1d10-1063-e611-9420-b8ca3a5db7a1",
+		"WebStoreName": "Northeast Community College",
+		"WebStoreUrl": "https://e5.onthehub.com/WebStore/Welcome.aspx?ws=59ce1d10-1063-e611-9420-b8ca3a5db7a1"
+	}
+]
